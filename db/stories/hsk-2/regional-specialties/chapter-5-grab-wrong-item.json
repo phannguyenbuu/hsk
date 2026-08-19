@@ -1,0 +1,5209 @@
+{
+  "chapter_number": 5,
+  "chapter_slug": "chapter-5-grab-wrong-item",
+  "title_en": "Grab Wrong Item",
+  "content_html": "<p><span class=\"pw\"><ruby data-tone=\"4\">第<rt>dì</rt></ruby><ruby data-tone=\"4\">二<rt>èr</rt></ruby><ruby data-tone=\"1\">天<rt>tiān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">早<rt>zǎo</rt></ruby><ruby data-tone=\"5\">上<rt>shang</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">七<rt>qī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">就<rt>jiù</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby><ruby data-tone=\"5\">来<rt>lai</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">洗<rt>xǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脸<rt>liǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">对<rt>duì</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">快<rt>kuài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby><ruby data-tone=\"5\">来<rt>lai</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">食<rt>shí</rt></ruby><ruby data-tone=\"2\">堂<rt>táng</rt></ruby></span>！”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">床<rt>chuáng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">太<rt>tài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">早<rt>zǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"3\">广<rt>guǎng</rt></ruby><ruby data-tone=\"1\">东<rt>dōng</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">九<rt>jiǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">才<rt>cái</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">早<rt>zǎo</rt></ruby><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">猫<rt>māo</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">拉<rt>lā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby><ruby data-tone=\"2\">行<rt>xíng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">四<rt>sì</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">川<rt>chuān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">七<rt>qī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span>！”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">拉<rt>lā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">下<rt>xià</rt></ruby><ruby data-tone=\"5\">来<rt>lai</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby><ruby data-tone=\"4\">进<rt>jìn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">食<rt>shí</rt></ruby><ruby data-tone=\"2\">堂<rt>táng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">多<rt>duō</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">找<rt>zhǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">桌<rt>zhuō</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">拿<rt>ná</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">跑<rt>pǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">向<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">窗<rt>chuāng</rt></ruby><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">找<rt>zhǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">桌<rt>zhuō</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby><ruby data-tone=\"4\">见<rt>jiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">张<rt>zhāng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">空<rt>kōng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">桌<rt>zhuō</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">坐<rt>zuò</rt></ruby><ruby data-tone=\"5\">下<rt>xia</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"5\">睛<rt>jing</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">窗<rt>chuāng</rt></ruby><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">左<rt>zuǒ</rt></ruby><ruby data-tone=\"5\">边<rt>bian</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">窗<rt>chuāng</rt></ruby><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">右<rt>yòu</rt></ruby><ruby data-tone=\"5\">边<rt>bian</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"4\">会<rt>huì</rt></ruby><ruby data-tone=\"5\">儿<rt>er</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">两<rt>liǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">个<rt>ge</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">白<rt>bái</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">真<rt>zhēn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">快<rt>kuài</rt></ruby></span>！”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">打<rt>dǎ</rt></ruby><ruby data-tone=\"1\">开<rt>kāi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby><ruby data-tone=\"4\">面<rt>miàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">汤<rt>tāng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">打<rt>dǎ</rt></ruby><ruby data-tone=\"1\">开<rt>kāi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">呆<rt>dāi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">白<rt>bái</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">还<rt>hái</rt></ruby><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">包<rt>bāo</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby><ruby data-tone=\"5\">个<rt>ge</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span>！”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脸<rt>liǎn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">变<rt>biàn</rt></ruby><ruby data-tone=\"2\">红<rt>hóng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span>！<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">舌<rt>shé</rt></ruby><ruby data-tone=\"5\">头<rt>tou</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">飞<rt>fēi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>！”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">喝<rt>hē</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">茶<rt>chá</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby><ruby data-tone=\"5\">个<rt>ge</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">广<rt>guǎng</rt></ruby><ruby data-tone=\"1\">东<rt>dōng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"5\">睛<rt>jing</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">笑<rt>xiào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">对<rt>duì</rt></ruby><ruby data-tone=\"1\">方<rt>fāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">拿<rt>ná</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">错<rt>cuò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>！”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby><ruby data-tone=\"4\">大<rt>dà</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">第<rt>dì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">二<rt>èr</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span>！<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">心<rt>xīn</rt></ruby><ruby data-tone=\"4\">跳<rt>tiào</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">快<rt>kuài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>！”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脸<rt>liǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">苹<rt>píng</rt></ruby><ruby data-tone=\"3\">果<rt>guǒ</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">喝<rt>hē</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">粥<rt>zhōu</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">舌<rt>shé</rt></ruby><ruby data-tone=\"5\">头<rt>tou</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">休<rt>xiū</rt></ruby><ruby data-tone=\"5\">息<rt>xi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">给<rt>gěi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">倒<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">茶<rt>chá</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">交<rt>jiāo</rt></ruby><ruby data-tone=\"4\">换<rt>huàn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\"><ruby data-tone=\"4\">四<rt>sì</rt></ruby><ruby data-tone=\"1\">川<rt>chuān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">慢<rt>màn</rt></ruby><ruby data-tone=\"4\">慢<rt>màn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爱<rt>ài</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">面<rt>miàn</rt></ruby><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">再<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">喝<rt>hē</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">水<rt>shuǐ</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\"><ruby data-tone=\"3\">广<rt>guǎng</rt></ruby><ruby data-tone=\"1\">东<rt>dōng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爱<rt>ài</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">包<rt>bāo</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby><ruby data-tone=\"4\">面<rt>miàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">豆<rt>dòu</rt></ruby><ruby data-tone=\"1\">沙<rt>shā</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">完<rt>wán</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">以<rt>yǐ</rt></ruby><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">放<rt>fàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">盒<rt>hé</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">今<rt>jīn</rt></ruby><ruby data-tone=\"1\">天<rt>tiān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">打<rt>dǎ</rt></ruby><ruby data-tone=\"4\">架<rt>jià</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">和<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">玩<rt>wán</rt></ruby></span>。”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby><ruby data-tone=\"2\">头<rt>tóu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">舌<rt>shé</rt></ruby><ruby data-tone=\"5\">头<rt>tou</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">变<rt>biàn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">聪<rt>cōng</rt></ruby><ruby data-tone=\"5\">明<rt>ming</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">和<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">都<rt>dōu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">能<rt>néng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">笑<rt>xiào</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">笑<rt>xiào</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby><ruby data-tone=\"1\">出<rt>chū</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">食<rt>shí</rt></ruby><ruby data-tone=\"2\">堂<rt>táng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">太<rt>tài</rt></ruby><ruby data-tone=\"5\">阳<rt>yang</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">高<rt>gāo</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">明<rt>míng</rt></ruby><ruby data-tone=\"1\">天<rt>tiān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">早<rt>zǎo</rt></ruby><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">还<rt>hái</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">拿<rt>ná</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">错<rt>cuò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">吗<rt>ma</rt></ruby></span>？”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">叶<rt>yè</rt></ruby><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">拿<rt>ná</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">错<rt>cuò</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">握<rt>wò</rt></ruby><ruby data-tone=\"4\">住<rt>zhù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">余<rt>yú</rt></ruby><ruby data-tone=\"2\">梅<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby><ruby data-tone=\"4\">向<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">教<rt>jiào</rt></ruby><ruby data-tone=\"4\">室<rt>shì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">脚<rt>jiǎo</rt></ruby><ruby data-tone=\"4\">步<rt>bù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">轻<rt>qīng</rt></ruby><ruby data-tone=\"1\">轻<rt>qīng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span>。<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">辣<rt>là</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">和<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">甜<rt>tián</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby><ruby data-tone=\"4\">袋<rt>dài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">握<rt>wò</rt></ruby><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。</p>\n",
+  "pinyin_data": [
+    [
+      {
+        "w": "第二天",
+        "p": "dì èr tiān"
+      },
+      {
+        "w": "早上",
+        "p": "zǎo shang"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "七",
+        "p": "qī"
+      },
+      {
+        "w": "点",
+        "p": "diǎn"
+      },
+      {
+        "w": "就",
+        "p": "jiù"
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "洗",
+        "p": "xǐ"
+      },
+      {
+        "w": "好",
+        "p": "hǎo"
+      },
+      {
+        "w": "脸",
+        "p": "liǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "对",
+        "p": "duì"
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "小",
+        "p": "xiǎo"
+      },
+      {
+        "w": "音",
+        "p": "yīn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "快",
+        "p": "kuài"
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men"
+      },
+      {
+        "w": "去",
+        "p": "qù"
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "床",
+        "p": "chuáng"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "太",
+        "p": "tài"
+      },
+      {
+        "w": "早",
+        "p": "zǎo"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "广东人",
+        "p": "guǎng dōng rén"
+      },
+      {
+        "w": "九",
+        "p": "jiǔ"
+      },
+      {
+        "w": "点",
+        "p": "diǎn"
+      },
+      {
+        "w": "才",
+        "p": "cái"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "早饭",
+        "p": "zǎo fàn"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "猫",
+        "p": "māo"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "拉",
+        "p": "lā"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "手",
+        "p": "shǒu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "不行",
+        "p": "bù xíng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "四",
+        "p": "sì"
+      },
+      {
+        "w": "川",
+        "p": "chuān"
+      },
+      {
+        "w": "人",
+        "p": "rén"
+      },
+      {
+        "w": "七",
+        "p": "qī"
+      },
+      {
+        "w": "点",
+        "p": "diǎn"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "面",
+        "p": "miàn"
+      },
+      {
+        "w": "条",
+        "p": "tiáo"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "拉",
+        "p": "lā"
+      },
+      {
+        "w": "下来",
+        "p": "xià lai"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "走进",
+        "p": "zǒu jìn"
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "人",
+        "p": "rén"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "多",
+        "p": "duō"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "找",
+        "p": "zhǎo"
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "拿",
+        "p": "ná"
+      },
+      {
+        "w": "饭",
+        "p": "fàn"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "跑",
+        "p": "pǎo"
+      },
+      {
+        "w": "向",
+        "p": "xiàng"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "面",
+        "p": "miàn"
+      },
+      {
+        "w": "条",
+        "p": "tiáo"
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "找",
+        "p": "zhǎo"
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "看见",
+        "p": "kàn jiàn"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "张",
+        "p": "zhāng"
+      },
+      {
+        "w": "空",
+        "p": "kōng"
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "坐下",
+        "p": "zuò xia"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "左边",
+        "p": "zuǒ bian"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "右边",
+        "p": "yòu bian"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "过",
+        "p": "guò"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "一会儿",
+        "p": "yī huì er"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "两",
+        "p": "liǎng"
+      },
+      {
+        "w": "个",
+        "p": "ge"
+      },
+      {
+        "w": "白色",
+        "p": "bái sè"
+      },
+      {
+        "w": "饭",
+        "p": "fàn"
+      },
+      {
+        "w": "盒",
+        "p": "hé"
+      },
+      {
+        "w": "过来",
+        "p": "guò lái"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "真",
+        "p": "zhēn"
+      },
+      {
+        "w": "快",
+        "p": "kuài"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "打开",
+        "p": "dǎ kāi"
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "里面",
+        "p": "lǐ miàn"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "红色",
+        "p": "hóng sè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "汤",
+        "p": "tāng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "有",
+        "p": "yǒu"
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "打开",
+        "p": "dǎ kāi"
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "呆",
+        "p": "dāi"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "白色",
+        "p": "bái sè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "还有",
+        "p": "hái yǒu"
+      },
+      {
+        "w": "小",
+        "p": "xiǎo"
+      },
+      {
+        "w": "包子",
+        "p": "bāo zi"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这个",
+        "p": "zhè ge"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "口",
+        "p": "kǒu"
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "脸",
+        "p": "liǎn"
+      },
+      {
+        "w": "变红",
+        "p": "biàn hóng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "好",
+        "p": "hǎo"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "飞",
+        "p": "fēi"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "喝",
+        "p": "hē"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "口",
+        "p": "kǒu"
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "茶",
+        "p": "chá"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "一",
+        "p": "yī"
+      },
+      {
+        "w": "口",
+        "p": "kǒu"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这个",
+        "p": "zhè ge"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "好",
+        "p": "hǎo"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "广东",
+        "p": "guǎng dōng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing"
+      },
+      {
+        "w": "笑",
+        "p": "xiào"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "对方",
+        "p": "duì fāng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men"
+      },
+      {
+        "w": "拿",
+        "p": "ná"
+      },
+      {
+        "w": "错",
+        "p": "cuò"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "不大",
+        "p": "bù dà"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "第",
+        "p": "dì"
+      },
+      {
+        "w": "二",
+        "p": "èr"
+      },
+      {
+        "w": "口",
+        "p": "kǒu"
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "面",
+        "p": "miàn"
+      },
+      {
+        "w": "条",
+        "p": "tiáo"
+      },
+      {
+        "w": "好吃",
+        "p": "hǎo chī"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "心跳",
+        "p": "xīn tiào"
+      },
+      {
+        "w": "快",
+        "p": "kuài"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "脸",
+        "p": "liǎn"
+      },
+      {
+        "w": "红",
+        "p": "hóng"
+      },
+      {
+        "w": "红",
+        "p": "hóng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "苹果",
+        "p": "píng guǒ"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "喝",
+        "p": "hē"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "粥",
+        "p": "zhōu"
+      },
+      {
+        "w": "也好",
+        "p": "yě hǎo"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou"
+      },
+      {
+        "w": "休息",
+        "p": "xiū xi"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "给",
+        "p": "gěi"
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "倒",
+        "p": "dào"
+      },
+      {
+        "w": "茶",
+        "p": "chá"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "交换",
+        "p": "jiāo huàn"
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "四川",
+        "p": "sì chuān"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "慢慢",
+        "p": "màn màn"
+      },
+      {
+        "w": "爱",
+        "p": "ài"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "不",
+        "p": "bù"
+      },
+      {
+        "w": "再",
+        "p": "zài"
+      },
+      {
+        "w": "喝",
+        "p": "hē"
+      },
+      {
+        "w": "水",
+        "p": "shuǐ"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "广东",
+        "p": "guǎng dōng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "爱",
+        "p": "ài"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "小",
+        "p": "xiǎo"
+      },
+      {
+        "w": "包子",
+        "p": "bāo zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "里面",
+        "p": "lǐ miàn"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "豆沙",
+        "p": "dòu shā"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "完",
+        "p": "wán"
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "一起",
+        "p": "yī qǐ"
+      },
+      {
+        "w": "放",
+        "p": "fàng"
+      },
+      {
+        "w": "饭",
+        "p": "fàn"
+      },
+      {
+        "w": "盒",
+        "p": "hé"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "今天",
+        "p": "jīn tiān"
+      },
+      {
+        "w": "没",
+        "p": "méi"
+      },
+      {
+        "w": "打架",
+        "p": "dǎ jià"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "和",
+        "p": "hé"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "一起",
+        "p": "yī qǐ"
+      },
+      {
+        "w": "玩",
+        "p": "wán"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "点头",
+        "p": "diǎn tóu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou"
+      },
+      {
+        "w": "变",
+        "p": "biàn"
+      },
+      {
+        "w": "聪明",
+        "p": "cōng ming"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "和",
+        "p": "hé"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "都",
+        "p": "dōu"
+      },
+      {
+        "w": "能",
+        "p": "néng"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "笑",
+        "p": "xiào"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "笑",
+        "p": "xiào"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "走出",
+        "p": "zǒu chū"
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "太阳",
+        "p": "tài yang"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "高",
+        "p": "gāo"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "明天",
+        "p": "míng tiān"
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men"
+      },
+      {
+        "w": "早点",
+        "p": "zǎo diǎn"
+      },
+      {
+        "w": "来",
+        "p": "lái"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "还",
+        "p": "hái"
+      },
+      {
+        "w": "拿",
+        "p": "ná"
+      },
+      {
+        "w": "错",
+        "p": "cuò"
+      },
+      {
+        "w": "吗",
+        "p": "ma"
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "不",
+        "p": "bù"
+      },
+      {
+        "w": "拿",
+        "p": "ná"
+      },
+      {
+        "w": "错",
+        "p": "cuò"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn"
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn"
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "握住",
+        "p": "wò zhù"
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "手",
+        "p": "shǒu"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "走向",
+        "p": "zǒu xiàng"
+      },
+      {
+        "w": "教室",
+        "p": "jiào shì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "脚步",
+        "p": "jiǎo bù"
+      },
+      {
+        "w": "轻轻",
+        "p": "qīng qīng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là"
+      },
+      {
+        "w": "和",
+        "p": "hé"
+      },
+      {
+        "w": "甜",
+        "p": "tián"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "她们",
+        "p": "tā men"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "口袋",
+        "p": "kǒu dài"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "握手",
+        "p": "wò shǒu"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ]
+  ],
+  "translation_data_vi": {
+    "第二天早上，余梅七点就起来了。": "Sáng hôm sau, Yu Mei thức dậy lúc bảy giờ.",
+    "她洗好脸，对叶小音说：小音，快起来，我们去食堂！": "Rửa mặt xong, cô nói với Diệp Tiếu Âm: \"Tiểu Âm, nhanh đứng dậy, chúng ta đi nhà ăn đi!\"",
+    "叶小音在床上说：太早了，广东人九点才吃早饭。": "Diệp Tiếu Âm từ trên giường nói: \"Còn sớm, người Quảng Đông đến chín giờ mới ăn sáng.\"",
+    "她的声音像猫。": "Giọng cô ấy giống như giọng của một con mèo.",
+    "余梅拉她的手，她说：不行，四川人七点要吃辣面条！": "Yu Mei kéo tay cô, cô nói: \"Không được, người Tứ Xuyên phải ăn mì cay vào lúc bảy giờ!\"",
+    "她把叶小音拉下来。": "Cô kéo Ye Xiaoyin xuống.",
+    "她们走进食堂，人很多。": "Họ bước vào quán ăn tự phục vụ; có rất nhiều người.",
+    "余梅说：你找桌子，我拿饭。": "Ngọc Mi nói: “Ngươi tìm một cái bàn, ta đi lấy đồ ăn.”",
+    "她跑向辣面条窗口。": "Cô chạy về phía cửa sổ mì cay.",
+    "叶小音找桌子，她看见一张空桌子，她坐下。": "Ye Xiaoyin tìm một cái bàn; cô nhìn thấy một cái trống và ngồi xuống.",
+    "她的眼睛看窗口，余梅在左边，甜粥窗口在右边。": "Mắt cô nhìn về phía cửa sổ: Yu Mei ở bên trái, cửa sổ cháo ngọt ở bên phải.",
+    "过了一会儿，两个白色饭盒过来。": "Một lúc sau, hai hộp cơm trưa màu trắng được đưa tới.",
+    "叶小音说：余梅，你真快！": "Diệp Tiếu Âm nói: \"Ngọc Mai, ngươi thật sự rất nhanh!\"",
+    "她打开饭盒，里面是红色的汤，有面条。": "Cô mở hộp cơm trưa; bên trong là súp đỏ với mì.",
+    "余梅也打开饭盒，她呆了。": "Yu Mei cũng mở hộp cơm ra, cô cứng người.",
+    "她的饭盒里是白色的粥，还有小包子。": "Trong hộp cơm của cô có cháo trắng với những chiếc bánh nhỏ.",
+    "她说：这个是甜的！": "Cô ấy nói: \"Thật ngọt ngào!\"",
+    "叶小音吃一口面条，她的脸变红。": "Diệp Tiểu Nhân cắn một miếng mì, mặt đỏ bừng.",
+    "她说：好辣！": "Cô nói: \"Cay quá!\"",
+    "我的舌头要飞了！": "\"Lưỡi của tôi sắp bay mất rồi!\"",
+    "她喝一口余梅的茶。": "Cô nhấp một ngụm trà của Yu Mei.",
+    "余梅吃一口粥，她说：这个粥好甜，像广东的妈妈。": "Yu Mei cắn một miếng cháo rồi nói: “Cháo này ngọt quá, giống mẹ Quảng Đông vậy.”",
+    "她的眼睛笑了。": "Đôi mắt cô ấy mỉm cười.",
+    "她们看着对方的饭盒。": "Họ nhìn vào hộp cơm trưa của nhau.",
+    "余梅说：我们拿错了！": "Yu Mei nói: \"Chúng ta lấy nhầm người!\"",
+    "她的声音不大。": "Giọng cô không lớn.",
+    "叶小音吃第二口面条，她说：但是辣面条好吃！": "Diệp Tiểu Âm cắn miếng mì thứ hai rồi nói: \"Nhưng mì cay ăn ngon thật!\"",
+    "我的心跳快了！": "\"Tim tôi đập nhanh hơn!\"",
+    "她的脸红红的，像苹果。": "Mặt cô đỏ bừng như quả táo.",
+    "余梅喝粥，她说：甜粥也好，我的舌头休息了。": "Yu Mei uống cháo và nói: \"Cháo ngọt cũng ngon, lưỡi của tôi đang nghỉ ngơi.\"",
+    "她给叶小音倒茶。": "Cô rót trà cho Ye Xiaoyin.",
+    "她们交换饭盒。": "Họ trao đổi hộp cơm trưa.",
+    "叶小音说：四川的辣，我慢慢爱。": "Diệp Tiếu Âm nói: \"Tứ Xuyên cay, ta dần dần học được thích.\"",
+    "她吃面条，不再喝水。": "Cô ăn mì, không uống nước nữa.",
+    "余梅说：广东的甜，我也爱。": "Yu Mei nói: “Quảng Đông ngọt ngào, tôi cũng thích.”",
+    "她吃小包子，里面是甜甜的豆沙。": "Cô ăn những chiếc bánh nhỏ; bên trong là nhân đậu ngọt.",
+    "吃完以后，她们一起放饭盒。": "Sau khi ăn xong, họ cùng nhau cất hộp cơm trưa của mình đi.",
+    "余梅说：今天没打架，辣和甜一起玩。": "Ngọc Mai nói: “Hôm nay chúng ta không đánh nhau, cay ngọt cùng nhau chơi đùa.”",
+    "叶小音点头，她说：我们的舌头变聪明了，辣和甜都能吃。": "Diệp Tiếu Âm gật đầu nói: \"Lưỡi của chúng ta đã trở nên thông minh hơn, có thể ăn cay và ngọt.\"",
+    "她笑，余梅也笑。": "Cô cười, Yu Mei cũng cười.",
+    "她们走出食堂，太阳很高。": "Họ bước ra khỏi căng tin; mặt trời đã lên cao.",
+    "余梅说：明天我们早点来，还拿错吗？": "Yu Mei nói: “Ngày mai chúng ta lại đến sớm, có nên lấy nhầm không?”",
+    "叶小音说：不拿错，但是我要吃一点你的辣，你也要吃一点我的甜。": "Diệp Tiếu Âm nói: \"Đừng lấy nhầm, bất quá ta muốn ăn ngươi một chút đồ cay, ngươi cũng nên ăn một chút đồ ngọt của ta.\"",
+    "她握住余梅的手。": "Cô nắm lấy tay Yu Mei.",
+    "她们走向教室，脚步轻轻的。": "Họ bước về phía lớp học, bước chân nhẹ nhàng.",
+    "辣和甜，在她们的口袋里握手了。": "Cay ngọt bắt tay vào túi."
+  },
+  "timestamps": [
+    [
+      {
+        "w": "第二天",
+        "p": "dì èr tiān",
+        "s": 1.27,
+        "e": 1.69
+      },
+      {
+        "w": "早上",
+        "p": "zǎo shang",
+        "s": 1.69,
+        "e": 2.19
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 2.26,
+        "e": 2.59
+      },
+      {
+        "w": "七",
+        "p": "qī",
+        "s": 2.59,
+        "e": 2.85
+      },
+      {
+        "w": "点",
+        "p": "diǎn",
+        "s": 2.85,
+        "e": 3.02
+      },
+      {
+        "w": "就",
+        "p": "jiù",
+        "s": 3.02,
+        "e": 3.14
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai",
+        "s": 3.14,
+        "e": 3.56
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 3.56,
+        "e": 3.7
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 4.04,
+        "e": 4.19
+      },
+      {
+        "w": "洗",
+        "p": "xǐ",
+        "s": 4.19,
+        "e": 4.39
+      },
+      {
+        "w": "好",
+        "p": "hǎo",
+        "s": 4.39,
+        "e": 4.59
+      },
+      {
+        "w": "脸",
+        "p": "liǎn",
+        "s": 4.59,
+        "e": 4.88
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "对",
+        "p": "duì",
+        "s": 4.88,
+        "e": 5.08
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 5.08,
+        "e": 5.64
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 5.64,
+        "e": 5.9
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "小",
+        "p": "xiǎo",
+        "s": 6.35,
+        "e": 6.54
+      },
+      {
+        "w": "音",
+        "p": "yīn",
+        "s": 6.54,
+        "e": 6.8
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "快",
+        "p": "kuài",
+        "s": 7.01,
+        "e": 7.2
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai",
+        "s": 7.2,
+        "e": 7.52
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men",
+        "s": 7.68,
+        "e": 7.92
+      },
+      {
+        "w": "去",
+        "p": "qù",
+        "s": 7.92,
+        "e": 8.05
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng",
+        "s": 8.05,
+        "e": 8.52
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 9.06,
+        "e": 9.59
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 9.59,
+        "e": 9.71
+      },
+      {
+        "w": "床",
+        "p": "chuáng",
+        "s": 9.71,
+        "e": 9.98
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 9.98,
+        "e": 10.14
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 10.14,
+        "e": 10.41
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "太",
+        "p": "tài",
+        "s": 10.8,
+        "e": 11.06
+      },
+      {
+        "w": "早",
+        "p": "zǎo",
+        "s": 11.06,
+        "e": 11.27
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 11.27,
+        "e": 11.43
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "广东人",
+        "p": "guǎng dōng rén",
+        "s": 11.6,
+        "e": 12.13
+      },
+      {
+        "w": "九",
+        "p": "jiǔ",
+        "s": 12.13,
+        "e": 12.38
+      },
+      {
+        "w": "点",
+        "p": "diǎn",
+        "s": 12.38,
+        "e": 12.57
+      },
+      {
+        "w": "才",
+        "p": "cái",
+        "s": 12.57,
+        "e": 12.73
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 12.73,
+        "e": 12.88
+      },
+      {
+        "w": "早饭",
+        "p": "zǎo fàn",
+        "s": 12.88,
+        "e": 13.29
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 13.69,
+        "e": 13.84
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 13.84,
+        "e": 13.94
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 13.94,
+        "e": 14.29
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 14.29,
+        "e": 14.52
+      },
+      {
+        "w": "猫",
+        "p": "māo",
+        "s": 14.52,
+        "e": 14.83
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 15.21,
+        "e": 15.7
+      },
+      {
+        "w": "拉",
+        "p": "lā",
+        "s": 15.73,
+        "e": 15.91
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 15.91,
+        "e": 16.05
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 16.05,
+        "e": 16.15
+      },
+      {
+        "w": "手",
+        "p": "shǒu",
+        "s": 16.15,
+        "e": 16.48
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 16.65,
+        "e": 16.76
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 16.76,
+        "e": 17.06
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "不行",
+        "p": "bù xíng",
+        "s": 17.48,
+        "e": 17.86
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "四",
+        "p": "sì",
+        "s": 18.14,
+        "e": 18.34
+      },
+      {
+        "w": "川",
+        "p": "chuān",
+        "s": 18.34,
+        "e": 18.55
+      },
+      {
+        "w": "人",
+        "p": "rén",
+        "s": 18.55,
+        "e": 18.76
+      },
+      {
+        "w": "七",
+        "p": "qī",
+        "s": 18.8,
+        "e": 19.03
+      },
+      {
+        "w": "点",
+        "p": "diǎn",
+        "s": 19.03,
+        "e": 19.19
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 19.19,
+        "e": 19.34
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 19.34,
+        "e": 19.54
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 19.54,
+        "e": 19.68
+      },
+      {
+        "w": "面",
+        "p": "miàn",
+        "s": 19.68,
+        "e": 19.84
+      },
+      {
+        "w": "条",
+        "p": "tiáo",
+        "s": 19.84,
+        "e": 20.15
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 20.46,
+        "e": 20.58
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 20.58,
+        "e": 20.71
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 20.71,
+        "e": 21.29
+      },
+      {
+        "w": "拉",
+        "p": "lā",
+        "s": 21.37,
+        "e": 21.58
+      },
+      {
+        "w": "下来",
+        "p": "xià lai",
+        "s": 21.58,
+        "e": 21.89
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 22.34,
+        "e": 22.59
+      },
+      {
+        "w": "走进",
+        "p": "zǒu jìn",
+        "s": 22.59,
+        "e": 22.93
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng",
+        "s": 22.93,
+        "e": 23.41
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "人",
+        "p": "rén",
+        "s": 23.47,
+        "e": 23.72
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 23.75,
+        "e": 23.95
+      },
+      {
+        "w": "多",
+        "p": "duō",
+        "s": 24.06,
+        "e": 24.28
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 24.54,
+        "e": 24.81
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 24.81,
+        "e": 25.08
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 25.36,
+        "e": 25.5
+      },
+      {
+        "w": "找",
+        "p": "zhǎo",
+        "s": 25.5,
+        "e": 25.69
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi",
+        "s": 25.69,
+        "e": 26.14
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 26.24,
+        "e": 26.41
+      },
+      {
+        "w": "拿",
+        "p": "ná",
+        "s": 26.41,
+        "e": 26.61
+      },
+      {
+        "w": "饭",
+        "p": "fàn",
+        "s": 26.61,
+        "e": 26.85
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 27.15,
+        "e": 27.28
+      },
+      {
+        "w": "跑",
+        "p": "pǎo",
+        "s": 27.28,
+        "e": 27.49
+      },
+      {
+        "w": "向",
+        "p": "xiàng",
+        "s": 27.49,
+        "e": 27.77
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 27.8,
+        "e": 27.99
+      },
+      {
+        "w": "面",
+        "p": "miàn",
+        "s": 27.99,
+        "e": 28.17
+      },
+      {
+        "w": "条",
+        "p": "tiáo",
+        "s": 28.17,
+        "e": 28.38
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu",
+        "s": 28.38,
+        "e": 28.88
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 29.4,
+        "e": 30.03
+      },
+      {
+        "w": "找",
+        "p": "zhǎo",
+        "s": 30.03,
+        "e": 30.21
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi",
+        "s": 30.21,
+        "e": 30.75
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 30.9,
+        "e": 31.03
+      },
+      {
+        "w": "看见",
+        "p": "kàn jiàn",
+        "s": 31.03,
+        "e": 31.42
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 31.42,
+        "e": 31.51
+      },
+      {
+        "w": "张",
+        "p": "zhāng",
+        "s": 31.51,
+        "e": 31.72
+      },
+      {
+        "w": "空",
+        "p": "kōng",
+        "s": 31.72,
+        "e": 32.02
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi",
+        "s": 32.02,
+        "e": 32.42
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 32.74,
+        "e": 32.88
+      },
+      {
+        "w": "坐下",
+        "p": "zuò xia",
+        "s": 32.88,
+        "e": 33.33
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 33.7,
+        "e": 33.8
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 33.8,
+        "e": 33.89
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing",
+        "s": 33.89,
+        "e": 34.38
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 34.38,
+        "e": 34.59
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu",
+        "s": 34.59,
+        "e": 35.16
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 35.39,
+        "e": 35.85
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 35.85,
+        "e": 36.01
+      },
+      {
+        "w": "左边",
+        "p": "zuǒ bian",
+        "s": 36.01,
+        "e": 36.6
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 36.89,
+        "e": 37.11
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 37.11,
+        "e": 37.27
+      },
+      {
+        "w": "窗口",
+        "p": "chuāng kǒu",
+        "s": 37.27,
+        "e": 37.77
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 37.87,
+        "e": 37.96
+      },
+      {
+        "w": "右边",
+        "p": "yòu bian",
+        "s": 37.96,
+        "e": 38.45
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "过",
+        "p": "guò",
+        "s": 39.46,
+        "e": 39.65
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 39.65,
+        "e": 39.74
+      },
+      {
+        "w": "一会儿",
+        "p": "yī huì er",
+        "s": 39.74,
+        "e": 40.17
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "两",
+        "p": "liǎng",
+        "s": 40.26,
+        "e": 40.46
+      },
+      {
+        "w": "个",
+        "p": "ge",
+        "s": 40.46,
+        "e": 40.56
+      },
+      {
+        "w": "白色",
+        "p": "bái sè",
+        "s": 40.56,
+        "e": 40.96
+      },
+      {
+        "w": "饭",
+        "p": "fàn",
+        "s": 40.96,
+        "e": 41.2
+      },
+      {
+        "w": "盒",
+        "p": "hé",
+        "s": 41.2,
+        "e": 41.44
+      },
+      {
+        "w": "过来",
+        "p": "guò lái",
+        "s": 41.44,
+        "e": 41.77
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 42.13,
+        "e": 42.68
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 42.68,
+        "e": 42.97
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 43.37,
+        "e": 43.79
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 43.89,
+        "e": 43.99
+      },
+      {
+        "w": "真",
+        "p": "zhēn",
+        "s": 43.99,
+        "e": 44.25
+      },
+      {
+        "w": "快",
+        "p": "kuài",
+        "s": 44.25,
+        "e": 44.54
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 44.9,
+        "e": 45.04
+      },
+      {
+        "w": "打开",
+        "p": "dǎ kāi",
+        "s": 45.04,
+        "e": 45.4
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé",
+        "s": 45.4,
+        "e": 45.9
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "里面",
+        "p": "lǐ miàn",
+        "s": 46.09,
+        "e": 46.42
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 46.42,
+        "e": 46.59
+      },
+      {
+        "w": "红色",
+        "p": "hóng sè",
+        "s": 46.59,
+        "e": 46.99
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 46.99,
+        "e": 47.09
+      },
+      {
+        "w": "汤",
+        "p": "tāng",
+        "s": 47.09,
+        "e": 47.37
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "有",
+        "p": "yǒu",
+        "s": 47.49,
+        "e": 47.65
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo",
+        "s": 47.65,
+        "e": 48.2
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 48.54,
+        "e": 48.98
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 49.01,
+        "e": 49.22
+      },
+      {
+        "w": "打开",
+        "p": "dǎ kāi",
+        "s": 49.22,
+        "e": 49.58
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé",
+        "s": 49.58,
+        "e": 50.07
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 50.24,
+        "e": 50.38
+      },
+      {
+        "w": "呆",
+        "p": "dāi",
+        "s": 50.43,
+        "e": 50.67
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 50.67,
+        "e": 50.81
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 51.24,
+        "e": 51.37
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 51.37,
+        "e": 51.47
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé",
+        "s": 51.47,
+        "e": 51.87
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 51.87,
+        "e": 52.06
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 52.16,
+        "e": 52.34
+      },
+      {
+        "w": "白色",
+        "p": "bái sè",
+        "s": 52.34,
+        "e": 52.74
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 52.74,
+        "e": 52.86
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 52.86,
+        "e": 53.16
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "还有",
+        "p": "hái yǒu",
+        "s": 53.19,
+        "e": 53.47
+      },
+      {
+        "w": "小",
+        "p": "xiǎo",
+        "s": 53.47,
+        "e": 53.76
+      },
+      {
+        "w": "包子",
+        "p": "bāo zi",
+        "s": 53.79,
+        "e": 54.19
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 54.55,
+        "e": 54.67
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 54.67,
+        "e": 54.96
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这个",
+        "p": "zhè ge",
+        "s": 55.51,
+        "e": 55.91
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 56.0,
+        "e": 56.16
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 56.16,
+        "e": 56.6
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 56.6,
+        "e": 56.71
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 57.16,
+        "e": 57.7
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 57.7,
+        "e": 57.9
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 57.9,
+        "e": 57.96
+      },
+      {
+        "w": "口",
+        "p": "kǒu",
+        "s": 57.96,
+        "e": 58.14
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo",
+        "s": 58.14,
+        "e": 58.71
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 58.98,
+        "e": 59.09
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 59.09,
+        "e": 59.2
+      },
+      {
+        "w": "脸",
+        "p": "liǎn",
+        "s": 59.2,
+        "e": 59.43
+      },
+      {
+        "w": "变红",
+        "p": "biàn hóng",
+        "s": 59.43,
+        "e": 59.92
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 59.99,
+        "e": 60.15
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 60.15,
+        "e": 60.47
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "好",
+        "p": "hǎo",
+        "s": 60.68,
+        "e": 60.8
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 60.8,
+        "e": 61.01
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 61.27,
+        "e": 61.4
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 61.4,
+        "e": 61.49
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou",
+        "s": 61.49,
+        "e": 61.82
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 61.82,
+        "e": 61.98
+      },
+      {
+        "w": "飞",
+        "p": "fēi",
+        "s": 61.98,
+        "e": 62.27
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 62.27,
+        "e": 62.46
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 62.83,
+        "e": 62.98
+      },
+      {
+        "w": "喝",
+        "p": "hē",
+        "s": 62.98,
+        "e": 63.16
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 63.16,
+        "e": 63.26
+      },
+      {
+        "w": "口",
+        "p": "kǒu",
+        "s": 63.26,
+        "e": 63.48
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 63.48,
+        "e": 63.81
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 63.81,
+        "e": 63.91
+      },
+      {
+        "w": "茶",
+        "p": "chá",
+        "s": 63.91,
+        "e": 64.27
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 64.5,
+        "e": 64.91
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 64.91,
+        "e": 65.12
+      },
+      {
+        "w": "一",
+        "p": "yī",
+        "s": 65.12,
+        "e": 65.19
+      },
+      {
+        "w": "口",
+        "p": "kǒu",
+        "s": 65.19,
+        "e": 65.39
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 65.39,
+        "e": 65.66
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 65.92,
+        "e": 66.07
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 66.07,
+        "e": 66.37
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这个",
+        "p": "zhè ge",
+        "s": 66.65,
+        "e": 66.89
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 66.89,
+        "e": 67.08
+      },
+      {
+        "w": "好",
+        "p": "hǎo",
+        "s": 67.08,
+        "e": 67.3
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 67.3,
+        "e": 67.69
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 67.83,
+        "e": 68.09
+      },
+      {
+        "w": "广东",
+        "p": "guǎng dōng",
+        "s": 68.09,
+        "e": 68.48
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 68.48,
+        "e": 68.56
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 68.56,
+        "e": 68.97
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 69.32,
+        "e": 69.46
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 69.46,
+        "e": 69.56
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing",
+        "s": 69.56,
+        "e": 70.05
+      },
+      {
+        "w": "笑",
+        "p": "xiào",
+        "s": 70.05,
+        "e": 70.37
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 70.37,
+        "e": 70.43
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 70.95,
+        "e": 71.19
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 71.19,
+        "e": 71.41
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 71.41,
+        "e": 71.53
+      },
+      {
+        "w": "对方",
+        "p": "duì fāng",
+        "s": 71.53,
+        "e": 71.86
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 71.86,
+        "e": 71.93
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé",
+        "s": 71.93,
+        "e": 72.52
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 72.69,
+        "e": 73.06
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 73.06,
+        "e": 73.39
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men",
+        "s": 73.71,
+        "e": 73.99
+      },
+      {
+        "w": "拿",
+        "p": "ná",
+        "s": 73.99,
+        "e": 74.16
+      },
+      {
+        "w": "错",
+        "p": "cuò",
+        "s": 74.16,
+        "e": 74.47
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 74.47,
+        "e": 74.62
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 74.89,
+        "e": 75.01
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 75.01,
+        "e": 75.1
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 75.1,
+        "e": 75.53
+      },
+      {
+        "w": "不大",
+        "p": "bù dà",
+        "s": 75.53,
+        "e": 75.95
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 76.92,
+        "e": 77.57
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 77.57,
+        "e": 77.75
+      },
+      {
+        "w": "第",
+        "p": "dì",
+        "s": 77.75,
+        "e": 77.9
+      },
+      {
+        "w": "二",
+        "p": "èr",
+        "s": 77.9,
+        "e": 78.06
+      },
+      {
+        "w": "口",
+        "p": "kǒu",
+        "s": 78.06,
+        "e": 78.23
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo",
+        "s": 78.23,
+        "e": 78.75
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 78.82,
+        "e": 78.94
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 78.94,
+        "e": 79.24
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 79.49,
+        "e": 79.94
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 79.99,
+        "e": 80.18
+      },
+      {
+        "w": "面",
+        "p": "miàn",
+        "s": 80.18,
+        "e": 80.36
+      },
+      {
+        "w": "条",
+        "p": "tiáo",
+        "s": 80.36,
+        "e": 80.53
+      },
+      {
+        "w": "好吃",
+        "p": "hǎo chī",
+        "s": 80.53,
+        "e": 80.99
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 81.21,
+        "e": 81.35
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 81.35,
+        "e": 81.45
+      },
+      {
+        "w": "心跳",
+        "p": "xīn tiào",
+        "s": 81.45,
+        "e": 81.93
+      },
+      {
+        "w": "快",
+        "p": "kuài",
+        "s": 81.93,
+        "e": 82.16
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 82.16,
+        "e": 82.22
+      },
+      {
+        "w": "！",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 82.73,
+        "e": 82.84
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 82.84,
+        "e": 82.94
+      },
+      {
+        "w": "脸",
+        "p": "liǎn",
+        "s": 82.94,
+        "e": 83.17
+      },
+      {
+        "w": "红",
+        "p": "hóng",
+        "s": 83.17,
+        "e": 83.44
+      },
+      {
+        "w": "红",
+        "p": "hóng",
+        "s": 83.44,
+        "e": 83.77
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 83.77,
+        "e": 83.89
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 83.97,
+        "e": 84.22
+      },
+      {
+        "w": "苹果",
+        "p": "píng guǒ",
+        "s": 84.22,
+        "e": 84.82
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 85.04,
+        "e": 85.34
+      },
+      {
+        "w": "喝",
+        "p": "hē",
+        "s": 85.34,
+        "e": 85.54
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 85.54,
+        "e": 85.84
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 85.89,
+        "e": 86.01
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 86.01,
+        "e": 86.33
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 86.72,
+        "e": 86.98
+      },
+      {
+        "w": "粥",
+        "p": "zhōu",
+        "s": 86.98,
+        "e": 87.17
+      },
+      {
+        "w": "也好",
+        "p": "yě hǎo",
+        "s": 87.17,
+        "e": 87.6
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 87.72,
+        "e": 87.86
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 87.86,
+        "e": 87.94
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou",
+        "s": 87.94,
+        "e": 88.41
+      },
+      {
+        "w": "休息",
+        "p": "xiū xi",
+        "s": 88.48,
+        "e": 89.0
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 89.0,
+        "e": 89.06
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 89.59,
+        "e": 89.74
+      },
+      {
+        "w": "给",
+        "p": "gěi",
+        "s": 89.74,
+        "e": 89.88
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 89.88,
+        "e": 90.48
+      },
+      {
+        "w": "倒",
+        "p": "dào",
+        "s": 90.48,
+        "e": 90.67
+      },
+      {
+        "w": "茶",
+        "p": "chá",
+        "s": 90.67,
+        "e": 91.05
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 91.15,
+        "e": 91.54
+      },
+      {
+        "w": "交换",
+        "p": "jiāo huàn",
+        "s": 91.58,
+        "e": 91.98
+      },
+      {
+        "w": "饭盒",
+        "p": "fàn hé",
+        "s": 91.98,
+        "e": 92.56
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 93.2,
+        "e": 93.75
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 93.75,
+        "e": 94.06
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "四川",
+        "p": "sì chuān",
+        "s": 94.34,
+        "e": 94.72
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 94.72,
+        "e": 94.8
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 94.8,
+        "e": 95.06
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 95.14,
+        "e": 95.28
+      },
+      {
+        "w": "慢慢",
+        "p": "màn màn",
+        "s": 95.28,
+        "e": 95.62
+      },
+      {
+        "w": "爱",
+        "p": "ài",
+        "s": 95.65,
+        "e": 95.85
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 96.18,
+        "e": 96.31
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 96.31,
+        "e": 96.52
+      },
+      {
+        "w": "面条",
+        "p": "miàn tiáo",
+        "s": 96.52,
+        "e": 97.15
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "不",
+        "p": "bù",
+        "s": 97.19,
+        "e": 97.28
+      },
+      {
+        "w": "再",
+        "p": "zài",
+        "s": 97.28,
+        "e": 97.43
+      },
+      {
+        "w": "喝",
+        "p": "hē",
+        "s": 97.43,
+        "e": 97.68
+      },
+      {
+        "w": "水",
+        "p": "shuǐ",
+        "s": 97.68,
+        "e": 97.95
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 98.24,
+        "e": 98.64
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 98.64,
+        "e": 98.97
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "广东",
+        "p": "guǎng dōng",
+        "s": 99.22,
+        "e": 99.67
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 99.67,
+        "e": 99.77
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 99.77,
+        "e": 100.22
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 100.28,
+        "e": 100.52
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 100.52,
+        "e": 100.65
+      },
+      {
+        "w": "爱",
+        "p": "ài",
+        "s": 100.65,
+        "e": 100.94
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 101.26,
+        "e": 101.39
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 101.39,
+        "e": 101.54
+      },
+      {
+        "w": "小",
+        "p": "xiǎo",
+        "s": 101.54,
+        "e": 101.8
+      },
+      {
+        "w": "包子",
+        "p": "bāo zi",
+        "s": 101.8,
+        "e": 102.11
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "里面",
+        "p": "lǐ miàn",
+        "s": 102.11,
+        "e": 102.41
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 102.41,
+        "e": 102.53
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 102.53,
+        "e": 102.77
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 102.77,
+        "e": 102.94
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 102.94,
+        "e": 103.02
+      },
+      {
+        "w": "豆沙",
+        "p": "dòu shā",
+        "s": 103.02,
+        "e": 103.52
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 103.73,
+        "e": 103.89
+      },
+      {
+        "w": "完",
+        "p": "wán",
+        "s": 103.89,
+        "e": 104.07
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu",
+        "s": 104.07,
+        "e": 104.4
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 104.46,
+        "e": 104.68
+      },
+      {
+        "w": "一起",
+        "p": "yī qǐ",
+        "s": 104.71,
+        "e": 105.06
+      },
+      {
+        "w": "放",
+        "p": "fàng",
+        "s": 105.06,
+        "e": 105.27
+      },
+      {
+        "w": "饭",
+        "p": "fàn",
+        "s": 105.27,
+        "e": 105.46
+      },
+      {
+        "w": "盒",
+        "p": "hé",
+        "s": 105.46,
+        "e": 105.81
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 106.18,
+        "e": 106.49
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 106.49,
+        "e": 106.77
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "今天",
+        "p": "jīn tiān",
+        "s": 106.97,
+        "e": 107.36
+      },
+      {
+        "w": "没",
+        "p": "méi",
+        "s": 107.36,
+        "e": 107.54
+      },
+      {
+        "w": "打架",
+        "p": "dǎ jià",
+        "s": 107.54,
+        "e": 108.05
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 108.26,
+        "e": 108.58
+      },
+      {
+        "w": "和",
+        "p": "hé",
+        "s": 108.68,
+        "e": 108.86
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 108.86,
+        "e": 109.22
+      },
+      {
+        "w": "一起",
+        "p": "yī qǐ",
+        "s": 109.3,
+        "e": 109.77
+      },
+      {
+        "w": "玩",
+        "p": "wán",
+        "s": 109.77,
+        "e": 110.09
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 111.11,
+        "e": 111.61
+      },
+      {
+        "w": "点头",
+        "p": "diǎn tóu",
+        "s": 111.61,
+        "e": 112.11
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 112.33,
+        "e": 112.44
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 112.44,
+        "e": 112.76
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men",
+        "s": 112.99,
+        "e": 113.24
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 113.24,
+        "e": 113.34
+      },
+      {
+        "w": "舌头",
+        "p": "shé tou",
+        "s": 113.34,
+        "e": 113.84
+      },
+      {
+        "w": "变",
+        "p": "biàn",
+        "s": 113.84,
+        "e": 114.08
+      },
+      {
+        "w": "聪明",
+        "p": "cōng ming",
+        "s": 114.08,
+        "e": 114.55
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 114.55,
+        "e": 114.66
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 114.95,
+        "e": 115.17
+      },
+      {
+        "w": "和",
+        "p": "hé",
+        "s": 115.17,
+        "e": 115.34
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 115.34,
+        "e": 115.69
+      },
+      {
+        "w": "都",
+        "p": "dōu",
+        "s": 115.78,
+        "e": 115.95
+      },
+      {
+        "w": "能",
+        "p": "néng",
+        "s": 115.95,
+        "e": 116.16
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 116.16,
+        "e": 116.43
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 116.82,
+        "e": 116.97
+      },
+      {
+        "w": "笑",
+        "p": "xiào",
+        "s": 116.97,
+        "e": 117.32
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 117.42,
+        "e": 117.76
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 117.76,
+        "e": 118.01
+      },
+      {
+        "w": "笑",
+        "p": "xiào",
+        "s": 118.01,
+        "e": 118.31
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 118.71,
+        "e": 118.95
+      },
+      {
+        "w": "走出",
+        "p": "zǒu chū",
+        "s": 118.95,
+        "e": 119.27
+      },
+      {
+        "w": "食堂",
+        "p": "shí táng",
+        "s": 119.27,
+        "e": 119.75
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "太阳",
+        "p": "tài yang",
+        "s": 119.97,
+        "e": 120.27
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 120.27,
+        "e": 120.46
+      },
+      {
+        "w": "高",
+        "p": "gāo",
+        "s": 120.46,
+        "e": 120.74
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 121.08,
+        "e": 121.37
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 121.37,
+        "e": 121.69
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "明天",
+        "p": "míng tiān",
+        "s": 121.87,
+        "e": 122.37
+      },
+      {
+        "w": "我们",
+        "p": "wǒ men",
+        "s": 122.48,
+        "e": 122.7
+      },
+      {
+        "w": "早点",
+        "p": "zǎo diǎn",
+        "s": 122.7,
+        "e": 123.14
+      },
+      {
+        "w": "来",
+        "p": "lái",
+        "s": 123.14,
+        "e": 123.38
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "还",
+        "p": "hái",
+        "s": 123.44,
+        "e": 123.72
+      },
+      {
+        "w": "拿",
+        "p": "ná",
+        "s": 123.72,
+        "e": 123.92
+      },
+      {
+        "w": "错",
+        "p": "cuò",
+        "s": 123.92,
+        "e": 124.17
+      },
+      {
+        "w": "吗",
+        "p": "ma",
+        "s": 124.17,
+        "e": 124.31
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "叶小音",
+        "p": "yè xiǎo yīn",
+        "s": 124.75,
+        "e": 125.28
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 125.28,
+        "e": 125.6
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "不",
+        "p": "bù",
+        "s": 126.14,
+        "e": 126.33
+      },
+      {
+        "w": "拿",
+        "p": "ná",
+        "s": 126.33,
+        "e": 126.57
+      },
+      {
+        "w": "错",
+        "p": "cuò",
+        "s": 126.57,
+        "e": 126.88
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 127.18,
+        "e": 127.58
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 127.62,
+        "e": 127.73
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 127.73,
+        "e": 127.86
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 127.86,
+        "e": 128.08
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn",
+        "s": 128.08,
+        "e": 128.43
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 128.43,
+        "e": 128.57
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 128.57,
+        "e": 128.69
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 128.69,
+        "e": 128.93
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 129.24,
+        "e": 129.59
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 129.59,
+        "e": 129.65
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 129.65,
+        "e": 129.89
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 129.99,
+        "e": 130.24
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn",
+        "s": 130.24,
+        "e": 130.66
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 130.66,
+        "e": 130.81
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 130.81,
+        "e": 130.91
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 130.91,
+        "e": 131.4
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 131.78,
+        "e": 131.92
+      },
+      {
+        "w": "握住",
+        "p": "wò zhù",
+        "s": 131.92,
+        "e": 132.28
+      },
+      {
+        "w": "余梅",
+        "p": "yú méi",
+        "s": 132.28,
+        "e": 132.69
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 132.69,
+        "e": 132.78
+      },
+      {
+        "w": "手",
+        "p": "shǒu",
+        "s": 132.78,
+        "e": 133.13
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 133.18,
+        "e": 133.46
+      },
+      {
+        "w": "走向",
+        "p": "zǒu xiàng",
+        "s": 133.46,
+        "e": 133.88
+      },
+      {
+        "w": "教室",
+        "p": "jiào shì",
+        "s": 133.88,
+        "e": 134.43
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "脚步",
+        "p": "jiǎo bù",
+        "s": 134.63,
+        "e": 135.06
+      },
+      {
+        "w": "轻轻",
+        "p": "qīng qīng",
+        "s": 135.06,
+        "e": 135.62
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 135.62,
+        "e": 135.76
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "辣",
+        "p": "là",
+        "s": 136.14,
+        "e": 136.38
+      },
+      {
+        "w": "和",
+        "p": "hé",
+        "s": 136.38,
+        "e": 136.56
+      },
+      {
+        "w": "甜",
+        "p": "tián",
+        "s": 136.56,
+        "e": 137.07
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 137.15,
+        "e": 137.29
+      },
+      {
+        "w": "她们",
+        "p": "tā men",
+        "s": 137.29,
+        "e": 137.62
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 137.62,
+        "e": 137.7
+      },
+      {
+        "w": "口袋",
+        "p": "kǒu dài",
+        "s": 137.7,
+        "e": 138.13
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 138.13,
+        "e": 138.29
+      },
+      {
+        "w": "握手",
+        "p": "wò shǒu",
+        "s": 138.32,
+        "e": 138.78
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 138.81,
+        "e": 138.93
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ]
+  ],
+  "audio_url": "https://audio.hskstory.com/hsk2-regional-specialties/audio/_versions/v5/luna/chapter-05.mp3"
+}

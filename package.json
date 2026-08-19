@@ -1,0 +1,11 @@
+{
+  "name": "hsk-story-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 5276"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "first-plane-trip",
+    "hsk_level": 1,
+    "title": "First Plane Trip",
+    "first_chapter_slug": "chapter-1-the-taxi-arrives-late"
+  },
+  {
+    "slug": "movie-night",
+    "hsk_level": 1,
+    "title": "Movie Night",
+    "first_chapter_slug": "chapter-1-tickets-sell-out"
+  },
+  {
+    "slug": "school-siblings",
+    "hsk_level": 1,
+    "title": "Walking to School",
+    "first_chapter_slug": "chapter-1-walk-slower"
+  },
+  {
+    "slug": "dads-long-day",
+    "hsk_level": 1,
+    "title": "Dad&#x27;s Long Day",
+    "first_chapter_slug": "chapter-1-where-did-dad-go"
+  },
+  {
+    "slug": "wrong-delivery",
+    "hsk_level": 1,
+    "title": "Wrong Delivery",
+    "first_chapter_slug": "chapter-1-the-misdelivered-package"
+  },
+  {
+    "slug": "weekend-plans",
+    "hsk_level": 1,
+    "title": "Weekend Plans",
+    "first_chapter_slug": "chapter-1-argument-over-the-phone"
+  },
+  {
+    "slug": "pet-cat",
+    "hsk_level": 1,
+    "title": "The Pet Cat",
+    "first_chapter_slug": "chapter-1-meeting-in-the-rain"
+  },
+  {
+    "slug": "birthday-dinner",
+    "hsk_level": 1,
+    "title": "The Birthday Dinner",
+    "first_chapter_slug": "chapter-1-meet-at-restaurant"
+  },
+  {
+    "slug": "asking-the-way",
+    "hsk_level": 1,
+    "title": "Asking the Way",
+    "first_chapter_slug": "chapter-1-books-in-the-bookstore"
+  },
+  {
+    "slug": "taxi-ride",
+    "hsk_level": 1,
+    "title": "The Taxi Ride",
+    "first_chapter_slug": "chapter-1-waiting-in-the-rain"
+  },
+  {
+    "slug": "what-does-dad-do",
+    "hsk_level": 1,
+    "title": "What Does Dad Do?",
+    "first_chapter_slug": "chapter-1-dad-comes-home"
+  },
+  {
+    "slug": "cooking-for-friends",
+    "hsk_level": 1,
+    "title": "Cooking for Friends",
+    "first_chapter_slug": "chapter-1-market-closes"
+  },
+  {
+    "slug": "new-classmate",
+    "hsk_level": 1,
+    "title": "The New Classmate",
+    "first_chapter_slug": "chapter-1-cannot-find-the-library"
+  },
+  {
+    "slug": "bus-ride",
+    "hsk_level": 1,
+    "title": "The Bus Ride",
+    "first_chapter_slug": "chapter-1-waiting-in-rain"
+  },
+  {
+    "slug": "morning-at-home",
+    "hsk_level": 1,
+    "title": "Morning at Home",
+    "first_chapter_slug": "chapter-1-dad-cooks"
+  },
+  {
+    "slug": "long-phone-call",
+    "hsk_level": 1,
+    "title": "The Long Phone Call",
+    "first_chapter_slug": "chapter-1-a-long-awaited-call"
+  },
+  {
+    "slug": "visiting-grandpa-hospital",
+    "hsk_level": 1,
+    "title": "Visiting Grandpa in the Hospital",
+    "first_chapter_slug": "chapter-1-a-glass-of-water-from-mom"
+  },
+  {
+    "slug": "first-day-school",
+    "hsk_level": 1,
+    "title": "First Day of School",
+    "first_chapter_slug": "chapter-1-find-the-classroom"
+  },
+  {
+    "slug": "ordering-lunch",
+    "hsk_level": 1,
+    "title": "Ordering Lunch",
+    "first_chapter_slug": "chapter-1-unreadable-menu"
+  },
+  {
+    "slug": "buying-a-gift",
+    "hsk_level": 1,
+    "title": "Buying a Gift",
+    "first_chapter_slug": "chapter-1-market-morning"
+  },
+  {
+    "slug": "weekend-park",
+    "hsk_level": 1,
+    "title": "Weekend in the Park",
+    "first_chapter_slug": "chapter-1-sideline-encounter"
+  }
+]

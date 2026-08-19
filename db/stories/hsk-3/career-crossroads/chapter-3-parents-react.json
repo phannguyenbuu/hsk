@@ -1,0 +1,3919 @@
+{
+  "chapter_number": 3,
+  "chapter_slug": "chapter-3-parents-react",
+  "title_en": "Parents React",
+  "content_html": "<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">第<rt>dì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">三<rt>sān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">天<rt>tiān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">晚<rt>wǎn</rt></ruby><ruby data-tone=\"5\">上<rt>shang</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">吃<rt>chī</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">完<rt>wán</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">饭<rt>fàn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">以<rt>yǐ</rt></ruby><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">坐<rt>zuò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">客<rt>kè</rt></ruby><ruby data-tone=\"1\">厅<rt>tīng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">心<rt>xīn</rt></ruby><ruby data-tone=\"5\">里<rt>li</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">紧<rt>jǐn</rt></ruby><ruby data-tone=\"1\">张<rt>zhāng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">电<rt>diàn</rt></ruby><ruby data-tone=\"4\">视<rt>shì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">收<rt>shōu</rt></ruby><ruby data-tone=\"5\">拾<rt>shi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">桌<rt>zhuō</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">深<rt>shēn</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">呼<rt>hū</rt></ruby><ruby data-tone=\"1\">吸<rt>xī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">然<rt>rán</rt></ruby><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">件<rt>jiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">事<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">跟<rt>gēn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">电<rt>diàn</rt></ruby><ruby data-tone=\"4\">视<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">关<rt>guān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">转<rt>zhuǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">身<rt>shēn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">停<rt>tíng</rt></ruby><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">工<rt>gōng</rt></ruby><ruby data-tone=\"4\">作<rt>zuò</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">坐<rt>zuò</rt></ruby><ruby data-tone=\"5\">下<rt>xia</rt></ruby></span>。</p>\n<p>“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">什<rt>shén</rt></ruby><ruby data-tone=\"5\">么<rt>me</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">事<rt>shì</rt></ruby></span>？”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">问<rt>wèn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脸<rt>liǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"1\">些<rt>xiē</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">担<rt>dān</rt></ruby><ruby data-tone=\"1\">心<rt>xīn</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"1\">些<rt>xiē</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">凉<rt>liáng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">三<rt>sān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">天<rt>tiān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">前<rt>qián</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">接<rt>jiē</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">一<rt>yí</rt></ruby><ruby data-tone=\"4\">个<rt>gè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">电<rt>diàn</rt></ruby><ruby data-tone=\"4\">话<rt>huà</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby><ruby data-tone=\"3\">海<rt>hǎi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"1\">家<rt>jiā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">大<rt>dà</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">公<rt>gōng</rt></ruby><ruby data-tone=\"1\">司<rt>sī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">请<rt>qǐng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">工<rt>gōng</rt></ruby><ruby data-tone=\"4\">作<rt>zuò</rt></ruby></span>。<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">工<rt>gōng</rt></ruby><ruby data-tone=\"1\">资<rt>zī</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">比<rt>bǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">现<rt>xiàn</rt></ruby><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">高<rt>gāo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">多<rt>duō</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">完<rt>wán</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">以<rt>yǐ</rt></ruby><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">客<rt>kè</rt></ruby><ruby data-tone=\"1\">厅<rt>tīng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"4\">下<rt>xià</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">安<rt>ān</rt></ruby><ruby data-tone=\"4\">静<rt>jìng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">电<rt>diàn</rt></ruby><ruby data-tone=\"4\">视<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby><ruby data-tone=\"4\">话<rt>huà</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">听<rt>tīng</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">沉<rt>chén</rt></ruby><ruby data-tone=\"4\">默<rt>mò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">久<rt>jiǔ</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">他<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">什<rt>shén</rt></ruby><ruby data-tone=\"5\">么<rt>me</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">又<rt>yòu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">什<rt>shén</rt></ruby><ruby data-tone=\"5\">么<rt>me</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">话<rt>huà</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">都<rt>dōu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">终<rt>zhōng</rt></ruby><ruby data-tone=\"2\">于<rt>yú</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">开<rt>kāi</rt></ruby><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">他<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">低<rt>dī</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">清<rt>qīng</rt></ruby><ruby data-tone=\"5\">楚<rt>chu</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">为<rt>wèi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">感<rt>gǎn</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">骄<rt>jiāo</rt></ruby><ruby data-tone=\"4\">傲<rt>ào</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">听<rt>tīng</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">句<rt>jù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">话<rt>huà</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"5\">睛<rt>jing</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"1\">些<rt>xiē</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">时<rt>shí</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">候<rt>hòu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">开<rt>kāi</rt></ruby><ruby data-tone=\"3\">始<rt>shǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">流<rt>liú</rt></ruby><ruby data-tone=\"4\">泪<rt>lèi</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby><ruby data-tone=\"1\">声<rt>shēng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">只<rt>zhǐ</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"4\">泪<rt>lèi</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"2\">直<rt>zhí</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">往<rt>wǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">掉<rt>diào</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">用<rt>yòng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby><ruby data-tone=\"1\">巾<rt>jīn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">擦<rt>cā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"5\">睛<rt>jing</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"4\">泪<rt>lèi</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">还<rt>hái</rt></ruby><ruby data-tone=\"5\">是<rt>shi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby><ruby data-tone=\"2\">停<rt>tíng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">地<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">流<rt>liú</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">什<rt>shén</rt></ruby><ruby data-tone=\"5\">么<rt>me</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">话<rt>huà</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">都<rt>dōu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">就<rt>jiù</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby><ruby data-tone=\"4\">样<rt>yàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">坐<rt>zuò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">那<rt>nà</rt></ruby><ruby data-tone=\"5\">里<rt>li</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"4\">泪<rt>lèi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">心<rt>xīn</rt></ruby><ruby data-tone=\"5\">里<rt>li</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">非<rt>fēi</rt></ruby><ruby data-tone=\"2\">常<rt>cháng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">难<rt>nán</rt></ruby><ruby data-tone=\"4\">受<rt>shòu</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">觉<rt>jué</rt></ruby><ruby data-tone=\"5\">得<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">自<rt>zì</rt></ruby><ruby data-tone=\"3\">己<rt>jǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">很<rt>hěn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">对<rt>duì</rt></ruby><ruby data-tone=\"5\">不<rt>bu</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">他<rt>tā</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">对<rt>duì</rt></ruby><ruby data-tone=\"5\">不<rt>bu</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span>”，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">嘴<rt>zuǐ</rt></ruby><ruby data-tone=\"5\">巴<rt>ba</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">张<rt>zhāng</rt></ruby><ruby data-tone=\"1\">开<rt>kāi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">却<rt>què</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">站<rt>zhàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby><ruby data-tone=\"5\">来<rt>lai</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">厨<rt>chú</rt></ruby><ruby data-tone=\"2\">房<rt>fáng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">跟<rt>gēn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">拉<rt>lā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">住<rt>zhù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span>。</p>\n<p>“<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">让<rt>ràng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">你<rt>nǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">一<rt>yí</rt></ruby><ruby data-tone=\"4\">个<rt>gè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">待<rt>dāi</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"4\">会<rt>huì</rt></ruby><ruby data-tone=\"5\">儿<rt>er</rt></ruby></span>，”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>，“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">需<rt>xū</rt></ruby><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">时<rt>shí</rt></ruby><ruby data-tone=\"1\">间<rt>jiān</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">雨<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">晴<rt>qíng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">坐<rt>zuò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">爸<rt>bà</rt></ruby><ruby data-tone=\"5\">爸<rt>ba</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">旁<rt>páng</rt></ruby><ruby data-tone=\"1\">边<rt>biān</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">看<rt>kàn</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">厨<rt>chú</rt></ruby><ruby data-tone=\"2\">房<rt>fáng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">门<rt>mén</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">听<rt>tīng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">不<rt>bú</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">但<rt>dàn</rt></ruby><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">知<rt>zhī</rt></ruby><ruby data-tone=\"4\">道<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">还<rt>hái</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">哭<rt>kū</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">心<rt>xīn</rt></ruby><ruby data-tone=\"5\">里<rt>li</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span>：<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">如<rt>rú</rt></ruby><ruby data-tone=\"3\">果<rt>guǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby><ruby data-tone=\"3\">海<rt>hǎi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">妈<rt>mā</rt></ruby><ruby data-tone=\"5\">妈<rt>ma</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">会<rt>huì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">怎<rt>zěn</rt></ruby><ruby data-tone=\"5\">么<rt>me</rt></ruby><ruby data-tone=\"4\">样<rt>yàng</rt></ruby></span>？</p>\n",
+  "pinyin_data": [
+    [
+      {
+        "w": "第",
+        "p": "dì"
+      },
+      {
+        "w": "三",
+        "p": "sān"
+      },
+      {
+        "w": "天",
+        "p": "tiān"
+      },
+      {
+        "w": "晚上",
+        "p": "wǎn shang"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "吃",
+        "p": "chī"
+      },
+      {
+        "w": "完",
+        "p": "wán"
+      },
+      {
+        "w": "饭",
+        "p": "fàn"
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "坐",
+        "p": "zuò"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "客厅",
+        "p": "kè tīng"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "心里",
+        "p": "xīn li"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "紧张",
+        "p": "jǐn zhāng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "收拾",
+        "p": "shōu shi"
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "深",
+        "p": "shēn"
+      },
+      {
+        "w": "呼吸",
+        "p": "hū xī"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "一下",
+        "p": "yī xià"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "然后",
+        "p": "rán hòu"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "爸",
+        "p": "bà"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈",
+        "p": "mā"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "有",
+        "p": "yǒu"
+      },
+      {
+        "w": "件",
+        "p": "jiàn"
+      },
+      {
+        "w": "事",
+        "p": "shì"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "跟",
+        "p": "gēn"
+      },
+      {
+        "w": "你们",
+        "p": "nǐ men"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "关",
+        "p": "guān"
+      },
+      {
+        "w": "小",
+        "p": "xiǎo"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "转",
+        "p": "zhuǎn"
+      },
+      {
+        "w": "过",
+        "p": "guò"
+      },
+      {
+        "w": "身",
+        "p": "shēn"
+      },
+      {
+        "w": "来",
+        "p": "lái"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "停下",
+        "p": "tíng xià"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "手里",
+        "p": "shǒu lǐ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "工作",
+        "p": "gōng zuò"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "走",
+        "p": "zǒu"
+      },
+      {
+        "w": "过来",
+        "p": "guò lái"
+      },
+      {
+        "w": "坐下",
+        "p": "zuò xia"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "什么",
+        "p": "shén me"
+      },
+      {
+        "w": "事",
+        "p": "shì"
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "问",
+        "p": "wèn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "脸",
+        "p": "liǎn"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē"
+      },
+      {
+        "w": "担心",
+        "p": "dān xīn"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "手",
+        "p": "shǒu"
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē"
+      },
+      {
+        "w": "凉",
+        "p": "liáng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "三",
+        "p": "sān"
+      },
+      {
+        "w": "天",
+        "p": "tiān"
+      },
+      {
+        "w": "前",
+        "p": "qián"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "接到",
+        "p": "jiē dào"
+      },
+      {
+        "w": "一个",
+        "p": "yí gè"
+      },
+      {
+        "w": "电话",
+        "p": "diàn huà"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "上海",
+        "p": "shàng hǎi"
+      },
+      {
+        "w": "一家",
+        "p": "yī jiā"
+      },
+      {
+        "w": "大",
+        "p": "dà"
+      },
+      {
+        "w": "公司",
+        "p": "gōng sī"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "请",
+        "p": "qǐng"
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "去",
+        "p": "qù"
+      },
+      {
+        "w": "工作",
+        "p": "gōng zuò"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "工资",
+        "p": "gōng zī"
+      },
+      {
+        "w": "比",
+        "p": "bǐ"
+      },
+      {
+        "w": "现在",
+        "p": "xiàn zài"
+      },
+      {
+        "w": "高",
+        "p": "gāo"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "多",
+        "p": "duō"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "完",
+        "p": "wán"
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "客厅",
+        "p": "kè tīng"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "一下子",
+        "p": "yī xià zi"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "安静",
+        "p": "ān jìng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "说话",
+        "p": "shuō huà"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu"
+      },
+      {
+        "w": "人",
+        "p": "rén"
+      },
+      {
+        "w": "听",
+        "p": "tīng"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "沉默",
+        "p": "chén mò"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "久",
+        "p": "jiǔ"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "好像",
+        "p": "hǎo xiàng"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "什么",
+        "p": "shén me"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "又",
+        "p": "yòu"
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "什么",
+        "p": "shén me"
+      },
+      {
+        "w": "话",
+        "p": "huà"
+      },
+      {
+        "w": "都",
+        "p": "dōu"
+      },
+      {
+        "w": "没",
+        "p": "méi"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "终于",
+        "p": "zhōng yú"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "开口",
+        "p": "kāi kǒu"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "低",
+        "p": "dī"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "清楚",
+        "p": "qīng chu"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "为",
+        "p": "wèi"
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "感到",
+        "p": "gǎn dào"
+      },
+      {
+        "w": "骄傲",
+        "p": "jiāo ào"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "听到",
+        "p": "tīng dào"
+      },
+      {
+        "w": "这",
+        "p": "zhè"
+      },
+      {
+        "w": "句",
+        "p": "jù"
+      },
+      {
+        "w": "话",
+        "p": "huà"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing"
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē"
+      },
+      {
+        "w": "红",
+        "p": "hóng"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "这",
+        "p": "zhè"
+      },
+      {
+        "w": "时",
+        "p": "shí"
+      },
+      {
+        "w": "候",
+        "p": "hòu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "看到",
+        "p": "kàn dào"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "开始",
+        "p": "kāi shǐ"
+      },
+      {
+        "w": "流泪",
+        "p": "liú lèi"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu"
+      },
+      {
+        "w": "出声",
+        "p": "chū shēng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "只是",
+        "p": "zhǐ shì"
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi"
+      },
+      {
+        "w": "一直",
+        "p": "yī zhí"
+      },
+      {
+        "w": "往",
+        "p": "wǎng"
+      },
+      {
+        "w": "下",
+        "p": "xià"
+      },
+      {
+        "w": "掉",
+        "p": "diào"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "用",
+        "p": "yòng"
+      },
+      {
+        "w": "纸巾",
+        "p": "zhǐ jīn"
+      },
+      {
+        "w": "擦",
+        "p": "cā"
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi"
+      },
+      {
+        "w": "还是",
+        "p": "hái shi"
+      },
+      {
+        "w": "不停",
+        "p": "bù tíng"
+      },
+      {
+        "w": "地",
+        "p": "de"
+      },
+      {
+        "w": "流",
+        "p": "liú"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "什么",
+        "p": "shén me"
+      },
+      {
+        "w": "话",
+        "p": "huà"
+      },
+      {
+        "w": "都",
+        "p": "dōu"
+      },
+      {
+        "w": "不",
+        "p": "bù"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "就",
+        "p": "jiù"
+      },
+      {
+        "w": "这样",
+        "p": "zhè yàng"
+      },
+      {
+        "w": "坐",
+        "p": "zuò"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "那里",
+        "p": "nà li"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "看到",
+        "p": "kàn dào"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "心里",
+        "p": "xīn li"
+      },
+      {
+        "w": "非常",
+        "p": "fēi cháng"
+      },
+      {
+        "w": "难受",
+        "p": "nán shòu"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "觉得",
+        "p": "jué de"
+      },
+      {
+        "w": "自己",
+        "p": "zì jǐ"
+      },
+      {
+        "w": "很",
+        "p": "hěn"
+      },
+      {
+        "w": "对不起",
+        "p": "duì bu qǐ"
+      },
+      {
+        "w": "他们",
+        "p": "tā men"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "对不起",
+        "p": "duì bu qǐ"
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "嘴巴",
+        "p": "zuǐ ba"
+      },
+      {
+        "w": "张开",
+        "p": "zhāng kāi"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "却",
+        "p": "què"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "不",
+        "p": "bù"
+      },
+      {
+        "w": "出来",
+        "p": "chū lái"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "站",
+        "p": "zhàn"
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "走",
+        "p": "zǒu"
+      },
+      {
+        "w": "到",
+        "p": "dào"
+      },
+      {
+        "w": "厨房",
+        "p": "chú fáng"
+      },
+      {
+        "w": "去",
+        "p": "qù"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "跟",
+        "p": "gēn"
+      },
+      {
+        "w": "过去",
+        "p": "guò qù"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "拉",
+        "p": "lā"
+      },
+      {
+        "w": "住",
+        "p": "zhù"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "手",
+        "p": "shǒu"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "让",
+        "p": "ràng"
+      },
+      {
+        "w": "你",
+        "p": "nǐ"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "一个",
+        "p": "yí gè"
+      },
+      {
+        "w": "人",
+        "p": "rén"
+      },
+      {
+        "w": "待",
+        "p": "dāi"
+      },
+      {
+        "w": "一会儿",
+        "p": "yī huì er"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "需要",
+        "p": "xū yào"
+      },
+      {
+        "w": "时间",
+        "p": "shí jiān"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ"
+      },
+      {
+        "w": "晴",
+        "p": "qíng"
+      },
+      {
+        "w": "坐",
+        "p": "zuò"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba"
+      },
+      {
+        "w": "旁边",
+        "p": "páng biān"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "看",
+        "p": "kàn"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "厨房",
+        "p": "chú fáng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "门",
+        "p": "mén"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "听",
+        "p": "tīng"
+      },
+      {
+        "w": "不",
+        "p": "bú"
+      },
+      {
+        "w": "到",
+        "p": "dào"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "知道",
+        "p": "zhī dào"
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "还",
+        "p": "hái"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "哭",
+        "p": "kū"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "心里",
+        "p": "xīn li"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "如果",
+        "p": "rú guǒ"
+      },
+      {
+        "w": "去",
+        "p": "qù"
+      },
+      {
+        "w": "上海",
+        "p": "shàng hǎi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma"
+      },
+      {
+        "w": "会",
+        "p": "huì"
+      },
+      {
+        "w": "怎么样",
+        "p": "zěn me yàng"
+      },
+      {
+        "w": "？",
+        "p": null
+      }
+    ]
+  ],
+  "translation_data_vi": {
+    "第三天晚上，吃完饭以后，雨晴坐在客厅里，心里很紧张。": "Tối ngày thứ ba, sau bữa tối, Ngọc Thanh ngồi trong phòng khách, cảm thấy rất căng thẳng.",
+    "爸爸在看电视，妈妈在收拾桌子。": "Bố đang xem TV, còn mẹ đang dọn bàn.",
+    "雨晴深呼吸了一下，然后说：爸，妈，我有件事想跟你们说。": "Yuqing hít một hơi thật sâu rồi nói: \"Bố, mẹ, con có chuyện muốn nói với bố.\"",
+    "爸爸把电视的声音关小了，转过身来看着她。": "Bố vặn nhỏ tiếng TV và quay lại nhìn mẹ.",
+    "妈妈也停下了手里的工作，走过来坐下。": "Mẹ cũng dừng việc đang làm và đến ngồi xuống.",
+    "什么事？": "\"Nó là gì vậy?\"",
+    "妈妈问，脸上有些担心。": "Mẹ hỏi với vẻ mặt có chút lo lắng.",
+    "雨晴的手有些凉。": "Tay của Yuqing có chút lạnh.",
+    "她说：三天前，我接到一个电话。": "Cô ấy nói: “Ba ngày trước, tôi nhận được một cuộc điện thoại.”",
+    "上海一家大公司想请我去工作。": "\"Một công ty lớn ở Thượng Hải muốn thuê tôi.\"",
+    "工资比现在高很多。": "\"Mức lương cao hơn nhiều so với mức lương hiện tại của tôi.\"",
+    "说完以后，客厅里一下子很安静。": "Cô nói xong, phòng khách đột nhiên trở nên rất yên tĩnh.",
+    "电视里有人在说话，但是没有人听。": "Ai đó đang nói chuyện trên TV nhưng không ai nghe.",
+    "爸爸沉默了很久。": "Bố im lặng hồi lâu.",
+    "他看着雨晴，好像在想着什么。": "Anh nhìn Yuqing, như thể đang suy nghĩ điều gì đó.",
+    "妈妈看着雨晴，又看着爸爸，什么话都没说。": "Mẹ nhìn Yuqing rồi nhìn bố và không nói gì.",
+    "终于，爸爸开口了。": "Cuối cùng bố cũng lên tiếng.",
+    "他的声音很低，但是很清楚：雨晴，爸爸为你感到骄傲。": "Giọng anh trầm nhưng rất rõ ràng: \"Yuqing, bố tự hào về con.\"",
+    "雨晴听到这句话，眼睛有些红了。": "Khi Yuqing nghe những lời này, đôi mắt cô đỏ hoe.",
+    "但是这时候，她看到妈妈开始流泪。": "Nhưng ngay lúc đó, cô thấy mẹ bắt đầu khóc.",
+    "妈妈没有出声，只是眼泪一直往下掉。": "Mẹ không nói gì nhưng nước mắt cứ rơi.",
+    "她用纸巾擦眼睛，但是眼泪还是不停地流。": "Cô dùng khăn giấy lau mắt nhưng nước mắt vẫn chảy không ngừng.",
+    "她什么话都不说，就这样坐在那里。": "Cô không nói gì chỉ ngồi đó như vậy.",
+    "雨晴看到妈妈的眼泪，心里非常难受。": "Nhìn thấy những giọt nước mắt của mẹ, Yuqing cảm thấy rất khó chịu.",
+    "她觉得自己很对不起他们。": "Cô cảm thấy mình đã làm họ thất vọng.",
+    "她想说对不起，但是嘴巴张开了，却说不出来。": "Cô muốn nói lời xin lỗi, nhưng miệng cô há hốc không nói ra được lời nào.",
+    "妈妈站起来，走到厨房去了。": "Mẹ đứng dậy và đi vào bếp.",
+    "雨晴想跟过去，但是爸爸拉住了她的手。": "Yuqing muốn đi theo cô nhưng bố đã nắm tay cô.",
+    "让你妈妈一个人待一会儿，爸爸说，她需要时间。": "“Hãy để mẹ con ở một mình một lát,” bố nói. \"Cô ấy cần thời gian.\"",
+    "雨晴坐在爸爸旁边，看着厨房的门。": "Ngọc Thanh ngồi cạnh bố, nhìn về phía cửa bếp.",
+    "她听不到妈妈的声音，但是她知道妈妈还在哭。": "Cô không thể nghe thấy giọng mẹ, nhưng cô biết mẹ vẫn đang khóc.",
+    "她心里想：如果去上海，妈妈会怎么样？": "Cô tự nghĩ: Nếu mình đi Thượng Hải, mẹ sẽ ra sao?"
+  },
+  "timestamps": [
+    [
+      {
+        "w": "第",
+        "p": "dì",
+        "s": 1.66,
+        "e": 1.77
+      },
+      {
+        "w": "三",
+        "p": "sān",
+        "s": 1.77,
+        "e": 1.99
+      },
+      {
+        "w": "天",
+        "p": "tiān",
+        "s": 1.99,
+        "e": 2.19
+      },
+      {
+        "w": "晚上",
+        "p": "wǎn shang",
+        "s": 2.19,
+        "e": 2.62
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "吃",
+        "p": "chī",
+        "s": 3.08,
+        "e": 3.23
+      },
+      {
+        "w": "完",
+        "p": "wán",
+        "s": 3.23,
+        "e": 3.4
+      },
+      {
+        "w": "饭",
+        "p": "fàn",
+        "s": 3.4,
+        "e": 3.65
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu",
+        "s": 3.65,
+        "e": 3.98
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 4.3,
+        "e": 4.47
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 4.47,
+        "e": 4.85
+      },
+      {
+        "w": "坐",
+        "p": "zuò",
+        "s": 4.85,
+        "e": 5.01
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 5.01,
+        "e": 5.14
+      },
+      {
+        "w": "客厅",
+        "p": "kè tīng",
+        "s": 5.14,
+        "e": 5.65
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 5.65,
+        "e": 5.8
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "心里",
+        "p": "xīn li",
+        "s": 5.91,
+        "e": 6.25
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 6.25,
+        "e": 6.54
+      },
+      {
+        "w": "紧张",
+        "p": "jǐn zhāng",
+        "s": 6.54,
+        "e": 7.0
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 7.55,
+        "e": 7.94
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 7.94,
+        "e": 8.07
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 8.07,
+        "e": 8.29
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì",
+        "s": 8.29,
+        "e": 8.79
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 9.07,
+        "e": 9.39
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 9.39,
+        "e": 9.51
+      },
+      {
+        "w": "收拾",
+        "p": "shōu shi",
+        "s": 9.51,
+        "e": 9.91
+      },
+      {
+        "w": "桌子",
+        "p": "zhuō zi",
+        "s": 9.91,
+        "e": 10.37
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 10.82,
+        "e": 10.98
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 10.98,
+        "e": 11.36
+      },
+      {
+        "w": "深",
+        "p": "shēn",
+        "s": 11.42,
+        "e": 11.72
+      },
+      {
+        "w": "呼吸",
+        "p": "hū xī",
+        "s": 11.72,
+        "e": 12.14
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 12.14,
+        "e": 12.22
+      },
+      {
+        "w": "一下",
+        "p": "yī xià",
+        "s": 12.22,
+        "e": 12.65
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "然后",
+        "p": "rán hòu",
+        "s": 12.76,
+        "e": 13.1
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 13.1,
+        "e": 13.4
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "爸",
+        "p": "bà",
+        "s": 14.01,
+        "e": 14.31
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈",
+        "p": "mā",
+        "s": 14.79,
+        "e": 15.06
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 15.39,
+        "e": 15.51
+      },
+      {
+        "w": "有",
+        "p": "yǒu",
+        "s": 15.51,
+        "e": 15.65
+      },
+      {
+        "w": "件",
+        "p": "jiàn",
+        "s": 15.65,
+        "e": 15.83
+      },
+      {
+        "w": "事",
+        "p": "shì",
+        "s": 15.83,
+        "e": 16.1
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 16.13,
+        "e": 16.36
+      },
+      {
+        "w": "跟",
+        "p": "gēn",
+        "s": 16.36,
+        "e": 16.52
+      },
+      {
+        "w": "你们",
+        "p": "nǐ men",
+        "s": 16.52,
+        "e": 16.7
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 16.7,
+        "e": 17.0
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 17.63,
+        "e": 17.92
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 17.92,
+        "e": 18.05
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì",
+        "s": 18.05,
+        "e": 18.44
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 18.44,
+        "e": 18.52
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 18.52,
+        "e": 18.87
+      },
+      {
+        "w": "关",
+        "p": "guān",
+        "s": 18.87,
+        "e": 19.07
+      },
+      {
+        "w": "小",
+        "p": "xiǎo",
+        "s": 19.07,
+        "e": 19.31
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 19.31,
+        "e": 19.54
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "转",
+        "p": "zhuǎn",
+        "s": 19.86,
+        "e": 20.08
+      },
+      {
+        "w": "过",
+        "p": "guò",
+        "s": 20.08,
+        "e": 20.19
+      },
+      {
+        "w": "身",
+        "p": "shēn",
+        "s": 20.19,
+        "e": 20.36
+      },
+      {
+        "w": "来",
+        "p": "lái",
+        "s": 20.36,
+        "e": 20.48
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 20.48,
+        "e": 20.74
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 20.74,
+        "e": 20.84
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 20.84,
+        "e": 21.04
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 21.56,
+        "e": 21.89
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 21.89,
+        "e": 22.03
+      },
+      {
+        "w": "停下",
+        "p": "tíng xià",
+        "s": 22.03,
+        "e": 22.46
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 22.46,
+        "e": 22.56
+      },
+      {
+        "w": "手里",
+        "p": "shǒu lǐ",
+        "s": 22.56,
+        "e": 22.89
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 22.89,
+        "e": 22.98
+      },
+      {
+        "w": "工作",
+        "p": "gōng zuò",
+        "s": 22.98,
+        "e": 23.43
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "走",
+        "p": "zǒu",
+        "s": 23.59,
+        "e": 23.83
+      },
+      {
+        "w": "过来",
+        "p": "guò lái",
+        "s": 23.83,
+        "e": 24.09
+      },
+      {
+        "w": "坐下",
+        "p": "zuò xia",
+        "s": 24.09,
+        "e": 24.57
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "什么",
+        "p": "shén me",
+        "s": 24.91,
+        "e": 25.37
+      },
+      {
+        "w": "事",
+        "p": "shì",
+        "s": 25.37,
+        "e": 25.66
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 25.92,
+        "e": 26.24
+      },
+      {
+        "w": "问",
+        "p": "wèn",
+        "s": 26.24,
+        "e": 26.45
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "脸",
+        "p": "liǎn",
+        "s": 26.62,
+        "e": 26.87
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 26.87,
+        "e": 27.03
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē",
+        "s": 27.03,
+        "e": 27.28
+      },
+      {
+        "w": "担心",
+        "p": "dān xīn",
+        "s": 27.28,
+        "e": 27.73
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 28.12,
+        "e": 28.28
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 28.28,
+        "e": 28.48
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 28.48,
+        "e": 28.56
+      },
+      {
+        "w": "手",
+        "p": "shǒu",
+        "s": 28.56,
+        "e": 28.96
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē",
+        "s": 28.99,
+        "e": 29.3
+      },
+      {
+        "w": "凉",
+        "p": "liáng",
+        "s": 29.3,
+        "e": 29.64
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 29.82,
+        "e": 29.98
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 29.98,
+        "e": 30.26
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "三",
+        "p": "sān",
+        "s": 30.55,
+        "e": 30.78
+      },
+      {
+        "w": "天",
+        "p": "tiān",
+        "s": 30.78,
+        "e": 30.97
+      },
+      {
+        "w": "前",
+        "p": "qián",
+        "s": 30.97,
+        "e": 31.35
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 31.45,
+        "e": 31.6
+      },
+      {
+        "w": "接到",
+        "p": "jiē dào",
+        "s": 31.6,
+        "e": 31.91
+      },
+      {
+        "w": "一个",
+        "p": "yí gè",
+        "s": 31.91,
+        "e": 32.07
+      },
+      {
+        "w": "电话",
+        "p": "diàn huà",
+        "s": 32.07,
+        "e": 32.51
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "上海",
+        "p": "shàng hǎi",
+        "s": 33.43,
+        "e": 33.96
+      },
+      {
+        "w": "一家",
+        "p": "yī jiā",
+        "s": 33.99,
+        "e": 34.34
+      },
+      {
+        "w": "大",
+        "p": "dà",
+        "s": 34.34,
+        "e": 34.55
+      },
+      {
+        "w": "公司",
+        "p": "gōng sī",
+        "s": 34.55,
+        "e": 35.06
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 35.1,
+        "e": 35.35
+      },
+      {
+        "w": "请",
+        "p": "qǐng",
+        "s": 35.35,
+        "e": 35.53
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 35.53,
+        "e": 35.65
+      },
+      {
+        "w": "去",
+        "p": "qù",
+        "s": 35.65,
+        "e": 35.83
+      },
+      {
+        "w": "工作",
+        "p": "gōng zuò",
+        "s": 35.83,
+        "e": 36.33
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "工资",
+        "p": "gōng zī",
+        "s": 36.59,
+        "e": 36.97
+      },
+      {
+        "w": "比",
+        "p": "bǐ",
+        "s": 36.97,
+        "e": 37.1
+      },
+      {
+        "w": "现在",
+        "p": "xiàn zài",
+        "s": 37.1,
+        "e": 37.46
+      },
+      {
+        "w": "高",
+        "p": "gāo",
+        "s": 37.46,
+        "e": 37.71
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 37.71,
+        "e": 37.94
+      },
+      {
+        "w": "多",
+        "p": "duō",
+        "s": 37.94,
+        "e": 38.13
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 38.78,
+        "e": 39.0
+      },
+      {
+        "w": "完",
+        "p": "wán",
+        "s": 39.0,
+        "e": 39.23
+      },
+      {
+        "w": "以后",
+        "p": "yǐ hòu",
+        "s": 39.23,
+        "e": 39.59
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "客厅",
+        "p": "kè tīng",
+        "s": 39.8,
+        "e": 40.18
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 40.18,
+        "e": 40.26
+      },
+      {
+        "w": "一下子",
+        "p": "yī xià zi",
+        "s": 40.26,
+        "e": 40.7
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 40.7,
+        "e": 40.89
+      },
+      {
+        "w": "安静",
+        "p": "ān jìng",
+        "s": 40.89,
+        "e": 41.4
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "电视",
+        "p": "diàn shì",
+        "s": 41.76,
+        "e": 42.15
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 42.15,
+        "e": 42.39
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén",
+        "s": 42.44,
+        "e": 42.88
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 42.88,
+        "e": 43.02
+      },
+      {
+        "w": "说话",
+        "p": "shuō huà",
+        "s": 43.02,
+        "e": 43.49
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 43.79,
+        "e": 44.2
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu",
+        "s": 44.33,
+        "e": 44.65
+      },
+      {
+        "w": "人",
+        "p": "rén",
+        "s": 44.65,
+        "e": 44.89
+      },
+      {
+        "w": "听",
+        "p": "tīng",
+        "s": 44.89,
+        "e": 45.2
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 45.78,
+        "e": 46.07
+      },
+      {
+        "w": "沉默",
+        "p": "chén mò",
+        "s": 46.07,
+        "e": 46.5
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 46.5,
+        "e": 46.59
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 46.59,
+        "e": 46.9
+      },
+      {
+        "w": "久",
+        "p": "jiǔ",
+        "s": 46.9,
+        "e": 47.15
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā",
+        "s": 47.3,
+        "e": 47.4
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 47.4,
+        "e": 47.65
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 47.65,
+        "e": 47.76
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 47.76,
+        "e": 47.92
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 47.92,
+        "e": 48.26
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "好像",
+        "p": "hǎo xiàng",
+        "s": 48.46,
+        "e": 48.88
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 48.88,
+        "e": 49.0
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 49.0,
+        "e": 49.29
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 49.29,
+        "e": 49.4
+      },
+      {
+        "w": "什么",
+        "p": "shén me",
+        "s": 49.4,
+        "e": 49.71
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 50.14,
+        "e": 50.47
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 50.47,
+        "e": 50.74
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 50.74,
+        "e": 50.84
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 50.84,
+        "e": 51.02
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 51.02,
+        "e": 51.34
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "又",
+        "p": "yòu",
+        "s": 51.46,
+        "e": 51.62
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 51.62,
+        "e": 51.82
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 51.82,
+        "e": 51.92
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 51.92,
+        "e": 52.31
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "什么",
+        "p": "shén me",
+        "s": 52.53,
+        "e": 52.84
+      },
+      {
+        "w": "话",
+        "p": "huà",
+        "s": 52.84,
+        "e": 53.05
+      },
+      {
+        "w": "都",
+        "p": "dōu",
+        "s": 53.05,
+        "e": 53.17
+      },
+      {
+        "w": "没",
+        "p": "méi",
+        "s": 53.17,
+        "e": 53.35
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 53.35,
+        "e": 53.64
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "终于",
+        "p": "zhōng yú",
+        "s": 54.16,
+        "e": 54.44
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 54.44,
+        "e": 54.71
+      },
+      {
+        "w": "开口",
+        "p": "kāi kǒu",
+        "s": 54.71,
+        "e": 55.19
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 55.19,
+        "e": 55.35
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā",
+        "s": 55.67,
+        "e": 55.78
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 55.78,
+        "e": 55.88
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 55.88,
+        "e": 56.26
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 56.26,
+        "e": 56.53
+      },
+      {
+        "w": "低",
+        "p": "dī",
+        "s": 56.53,
+        "e": 56.79
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 57.04,
+        "e": 57.31
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 57.31,
+        "e": 57.51
+      },
+      {
+        "w": "清楚",
+        "p": "qīng chu",
+        "s": 57.51,
+        "e": 58.01
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 58.42,
+        "e": 58.58
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 58.58,
+        "e": 59.02
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 59.29,
+        "e": 59.56
+      },
+      {
+        "w": "为",
+        "p": "wèi",
+        "s": 59.56,
+        "e": 59.74
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 59.74,
+        "e": 60.03
+      },
+      {
+        "w": "感到",
+        "p": "gǎn dào",
+        "s": 60.14,
+        "e": 60.44
+      },
+      {
+        "w": "骄傲",
+        "p": "jiāo ào",
+        "s": 60.44,
+        "e": 60.89
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 61.29,
+        "e": 61.44
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 61.44,
+        "e": 61.64
+      },
+      {
+        "w": "听到",
+        "p": "tīng dào",
+        "s": 61.64,
+        "e": 61.91
+      },
+      {
+        "w": "这",
+        "p": "zhè",
+        "s": 61.91,
+        "e": 62.07
+      },
+      {
+        "w": "句",
+        "p": "jù",
+        "s": 62.07,
+        "e": 62.22
+      },
+      {
+        "w": "话",
+        "p": "huà",
+        "s": 62.22,
+        "e": 62.51
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing",
+        "s": 62.65,
+        "e": 63.06
+      },
+      {
+        "w": "有些",
+        "p": "yǒu xiē",
+        "s": 63.06,
+        "e": 63.37
+      },
+      {
+        "w": "红",
+        "p": "hóng",
+        "s": 63.37,
+        "e": 63.73
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 63.73,
+        "e": 63.85
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 64.18,
+        "e": 64.49
+      },
+      {
+        "w": "这",
+        "p": "zhè",
+        "s": 64.49,
+        "e": 64.71
+      },
+      {
+        "w": "时",
+        "p": "shí",
+        "s": 64.71,
+        "e": 64.89
+      },
+      {
+        "w": "候",
+        "p": "hòu",
+        "s": 64.89,
+        "e": 65.14
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 65.43,
+        "e": 65.55
+      },
+      {
+        "w": "看到",
+        "p": "kàn dào",
+        "s": 65.55,
+        "e": 65.89
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 65.89,
+        "e": 66.24
+      },
+      {
+        "w": "开始",
+        "p": "kāi shǐ",
+        "s": 66.24,
+        "e": 66.67
+      },
+      {
+        "w": "流泪",
+        "p": "liú lèi",
+        "s": 66.67,
+        "e": 67.16
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 67.65,
+        "e": 68.01
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu",
+        "s": 68.01,
+        "e": 68.23
+      },
+      {
+        "w": "出声",
+        "p": "chū shēng",
+        "s": 68.23,
+        "e": 68.71
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "只是",
+        "p": "zhǐ shì",
+        "s": 68.99,
+        "e": 69.24
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi",
+        "s": 69.24,
+        "e": 69.71
+      },
+      {
+        "w": "一直",
+        "p": "yī zhí",
+        "s": 69.78,
+        "e": 70.16
+      },
+      {
+        "w": "往",
+        "p": "wǎng",
+        "s": 70.16,
+        "e": 70.36
+      },
+      {
+        "w": "下",
+        "p": "xià",
+        "s": 70.36,
+        "e": 70.54
+      },
+      {
+        "w": "掉",
+        "p": "diào",
+        "s": 70.54,
+        "e": 70.79
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 71.22,
+        "e": 71.36
+      },
+      {
+        "w": "用",
+        "p": "yòng",
+        "s": 71.36,
+        "e": 71.54
+      },
+      {
+        "w": "纸巾",
+        "p": "zhǐ jīn",
+        "s": 71.54,
+        "e": 71.99
+      },
+      {
+        "w": "擦",
+        "p": "cā",
+        "s": 71.99,
+        "e": 72.25
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing",
+        "s": 72.25,
+        "e": 72.76
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 72.95,
+        "e": 73.36
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi",
+        "s": 73.45,
+        "e": 73.84
+      },
+      {
+        "w": "还是",
+        "p": "hái shi",
+        "s": 73.84,
+        "e": 74.17
+      },
+      {
+        "w": "不停",
+        "p": "bù tíng",
+        "s": 74.17,
+        "e": 74.64
+      },
+      {
+        "w": "地",
+        "p": "de",
+        "s": 74.64,
+        "e": 74.75
+      },
+      {
+        "w": "流",
+        "p": "liú",
+        "s": 74.75,
+        "e": 75.03
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 75.41,
+        "e": 75.52
+      },
+      {
+        "w": "什么",
+        "p": "shén me",
+        "s": 75.52,
+        "e": 75.85
+      },
+      {
+        "w": "话",
+        "p": "huà",
+        "s": 75.85,
+        "e": 76.04
+      },
+      {
+        "w": "都",
+        "p": "dōu",
+        "s": 76.04,
+        "e": 76.14
+      },
+      {
+        "w": "不",
+        "p": "bù",
+        "s": 76.14,
+        "e": 76.28
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 76.28,
+        "e": 76.56
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "就",
+        "p": "jiù",
+        "s": 76.77,
+        "e": 76.93
+      },
+      {
+        "w": "这样",
+        "p": "zhè yàng",
+        "s": 76.93,
+        "e": 77.26
+      },
+      {
+        "w": "坐",
+        "p": "zuò",
+        "s": 77.26,
+        "e": 77.42
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 77.42,
+        "e": 77.54
+      },
+      {
+        "w": "那里",
+        "p": "nà li",
+        "s": 77.54,
+        "e": 77.93
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 78.89,
+        "e": 79.05
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 79.05,
+        "e": 79.36
+      },
+      {
+        "w": "看到",
+        "p": "kàn dào",
+        "s": 79.36,
+        "e": 79.61
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 79.61,
+        "e": 79.9
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 79.9,
+        "e": 80.0
+      },
+      {
+        "w": "眼泪",
+        "p": "yǎn lèi",
+        "s": 80.0,
+        "e": 80.47
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "心里",
+        "p": "xīn li",
+        "s": 80.57,
+        "e": 80.95
+      },
+      {
+        "w": "非常",
+        "p": "fēi cháng",
+        "s": 80.95,
+        "e": 81.39
+      },
+      {
+        "w": "难受",
+        "p": "nán shòu",
+        "s": 81.39,
+        "e": 81.83
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 82.17,
+        "e": 82.3
+      },
+      {
+        "w": "觉得",
+        "p": "jué de",
+        "s": 82.3,
+        "e": 82.57
+      },
+      {
+        "w": "自己",
+        "p": "zì jǐ",
+        "s": 82.57,
+        "e": 82.9
+      },
+      {
+        "w": "很",
+        "p": "hěn",
+        "s": 82.9,
+        "e": 83.14
+      },
+      {
+        "w": "对不起",
+        "p": "duì bu qǐ",
+        "s": 83.14,
+        "e": 83.6
+      },
+      {
+        "w": "他们",
+        "p": "tā men",
+        "s": 83.6,
+        "e": 83.99
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 84.3,
+        "e": 84.44
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 84.44,
+        "e": 84.61
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 84.61,
+        "e": 84.83
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "对不起",
+        "p": "duì bu qǐ",
+        "s": 84.83,
+        "e": 85.39
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 85.72,
+        "e": 85.99
+      },
+      {
+        "w": "嘴巴",
+        "p": "zuǐ ba",
+        "s": 85.99,
+        "e": 86.3
+      },
+      {
+        "w": "张开",
+        "p": "zhāng kāi",
+        "s": 86.3,
+        "e": 86.8
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 86.8,
+        "e": 86.92
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "却",
+        "p": "què",
+        "s": 87.13,
+        "e": 87.35
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 87.35,
+        "e": 87.64
+      },
+      {
+        "w": "不",
+        "p": "bù",
+        "s": 87.64,
+        "e": 87.75
+      },
+      {
+        "w": "出来",
+        "p": "chū lái",
+        "s": 87.75,
+        "e": 88.33
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 88.83,
+        "e": 89.15
+      },
+      {
+        "w": "站",
+        "p": "zhàn",
+        "s": 89.15,
+        "e": 89.39
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai",
+        "s": 89.39,
+        "e": 89.8
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "走",
+        "p": "zǒu",
+        "s": 89.92,
+        "e": 90.11
+      },
+      {
+        "w": "到",
+        "p": "dào",
+        "s": 90.11,
+        "e": 90.25
+      },
+      {
+        "w": "厨房",
+        "p": "chú fáng",
+        "s": 90.25,
+        "e": 90.84
+      },
+      {
+        "w": "去",
+        "p": "qù",
+        "s": 90.84,
+        "e": 91.06
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 91.06,
+        "e": 91.14
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 91.64,
+        "e": 91.8
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 91.8,
+        "e": 92.0
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 92.0,
+        "e": 92.22
+      },
+      {
+        "w": "跟",
+        "p": "gēn",
+        "s": 92.22,
+        "e": 92.49
+      },
+      {
+        "w": "过去",
+        "p": "guò qù",
+        "s": 92.49,
+        "e": 92.85
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 93.03,
+        "e": 93.29
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 93.29,
+        "e": 93.7
+      },
+      {
+        "w": "拉",
+        "p": "lā",
+        "s": 93.86,
+        "e": 94.09
+      },
+      {
+        "w": "住",
+        "p": "zhù",
+        "s": 94.09,
+        "e": 94.22
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 94.22,
+        "e": 94.31
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 94.31,
+        "e": 94.44
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 94.44,
+        "e": 94.52
+      },
+      {
+        "w": "手",
+        "p": "shǒu",
+        "s": 94.52,
+        "e": 94.73
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "让",
+        "p": "ràng",
+        "s": 94.99,
+        "e": 95.21
+      },
+      {
+        "w": "你",
+        "p": "nǐ",
+        "s": 95.21,
+        "e": 95.31
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 95.31,
+        "e": 95.57
+      },
+      {
+        "w": "一个",
+        "p": "yí gè",
+        "s": 95.57,
+        "e": 95.84
+      },
+      {
+        "w": "人",
+        "p": "rén",
+        "s": 95.84,
+        "e": 96.03
+      },
+      {
+        "w": "待",
+        "p": "dāi",
+        "s": 96.03,
+        "e": 96.2
+      },
+      {
+        "w": "一会儿",
+        "p": "yī huì er",
+        "s": 96.2,
+        "e": 96.51
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 96.86,
+        "e": 97.09
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 97.09,
+        "e": 97.41
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 97.56,
+        "e": 97.69
+      },
+      {
+        "w": "需要",
+        "p": "xū yào",
+        "s": 97.69,
+        "e": 97.99
+      },
+      {
+        "w": "时间",
+        "p": "shí jiān",
+        "s": 97.99,
+        "e": 98.53
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "雨",
+        "p": "yǔ",
+        "s": 99.05,
+        "e": 99.22
+      },
+      {
+        "w": "晴",
+        "p": "qíng",
+        "s": 99.22,
+        "e": 99.54
+      },
+      {
+        "w": "坐",
+        "p": "zuò",
+        "s": 99.54,
+        "e": 99.69
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 99.69,
+        "e": 99.82
+      },
+      {
+        "w": "爸爸",
+        "p": "bà ba",
+        "s": 99.82,
+        "e": 100.11
+      },
+      {
+        "w": "旁边",
+        "p": "páng biān",
+        "s": 100.11,
+        "e": 100.63
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "看",
+        "p": "kàn",
+        "s": 100.86,
+        "e": 101.03
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 101.03,
+        "e": 101.12
+      },
+      {
+        "w": "厨房",
+        "p": "chú fáng",
+        "s": 101.12,
+        "e": 101.53
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 101.53,
+        "e": 101.61
+      },
+      {
+        "w": "门",
+        "p": "mén",
+        "s": 101.61,
+        "e": 101.89
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 102.17,
+        "e": 102.3
+      },
+      {
+        "w": "听",
+        "p": "tīng",
+        "s": 102.3,
+        "e": 102.6
+      },
+      {
+        "w": "不",
+        "p": "bú",
+        "s": 102.6,
+        "e": 102.67
+      },
+      {
+        "w": "到",
+        "p": "dào",
+        "s": 102.67,
+        "e": 102.83
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 102.83,
+        "e": 103.1
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 103.1,
+        "e": 103.18
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 103.18,
+        "e": 103.64
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "但是",
+        "p": "dàn shì",
+        "s": 103.9,
+        "e": 104.14
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 104.14,
+        "e": 104.27
+      },
+      {
+        "w": "知道",
+        "p": "zhī dào",
+        "s": 104.27,
+        "e": 104.7
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 104.84,
+        "e": 105.11
+      },
+      {
+        "w": "还",
+        "p": "hái",
+        "s": 105.11,
+        "e": 105.28
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 105.28,
+        "e": 105.47
+      },
+      {
+        "w": "哭",
+        "p": "kū",
+        "s": 105.5,
+        "e": 105.79
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 106.06,
+        "e": 106.17
+      },
+      {
+        "w": "心里",
+        "p": "xīn li",
+        "s": 106.17,
+        "e": 106.48
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 106.48,
+        "e": 106.75
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "如果",
+        "p": "rú guǒ",
+        "s": 107.07,
+        "e": 107.33
+      },
+      {
+        "w": "去",
+        "p": "qù",
+        "s": 107.33,
+        "e": 107.51
+      },
+      {
+        "w": "上海",
+        "p": "shàng hǎi",
+        "s": 107.51,
+        "e": 108.03
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "妈妈",
+        "p": "mā ma",
+        "s": 108.27,
+        "e": 108.57
+      },
+      {
+        "w": "会",
+        "p": "huì",
+        "s": 108.57,
+        "e": 108.74
+      },
+      {
+        "w": "怎么样",
+        "p": "zěn me yàng",
+        "s": 108.74,
+        "e": 109.18
+      },
+      {
+        "w": "？",
+        "p": null
+      }
+    ]
+  ],
+  "audio_url": "https://audio.hskstory.com/hsk3-career-crossroads/audio/_versions/v5/luna/chapter-03.mp3"
+}

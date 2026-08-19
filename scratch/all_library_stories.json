@@ -1,0 +1,350 @@
+[
+  {
+    "slug": "first-plane-trip",
+    "hsk_level": 1,
+    "title": "First Plane Trip",
+    "first_chapter_slug": "chapter-1-the-taxi-arrives-late"
+  },
+  {
+    "slug": "movie-night",
+    "hsk_level": 1,
+    "title": "Movie Night",
+    "first_chapter_slug": "chapter-1-tickets-sell-out"
+  },
+  {
+    "slug": "school-siblings",
+    "hsk_level": 1,
+    "title": "Walking to School",
+    "first_chapter_slug": "chapter-1-walk-slower"
+  },
+  {
+    "slug": "dads-long-day",
+    "hsk_level": 1,
+    "title": "Dad&#x27;s Long Day",
+    "first_chapter_slug": "chapter-1-where-did-dad-go"
+  },
+  {
+    "slug": "wrong-delivery",
+    "hsk_level": 1,
+    "title": "Wrong Delivery",
+    "first_chapter_slug": "chapter-1-the-misdelivered-package"
+  },
+  {
+    "slug": "weekend-plans",
+    "hsk_level": 1,
+    "title": "Weekend Plans",
+    "first_chapter_slug": "chapter-1-argument-over-the-phone"
+  },
+  {
+    "slug": "pet-cat",
+    "hsk_level": 1,
+    "title": "The Pet Cat",
+    "first_chapter_slug": "chapter-1-meeting-in-the-rain"
+  },
+  {
+    "slug": "birthday-dinner",
+    "hsk_level": 1,
+    "title": "The Birthday Dinner",
+    "first_chapter_slug": "chapter-1-meet-at-restaurant"
+  },
+  {
+    "slug": "asking-the-way",
+    "hsk_level": 1,
+    "title": "Asking the Way",
+    "first_chapter_slug": "chapter-1-books-in-the-bookstore"
+  },
+  {
+    "slug": "taxi-ride",
+    "hsk_level": 1,
+    "title": "The Taxi Ride",
+    "first_chapter_slug": "chapter-1-waiting-in-the-rain"
+  },
+  {
+    "slug": "what-does-dad-do",
+    "hsk_level": 1,
+    "title": "What Does Dad Do?",
+    "first_chapter_slug": "chapter-1-dad-comes-home"
+  },
+  {
+    "slug": "cooking-for-friends",
+    "hsk_level": 1,
+    "title": "Cooking for Friends",
+    "first_chapter_slug": "chapter-1-market-closes"
+  },
+  {
+    "slug": "new-classmate",
+    "hsk_level": 1,
+    "title": "The New Classmate",
+    "first_chapter_slug": "chapter-1-cannot-find-the-library"
+  },
+  {
+    "slug": "bus-ride",
+    "hsk_level": 1,
+    "title": "The Bus Ride",
+    "first_chapter_slug": "chapter-1-waiting-in-rain"
+  },
+  {
+    "slug": "morning-at-home",
+    "hsk_level": 1,
+    "title": "Morning at Home",
+    "first_chapter_slug": "chapter-1-dad-cooks"
+  },
+  {
+    "slug": "long-phone-call",
+    "hsk_level": 1,
+    "title": "The Long Phone Call",
+    "first_chapter_slug": "chapter-1-a-long-awaited-call"
+  },
+  {
+    "slug": "visiting-grandpa-hospital",
+    "hsk_level": 1,
+    "title": "Visiting Grandpa in the Hospital",
+    "first_chapter_slug": "chapter-1-a-glass-of-water-from-mom"
+  },
+  {
+    "slug": "first-day-school",
+    "hsk_level": 1,
+    "title": "First Day of School",
+    "first_chapter_slug": "chapter-1-find-the-classroom"
+  },
+  {
+    "slug": "ordering-lunch",
+    "hsk_level": 1,
+    "title": "Ordering Lunch",
+    "first_chapter_slug": "chapter-1-unreadable-menu"
+  },
+  {
+    "slug": "buying-a-gift",
+    "hsk_level": 1,
+    "title": "Buying a Gift",
+    "first_chapter_slug": "chapter-1-market-morning"
+  },
+  {
+    "slug": "weekend-park",
+    "hsk_level": 1,
+    "title": "Weekend in the Park",
+    "first_chapter_slug": "chapter-1-sideline-encounter"
+  },
+  {
+    "slug": "running-partner",
+    "hsk_level": 2,
+    "title": "Running Partner",
+    "first_chapter_slug": "chapter-1-first-nod"
+  },
+  {
+    "slug": "new-roommates",
+    "hsk_level": 2,
+    "title": "New Roommates",
+    "first_chapter_slug": "chapter-1-meeting-in-the-empty-room"
+  },
+  {
+    "slug": "night-market",
+    "hsk_level": 2,
+    "title": "The Night Market",
+    "first_chapter_slug": "chapter-1-three-paths-diverge"
+  },
+  {
+    "slug": "office-first-week",
+    "hsk_level": 2,
+    "title": "First Week at the Company",
+    "first_chapter_slug": "chapter-1-morning-tension"
+  },
+  {
+    "slug": "rainy-day-plans",
+    "hsk_level": 2,
+    "title": "Rainy Day Plans",
+    "first_chapter_slug": "chapter-1-park-plans-fall-through"
+  },
+  {
+    "slug": "cooking-for-two",
+    "hsk_level": 2,
+    "title": "Cooking for Two",
+    "first_chapter_slug": "chapter-1-choose-love"
+  },
+  {
+    "slug": "gym-beginner",
+    "hsk_level": 2,
+    "title": "Gym Beginner",
+    "first_chapter_slug": "chapter-1-gym-entrance"
+  },
+  {
+    "slug": "video-call",
+    "hsk_level": 2,
+    "title": "The Video Call",
+    "first_chapter_slug": "chapter-1-broken-camera"
+  },
+  {
+    "slug": "driving-lesson",
+    "hsk_level": 2,
+    "title": "Driving Lesson Disaster",
+    "first_chapter_slug": "chapter-1-getting-in-the-car-goes-wrong"
+  },
+  {
+    "slug": "noisy-neighbor",
+    "hsk_level": 2,
+    "title": "The Noisy Neighbor",
+    "first_chapter_slug": "chapter-1-late-night-guitar-sounds"
+  },
+  {
+    "slug": "new-year-dumplings",
+    "hsk_level": 2,
+    "title": "New Year Dumplings",
+    "first_chapter_slug": "chapter-1-grandmas-summons"
+  },
+  {
+    "slug": "late-for-work",
+    "hsk_level": 2,
+    "title": "Late for Work",
+    "first_chapter_slug": "chapter-1-alarm-fails"
+  },
+  {
+    "slug": "study-date",
+    "hsk_level": 2,
+    "title": "The Study Date",
+    "first_chapter_slug": "chapter-1-first-promise"
+  },
+  {
+    "slug": "grandpas-visit",
+    "hsk_level": 2,
+    "title": "Grandpa&#x27;s Visit",
+    "first_chapter_slug": "chapter-1-too-hot-a-night"
+  },
+  {
+    "slug": "swimming-lesson",
+    "hsk_level": 2,
+    "title": "The Swimming Lesson",
+    "first_chapter_slug": "chapter-1-summer-promise"
+  },
+  {
+    "slug": "gift-shopping",
+    "hsk_level": 2,
+    "title": "Gift Shopping Disaster",
+    "first_chapter_slug": "chapter-1-sudden-gift"
+  },
+  {
+    "slug": "summer-vacation",
+    "hsk_level": 2,
+    "title": "Summer Vacation Plans",
+    "first_chapter_slug": "chapter-1-dreams-after-exams"
+  },
+  {
+    "slug": "moving-day",
+    "hsk_level": 2,
+    "title": "Moving Day",
+    "first_chapter_slug": "chapter-1-bed-at-the-door"
+  },
+  {
+    "slug": "class-trip",
+    "hsk_level": 2,
+    "title": "Class Trip to the Mountain",
+    "first_chapter_slug": "chapter-1-singing-on-the-bus"
+  },
+  {
+    "slug": "regional-specialties",
+    "hsk_level": 2,
+    "title": "Regional Specialties",
+    "first_chapter_slug": "chapter-1-first-fight"
+  },
+  {
+    "slug": "pharmacy-run",
+    "hsk_level": 2,
+    "title": "The Pharmacy Run",
+    "first_chapter_slug": "chapter-1-unreadable-message"
+  },
+  {
+    "slug": "finding-the-station",
+    "hsk_level": 2,
+    "title": "Finding the Bus Station",
+    "first_chapter_slug": "chapter-1-arriving-at-the-station"
+  },
+  {
+    "slug": "sports-day",
+    "hsk_level": 2,
+    "title": "Sports Day",
+    "first_chapter_slug": "chapter-1-boss-talks-big"
+  },
+  {
+    "slug": "career-crossroads",
+    "hsk_level": 3,
+    "title": "Career Crossroads",
+    "first_chapter_slug": "chapter-1-an-unexpected-call"
+  },
+  {
+    "slug": "exam-season",
+    "hsk_level": 3,
+    "title": "Exam Season",
+    "first_chapter_slug": "chapter-1-party-photos-on-the-phone"
+  },
+  {
+    "slug": "neighborhood-garden",
+    "hsk_level": 3,
+    "title": "Neighborhood Garden",
+    "first_chapter_slug": "chapter-1-decision-among-the-weeds"
+  },
+  {
+    "slug": "parent-teacher-night",
+    "hsk_level": 3,
+    "title": "Parent Teacher Night",
+    "first_chapter_slug": "chapter-1-resolve-at-the-parent-meeting"
+  },
+  {
+    "slug": "campus-cold",
+    "hsk_level": 3,
+    "title": "Campus Cold",
+    "first_chapter_slug": "chapter-1-a-sore-throat-morning"
+  },
+  {
+    "slug": "grandma-goes-digital",
+    "hsk_level": 3,
+    "title": "Grandma Goes Digital",
+    "first_chapter_slug": "chapter-1-forest-beyond-the-window"
+  },
+  {
+    "slug": "talent-show",
+    "hsk_level": 3,
+    "title": "The Talent Show",
+    "first_chapter_slug": "chapter-1-jokes-at-the-lunch-table"
+  },
+  {
+    "slug": "fitness-challenge",
+    "hsk_level": 3,
+    "title": "The Fitness Challenge",
+    "first_chapter_slug": "chapter-1-challenge-begins"
+  },
+  {
+    "slug": "running-club",
+    "hsk_level": 3,
+    "title": "The Running Club",
+    "first_chapter_slug": "chapter-1-first-paper-by-the-river"
+  },
+  {
+    "slug": "wrong-bag",
+    "hsk_level": 3,
+    "title": "The Wrong Bag",
+    "first_chapter_slug": "chapter-1-spring-train-station"
+  },
+  {
+    "slug": "apartment-hunt",
+    "hsk_level": 3,
+    "title": "The Apartment Hunt",
+    "first_chapter_slug": "chapter-1-new-beginnings"
+  },
+  {
+    "slug": "train-home",
+    "hsk_level": 3,
+    "title": "Train Home for New Year",
+    "first_chapter_slug": "chapter-1-city-station-crowds"
+  },
+  {
+    "slug": "cooking-competition",
+    "hsk_level": 3,
+    "title": "The Cooking Competition",
+    "first_chapter_slug": "chapter-1-community-center-notice"
+  },
+  {
+    "slug": "weekend-market",
+    "hsk_level": 3,
+    "title": "The Weekend Market",
+    "first_chapter_slug": "chapter-1-morning-market"
+  }
+]

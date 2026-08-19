@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đọc truyện HSK Song ngữ | HSKStory</title>
+    <link rel="icon" href="data:,">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Desktop margin watermarks (floating Chinese characters) -->
+    <div class="desktop-wm" style="top: 10%; left: 8%; font-size: 5.5rem;">读</div>
+    <div class="desktop-wm" style="top: 25%; left: 4%; font-size: 3.5rem;">听</div>
+    <div class="desktop-wm" style="top: 42%; left: 10%; font-size: 4.5rem;">说</div>
+    <div class="desktop-wm" style="top: 58%; left: 3%; font-size: 6rem;">写</div>
+    <div class="desktop-wm" style="top: 75%; left: 9%; font-size: 4rem;">学</div>
+    <div class="desktop-wm" style="top: 88%; left: 5%; font-size: 3rem;">文</div>
+
+    <div class="desktop-wm" style="top: 8%; right: 9%; font-size: 4.5rem;">书</div>
+    <div class="desktop-wm" style="top: 22%; right: 4%; font-size: 6rem;">阅</div>
+    <div class="desktop-wm" style="top: 38%; right: 11%; font-size: 3.5rem;">想</div>
+    <div class="desktop-wm" style="top: 55%; right: 5%; font-size: 5rem;">词</div>
+    <div class="desktop-wm" style="top: 72%; right: 10%; font-size: 4rem;">语</div>
+    <div class="desktop-wm" style="top: 88%; right: 6%; font-size: 3.5rem;">字</div>
+
+    <!-- Layout Wrapper -->
+    <div class="desktop-surround">
+        <div class="main-container">
+            
+            <!-- Sticky Navigation Header -->
+            <header>
+                <a class="brand" href="index.html">
+                    <svg width="22" height="22" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7.747 4.19a3.75 3.75 0 0 0-4.997 3.56v12a.75.75 0 0 0 1.05.69c1.07-.478 2.502-.94 3.947-.94 1.838 0 3.518.73 4.753 1.942.125.123.292.193.468.193s.343-.07.468-.193c1.235-1.211 2.915-1.941 4.753-1.941 1.445 0 2.877.462 3.947.94a.75.75 0 0 0 1.05-.69v-12a3.75 3.75 0 0 0-4.997-3.56L14.73 5.48c-1.39.463-2.92.463-4.31 0L7.747 4.19Z" fill="currentColor"></path>
+                        <path d="M12.98 6.723a.75.75 0 0 0-.46-.693.75.75 0 0 0-.829.176L9.63 8.267a2.25 2.25 0 0 0-.66 1.591v4.884a.75.75 0 0 0 1.5 0V9.858l1.76-1.76a.75.75 0 0 0 .75.626h.25a.75.75 0 0 0 .75-.75v-.5a.75.75 0 0 0-.75-.75h-.25Z" fill="currentColor"></path>
+                    </svg>
+                    <span class="brand-text">HSKStory VN</span>
+                </a>
+                
+                <nav>
+                    <a href="index.html" class="nav-link">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"></path></svg>
+                        <span>Quay lại Thư viện</span>
+                    </a>
+                </nav>
+
+                <div class="header-actions">
+                    <button class="icon-btn" id="settings-btn" title="Cài đặt">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.1a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+                    </button>
+                    <div class="avatar" title="Tài khoản">VN</div>
+                </div>
+
+                <!-- Dropdown Settings Menu -->
+                <div class="settings-menu" id="settings-menu">
+                    <div class="settings-section">
+                        <span class="settings-title">Chủ đề (Theme)</span>
+                        <div class="settings-options">
+                            <button class="settings-opt-btn active" data-opt-theme="light">Sáng</button>
+                            <button class="settings-opt-btn" data-opt-theme="warm">Sepia</button>
+                            <button class="settings-opt-btn" data-opt-theme="dark">Tối</button>
+                        </div>
+                    </div>
+                    
+                    <div class="settings-section">
+                        <span class="settings-title">Phiên âm Pinyin</span>
+                        <div class="settings-options">
+                            <button class="settings-opt-btn active" data-opt-pinyin="on">Luôn Hiện</button>
+                            <button class="settings-opt-btn" data-opt-pinyin="hover">Khi Di Chuột</button>
+                            <button class="settings-opt-btn" data-opt-pinyin="off">Tắt</button>
+                        </div>
+                    </div>
+
+                    <div class="settings-section">
+                        <span class="settings-title">Màu theo thanh điệu</span>
+                        <div class="settings-options" style="grid-template-columns: repeat(2, 1fr);">
+                            <button class="settings-opt-btn" data-opt-tones="on">Bật</button>
+                            <button class="settings-opt-btn active" data-opt-tones="off">Tắt</button>
+                        </div>
+                    </div>
+
+                    <div class="settings-section">
+                        <span class="settings-title">Kích thước chữ</span>
+                        <div class="slider-setting">
+                            <input type="range" id="setting-size-slider" min="1.0" max="2.2" step="0.1" value="1.5">
+                            <span class="slider-val" id="size-slider-val">100%</span>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Reader Content -->
+            <main class="reader-main">
+                <!-- Story Header Details -->
+                <div class="reader-header-strip">
+                    <span class="level-badge" id="reader-level-badge">HSK 1</span>
+                    <span id="reader-story-title">Đang tải truyện...</span>
+                    
+                    <!-- Chapter indicator / Selector dropdown -->
+                    <span class="chapter-title-dropdown" id="chapter-dropdown-btn">
+                        <span id="reader-chapter-title">Chương 1</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"></path></svg>
+                    </span>
+                    
+                    <!-- Chapter Dropdown List -->
+                    <div class="chapter-dropdown-menu" id="chapter-dropdown-menu">
+                        <!-- Filled dynamically -->
+                    </div>
+
+                    <button class="translation-toggle-btn" id="translation-toggle-btn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"></path><path d="m4 14 6-6 2-3"></path><path d="M2 5h12"></path><path d="M7 2h1"></path><path d="m22 22-5-10-5 10"></path><path d="M14 18h6"></path></svg>
+                        <span>Bản dịch VN</span>
+                    </button>
+                </div>
+
+                <!-- Interactive Text Container -->
+                <article id="content-area" class="show-translations">
+                    <!-- Paragraphs populated dynamically via app.js -->
+                </article>
+
+                <!-- Page Navigation Controls -->
+                <div class="page-controls-docked">
+                    <button class="page-btn" id="prev-page-btn" disabled>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"></path></svg>
+                    </button>
+                    <div class="page-status" id="page-status">Trang 1 / 1</div>
+                    <button class="page-btn" id="next-page-btn" disabled>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"></path></svg>
+                    </button>
+                </div>
+            </main>
+
+            <!-- Float-above Interactive Dictionary Word Popup Card -->
+            <div class="dict-card-container" id="dict-card">
+                <button class="dict-close" id="dict-close-btn" title="Đóng">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6 6 18M6 6l12 12"></path></svg>
+                </button>
+                <div class="dict-header">
+                    <div class="dict-word-zh" id="dict-word-zh">早上</div>
+                    <div class="dict-word-pinyin" id="dict-word-pinyin">zǎoshang</div>
+                    <div class="dict-level-badge" id="dict-level-badge">HSK 1</div>
+                </div>
+                <div class="dict-definition" id="dict-definition">buổi sáng</div>
+                <div class="dict-example" id="dict-example">早上好！ (Chào buổi sáng!)</div>
+            </div>
+
+            <!-- Sticky Bottom Media Player Bar -->
+            <div class="audio-player-bar">
+                <div class="player-controls">
+                    <button class="skip-btn" id="skip-back-btn" title="Lùi lại 10s">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><path d="M2 16.1A9 9 0 1 1 10.5 20"></path><path d="M2 20v-5h5"></path><path d="M9 10v4"></path><path d="M12 12V9.8a1.8 1.8 0 0 1 3.2-1.2l1.6 1.6a1.8 1.8 0 0 1-1.2 3.2H12Z"></path></svg>
+                    </button>
+                    <button class="play-toggle-btn" id="play-toggle-btn" title="Phát/Tạm dừng">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                    </button>
+                    <button class="skip-btn" id="skip-forward-btn" title="Tiến lên 10s">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.1A9 9 0 1 0 13.5 20"></path><path d="M22 20v-5h-5"></path><path d="M12 10v4"></path><path d="M15 12V9.8a1.8 1.8 0 0 1 3.2-1.2l1.6 1.6a1.8 1.8 0 0 1-1.2 3.2H15Z"></path></svg>
+                    </button>
+                </div>
+
+                <div class="player-progress-container">
+                    <span class="time-display" id="time-display">0:00</span>
+                    <div class="progress-bar-wrapper" id="progress-slider">
+                        <div class="progress-track">
+                            <div class="progress-fill" id="progress-fill"></div>
+                        </div>
+                        <div class="progress-handle" id="progress-handle"></div>
+                    </div>
+                    <span class="time-display" id="duration-display">0:00</span>
+                </div>
+
+                <div class="speed-badge" id="speed-badge" title="Tốc độ phát">1.0x</div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1849 @@
+[
+  {
+    "id": null,
+    "slug": "first-plane-trip",
+    "hsk_level": 1,
+    "title": "First Plane Trip",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-taxi-arrives-late",
+        "title_en": "The Taxi Arrives Late"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-where-is-the-phone",
+        "title_en": "Where Is The Phone"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-sleeping-well-on-the-plane",
+        "title_en": "Sleeping Well On The Plane"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "movie-night",
+    "hsk_level": 1,
+    "title": "Movie Night",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-tickets-sell-out",
+        "title_en": "Tickets Sell Out"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-speaking-softly",
+        "title_en": "Speaking Softly"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-final-surprise",
+        "title_en": "The Final Surprise"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "school-siblings",
+    "hsk_level": 1,
+    "title": "Walking to School",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-walk-slower",
+        "title_en": "Walk Slower"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-sisters-school",
+        "title_en": "Sisters School"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-i-want-to-attend-middle-school-too",
+        "title_en": "I Want To Attend Middle School Too"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "dads-long-day",
+    "hsk_level": 1,
+    "title": "Dad&#x27;s Long Day",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-where-did-dad-go",
+        "title_en": "Where Did Dad Go"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-dad-comes-home",
+        "title_en": "Dad Comes Home"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-i-want-to-help-dad",
+        "title_en": "I Want To Help Dad"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "wrong-delivery",
+    "hsk_level": 1,
+    "title": "Wrong Delivery",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-misdelivered-package",
+        "title_en": "The Misdelivered Package"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-waiting-outside-the-door",
+        "title_en": "Waiting Outside The Door"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-a-cup-of-tea-friendship",
+        "title_en": "A Cup Of Tea Friendship"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "weekend-plans",
+    "hsk_level": 1,
+    "title": "Weekend Plans",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-argument-over-the-phone",
+        "title_en": "Argument Over The Phone"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-searching-for-a-restaurant",
+        "title_en": "Searching For A Restaurant"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-discovery-in-the-alley",
+        "title_en": "Discovery In The Alley"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "pet-cat",
+    "hsk_level": 1,
+    "title": "The Pet Cat",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meeting-in-the-rain",
+        "title_en": "Meeting In The Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-mom-says-no-pets",
+        "title_en": "Mom Says No Pets"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-dads-study",
+        "title_en": "Dads Study"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-family-decides",
+        "title_en": "Family Decides"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-market-welcomes-newcomer",
+        "title_en": "Market Welcomes Newcomer"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "birthday-dinner",
+    "hsk_level": 1,
+    "title": "The Birthday Dinner",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meet-at-restaurant",
+        "title_en": "Meet At Restaurant"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-order-dishes",
+        "title_en": "Order Dishes"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-secret-cake",
+        "title_en": "Secret Cake"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-free-fruit",
+        "title_en": "Free Fruit"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "asking-the-way",
+    "hsk_level": 1,
+    "title": "Asking the Way",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-books-in-the-bookstore",
+        "title_en": "Books In The Bookstore"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-cant-find-mom",
+        "title_en": "Cant Find Mom"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-mom-returns-home",
+        "title_en": "Mom Returns Home"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "taxi-ride",
+    "hsk_level": 1,
+    "title": "The Taxi Ride",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-waiting-in-the-rain",
+        "title_en": "Waiting In The Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-unfamiliar-road",
+        "title_en": "Unfamiliar Road"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-final-bell-rings",
+        "title_en": "The Final Bell Rings"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "what-does-dad-do",
+    "hsk_level": 1,
+    "title": "What Does Dad Do?",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-dad-comes-home",
+        "title_en": "Dad Comes Home"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-mom-is-also-a-teacher",
+        "title_en": "Mom Is Also A Teacher"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-brothers-dream",
+        "title_en": "Brothers Dream"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "cooking-for-friends",
+    "hsk_level": 1,
+    "title": "Cooking for Friends",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-market-closes",
+        "title_en": "Market Closes"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-trouble-in-the-kitchen",
+        "title_en": "Trouble In The Kitchen"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-cooking-dinner-together",
+        "title_en": "Cooking Dinner Together"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "new-classmate",
+    "hsk_level": 1,
+    "title": "The New Classmate",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-cannot-find-the-library",
+        "title_en": "Cannot Find The Library"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-whose-seat",
+        "title_en": "Whose Seat"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-eat-together",
+        "title_en": "Eat Together"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "bus-ride",
+    "hsk_level": 1,
+    "title": "The Bus Ride",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-waiting-in-rain",
+        "title_en": "Waiting In Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-board-the-bus",
+        "title_en": "Board The Bus"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-offers-his-seat",
+        "title_en": "Offers His Seat"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-almost-miss",
+        "title_en": "Almost Miss"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "morning-at-home",
+    "hsk_level": 1,
+    "title": "Morning at Home",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-dad-cooks",
+        "title_en": "Dad Cooks"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-daughters-backpack",
+        "title_en": "Daughters Backpack"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-xiao-dongs-shoes",
+        "title_en": "Xiao Dongs Shoes"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-running-late",
+        "title_en": "Running Late"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "long-phone-call",
+    "hsk_level": 1,
+    "title": "The Long Phone Call",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-a-long-awaited-call",
+        "title_en": "A Long Awaited Call"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-endless-words-to-say",
+        "title_en": "Endless Words To Say"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-phone-dies",
+        "title_en": "Phone Dies"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "visiting-grandpa-hospital",
+    "hsk_level": 1,
+    "title": "Visiting Grandpa in the Hospital",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-a-glass-of-water-from-mom",
+        "title_en": "A Glass Of Water From Mom"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-two-mr-gaos",
+        "title_en": "The Two Mr Gaos"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-grandfathers-voice",
+        "title_en": "Grandfathers Voice"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "first-day-school",
+    "hsk_level": 1,
+    "title": "First Day of School",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-find-the-classroom",
+        "title_en": "Find The Classroom"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-teacher-ye",
+        "title_en": "Teacher Ye"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-hello",
+        "title_en": "Hello"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-what-do-you-like",
+        "title_en": "What Do You Like"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-meet-new-friends",
+        "title_en": "Meet New Friends"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "ordering-lunch",
+    "hsk_level": 1,
+    "title": "Ordering Lunch",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-unreadable-menu",
+        "title_en": "Unreadable Menu"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-helpful-aunt-chen",
+        "title_en": "Helpful Aunt Chen"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-too-much",
+        "title_en": "Too Much"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-delicious-surprise",
+        "title_en": "Delicious Surprise"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-pay-the-bill",
+        "title_en": "Pay The Bill"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "buying-a-gift",
+    "hsk_level": 1,
+    "title": "Buying a Gift",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-market-morning",
+        "title_en": "Market Morning"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-shopkeepers-advice",
+        "title_en": "Shopkeepers Advice"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-choose-red",
+        "title_en": "Choose Red"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "weekend-park",
+    "hsk_level": 1,
+    "title": "Weekend in the Park",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-sideline-encounter",
+        "title_en": "Sideline Encounter"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-lakeside-path",
+        "title_en": "Lakeside Path"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-joy-under-the-tree",
+        "title_en": "Joy Under The Tree"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "running-partner",
+    "hsk_level": 2,
+    "title": "Running Partner",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-nod",
+        "title_en": "First Nod"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-anticipating-tomorrow",
+        "title_en": "Anticipating Tomorrow"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-run-together",
+        "title_en": "Run Together"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-caring-in-the-rain",
+        "title_en": "Caring In The Rain"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-he-is-missing",
+        "title_en": "He Is Missing"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-coffee-shop-answer",
+        "title_en": "Coffee Shop Answer"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "new-roommates",
+    "hsk_level": 2,
+    "title": "New Roommates",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meeting-in-the-empty-room",
+        "title_en": "Meeting In The Empty Room"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-posters-on-the-wall",
+        "title_en": "Posters On The Wall"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-dreaming-at-dinner",
+        "title_en": "Dreaming At Dinner"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-starting-the-plan-together",
+        "title_en": "Starting The Plan Together"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "night-market",
+    "hsk_level": 2,
+    "title": "The Night Market",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-three-paths-diverge",
+        "title_en": "Three Paths Diverge"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-lost-in-the-crowd",
+        "title_en": "Lost In The Crowd"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-wallet-goes-missing",
+        "title_en": "Wallet Goes Missing"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-returning-to-the-beginning",
+        "title_en": "Returning To The Beginning"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "office-first-week",
+    "hsk_level": 2,
+    "title": "First Week at the Company",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-morning-tension",
+        "title_en": "Morning Tension"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-a-busy-day",
+        "title_en": "A Busy Day"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-sleeping-on-the-bus",
+        "title_en": "Sleeping On The Bus"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-friday-dinner",
+        "title_en": "Friday Dinner"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "rainy-day-plans",
+    "hsk_level": 2,
+    "title": "Rainy Day Plans",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-park-plans-fall-through",
+        "title_en": "Park Plans Fall Through"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-movie-plans-fall-through",
+        "title_en": "Movie Plans Fall Through"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-big-trouble-in-the-kitchen",
+        "title_en": "Big Trouble In The Kitchen"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-neighbor-brings-warmth",
+        "title_en": "Neighbor Brings Warmth"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "cooking-for-two",
+    "hsk_level": 2,
+    "title": "Cooking for Two",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-choose-love",
+        "title_en": "Choose Love"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-market-chaos",
+        "title_en": "Market Chaos"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-kitchen-warfare",
+        "title_en": "Kitchen Warfare"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-flour-mishap",
+        "title_en": "Flour Mishap"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-she-arrives",
+        "title_en": "She Arrives"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-taste-of-love",
+        "title_en": "Taste Of Love"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "gym-beginner",
+    "hsk_level": 2,
+    "title": "Gym Beginner",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-gym-entrance",
+        "title_en": "Gym Entrance"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-dont-know-how",
+        "title_en": "Dont Know How"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-too-much-weight",
+        "title_en": "Too Much Weight"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-coach-gu-arrives",
+        "title_en": "Coach Gu Arrives"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-learn-slowly",
+        "title_en": "Learn Slowly"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-two-hours-later",
+        "title_en": "Two Hours Later"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-dinner-time",
+        "title_en": "Dinner Time"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "video-call",
+    "hsk_level": 2,
+    "title": "The Video Call",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-broken-camera",
+        "title_en": "Broken Camera"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-slow-internet-speed",
+        "title_en": "Slow Internet Speed"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-silence-in-the-library",
+        "title_en": "Silence In The Library"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-surprise-at-the-school-gate",
+        "title_en": "Surprise At The School Gate"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "driving-lesson",
+    "hsk_level": 2,
+    "title": "Driving Lesson Disaster",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-getting-in-the-car-goes-wrong",
+        "title_en": "Getting In The Car Goes Wrong"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-four-stalls-at-the-traffic-light",
+        "title_en": "Four Stalls At The Traffic Light"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-car-crashes-into-trash-can",
+        "title_en": "Car Crashes Into Trash Can"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-worst-parking-best-start",
+        "title_en": "Worst Parking Best Start"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "noisy-neighbor",
+    "hsk_level": 2,
+    "title": "The Noisy Neighbor",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-late-night-guitar-sounds",
+        "title_en": "Late Night Guitar Sounds"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-a-louder-voice",
+        "title_en": "A Louder Voice"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-truth-behind-the-door",
+        "title_en": "Truth Behind The Door"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-a-night-of-practice-together",
+        "title_en": "A Night Of Practice Together"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "new-year-dumplings",
+    "hsk_level": 2,
+    "title": "New Year Dumplings",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-grandmas-summons",
+        "title_en": "Grandmas Summons"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-xiao-beis-trouble",
+        "title_en": "Xiao Beis Trouble"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-searching-for-meat-on-a-snowy-night",
+        "title_en": "Searching For Meat On A Snowy Night"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-best-flavor",
+        "title_en": "The Best Flavor"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "late-for-work",
+    "hsk_level": 2,
+    "title": "Late for Work",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-alarm-fails",
+        "title_en": "Alarm Fails"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-strange-socks",
+        "title_en": "Strange Socks"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-race-to-the-station",
+        "title_en": "Race To The Station"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-elevator-breaks-down",
+        "title_en": "Elevator Breaks Down"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-empty-office",
+        "title_en": "Empty Office"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-what-day-is-today",
+        "title_en": "What Day Is Today"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "study-date",
+    "hsk_level": 2,
+    "title": "The Study Date",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-promise",
+        "title_en": "First Promise"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-tasting-coffee",
+        "title_en": "Tasting Coffee"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-time-flies",
+        "title_en": "Time Flies"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-first-winter-snow",
+        "title_en": "First Winter Snow"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-exam-week-arrives",
+        "title_en": "Exam Week Arrives"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-world-beyond-the-library",
+        "title_en": "World Beyond The Library"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-new-semester-begins",
+        "title_en": "New Semester Begins"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "grandpas-visit",
+    "hsk_level": 2,
+    "title": "Grandpa&#x27;s Visit",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-too-hot-a-night",
+        "title_en": "Too Hot A Night"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-too-expensive-dinner",
+        "title_en": "Too Expensive Dinner"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-five-oclock-park",
+        "title_en": "Five Oclock Park"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-road-home",
+        "title_en": "The Road Home"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "swimming-lesson",
+    "hsk_level": 2,
+    "title": "The Swimming Lesson",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-summer-promise",
+        "title_en": "Summer Promise"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-youngest-student",
+        "title_en": "The Youngest Student"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-online-videos",
+        "title_en": "Online Videos"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-loudest-applause",
+        "title_en": "The Loudest Applause"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "gift-shopping",
+    "hsk_level": 2,
+    "title": "Gift Shopping Disaster",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-sudden-gift",
+        "title_en": "Sudden Gift"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-closed-store",
+        "title_en": "Closed Store"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-too-expensive",
+        "title_en": "Too Expensive"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-shattered-vase",
+        "title_en": "Shattered Vase"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-street-flowers",
+        "title_en": "Street Flowers"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-best-gift",
+        "title_en": "Best Gift"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "summer-vacation",
+    "hsk_level": 2,
+    "title": "Summer Vacation Plans",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-dreams-after-exams",
+        "title_en": "Dreams After Exams"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-phone-war",
+        "title_en": "Phone War"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-times-enemy",
+        "title_en": "Times Enemy"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-ticketless-morning",
+        "title_en": "Ticketless Morning"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-smiling-by-the-lake",
+        "title_en": "Smiling By The Lake"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "moving-day",
+    "hsk_level": 2,
+    "title": "Moving Day",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-bed-at-the-door",
+        "title_en": "Bed At The Door"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-scrambled-boxes",
+        "title_en": "Scrambled Boxes"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-cold-shower",
+        "title_en": "Cold Shower"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-neighbors-face",
+        "title_en": "Neighbors Face"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "class-trip",
+    "hsk_level": 2,
+    "title": "Class Trip to the Mountain",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-singing-on-the-bus",
+        "title_en": "Singing On The Bus"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-eighteen-mountain-bends",
+        "title_en": "Eighteen Mountain Bends"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-west-hill-gate",
+        "title_en": "West Hill Gate"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-tears-on-stone-steps",
+        "title_en": "Tears On Stone Steps"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-mountain-wind",
+        "title_en": "Mountain Wind"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-lunch-on-high",
+        "title_en": "Lunch On High"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-bus-ride-home",
+        "title_en": "Bus Ride Home"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "regional-specialties",
+    "hsk_level": 2,
+    "title": "Regional Specialties",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-fight",
+        "title_en": "First Fight"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-sichuan-restaurant",
+        "title_en": "Sichuan Restaurant"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-cantonese-tea-house",
+        "title_en": "Cantonese Tea House"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-still-mine",
+        "title_en": "Still Mine"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-grab-wrong-item",
+        "title_en": "Grab Wrong Item"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-new-taste",
+        "title_en": "New Taste"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-best-dish",
+        "title_en": "Best Dish"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "pharmacy-run",
+    "hsk_level": 2,
+    "title": "The Pharmacy Run",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-unreadable-message",
+        "title_en": "Unreadable Message"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-first-phone-call",
+        "title_en": "First Phone Call"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-second-and-third-calls",
+        "title_en": "Second And Third Calls"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-home-in-the-rain",
+        "title_en": "Home In The Rain"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "finding-the-station",
+    "hsk_level": 2,
+    "title": "Finding the Bus Station",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-arriving-at-the-station",
+        "title_en": "Arriving At The Station"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-old-man-in-the-tea-shop",
+        "title_en": "The Old Man In The Tea Shop"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-laughter-at-the-fruit-stand",
+        "title_en": "Laughter At The Fruit Stand"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-thanks-in-the-heart",
+        "title_en": "Thanks In The Heart"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "sports-day",
+    "hsk_level": 2,
+    "title": "Sports Day",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-boss-talks-big",
+        "title_en": "Boss Talks Big"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-unexpected-basketball-star",
+        "title_en": "Unexpected Basketball Star"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-snapped-rope-best-prize",
+        "title_en": "Snapped Rope Best Prize"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "career-crossroads",
+    "hsk_level": 3,
+    "title": "Career Crossroads",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-an-unexpected-call",
+        "title_en": "An Unexpected Call"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-two-days-of-silence",
+        "title_en": "Two Days Of Silence"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-parents-react",
+        "title_en": "Parents React"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-a-friends-words",
+        "title_en": "A Friends Words"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-a-city-for-one",
+        "title_en": "A City For One"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-a-new-beginning",
+        "title_en": "A New Beginning"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "exam-season",
+    "hsk_level": 3,
+    "title": "Exam Season",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-party-photos-on-the-phone",
+        "title_en": "Party Photos On The Phone"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-torn-schedule",
+        "title_en": "Torn Schedule"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-weekend-plans-at-the-library",
+        "title_en": "Weekend Plans At The Library"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-abandoning-thoughts-on-the-bench",
+        "title_en": "Abandoning Thoughts On The Bench"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-sticky-note-on-the-desk",
+        "title_en": "Sticky Note On The Desk"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-stepping-out-of-the-exam-hall",
+        "title_en": "Stepping Out Of The Exam Hall"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "neighborhood-garden",
+    "hsk_level": 3,
+    "title": "Neighborhood Garden",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-decision-among-the-weeds",
+        "title_en": "Decision Among The Weeds"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-more-and-more-people",
+        "title_en": "More And More People"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-a-single-sheets-trouble",
+        "title_en": "A Single Sheets Trouble"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-a-turning-point-on-the-phone",
+        "title_en": "A Turning Point On The Phone"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-the-magic-of-tomatoes",
+        "title_en": "The Magic Of Tomatoes"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-autumn-dinner",
+        "title_en": "Autumn Dinner"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "parent-teacher-night",
+    "hsk_level": 3,
+    "title": "Parent Teacher Night",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-resolve-at-the-parent-meeting",
+        "title_en": "Resolve At The Parent Meeting"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-teacher-explains",
+        "title_en": "Teacher Explains"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-another-father-shares",
+        "title_en": "Another Father Shares"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-teachers-advice",
+        "title_en": "Teachers Advice"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-first-real-conversation",
+        "title_en": "First Real Conversation"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-exam-week-together",
+        "title_en": "Exam Week Together"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "campus-cold",
+    "hsk_level": 3,
+    "title": "Campus Cold",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-a-sore-throat-morning",
+        "title_en": "A Sore Throat Morning"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-fevers-second-day",
+        "title_en": "Fevers Second Day"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-worrying-in-bed",
+        "title_en": "Worrying In Bed"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-warmth-from-a-classmate",
+        "title_en": "Warmth From A Classmate"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-a-special-arrangement",
+        "title_en": "A Special Arrangement"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-voices-in-the-video",
+        "title_en": "Voices In The Video"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "grandma-goes-digital",
+    "hsk_level": 3,
+    "title": "Grandma Goes Digital",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-forest-beyond-the-window",
+        "title_en": "Forest Beyond The Window"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-phone-and-money-talk",
+        "title_en": "Phone And Money Talk"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-paying-alone-for-the-first-time",
+        "title_en": "Paying Alone For The First Time"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-subway-doors-dont-wait",
+        "title_en": "The Subway Doors Dont Wait"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-three-boxes-of-dumplings-tonight",
+        "title_en": "Three Boxes Of Dumplings Tonight"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-first-message-on-the-train",
+        "title_en": "First Message On The Train"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "talent-show",
+    "hsk_level": 3,
+    "title": "The Talent Show",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-jokes-at-the-lunch-table",
+        "title_en": "Jokes At The Lunch Table"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-practicing-alone",
+        "title_en": "Practicing Alone"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-care-in-the-hallway",
+        "title_en": "Care In The Hallway"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-class-in-the-empty-conference-room",
+        "title_en": "Class In The Empty Conference Room"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-night-of-performance",
+        "title_en": "Night Of Performance"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-monday-morning",
+        "title_en": "Monday Morning"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "fitness-challenge",
+    "hsk_level": 3,
+    "title": "The Fitness Challenge",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-challenge-begins",
+        "title_en": "Challenge Begins"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-manager-vanishes",
+        "title_en": "Manager Vanishes"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-xiaoyus-secret",
+        "title_en": "Xiaoyus Secret"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-fried-chicken-war",
+        "title_en": "Fried Chicken War"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-final-day",
+        "title_en": "Final Day"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "running-club",
+    "hsk_level": 3,
+    "title": "The Running Club",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-paper-by-the-river",
+        "title_en": "First Paper By The River"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-old-man-runs-too-fast",
+        "title_en": "Old Man Runs Too Fast"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-pause-in-the-rain",
+        "title_en": "Pause In The Rain"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-share-music",
+        "title_en": "Share Music"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-breakfast-invitation",
+        "title_en": "Breakfast Invitation"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-become-habit",
+        "title_en": "Become Habit"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-summer-race",
+        "title_en": "Summer Race"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "wrong-bag",
+    "hsk_level": 3,
+    "title": "The Wrong Bag",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-spring-train-station",
+        "title_en": "Spring Train Station"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-laptop-secret",
+        "title_en": "The Laptop Secret"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-cherry-blossom-night-market",
+        "title_en": "Cherry Blossom Night Market"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-a-new-friend",
+        "title_en": "A New Friend"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "apartment-hunt",
+    "hsk_level": 3,
+    "title": "The Apartment Hunt",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-new-beginnings",
+        "title_en": "New Beginnings"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-buying-first-home",
+        "title_en": "Buying First Home"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-bathroom-in-the-kitchen",
+        "title_en": "Bathroom In The Kitchen"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-growing-taller",
+        "title_en": "Growing Taller"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-small-house-big-trouble",
+        "title_en": "Small House Big Trouble"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-rooftop-lights",
+        "title_en": "Rooftop Lights"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "train-home",
+    "hsk_level": 3,
+    "title": "Train Home for New Year",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-city-station-crowds",
+        "title_en": "City Station Crowds"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-instant-noodles-aisle",
+        "title_en": "Instant Noodles Aisle"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-changing-scenery-outside",
+        "title_en": "Changing Scenery Outside"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-share-hometown-stories",
+        "title_en": "Share Hometown Stories"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-train-approaches",
+        "title_en": "Train Approaches"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-waiting-on-the-platform",
+        "title_en": "Waiting On The Platform"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "cooking-competition",
+    "hsk_level": 3,
+    "title": "The Cooking Competition",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-community-center-notice",
+        "title_en": "Community Center Notice"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-kitchen-prep",
+        "title_en": "Kitchen Prep"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-judges-dilemma",
+        "title_en": "Judges Dilemma"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-simplest-surprise",
+        "title_en": "Simplest Surprise"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "weekend-market",
+    "hsk_level": 3,
+    "title": "The Weekend Market",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-morning-market",
+        "title_en": "Morning Market"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-separate-actions",
+        "title_en": "Separate Actions"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-heavy-bag",
+        "title_en": "The Heavy Bag"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-walk-or-ride",
+        "title_en": "Walk Or Ride"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-resting-in-the-park",
+        "title_en": "Resting In The Park"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-little-kitchen-warmth",
+        "title_en": "Little Kitchen Warmth"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-share-a-meal",
+        "title_en": "Share A Meal"
+      }
+    ],
+    "chapter_count": 7
+  }
+]
