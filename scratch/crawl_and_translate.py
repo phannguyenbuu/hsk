@@ -46,6 +46,25 @@ if os.path.exists(vi_dict_path):
 else:
     vi_dict = {}
 
+# Load session token if exists
+session_token = ""
+token_path = "scratch/session_token.txt"
+if os.path.exists(token_path):
+    try:
+        with open(token_path, "r", encoding="utf-8") as f:
+            session_token = f.read().strip()
+        print(f"Loaded session token: {session_token[:20]}...")
+    except Exception as e:
+        print(f"Error loading session token: {e}")
+
+def get_headers():
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    }
+    if session_token:
+        headers['Cookie'] = f"hskstory.auth.token={session_token}"
+    return headers
+
 def get_vietnamese_definition(word):
     if word in vi_dict:
         return vi_dict[word]
@@ -77,7 +96,7 @@ def crawl_story(level, story_slug):
     
     # 1. Fetch story landing page to extract chapter slugs
     url = f"https://hskstory.com/stories/hsk-{level}/{story_slug}"
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    headers = get_headers()
     req = urllib.request.Request(url, headers=headers)
     
     try:

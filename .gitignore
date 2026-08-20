@@ -23,3 +23,6 @@ ENV/
 
 # Scratch context text files
 scratch/*.txt
+
+# Temp Chrome directories
+temp_chrome_user_data/
