@@ -1,0 +1,4918 @@
+{
+  "1": [
+    {
+      "sentence_cn": "这栋楼有三十层，她的公司在第十二层。",
+      "sentence_blank": "这栋楼有三十层，她的 ___ 在第十二层。",
+      "translation_vi": "Tòa nhà này có ba mươi tầng và công ty của cô ở tầng mười hai.",
+      "word": "公司",
+      "level": 1,
+      "options": [
+        "好听",
+        "菜",
+        "请",
+        "公司"
+      ],
+      "story_title": "Elevator Breaks Down"
+    },
+    {
+      "sentence_cn": "写完，他回头问：谁还想加名字？",
+      "sentence_blank": "写完，他回头问：谁还想加 ___ ？",
+      "translation_vi": "Viết xong quay lại hỏi: “Còn ai muốn thêm tên vào?”",
+      "word": "名字",
+      "level": 1,
+      "options": [
+        "你们",
+        "一些",
+        "名字",
+        "有的"
+      ],
+      "story_title": "Simplest Surprise"
+    },
+    {
+      "sentence_cn": "陈先生帮着给花花戴上：刚好合适。",
+      "sentence_blank": "陈 ___ 帮着给花花戴上：刚好合适。",
+      "translation_vi": "Ông Trần giúp Hoa Hoa đeo vòng cổ: “Vừa vặn.”",
+      "word": "先生",
+      "level": 1,
+      "options": [
+        "了",
+        "下班",
+        "饺子",
+        "先生"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "在晚上的赵雪家里，赵雪写作业。",
+      "sentence_blank": "在 ___ 的赵雪家里，赵雪写作业。",
+      "translation_vi": "Buổi tối ở nhà Triệu Tuyết, Triệu Tuyết đang làm bài tập.",
+      "word": "晚上",
+      "level": 1,
+      "options": [
+        "晚上",
+        "歌",
+        "玩",
+        "大家"
+      ],
+      "story_title": "Choose Red"
+    },
+    {
+      "sentence_cn": "但是现在，她觉得也许这件事没有那么可怕。",
+      "sentence_blank": "但是 ___ ，她觉得也许这件事没有那么可怕。",
+      "translation_vi": "Nhưng hiện tại, cô cảm thấy có lẽ thứ này cũng không đáng sợ đến thế.",
+      "word": "现在",
+      "level": 1,
+      "options": [
+        "课",
+        "现在",
+        "电脑",
+        "中文"
+      ],
+      "story_title": "Care In The Hallway"
+    },
+    {
+      "sentence_cn": "赵雪说：玫瑰很漂亮，像你的围巾。",
+      "sentence_blank": "赵雪说：玫瑰很 ___ ，像你的围巾。",
+      "translation_vi": "Triệu Tuyết nói: \"Hoa hồng rất đẹp, giống như khăn quàng cổ của ngươi.\"",
+      "word": "漂亮",
+      "level": 1,
+      "options": [
+        "做",
+        "这边",
+        "漂亮",
+        "好吃"
+      ],
+      "story_title": "Choose Red"
+    },
+    {
+      "sentence_cn": "在图书馆的桌子上，赵雪看书。",
+      "sentence_blank": "在图书馆的 ___ 上，赵雪看书。",
+      "translation_vi": "Tại bàn thư viện, Triệu Tuyết đang đọc sách.",
+      "word": "桌子",
+      "level": 1,
+      "options": [
+        "明年",
+        "妈妈",
+        "桌子",
+        "号"
+      ],
+      "story_title": "Choose Red"
+    },
+    {
+      "sentence_cn": "她给马晓东回消息：谢谢你们。",
+      "sentence_blank": "她给马晓东回消息：谢谢 ___ 。",
+      "translation_vi": "Cô ấy trả lời Ma Xiaodong: Cảm ơn tất cả các bạn.",
+      "word": "你们",
+      "level": 1,
+      "options": [
+        "商店",
+        "半",
+        "你们",
+        "五"
+      ],
+      "story_title": "Voices In The Video"
+    },
+    {
+      "sentence_cn": "周明远给陈雨晴夹了菜，赵建国给刘美华倒了一杯水。",
+      "sentence_blank": "周明远 ___ 陈雨晴夹了菜，赵建国给刘美华倒了一杯水。",
+      "translation_vi": "Chu Minh Viễn gắp đồ ăn cho Trần Ngọc Thanh, Triệu Kiến Quốc rót một cốc nước cho Lưu Mỹ Hoa.",
+      "word": "给",
+      "level": 1,
+      "options": [
+        "问",
+        "给",
+        "事",
+        "读书"
+      ],
+      "story_title": "Autumn Dinner"
+    },
+    {
+      "sentence_cn": "她看了看时间，还有两个小时才下班。",
+      "sentence_blank": "她看了看时间，还有两个 ___ 才下班。",
+      "translation_vi": "Cô kiểm tra thời gian; vẫn còn hai tiếng nữa mới tan sở.",
+      "word": "小时",
+      "level": 1,
+      "options": [
+        "小时",
+        "今年",
+        "椅子",
+        "打电话"
+      ],
+      "story_title": "An Unexpected Call"
+    },
+    {
+      "sentence_cn": "林大伟笑了，说：他们不吃米饭，他们吃药。",
+      "sentence_blank": "林大伟笑了，说：他们不吃 ___ ，他们吃药。",
+      "translation_vi": "Lin Dawei mỉm cười và nói: \"Họ không ăn cơm, họ uống thuốc.\"",
+      "word": "米饭",
+      "level": 1,
+      "options": [
+        "饭店",
+        "米饭",
+        "店",
+        "上班"
+      ],
+      "story_title": "Dad Comes Home"
+    },
+    {
+      "sentence_cn": "早上七点二十八分，在小东房间，叶美找袜子。",
+      "sentence_blank": "早上七点二十八分，在小东 ___ ，叶美找袜子。",
+      "translation_vi": "7 giờ 28 phút sáng, trong phòng Tiểu Đông, Diệp Mi tìm tất.",
+      "word": "房间",
+      "level": 1,
+      "options": [
+        "多",
+        "那些",
+        "想",
+        "房间"
+      ],
+      "story_title": "Daughters Backpack"
+    },
+    {
+      "sentence_cn": "她很高兴，说：谢谢阿姨，谢谢您！",
+      "sentence_blank": "她很高兴，说： ___ 阿姨，谢谢您！",
+      "translation_vi": "Cô ấy rất vui và nói: \"Cảm ơn dì, cảm ơn dì!\"",
+      "word": "谢谢",
+      "level": 1,
+      "options": [
+        "这儿",
+        "岁",
+        "谢谢",
+        "下"
+      ],
+      "story_title": "Returning To The Beginning"
+    },
+    {
+      "sentence_cn": "叶小云下车的时候，她的脚有点软。",
+      "sentence_blank": "叶小云下车的 ___ ，她的脚有点软。",
+      "translation_vi": "Khi Ye Xiaoyun xuống xe, chân cô cảm thấy hơi yếu.",
+      "word": "时候",
+      "level": 1,
+      "options": [
+        "怎么",
+        "饭店",
+        "时候",
+        "钱"
+      ],
+      "story_title": "West Hill Gate"
+    },
+    {
+      "sentence_cn": "叶会计坐在椅子上，手里拿着一个苹果。",
+      "sentence_blank": "叶会计坐在 ___ 上，手里拿着一个苹果。",
+      "translation_vi": "Kế toán Ye ngồi trên ghế, trên tay cầm một quả táo.",
+      "word": "椅子",
+      "level": 1,
+      "options": [
+        "椅子",
+        "开车",
+        "学校",
+        "岁"
+      ],
+      "story_title": "Boss Talks Big"
+    },
+    {
+      "sentence_cn": "林小月看车上的时间，七点五十二分了。",
+      "sentence_blank": "林小月看车上的 ___ ，七点五十二分了。",
+      "translation_vi": "Lin Xiaoyue nhìn thời gian trong xe; lúc đó là 7:52.",
+      "word": "时间",
+      "level": 1,
+      "options": [
+        "时间",
+        "晚饭",
+        "哪里",
+        "早饭"
+      ],
+      "story_title": "Waiting In The Rain"
+    },
+    {
+      "sentence_cn": "但是大家都知道，明年春天，花花还会来闻花。",
+      "sentence_blank": "但是大家都 ___ ，明年春天，花花还会来闻花。",
+      "translation_vi": "Nhưng mọi người đều biết rằng mùa xuân tới Hoa Hoa sẽ lại đến ngửi hoa.",
+      "word": "知道",
+      "level": 1,
+      "options": [
+        "这",
+        "歌",
+        "说话",
+        "知道"
+      ],
+      "story_title": "Investigation Begins"
+    },
+    {
+      "sentence_cn": "学生们拍手，声音把灯都震亮了。",
+      "sentence_blank": " ___ 们拍手，声音把灯都震亮了。",
+      "translation_vi": "Các học sinh vỗ tay, âm thanh đó khiến ánh đèn dường như bừng sáng.",
+      "word": "学生",
+      "level": 1,
+      "options": [
+        "前",
+        "热",
+        "学生",
+        "对不起"
+      ],
+      "story_title": "Best Dish"
+    },
+    {
+      "sentence_cn": "小猫在孙雨脚边睡觉，身体一起一伏。",
+      "sentence_blank": "小猫在孙雨脚边 ___ ，身体一起一伏。",
+      "translation_vi": "Mèo con ngủ dưới chân Tôn Vũ, thân thể lên xuống.",
+      "word": "睡觉",
+      "level": 1,
+      "options": [
+        "睡觉",
+        "白天",
+        "有点儿",
+        "下午"
+      ],
+      "story_title": "Mom Says No Pets"
+    },
+    {
+      "sentence_cn": "雨青愣了一下，也笑了：男朋友可不能随便换，菜可以慢慢选。",
+      "sentence_blank": "雨青愣了一下，也笑了： ___ 可不能随便换，菜可以慢慢选。",
+      "translation_vi": "Ngọc Thanh sửng sốt một chút, sau đó cũng mỉm cười: “Không thể cứ đổi bạn trai mà có thể thong thả hái rau.”",
+      "word": "男朋友",
+      "level": 1,
+      "options": [
+        "男朋友",
+        "七",
+        "她们",
+        "我"
+      ],
+      "story_title": "Separate Actions"
+    },
+    {
+      "sentence_cn": "服务员写完了，说：还要什么？",
+      "sentence_blank": "服务员写完了，说：还要 ___ ？",
+      "translation_vi": "Sau khi viết nó ra, người phục vụ nói: Còn gì nữa không?",
+      "word": "什么",
+      "level": 1,
+      "options": [
+        "您",
+        "说话",
+        "十",
+        "什么"
+      ],
+      "story_title": "Meet At Restaurant"
+    },
+    {
+      "sentence_cn": "我们去高中，去找我们的老师，去看我们的教室。",
+      "sentence_blank": " ___ 去高中，去找我们的老师，去看我们的教室。",
+      "translation_vi": "Chúng ta sẽ đến trường trung học, tìm giáo viên và xem lớp học của mình.",
+      "word": "我们",
+      "level": 1,
+      "options": [
+        "七",
+        "学生",
+        "我们",
+        "会"
+      ],
+      "story_title": "Endless Words To Say"
+    },
+    {
+      "sentence_cn": "苏小北说：我要学这些字。",
+      "sentence_blank": "苏小北说：我要学 ___ 字。",
+      "translation_vi": "Tô Tiểu Bắc nói: Tôi muốn học những chữ này.",
+      "word": "这些",
+      "level": 1,
+      "options": [
+        "漂亮",
+        "到",
+        "工作",
+        "这些"
+      ],
+      "story_title": "Unreadable Menu"
+    },
+    {
+      "sentence_cn": "孙太太说：我们买一点鱼，我们买猫粮。",
+      "sentence_blank": "孙太太说： ___ 买一点鱼，我们买猫粮。",
+      "translation_vi": "Tôn Thái Đài nói: “Chúng ta đi mua cá, mua thức ăn cho mèo.”",
+      "word": "我们",
+      "level": 1,
+      "options": [
+        "好听",
+        "漂亮",
+        "见",
+        "我们"
+      ],
+      "story_title": "Market Welcomes Newcomer"
+    },
+    {
+      "sentence_cn": "鸡蛋很快变成金黄色，他高兴地说：看，吴子轩，你做到了！",
+      "sentence_blank": "鸡蛋很快变成金黄色，他 ___ 地说：看，吴子轩，你做到了！",
+      "translation_vi": "Trứng nhanh chóng chuyển sang màu vàng vàng; anh ấy vui vẻ nói: \"Nhìn kìa, Wu Zixuan, bạn đã làm được!\"",
+      "word": "高兴",
+      "level": 1,
+      "options": [
+        "什么",
+        "我",
+        "口",
+        "高兴"
+      ],
+      "story_title": "Taste Of Love"
+    },
+    {
+      "sentence_cn": "林月看看手机，说：现在一点多了。",
+      "sentence_blank": "林月看看 ___ ，说：现在一点多了。",
+      "translation_vi": "Lin Yue nhìn vào điện thoại của cô và nói: Bây giờ đã qua một chút rồi.",
+      "word": "手机",
+      "level": 1,
+      "options": [
+        "电视",
+        "手机",
+        "中学",
+        "有点儿"
+      ],
+      "story_title": "Discovery In The Alley"
+    },
+    {
+      "sentence_cn": "他站在人群里，不知道去哪里找她们。",
+      "sentence_blank": "他站在人群里，不知道去 ___ 找她们。",
+      "translation_vi": "Anh đứng giữa đám đông, không biết tìm họ ở đâu.",
+      "word": "哪里",
+      "level": 1,
+      "options": [
+        "飞机",
+        "水果",
+        "说",
+        "哪里"
+      ],
+      "story_title": "Lost In The Crowd"
+    },
+    {
+      "sentence_cn": "陈师傅听到说话，陈师傅说：雨天安全最重要，大家坐好。",
+      "sentence_blank": "陈师傅听到 ___ ，陈师傅说：雨天安全最重要，大家坐好。",
+      "translation_vi": "Master Chen nghe họ nói chuyện và nói: \"An toàn là quan trọng nhất trong những ngày mưa. Mọi người hãy ngồi nghiêm túc.\"",
+      "word": "说话",
+      "level": 1,
+      "options": [
+        "休息",
+        "说话",
+        "电视",
+        "菜"
+      ],
+      "story_title": "Offers His Seat"
+    },
+    {
+      "sentence_cn": "三个月来第一次对不是妈妈的东西笑！",
+      "sentence_blank": "三个月来第一次对不是 ___ 的东西笑！",
+      "translation_vi": "Lần đầu tiên sau ba tháng, anh ấy mỉm cười với một thứ khác ngoài mẹ mình!",
+      "word": "妈妈",
+      "level": 1,
+      "options": [
+        "忙",
+        "妈妈",
+        "十",
+        "好吃"
+      ],
+      "story_title": "Share Music"
+    },
+    {
+      "sentence_cn": "赵晨走进来，看见厨房里有很多菜。",
+      "sentence_blank": "赵晨走进来， ___ 厨房里有很多菜。",
+      "translation_vi": "Triệu Thần đi vào, nhìn thấy trong bếp có rất nhiều nguyên liệu.",
+      "word": "看见",
+      "level": 1,
+      "options": [
+        "看见",
+        "五",
+        "做",
+        "晚饭"
+      ],
+      "story_title": "Cooking Dinner Together"
+    },
+    {
+      "sentence_cn": "妈妈看着周阿姨，说：谢谢你，谢谢你！",
+      "sentence_blank": " ___ 看着周阿姨，说：谢谢你，谢谢你！",
+      "translation_vi": "Mẹ nhìn dì Chu và nói: \"Cảm ơn, cảm ơn!\"",
+      "word": "妈妈",
+      "level": 1,
+      "options": [
+        "妈妈",
+        "衣服",
+        "家人",
+        "下班"
+      ],
+      "story_title": "Mom Returns Home"
+    },
+    {
+      "sentence_cn": "你往前走，然后往右，再走五分钟就能看见公交站。",
+      "sentence_blank": "你往前走，然后往右，再走五 ___ 就能看见公交站。",
+      "translation_vi": "\"Đi thẳng rồi rẽ phải, năm phút sau sẽ thấy trạm xe buýt.\"",
+      "word": "分钟",
+      "level": 1,
+      "options": [
+        "边",
+        "爸爸",
+        "他们",
+        "分钟"
+      ],
+      "story_title": "Laughter At The Fruit Stand"
+    },
+    {
+      "sentence_cn": "我昨天写了字条，请你晚上不要弹吉他。",
+      "sentence_blank": "我昨天写了字条，请你晚上 ___ 弹吉他。",
+      "translation_vi": "Hôm qua tôi đã viết một bức thư yêu cầu bạn đừng chơi ghi-ta vào buổi tối.",
+      "word": "不要",
+      "level": 1,
+      "options": [
+        "先生",
+        "打电话",
+        "不要",
+        "号"
+      ],
+      "story_title": "A Louder Voice"
+    },
+    {
+      "sentence_cn": "他指指自己，妈妈说我长大了，可以一个人回老家看奶奶。",
+      "sentence_blank": "他指指自己， ___ 说我长大了，可以一个人回老家看奶奶。",
+      "translation_vi": "Anh chỉ vào mình, mẹ nói con lớn rồi, có thể một mình về quê thăm bà ngoại.",
+      "word": "妈妈",
+      "level": 1,
+      "options": [
+        "后",
+        "妈妈",
+        "外",
+        "超市"
+      ],
+      "story_title": "Instant Noodles Aisle"
+    },
+    {
+      "sentence_cn": "林月又问：哥哥，你做老师，会给我上课吗？",
+      "sentence_blank": "林月又问： ___ ，你做老师，会给我上课吗？",
+      "translation_vi": "Lin Yue lại hỏi: \"Anh ơi, nếu anh trở thành giáo viên, anh có dạy em không?\"",
+      "word": "哥哥",
+      "level": 1,
+      "options": [
+        "哥哥",
+        "学校",
+        "现在",
+        "米饭"
+      ],
+      "story_title": "Brothers Dream"
+    },
+    {
+      "sentence_cn": "箱子里有很多东西：几本书，一件衣服，还有一些茶叶。",
+      "sentence_blank": "箱子里有很多东西：几本书，一件衣服，还有 ___ 茶叶。",
+      "translation_vi": "Trong hộp có rất nhiều thứ: vài cuốn sách, một bộ quần áo và một ít trà.",
+      "word": "一些",
+      "level": 1,
+      "options": [
+        "年",
+        "店",
+        "一些",
+        "妹妹"
+      ],
+      "story_title": "The Misdelivered Package"
+    },
+    {
+      "sentence_cn": "她拿起手机，给妈妈打电话。",
+      "sentence_blank": "她拿起 ___ ，给妈妈打电话。",
+      "translation_vi": "Cô nhấc điện thoại lên và gọi cho mẹ.",
+      "word": "手机",
+      "level": 1,
+      "options": [
+        "晚上",
+        "手机",
+        "家",
+        "女"
+      ],
+      "story_title": "Surprise At The School Gate"
+    },
+    {
+      "sentence_cn": "爸爸回头看儿子，说：高雨，你看，这是什么？",
+      "sentence_blank": "爸爸回头看儿子，说：高雨，你看，这是 ___ ？",
+      "translation_vi": "Bố quay lại nhìn con trai và nói: \"Gao Yu, nhìn xem, đây là cái gì vậy?\"",
+      "word": "什么",
+      "level": 1,
+      "options": [
+        "好",
+        "什么",
+        "大学生",
+        "会"
+      ],
+      "story_title": "Sleeping Well On The Plane"
+    },
+    {
+      "sentence_cn": "程亮笑，程亮说：我也喜欢。",
+      "sentence_blank": "程亮笑，程亮说：我也 ___ 。",
+      "translation_vi": "Trình Lương cười nói: “Tôi cũng thích bọn họ.”",
+      "word": "喜欢",
+      "level": 1,
+      "options": [
+        "早上",
+        "里",
+        "喜欢",
+        "百"
+      ],
+      "story_title": "Whose Seat"
+    },
+    {
+      "sentence_cn": "志远把雨晴的包背到自己肩上：明天我们搬。",
+      "sentence_blank": "志远把雨晴的包背到自己肩上：明天 ___ 搬。",
+      "translation_vi": "Zhiyuan khoác túi của Yuqing lên vai mình: “Ngày mai chúng ta sẽ chuyển đến.”",
+      "word": "我们",
+      "level": 1,
+      "options": [
+        "喝",
+        "我们",
+        "后",
+        "里"
+      ],
+      "story_title": "Growing Taller"
+    },
+    {
+      "sentence_cn": "桌子上有米饭、三个菜和一些水果。",
+      "sentence_blank": "桌子上有 ___ 、三个菜和一些水果。",
+      "translation_vi": "Trên bàn có cơm, ba món ăn và một ít hoa quả.",
+      "word": "米饭",
+      "level": 1,
+      "options": [
+        "晚上",
+        "米饭",
+        "女",
+        "大家"
+      ],
+      "story_title": "Dad Comes Home"
+    },
+    {
+      "sentence_cn": "弟弟有很多朋友，弟弟很高兴。",
+      "sentence_blank": " ___ 有很多朋友，弟弟很高兴。",
+      "translation_vi": "Anh trai cô có nhiều bạn bè và anh trai cô rất hạnh phúc.",
+      "word": "弟弟",
+      "level": 1,
+      "options": [
+        "弟弟",
+        "学",
+        "口",
+        "对"
+      ],
+      "story_title": "Walk Slower"
+    },
+    {
+      "sentence_cn": "林月点点头，说：我知道。",
+      "sentence_blank": "林月点点头，说：我 ___ 。",
+      "translation_vi": "Lâm Nhạc gật đầu nói: \"Ta biết.\"",
+      "word": "知道",
+      "level": 1,
+      "options": [
+        "苹果",
+        "零",
+        "明年",
+        "知道"
+      ],
+      "story_title": "Mom Is Also A Teacher"
+    },
+    {
+      "sentence_cn": "他把糯米放在水里，等三十分钟。",
+      "sentence_blank": "他把糯米放在水里，等三十 ___ 。",
+      "translation_vi": "Anh cho gạo nếp vào nước và đợi trong ba mươi phút.",
+      "word": "分钟",
+      "level": 1,
+      "options": [
+        "对",
+        "再见",
+        "好听",
+        "分钟"
+      ],
+      "story_title": "Cooking Dinner Together"
+    },
+    {
+      "sentence_cn": "我爸爸工作很忙，我妈妈在家休息。",
+      "sentence_blank": "我爸爸工作很忙，我妈妈在家 ___ 。",
+      "translation_vi": "Bố tôi rất bận rộn với công việc, còn mẹ tôi đang nghỉ ngơi ở nhà.",
+      "word": "休息",
+      "level": 1,
+      "options": [
+        "休息",
+        "那边",
+        "爱",
+        "公司"
+      ],
+      "story_title": "Endless Words To Say"
+    },
+    {
+      "sentence_cn": "等你上中学的时候，你就可以去我的学校了。",
+      "sentence_blank": "等你上中学的时候，你就 ___ 去我的学校了。",
+      "translation_vi": "Khi bạn học cấp hai, bạn có thể đến trường của tôi.",
+      "word": "可以",
+      "level": 1,
+      "options": [
+        "六",
+        "女",
+        "可以",
+        "月"
+      ],
+      "story_title": "Sisters School"
+    },
+    {
+      "sentence_cn": "马东马上穿衣服，马东拿黑色的雨伞。",
+      "sentence_blank": "马东马上穿 ___ ，马东拿黑色的雨伞。",
+      "translation_vi": "Mã Đông nhanh chóng mặc quần áo vào, Mã Đông cầm một chiếc ô màu đen.",
+      "word": "衣服",
+      "level": 1,
+      "options": [
+        "回",
+        "三",
+        "衣服",
+        "女儿"
+      ],
+      "story_title": "Waiting In Rain"
+    },
+    {
+      "sentence_cn": "如果大家都知道了，可能会有人来抓它。",
+      "sentence_blank": "如果 ___ 都知道了，可能会有人来抓它。",
+      "translation_vi": "\"Nếu mọi người biết, có thể sẽ có người tới bắt hắn.\"",
+      "word": "大家",
+      "level": 1,
+      "options": [
+        "大家",
+        "它们",
+        "还",
+        "同学"
+      ],
+      "story_title": "Hidden Past"
+    },
+    {
+      "sentence_cn": "晚上，在孙雨的房间，孙雨坐在桌子前面，孙雨写功课。",
+      "sentence_blank": "晚上，在孙雨的房间，孙雨坐在 ___ 前面，孙雨写功课。",
+      "translation_vi": "Buổi tối, trong phòng Tôn Ngọc, Tôn Ngọc ngồi trước bàn làm bài tập.",
+      "word": "桌子",
+      "level": 1,
+      "options": [
+        "第",
+        "喝",
+        "桌子",
+        "下"
+      ],
+      "story_title": "Market Welcomes Newcomer"
+    },
+    {
+      "sentence_cn": "她想：我是不是不能做这个工作？",
+      "sentence_blank": "她想：我是不是不能做 ___ 工作？",
+      "translation_vi": "Cô ấy nghĩ, \"Có phải mình không phù hợp với công việc này không?\"",
+      "word": "这个",
+      "level": 1,
+      "options": [
+        "写",
+        "什么",
+        "太",
+        "这个"
+      ],
+      "story_title": "A Busy Day"
+    }
+  ],
+  "2": [
+    {
+      "sentence_cn": "叶奶奶笑了：喜欢就多吃点。",
+      "sentence_blank": "叶 ___ 笑了：喜欢就多吃点。",
+      "translation_vi": "Bà nội Diệp cười: Con thích thì ăn thêm đi.",
+      "word": "奶奶",
+      "level": 2,
+      "options": [
+        "花",
+        "奶奶",
+        "考试",
+        "球"
+      ],
+      "story_title": "Scrambled Boxes"
+    },
+    {
+      "sentence_cn": "她站起来，觉得头很疼，身体也很累。",
+      "sentence_blank": "她站 ___ ，觉得头很疼，身体也很累。",
+      "translation_vi": "Cô đứng dậy, cảm thấy đau đầu và rất mệt mỏi.",
+      "word": "起来",
+      "level": 2,
+      "options": [
+        "起来",
+        "下来",
+        "白色",
+        "班"
+      ],
+      "story_title": "A Busy Day"
+    },
+    {
+      "sentence_cn": "他叫起来，我六点钟有课！",
+      "sentence_blank": "他叫 ___ ，我六点钟有课！",
+      "translation_vi": "Anh ấy kêu lên, tôi có lớp học lúc sáu giờ!",
+      "word": "起来",
+      "level": 2,
+      "options": [
+        "虽然",
+        "条",
+        "起来",
+        "等"
+      ],
+      "story_title": "Coach Gu Arrives"
+    },
+    {
+      "sentence_cn": "王老板也在那里，手里拿着篮球。",
+      "sentence_blank": "王老板也在那里，手里拿着 ___ 。",
+      "translation_vi": "Sếp Vương cũng ở đó, trên tay cầm một quả bóng rổ.",
+      "word": "篮球",
+      "level": 2,
+      "options": [
+        "比",
+        "篮球",
+        "准备",
+        "希望"
+      ],
+      "story_title": "Unexpected Basketball Star"
+    },
+    {
+      "sentence_cn": "雨还在下，但是他们都很开心。",
+      "sentence_blank": "雨还在下， ___ 他们都很开心。",
+      "translation_vi": "Trời vẫn mưa nhưng cả hai đều rất vui vẻ.",
+      "word": "但是",
+      "level": 2,
+      "options": [
+        "笔",
+        "出来",
+        "绿茶",
+        "但是"
+      ],
+      "story_title": "Neighbor Brings Warmth"
+    },
+    {
+      "sentence_cn": "水哗地冲出来，冰凉，溅到她脚背。",
+      "sentence_blank": "水哗地冲 ___ ，冰凉，溅到她脚背。",
+      "translation_vi": "Nước phun ra, lạnh buốt, bắn tung tóe lên đầu bàn chân cô.",
+      "word": "出来",
+      "level": 2,
+      "options": [
+        "出来",
+        "里面",
+        "忘",
+        "过"
+      ],
+      "story_title": "Rooftop Lights"
+    },
+    {
+      "sentence_cn": "雨晴背着画筒，里面卷着大学四年攒下的素描，纸边已经发黄。",
+      "sentence_blank": "雨晴背着画筒， ___ 卷着大学四年攒下的素描，纸边已经发黄。",
+      "translation_vi": "Yuqing đeo một ống vẽ trên lưng, bên trong cuộn những bức phác họa cô đã tích lũy được trong bốn năm đại học, mép của chúng đã ố vàng.",
+      "word": "里面",
+      "level": 2,
+      "options": [
+        "别",
+        "帮忙",
+        "里面",
+        "手表"
+      ],
+      "story_title": "Small House Big Trouble"
+    },
+    {
+      "sentence_cn": "在马东的前面，一辆黑色的汽车差点撞到一棵大树。",
+      "sentence_blank": "在马东的 ___ ，一辆黑色的汽车差点撞到一棵大树。",
+      "translation_vi": "Phía trước Mã Đông, một chiếc ô tô màu đen suýt tông vào một cái cây lớn.",
+      "word": "前面",
+      "level": 2,
+      "options": [
+        "前面",
+        "后面",
+        "公交车",
+        "为什么"
+      ],
+      "story_title": "Waiting In Rain"
+    },
+    {
+      "sentence_cn": "小北站在一边看，他很想看看自己的饺子煮出来是什么样子。",
+      "sentence_blank": "小北站在一边看，他很想看看自己的饺子煮 ___ 是什么样子。",
+      "translation_vi": "Tiểu Bắc đứng bên cạnh nhìn; anh ấy thực sự muốn xem bánh bao của mình trông như thế nào sau khi nấu.",
+      "word": "出来",
+      "level": 2,
+      "options": [
+        "打",
+        "眼睛",
+        "男孩儿",
+        "出来"
+      ],
+      "story_title": "The Best Flavor"
+    },
+    {
+      "sentence_cn": "这一次，刘秀兰自己刷卡过闸机。",
+      "sentence_blank": "这一次，刘秀兰 ___ 刷卡过闸机。",
+      "translation_vi": "Lần này, Lưu Tú Lan quẹt thẻ của mình để đi qua cổng.",
+      "word": "自己",
+      "level": 2,
+      "options": [
+        "自己",
+        "进去",
+        "从小",
+        "但"
+      ],
+      "story_title": "First Message On The Train"
+    },
+    {
+      "sentence_cn": "林远看着水，又看看苏晴。",
+      "sentence_blank": "林远看 ___ 水，又看看苏晴。",
+      "translation_vi": "Lâm Viễn nhìn mặt nước, lại nhìn Tô Thanh.",
+      "word": "着",
+      "level": 2,
+      "options": [
+        "门口",
+        "上面",
+        "着",
+        "洗"
+      ],
+      "story_title": "The Loudest Applause"
+    },
+    {
+      "sentence_cn": "黑影很大，比人高，头快要碰到树枝了。",
+      "sentence_blank": "黑影很大，比人高，头 ___ 碰到树枝了。",
+      "translation_vi": "Cái bóng rất lớn, cao hơn người, đầu gần như chạm vào cành cây.",
+      "word": "快要",
+      "level": 2,
+      "options": [
+        "一会儿",
+        "虽然",
+        "洗",
+        "快要"
+      ],
+      "story_title": "Night Voices"
+    },
+    {
+      "sentence_cn": "一点，在图书馆，雨晴走进去。",
+      "sentence_blank": "一点，在图书馆，雨晴走 ___ 。",
+      "translation_vi": "Lúc một giờ, Yuqing bước vào thư viện.",
+      "word": "进去",
+      "level": 2,
+      "options": [
+        "商场",
+        "出国",
+        "踢",
+        "进去"
+      ],
+      "story_title": "Silence In The Library"
+    },
+    {
+      "sentence_cn": "他回到自己的家，打开箱子，拿出毛巾和洗发水。",
+      "sentence_blank": "他回到自己的家， ___ 箱子，拿出毛巾和洗发水。",
+      "translation_vi": "Anh trở về nhà, mở vali lấy ra khăn tắm và dầu gội.",
+      "word": "打开",
+      "level": 2,
+      "options": [
+        "那么",
+        "打开",
+        "有时",
+        "从"
+      ],
+      "story_title": "Cold Shower"
+    },
+    {
+      "sentence_cn": "手机里，爸爸和妈妈也在看学校门口。",
+      "sentence_blank": "手机里，爸爸和妈妈也在看学校 ___ 。",
+      "translation_vi": "Qua điện thoại, bố và mẹ cũng đang nhìn về phía cổng trường.",
+      "word": "门口",
+      "level": 2,
+      "options": [
+        "次",
+        "后面",
+        "白色",
+        "门口"
+      ],
+      "story_title": "Surprise At The School Gate"
+    },
+    {
+      "sentence_cn": "她旁边的同事做得很快，小月看着他们，心里很紧张。",
+      "sentence_blank": "她 ___ 的同事做得很快，小月看着他们，心里很紧张。",
+      "translation_vi": "Các đồng nghiệp bên cạnh cô làm việc rất nhanh chóng. Xiaoyue nhìn họ và cảm thấy rất lo lắng.",
+      "word": "旁边",
+      "level": 2,
+      "options": [
+        "楼",
+        "过去",
+        "姓",
+        "旁边"
+      ],
+      "story_title": "Sleeping On The Bus"
+    },
+    {
+      "sentence_cn": "还有十分钟，他想，我可以走过去，不跑了。",
+      "sentence_blank": "还有十分钟，他想，我可以走 ___ ，不跑了。",
+      "translation_vi": "“Còn mười phút nữa,” anh nghĩ, “từ đây mình có thể đi bộ, không cần phải chạy.”",
+      "word": "过去",
+      "level": 2,
+      "options": [
+        "为什么",
+        "车站",
+        "过去",
+        "万"
+      ],
+      "story_title": "Shattered Vase"
+    },
+    {
+      "sentence_cn": "但是苏雪的眼睛总是离开书，看程阳。",
+      "sentence_blank": " ___ 苏雪的眼睛总是离开书，看程阳。",
+      "translation_vi": "Nhưng ánh mắt Suxue vẫn rời khỏi cuốn sách để nhìn Chengyang.",
+      "word": "但是",
+      "level": 2,
+      "options": [
+        "那样",
+        "男孩儿",
+        "但是",
+        "准备"
+      ],
+      "story_title": "Tasting Coffee"
+    },
+    {
+      "sentence_cn": "建国，林奶奶说，肉不够。",
+      "sentence_blank": "建国，林 ___ 说，肉不够。",
+      "translation_vi": "Jianguo, bà Lin nói, không đủ thịt.",
+      "word": "奶奶",
+      "level": 2,
+      "options": [
+        "奶奶",
+        "那样",
+        "自己",
+        "就"
+      ],
+      "story_title": "Grandmas Summons"
+    },
+    {
+      "sentence_cn": "小孩们笑了，又开始游来游去。",
+      "sentence_blank": "小孩们笑了，又 ___ 游来游去。",
+      "translation_vi": "Bọn trẻ cười lớn và lại bắt đầu bơi vòng quanh.",
+      "word": "开始",
+      "level": 2,
+      "options": [
+        "丈夫",
+        "开始",
+        "书包",
+        "头"
+      ],
+      "story_title": "Online Videos"
+    },
+    {
+      "sentence_cn": "这一次，她打开微信，扫码，输入钱数，确认付款——都做对了！",
+      "sentence_blank": "这一次，她 ___ 微信，扫码，输入钱数，确认付款——都做对了！",
+      "translation_vi": "Lần này, cô ấy mở WeChat, quét mã, nhập số tiền và xác nhận thanh toán—cô ấy đã làm đúng mọi thứ!",
+      "word": "打开",
+      "level": 2,
+      "options": [
+        "打开",
+        "进",
+        "万",
+        "爱好"
+      ],
+      "story_title": "Paying Alone For The First Time"
+    },
+    {
+      "sentence_cn": "夜市里的人还是很多，他们走得很慢。",
+      "sentence_blank": "夜市里的人 ___ 很多，他们走得很慢。",
+      "translation_vi": "Chợ đêm vẫn còn nhiều người nên họ đi rất chậm.",
+      "word": "还是",
+      "level": 2,
+      "options": [
+        "那么",
+        "告诉",
+        "还是",
+        "右"
+      ],
+      "story_title": "Wallet Goes Missing"
+    },
+    {
+      "sentence_cn": "他要做的老姜蟹黄狮子头——姜选老姜，蟹选六月黄，肉要自己剁。",
+      "sentence_blank": "他要做的老姜蟹黄狮子头——姜选老姜，蟹选六月黄，肉要 ___ 剁。",
+      "translation_vi": "Anh ta đang làm món thịt viên đầu sư tử cua gừng già – gừng già làm gừng, cua vàng tháng Sáu làm cua và thịt lợn băm bằng tay.",
+      "word": "自己",
+      "level": 2,
+      "options": [
+        "自己",
+        "每",
+        "奶茶",
+        "打开"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "苏雪把车票小心地放进书包：程阳，这次我们不去图书馆了，对吗？",
+      "sentence_blank": "苏雪把车票小心地放进 ___ ：程阳，这次我们不去图书馆了，对吗？",
+      "translation_vi": "Tô Tuyết cẩn thận nhét vé vào ba lô: Trình Dương, lần này chúng ta không đến thư viện phải không?",
+      "word": "书包",
+      "level": 2,
+      "options": [
+        "高中",
+        "门",
+        "书包",
+        "足球"
+      ],
+      "story_title": "New Semester Begins"
+    },
+    {
+      "sentence_cn": "手机响了一下，但是屏幕上出现了一些字，她不认识。",
+      "sentence_blank": "手机响了一下， ___ 屏幕上出现了一些字，她不认识。",
+      "translation_vi": "Điện thoại kêu bíp nhưng trên màn hình lại xuất hiện một số từ mà cô không nhận ra.",
+      "word": "但是",
+      "level": 2,
+      "options": [
+        "但是",
+        "帮",
+        "还是",
+        "包"
+      ],
+      "story_title": "Paying Alone For The First Time"
+    },
+    {
+      "sentence_cn": "雨晴看看那个地方，又看看白色的车。",
+      "sentence_blank": "雨晴看看那个地方，又看看 ___ 的车。",
+      "translation_vi": "Yuqing nhìn chỗ đó, rồi nhìn chiếc xe màu trắng.",
+      "word": "白色",
+      "level": 2,
+      "options": [
+        "白色",
+        "床",
+        "外国",
+        "球"
+      ],
+      "story_title": "Worst Parking Best Start"
+    },
+    {
+      "sentence_cn": "赵师傅说：你做得对，你最后停下来了。",
+      "sentence_blank": "赵师傅说：你做得对，你最后停 ___ 了。",
+      "translation_vi": "Triệu đại sư nói: \"Ngươi làm rất đúng, cuối cùng ngươi đã dừng lại.\"",
+      "word": "下来",
+      "level": 2,
+      "options": [
+        "高中",
+        "周",
+        "票",
+        "下来"
+      ],
+      "story_title": "Car Crashes Into Trash Can"
+    },
+    {
+      "sentence_cn": "苏雪的眼睛睁大了：我们真的要去吗？",
+      "sentence_blank": "苏雪的 ___ 睁大了：我们真的要去吗？",
+      "translation_vi": "Tô Tuyết mở to mắt: Chúng ta thật sự đi sao?",
+      "word": "眼睛",
+      "level": 2,
+      "options": [
+        "外面",
+        "懂",
+        "姓",
+        "眼睛"
+      ],
+      "story_title": "New Semester Begins"
+    },
+    {
+      "sentence_cn": "文杰站在健身房门口，他的手放在门把手上，但是他不拉门。",
+      "sentence_blank": "文杰站在健身房 ___ ，他的手放在门把手上，但是他不拉门。",
+      "translation_vi": "Văn Kiệt đứng ở cửa phòng tập, tay đặt trên tay nắm cửa, nhưng lại không kéo ra.",
+      "word": "门口",
+      "level": 2,
+      "options": [
+        "动",
+        "门口",
+        "间",
+        "前面"
+      ],
+      "story_title": "Gym Entrance"
+    },
+    {
+      "sentence_cn": "在赵雪家的门口，小红来了。",
+      "sentence_blank": "在赵雪家的 ___ ，小红来了。",
+      "translation_vi": "Trước cửa nhà Triệu Tuyết, Tiểu Hồng đã đến.",
+      "word": "门口",
+      "level": 2,
+      "options": [
+        "花",
+        "门口",
+        "商场",
+        "坏"
+      ],
+      "story_title": "Choose Red"
+    },
+    {
+      "sentence_cn": "对面楼的人家亮着灯，他看见一个人在炒菜，白色的烟从窗户飘出来。",
+      "sentence_blank": "对面楼的人家亮着灯，他看见一个人在炒菜， ___ 的烟从窗户飘出来。",
+      "translation_vi": "Căn hộ bên kia đường đã bật đèn, anh nhìn thấy ai đó đang xào, khói trắng bay ra ngoài cửa sổ.",
+      "word": "白色",
+      "level": 2,
+      "options": [
+        "虽然",
+        "那样",
+        "白色",
+        "走路"
+      ],
+      "story_title": "She Arrives"
+    },
+    {
+      "sentence_cn": "又过了几分钟，她开始觉得头疼。",
+      "sentence_blank": "又过了几分钟，她 ___ 觉得头疼。",
+      "translation_vi": "Sau vài phút, cô bắt đầu cảm thấy đau đầu.",
+      "word": "开始",
+      "level": 2,
+      "options": [
+        "一会儿",
+        "正",
+        "开始",
+        "鱼"
+      ],
+      "story_title": "A Sore Throat Morning"
+    },
+    {
+      "sentence_cn": "面煮好了，潘东端到桌上。",
+      "sentence_blank": " ___ 煮好了，潘东端到桌上。",
+      "translation_vi": "Khi mì đã chín, Pan Dong bưng ra bàn.",
+      "word": "面",
+      "level": 2,
+      "options": [
+        "面",
+        "不好意思",
+        "近",
+        "从"
+      ],
+      "story_title": "Second And Third Calls"
+    },
+    {
+      "sentence_cn": "沈经理看着大家，眼睛有点湿。",
+      "sentence_blank": "沈经理看着大家， ___ 有点湿。",
+      "translation_vi": "Quản lý Thẩm nhìn mọi người, ánh mắt có chút ẩm ướt.",
+      "word": "眼睛",
+      "level": 2,
+      "options": [
+        "近",
+        "进",
+        "眼睛",
+        "女孩儿"
+      ],
+      "story_title": "Boss Talks Big"
+    },
+    {
+      "sentence_cn": "他站起来的时候，发现自己的背直了。",
+      "sentence_blank": "他站 ___ 的时候，发现自己的背直了。",
+      "translation_vi": "Khi đứng dậy, anh nhận thấy lưng mình đã thẳng hơn.",
+      "word": "起来",
+      "level": 2,
+      "options": [
+        "出来",
+        "女孩儿",
+        "球",
+        "起来"
+      ],
+      "story_title": "Learn Slowly"
+    },
+    {
+      "sentence_cn": "我的手机摄像头坏了，雨晴说，我想和爸爸妈妈视频，但是只能听见声音，看不见人。",
+      "sentence_blank": "我的手机摄像头坏了，雨晴说，我想和爸爸妈妈视频， ___ 只能听见声音，看不见人。",
+      "translation_vi": "Camera điện thoại của tôi bị hỏng, Yuqing nói, tôi muốn gọi video cho bố mẹ nhưng tôi chỉ nghe được giọng nói của họ chứ không nhìn thấy họ.",
+      "word": "但是",
+      "level": 2,
+      "options": [
+        "送",
+        "个子",
+        "但是",
+        "位"
+      ],
+      "story_title": "Broken Camera"
+    },
+    {
+      "sentence_cn": "他们放包，李奶奶叫：下来喝荼！",
+      "sentence_blank": "他们放包，李奶奶叫： ___ 喝荼！",
+      "translation_vi": "Họ đặt túi xuống, bà Lý gọi: Xuống uống trà!",
+      "word": "下来",
+      "level": 2,
+      "options": [
+        "下来",
+        "打",
+        "啊",
+        "红茶"
+      ],
+      "story_title": "Ticketless Morning"
+    },
+    {
+      "sentence_cn": "把纸条放在她手边，拿钥匙出门。",
+      "sentence_blank": "把纸条放在她手边，拿钥匙 ___ 。",
+      "translation_vi": "Anh đặt tờ giấy vào tay cô, lấy chìa khóa rồi đi ra ngoài.",
+      "word": "出门",
+      "level": 2,
+      "options": [
+        "出门",
+        "动",
+        "洗手间",
+        "不好意思"
+      ],
+      "story_title": "Home In The Rain"
+    },
+    {
+      "sentence_cn": "他蹲下来，和雨青一起整理，你一个人拿三个袋子，太辛苦了。",
+      "sentence_blank": "他蹲下来，和雨青 ___ 整理，你一个人拿三个袋子，太辛苦了。",
+      "translation_vi": "Anh cúi xuống giúp Ngọc Thanh chỉnh trang lại: “Một mình mang ba túi quá vất vả.”",
+      "word": "一起",
+      "level": 2,
+      "options": [
+        "车站",
+        "次",
+        "一起",
+        "爱好"
+      ],
+      "story_title": "Walk Or Ride"
+    },
+    {
+      "sentence_cn": "昨天晚上，她在家里准备今天要穿的衣服。",
+      "sentence_blank": "昨天晚上，她在家里 ___ 今天要穿的衣服。",
+      "translation_vi": "Tối qua cô ở nhà chuẩn bị quần áo hôm nay sẽ mặc.",
+      "word": "准备",
+      "level": 2,
+      "options": [
+        "红色",
+        "准备",
+        "妻子",
+        "着"
+      ],
+      "story_title": "Morning Tension"
+    },
+    {
+      "sentence_cn": "但是今天看见大家这么开心，我也想试试。",
+      "sentence_blank": " ___ 今天看见大家这么开心，我也想试试。",
+      "translation_vi": "\"Nhưng hôm nay thấy mọi người vui vẻ nên tôi cũng muốn thử.\"",
+      "word": "但是",
+      "level": 2,
+      "options": [
+        "不错",
+        "但是",
+        "裤子",
+        "高"
+      ],
+      "story_title": "Unexpected Basketball Star"
+    },
+    {
+      "sentence_cn": "在公交车站，马东打开伞。",
+      "sentence_blank": "在 ___ 站，马东打开伞。",
+      "translation_vi": "Đến bến xe buýt, Mã Đông mở ô ra.",
+      "word": "公交车",
+      "level": 2,
+      "options": [
+        "奶茶",
+        "快要",
+        "公交车",
+        "花"
+      ],
+      "story_title": "Almost Miss"
+    },
+    {
+      "sentence_cn": "叶会计抱着篮球，找来找去，找不到可以传球的人。",
+      "sentence_blank": "叶会计抱着 ___ ，找来找去，找不到可以传球的人。",
+      "translation_vi": "Kế toán Ye cầm quả bóng rổ, nhìn quanh nhưng không tìm được ai để chuyền cho.",
+      "word": "篮球",
+      "level": 2,
+      "options": [
+        "篮球",
+        "走路",
+        "跳舞",
+        "最"
+      ],
+      "story_title": "Unexpected Basketball Star"
+    },
+    {
+      "sentence_cn": "王老师大笑：学习汉语需要这么高兴吗？",
+      "sentence_blank": "王老师大笑：学习汉语需要 ___ 高兴吗？",
+      "translation_vi": "Thầy Vương cười lớn: Học tiếng Trung có cần vui như vậy không?",
+      "word": "这么",
+      "level": 2,
+      "options": [
+        "累",
+        "出去",
+        "外国",
+        "这么"
+      ],
+      "story_title": "World Beyond The Library"
+    },
+    {
+      "sentence_cn": "丁小雨说：老师，小云不舒服。",
+      "sentence_blank": "丁小雨说：老师，小云不 ___ 。",
+      "translation_vi": "Đinh Tiểu Ngư nói: \"Sư phụ, Tiểu Vận tâm tình không được khỏe.\"",
+      "word": "舒服",
+      "level": 2,
+      "options": [
+        "下面",
+        "事情",
+        "上面",
+        "舒服"
+      ],
+      "story_title": "Eighteen Mountain Bends"
+    },
+    {
+      "sentence_cn": "苏悦是志远的妻子，三十八岁。",
+      "sentence_blank": "苏悦是志远的 ___ ，三十八岁。",
+      "translation_vi": "Tô Nhạc là vợ của Chí Viễn, ba mươi tám tuổi.",
+      "word": "妻子",
+      "level": 2,
+      "options": [
+        "妻子",
+        "从小",
+        "过去",
+        "得"
+      ],
+      "story_title": "Too Hot A Night"
+    },
+    {
+      "sentence_cn": "可能，李先生说，但是去哪了？",
+      "sentence_blank": " ___ ，李先生说，但是去哪了？",
+      "translation_vi": "“Có thể,” ông Li nói, “nhưng nó đã đi đâu rồi?”",
+      "word": "可能",
+      "level": 2,
+      "options": [
+        "动",
+        "可能",
+        "每",
+        "事情"
+      ],
+      "story_title": "Night Voices"
+    },
+    {
+      "sentence_cn": "余梅也打开饭盒，她呆了。",
+      "sentence_blank": "余梅也 ___ 饭盒，她呆了。",
+      "translation_vi": "Yu Mei cũng mở hộp cơm ra, cô cứng người.",
+      "word": "打开",
+      "level": 2,
+      "options": [
+        "帮",
+        "旅游",
+        "帮忙",
+        "打开"
+      ],
+      "story_title": "Grab Wrong Item"
+    },
+    {
+      "sentence_cn": "郑雨接过来，她的手有点发抖。",
+      "sentence_blank": "郑雨接 ___ ，她的手有点发抖。",
+      "translation_vi": "Zheng Yu cầm lấy, tay cô hơi run.",
+      "word": "过来",
+      "level": 2,
+      "options": [
+        "过来",
+        "男孩儿",
+        "上去",
+        "但是"
+      ],
+      "story_title": "Anticipating Tomorrow"
+    },
+    {
+      "sentence_cn": "雨晴听到这句话，眼睛红了。",
+      "sentence_blank": "雨晴听到这句话， ___ 红了。",
+      "translation_vi": "Khi Yuqing nghe thấy điều này, đôi mắt của cô ấy đã đỏ hoe.",
+      "word": "眼睛",
+      "level": 2,
+      "options": [
+        "床",
+        "帮",
+        "眼睛",
+        "肉"
+      ],
+      "story_title": "A New Beginning"
+    }
+  ],
+  "3": [
+    {
+      "sentence_cn": "我只是想告诉各位家长，有时候，孩子需要的不是少做一点作业，而是多一个人陪他们。",
+      "sentence_blank": "我只是想告诉各位家长， ___ ，孩子需要的不是少做一点作业，而是多一个人陪他们。",
+      "translation_vi": "Tôi chỉ muốn nói với tất cả các bậc phụ huynh ở đây, đôi khi điều trẻ cần không phải là ít bài tập về nhà mà là thêm một người đồng hành cùng chúng.",
+      "word": "有时候",
+      "level": 3,
+      "options": [
+        "开花",
+        "大熊猫",
+        "有时候",
+        "衬衫"
+      ],
+      "story_title": "Another Father Shares"
+    },
+    {
+      "sentence_cn": "她看着窗外，月亮还是很亮。",
+      "sentence_blank": "她看着窗外， ___ 还是很亮。",
+      "translation_vi": "Cô nhìn ra ngoài cửa sổ; trăng vẫn rất sáng.",
+      "word": "月亮",
+      "level": 3,
+      "options": [
+        "照顾",
+        "月亮",
+        "常见",
+        "秋天"
+      ],
+      "story_title": "Two Days Of Silence"
+    },
+    {
+      "sentence_cn": "雨青找到他的时候，他正坐在一个卖水果的箱子旁边，手里拿着空了的豆腐脑碗。",
+      "sentence_blank": "雨青找到他的时候，他正坐在一个卖水果的 ___ 旁边，手里拿着空了的豆腐脑碗。",
+      "translation_vi": "Khi Yuqing tìm thấy anh ta, anh ta đang ngồi cạnh thùng bán trái cây, tay cầm một chiếc bát doufunao trống rỗng.",
+      "word": "箱子",
+      "level": 3,
+      "options": [
+        "箱子",
+        "可是",
+        "马上",
+        "冰激凌"
+      ],
+      "story_title": "Separate Actions"
+    },
+    {
+      "sentence_cn": "她笑着想，今天是个特别的日子。",
+      "sentence_blank": "她笑着想，今天是个 ___ 的日子。",
+      "translation_vi": "Cô mỉm cười, nghĩ hôm nay là một ngày đặc biệt.",
+      "word": "特别",
+      "level": 3,
+      "options": [
+        "特别",
+        "丢",
+        "怎么办",
+        "阿姨"
+      ],
+      "story_title": "Autumn Dinner"
+    },
+    {
+      "sentence_cn": "邻居说：对不起，但是今天一定要做完。",
+      "sentence_blank": "邻居说：对不起，但是今天 ___ 要做完。",
+      "translation_vi": "Người hàng xóm nói: Xin lỗi, nhưng hôm nay chúng tôi phải làm xong.",
+      "word": "一定",
+      "level": 3,
+      "options": [
+        "一定",
+        "着急",
+        "明白",
+        "解决"
+      ],
+      "story_title": "Torn Schedule"
+    },
+    {
+      "sentence_cn": "但是...王小美有点担心，如果大家都知道怎么做，你的店会不会...",
+      "sentence_blank": "但是...王小美有点担心， ___ 大家都知道怎么做，你的店会不会...",
+      "translation_vi": "\"Nhưng...\" Vương Tiểu Mai có chút lo lắng. \"Nếu mọi người đều biết cách làm nó, liệu cửa hàng của bạn có...\"",
+      "word": "如果",
+      "level": 3,
+      "options": [
+        "被",
+        "文化",
+        "东方",
+        "如果"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "陈雅婷也过来了，她说：你的声音很清楚，我们都听到了！",
+      "sentence_blank": "陈雅婷也过来了，她说：你的 ___ 很清楚，我们都听到了！",
+      "translation_vi": "Chen Yating cũng đi tới và nói: Giọng của bạn rất rõ ràng; tất cả chúng tôi đều nghe thấy bạn!",
+      "word": "声音",
+      "level": 3,
+      "options": [
+        "大人",
+        "前天",
+        "声音",
+        "叔叔"
+      ],
+      "story_title": "Voices In The Video"
+    },
+    {
+      "sentence_cn": "这次她没有想太多，马上往前走。",
+      "sentence_blank": "这次她没有想太多， ___ 往前走。",
+      "translation_vi": "Lần này cô không suy nghĩ nhiều nữa, lập tức bước về phía trước.",
+      "word": "马上",
+      "level": 3,
+      "options": [
+        "搬家",
+        "干",
+        "马上",
+        "周末"
+      ],
+      "story_title": "The Subway Doors Dont Wait"
+    },
+    {
+      "sentence_cn": "那您孙子一定很高兴，司机说，奶奶从老家来看他，他今天晚上肯定要带您去吃好吃的。",
+      "sentence_blank": "那您孙子一定很高兴， ___ 说，奶奶从老家来看他，他今天晚上肯定要带您去吃好吃的。",
+      "translation_vi": "“Vậy thì cháu trai của ông chắc chắn sẽ vui lắm,” tài xế nói. “Bà nội anh ấy từ quê lên thăm anh ấy, tối nay anh ấy nhất định sẽ dẫn em đi ăn ngon.”",
+      "word": "司机",
+      "level": 3,
+      "options": [
+        "司机",
+        "出院",
+        "同意",
+        "矿泉水"
+      ],
+      "story_title": "Forest Beyond The Window"
+    },
+    {
+      "sentence_cn": "我会根据每个人的情况制定不同计划。",
+      "sentence_blank": "我会 ___ 每个人的情况制定不同计划。",
+      "translation_vi": "Tôi sẽ lập các kế hoạch khác nhau tùy theo hoàn cảnh của mỗi người.",
+      "word": "根据",
+      "level": 3,
+      "options": [
+        "出院",
+        "根据",
+        "雨衣",
+        "被"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "小雨看着他，好像第一次听到这样的事情。",
+      "sentence_blank": "小雨看着他， ___ 第一次听到这样的事情。",
+      "translation_vi": "Tiểu Ngư nhìn anh như thể cô mới nghe thấy những điều như vậy lần đầu tiên.",
+      "word": "好像",
+      "level": 3,
+      "options": [
+        "音乐",
+        "香蕉",
+        "结束",
+        "好像"
+      ],
+      "story_title": "Teachers Advice"
+    },
+    {
+      "sentence_cn": "你不用找零钱，也不用怕钱丢了。",
+      "sentence_blank": "你 ___ 找零钱，也不用怕钱丢了。",
+      "translation_vi": "Bạn không cần phải đổi tiền lẻ và cũng không phải lo lắng về việc mất tiền.",
+      "word": "不用",
+      "level": 3,
+      "options": [
+        "不用",
+        "外地",
+        "大衣",
+        "合适"
+      ],
+      "story_title": "Phone And Money Talk"
+    },
+    {
+      "sentence_cn": "蒋梦雪点点头，心里突然暖暖的。",
+      "sentence_blank": "蒋梦雪点点头， ___ 突然暖暖的。",
+      "translation_vi": "Giang Mộng Tuyết gật đầu, trong lòng đột nhiên cảm thấy ấm áp.",
+      "word": "心里",
+      "level": 3,
+      "options": [
+        "大熊猫",
+        "心里",
+        "留学生",
+        "草"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "上海这几年建得特别快，越来越高了。",
+      "sentence_blank": "上海这几年建得 ___ 快，越来越高了。",
+      "translation_vi": "Thượng Hải những năm gần đây phát triển rất nhanh, ngày càng cao hơn.",
+      "word": "特别",
+      "level": 3,
+      "options": [
+        "护照",
+        "遇到",
+        "节日",
+        "特别"
+      ],
+      "story_title": "Forest Beyond The Window"
+    },
+    {
+      "sentence_cn": "志远从楼梯上冲下来，头发还湿着，我洗头的时候水突然凉了。",
+      "sentence_blank": "志远从 ___ 上冲下来，头发还湿着，我洗头的时候水突然凉了。",
+      "translation_vi": "Trí Viễn lao xuống cầu thang, tóc vẫn còn ướt. \"Nước đột nhiên trở nên lạnh khi tôi đang gội đầu.\"",
+      "word": "楼梯",
+      "level": 3,
+      "options": [
+        "楼梯",
+        "行李",
+        "了解",
+        "结婚"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "第一套在十九楼，电梯咣当一声打开，走廊黑得像夜。",
+      "sentence_blank": "第一套在十九楼， ___ 咣当一声打开，走廊黑得像夜。",
+      "translation_vi": "Căn hộ đầu tiên ở trên tầng mười chín. Thang máy kêu leng keng mở ra, hành lang tối như màn đêm.",
+      "word": "电梯",
+      "level": 3,
+      "options": [
+        "夫妻",
+        "世界",
+        "胖",
+        "电梯"
+      ],
+      "story_title": "Growing Taller"
+    },
+    {
+      "sentence_cn": "远处，卖早点的声音飘过来：包子——热包子——",
+      "sentence_blank": "远处，卖早点的 ___ 飘过来：包子——热包子——",
+      "translation_vi": "Xa xa, tiếng người bán đồ ăn sáng truyền tới: “Bánh bao hấp—bánh bao hấp nóng—”",
+      "word": "声音",
+      "level": 3,
+      "options": [
+        "声音",
+        "羽毛球",
+        "笔记",
+        "最好"
+      ],
+      "story_title": "Share Music"
+    },
+    {
+      "sentence_cn": "林秀芳说，马经理答应了！",
+      "sentence_blank": "林秀芳说，马 ___ 答应了！",
+      "translation_vi": "Lâm Tú Phương nói, Mã quản lý đồng ý!",
+      "word": "经理",
+      "level": 3,
+      "options": [
+        "环境",
+        "难看",
+        "经理",
+        "公斤"
+      ],
+      "story_title": "A Turning Point On The Phone"
+    },
+    {
+      "sentence_cn": "林建国以前觉得这样很好，但是现在他想：小雨是不是太怕做错了？",
+      "sentence_blank": "林建国 ___ 觉得这样很好，但是现在他想：小雨是不是太怕做错了？",
+      "translation_vi": "Lin Jianguo từng nghĩ điều này là tốt, nhưng bây giờ anh lại nghĩ: Xiaoyu có quá sợ phạm sai lầm không?",
+      "word": "以前",
+      "level": 3,
+      "options": [
+        "复习",
+        "聊天儿",
+        "以前",
+        "刮"
+      ],
+      "story_title": "Teacher Explains"
+    },
+    {
+      "sentence_cn": "雨晴看着父亲，突然很想哭，但是她笑了笑，说：爸，我们回家吧。",
+      "sentence_blank": "雨晴看着父亲， ___ 很想哭，但是她笑了笑，说：爸，我们回家吧。",
+      "translation_vi": "Ngọc Thanh nhìn bố, đột nhiên muốn khóc, nhưng lại cười nói: \"Bố, chúng ta về nhà đi.\"",
+      "word": "突然",
+      "level": 3,
+      "options": [
+        "留学生",
+        "成绩",
+        "突然",
+        "勺子"
+      ],
+      "story_title": "A City For One"
+    },
+    {
+      "sentence_cn": "然后...然后我看到一个黑影，很大，在花园里走来走去。",
+      "sentence_blank": " ___ ...然后我看到一个黑影，很大，在花园里走来走去。",
+      "translation_vi": "\"Sau đó... sau đó tôi nhìn thấy một bóng đen rất lớn đang đi loanh quanh trong vườn.\"",
+      "word": "然后",
+      "level": 3,
+      "options": [
+        "懂得",
+        "女人",
+        "然后",
+        "句子"
+      ],
+      "story_title": "Night Voices"
+    },
+    {
+      "sentence_cn": "她的头疼得让她听不太清楚老师在说什么。",
+      "sentence_blank": "她的头疼得让她听不太 ___ 老师在说什么。",
+      "translation_vi": "Cô rất muốn gục đầu xuống bàn nhưng lại sợ giáo viên nhìn thấy.",
+      "word": "清楚",
+      "level": 3,
+      "options": [
+        "矿泉水",
+        "清楚",
+        "咱们",
+        "夏天"
+      ],
+      "story_title": "A Sore Throat Morning"
+    },
+    {
+      "sentence_cn": "叶小美正在补口红，头也不抬地说：我可以负责拍照记录。",
+      "sentence_blank": "叶小美正在补口红，头也不抬地说：我可以负责 ___ 记录。",
+      "translation_vi": "Diệp Tiểu Mỹ không ngẩng đầu tô son môi nói: Tôi có thể phụ trách chụp ảnh kỷ lục.",
+      "word": "拍照",
+      "level": 3,
+      "options": [
+        "重要",
+        "拍照",
+        "一样",
+        "放学"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "林雨晴看着那些东西，心里觉得很温暖。",
+      "sentence_blank": "林雨晴看着那些东西， ___ 觉得很温暖。",
+      "translation_vi": "Lâm Ngọc Tình nhìn những thứ đó, trong lòng cảm thấy ấm áp.",
+      "word": "心里",
+      "level": 3,
+      "options": [
+        "子",
+        "心里",
+        "周末",
+        "女生"
+      ],
+      "story_title": "Warmth From A Classmate"
+    },
+    {
+      "sentence_cn": "王阿姨听了更害怕了：那怎么办？",
+      "sentence_blank": "王阿姨听了更害怕了：那 ___ ？",
+      "translation_vi": "Dì Vương lại càng sợ hãi hơn. \"Vậy chúng ta nên làm gì?\"",
+      "word": "怎么办",
+      "level": 3,
+      "options": [
+        "字典",
+        "作业",
+        "怎么办",
+        "几乎"
+      ],
+      "story_title": "Strange Footprints"
+    },
+    {
+      "sentence_cn": "刘秀兰想了想，说：可是钱要拿在手里才踏实啊。",
+      "sentence_blank": "刘秀兰想了想，说： ___ 钱要拿在手里才踏实啊。",
+      "translation_vi": "Lưu Tú Lan suy nghĩ một chút, nói: “Nhưng ngươi phải cầm tiền trong tay mới yên tâm.”",
+      "word": "可是",
+      "level": 3,
+      "options": [
+        "课本",
+        "空调",
+        "可是",
+        "年轻"
+      ],
+      "story_title": "Phone And Money Talk"
+    },
+    {
+      "sentence_cn": "请快一点，我快要迟到了。",
+      "sentence_blank": "请快一点，我快要 ___ 了。",
+      "translation_vi": "Làm ơn nhanh lên, tôi sắp trễ rồi.",
+      "word": "迟到",
+      "level": 3,
+      "options": [
+        "运动会",
+        "迟到",
+        "感兴趣",
+        "了解"
+      ],
+      "story_title": "Waiting In The Rain"
+    },
+    {
+      "sentence_cn": "热气模糊了她的眼镜，也模糊了她的声音：……和我妈做的一个味。",
+      "sentence_blank": "热气模糊了她的眼镜，也模糊了她的 ___ ：……和我妈做的一个味。",
+      "translation_vi": "Hơi nước làm mờ kính của cô và làm mờ giọng cô: '...Nó có vị giống như của mẹ tôi.'",
+      "word": "声音",
+      "level": 3,
+      "options": [
+        "不久",
+        "其他",
+        "声音",
+        "关"
+      ],
+      "story_title": "Share Hometown Stories"
+    },
+    {
+      "sentence_cn": "到了到了，刘秀兰说，我已经在出租车上了，很快就到你住的地方。",
+      "sentence_blank": "到了到了，刘秀兰说，我已经在出租车上了，很快就到你住的 ___ 。",
+      "translation_vi": "\"Ta tới rồi, ta tới rồi.\" Lưu Tú Lan nói. \"Tôi đã lên taxi và sẽ sớm đến chỗ bạn.\"",
+      "word": "地方",
+      "level": 3,
+      "options": [
+        "地方",
+        "比如",
+        "夫妻",
+        "水平"
+      ],
+      "story_title": "Forest Beyond The Window"
+    },
+    {
+      "sentence_cn": "丁东明看，那栋房子没有门牌。",
+      "sentence_blank": "丁东明看，那栋 ___ 没有门牌。",
+      "translation_vi": "Ding Dongming nhìn; ngôi nhà đó không có số nhà.",
+      "word": "房子",
+      "level": 3,
+      "options": [
+        "向",
+        "年级",
+        "相机",
+        "房子"
+      ],
+      "story_title": "Shattered Vase"
+    },
+    {
+      "sentence_cn": "小雨问了很多问题，林建国一个一个回答。",
+      "sentence_blank": "小雨问了很多问题，林建国一个一个 ___ 。",
+      "translation_vi": "Xiaoyu hỏi rất nhiều câu hỏi và Lin Jianguo đã trả lời từng câu một.",
+      "word": "回答",
+      "level": 3,
+      "options": [
+        "爱人",
+        "有关",
+        "回答",
+        "刚刚"
+      ],
+      "story_title": "First Real Conversation"
+    },
+    {
+      "sentence_cn": "挂了电话后，林秀芳坐在椅子上，开始想明天要怎么跟经理说。",
+      "sentence_blank": "挂了电话后，林秀芳坐在椅子上，开始想明天要怎么跟 ___ 说。",
+      "translation_vi": "Sau khi cúp máy, Lâm Tú Phương ngồi trên ghế, bắt đầu suy nghĩ ngày mai sẽ nói gì với quản lý.",
+      "word": "经理",
+      "level": 3,
+      "options": [
+        "主要",
+        "扫",
+        "名人",
+        "经理"
+      ],
+      "story_title": "A Single Sheets Trouble"
+    },
+    {
+      "sentence_cn": "林建国听到这里，心里动了一下。",
+      "sentence_blank": "林建国听到这里， ___ 动了一下。",
+      "translation_vi": "Khi Lin Jianguo nghe thấy điều này, trái tim anh rung động.",
+      "word": "心里",
+      "level": 3,
+      "options": [
+        "不行",
+        "遇到",
+        "子",
+        "心里"
+      ],
+      "story_title": "Another Father Shares"
+    },
+    {
+      "sentence_cn": "叶小美转着眼珠：我要拍照记录，标题都想好了——炸鸡赎罪夜跑。",
+      "sentence_blank": "叶小美转着眼珠：我要 ___ 记录，标题都想好了——炸鸡赎罪夜跑。",
+      "translation_vi": "Diệp Tiểu Mai trợn mắt: “Tôi sẽ chụp ảnh làm tư liệu—Tôi đã nghĩ ra dòng chữ: 'Đêm chạy gà rán chuộc tội'.\"",
+      "word": "拍照",
+      "level": 3,
+      "options": [
+        "拍照",
+        "网球",
+        "来自",
+        "好像"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "周小宇摘下一只耳机，轻轻放在小耳朵边。",
+      "sentence_blank": "周小宇摘下一只耳机，轻轻放在小 ___ 边。",
+      "translation_vi": "Chu Tiểu Ngư tháo một chiếc tai nghe ra, nhẹ nhàng đặt lên tai nhỏ.",
+      "word": "耳朵",
+      "level": 3,
+      "options": [
+        "卫生间",
+        "耳朵",
+        "东北",
+        "外地"
+      ],
+      "story_title": "Become Habit"
+    },
+    {
+      "sentence_cn": "只是……只是说了应该说的话。",
+      "sentence_blank": "只是……只是说了应该说 ___ 。",
+      "translation_vi": "Tôi chỉ... nói những gì cần nói thôi.",
+      "word": "的话",
+      "level": 3,
+      "options": [
+        "脚",
+        "的话",
+        "画家",
+        "新闻"
+      ],
+      "story_title": "A Turning Point On The Phone"
+    },
+    {
+      "sentence_cn": "叶小美抖得像风里的柳叶，方大力脸红成关公，只有蒋梦雪咬牙坚持，大腿火烧一样。",
+      "sentence_blank": "叶小美抖得像风里的柳叶，方大力脸红成关公， ___ 蒋梦雪咬牙坚持，大腿火烧一样。",
+      "translation_vi": "Diệp Tiểu Mai run rẩy như lá liễu trong gió, Phương Đại Lực mặt đỏ bừng như Quan Công, còn Tưởng Mộng Tuyết thì nghiến răng nghiến lợi giữ chặt, đùi nóng bừng.",
+      "word": "只有",
+      "level": 3,
+      "options": [
+        "只有",
+        "简单",
+        "收",
+        "身边"
+      ],
+      "story_title": "Xiaoyus Secret"
+    },
+    {
+      "sentence_cn": "他冲过去抱住钟奶奶，又抱住程大伟，最后抱住叶小美的三脚架。",
+      "sentence_blank": "他冲过去抱住钟奶奶，又抱住程大伟， ___ 抱住叶小美的三脚架。",
+      "translation_vi": "Anh lao tới ôm lấy bà Chung, sau đó ôm Trình Đại Vi, cuối cùng ôm lấy chân máy của Diệp Tiểu Mai.",
+      "word": "最后",
+      "level": 3,
+      "options": [
+        "音乐",
+        "信",
+        "最后",
+        "洗澡"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "午餐结束后，林雨晴回到自己的座位。",
+      "sentence_blank": "午餐 ___ 后，林雨晴回到自己的座位。",
+      "translation_vi": "Ăn trưa xong, Lâm Ngọc Thanh trở về chỗ ngồi.",
+      "word": "结束",
+      "level": 3,
+      "options": [
+        "只是",
+        "感到",
+        "结束",
+        "挺"
+      ],
+      "story_title": "Jokes At The Lunch Table"
+    },
+    {
+      "sentence_cn": "笑声中，保洁阿姨的拖把声也不知什么时候停了。",
+      "sentence_blank": "笑声中，保洁 ___ 的拖把声也不知什么时候停了。",
+      "translation_vi": "Trong tiếng cười, tiếng lau nhà của dì quét dọn cũng đã ngừng lại từ lúc nào đó.",
+      "word": "阿姨",
+      "level": 3,
+      "options": [
+        "丢",
+        "扫",
+        "地图",
+        "阿姨"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "周老师说，小雨总是担心自己不如同学好，林建国说，我以前真的不知道她这样想。",
+      "sentence_blank": "周老师说，小雨总是担心自己不如同学好，林建国说，我 ___ 真的不知道她这样想。",
+      "translation_vi": "Cô Chu cho biết Tiểu Vũ luôn lo lắng rằng mình không giỏi bằng các bạn cùng lớp. Lin Jianguo nói, tôi thực sự không biết trước đây cô ấy lại cảm thấy như vậy.",
+      "word": "以前",
+      "level": 3,
+      "options": [
+        "好多",
+        "以前",
+        "住院",
+        "甜"
+      ],
+      "story_title": "Teachers Advice"
+    },
+    {
+      "sentence_cn": "但是有一天，我发现他哭了。",
+      "sentence_blank": "但是有一天，我 ___ 他哭了。",
+      "translation_vi": "Nhưng một ngày nọ, tôi thấy anh đang khóc.",
+      "word": "发现",
+      "level": 3,
+      "options": [
+        "怎么办",
+        "发现",
+        "动物",
+        "节"
+      ],
+      "story_title": "Another Father Shares"
+    },
+    {
+      "sentence_cn": "苏月走在最后，她回头看看草地，草地上还有断掉的跳绳和用过的纸杯。",
+      "sentence_blank": "苏月走在最后，她回头看看 ___ ，草地上还有断掉的跳绳和用过的纸杯。",
+      "translation_vi": "Tô Nguyệt đi ở phía sau; Cô quay lại nhìn bãi cỏ, nơi vẫn còn một sợi dây nhảy bị đứt và những chiếc cốc giấy đã qua sử dụng.",
+      "word": "草地",
+      "level": 3,
+      "options": [
+        "筷子",
+        "渴",
+        "草地",
+        "扫"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "谢谢你的礼物，方老师说，下次来，不要跑。",
+      "sentence_blank": "谢谢你的 ___ ，方老师说，下次来，不要跑。",
+      "translation_vi": "“Cảm ơn quà tặng.” Phương lão sư nói: “Lần sau tới, đừng chạy.”",
+      "word": "礼物",
+      "level": 3,
+      "options": [
+        "碗",
+        "号码",
+        "扫",
+        "礼物"
+      ],
+      "story_title": "Street Flowers"
+    },
+    {
+      "sentence_cn": "林雨晴看到周明远经理坐在第二排，正在和旁边的人说话。",
+      "sentence_blank": "林雨晴看到周明远 ___ 坐在第二排，正在和旁边的人说话。",
+      "translation_vi": "Lâm Ngọc Thanh nhìn thấy quản lý Chu Minh Viễn ngồi ở hàng thứ hai, đang nói chuyện với người bên cạnh.",
+      "word": "经理",
+      "level": 3,
+      "options": [
+        "瓶子",
+        "可是",
+        "经理",
+        "经过"
+      ],
+      "story_title": "Night Of Performance"
+    },
+    {
+      "sentence_cn": "她回头看了一眼那块清理出来的空地，心里想：这只是开始，以后这里会越来越好的。",
+      "sentence_blank": "她回头看了一眼那块清理出来的空地， ___ 想：这只是开始，以后这里会越来越好的。",
+      "translation_vi": "Cô quay lại nhìn mảnh đất đã được dọn sạch và nghĩ: Đây mới chỉ là sự khởi đầu; ở đây sẽ ngày càng tốt hơn.",
+      "word": "心里",
+      "level": 3,
+      "options": [
+        "男人",
+        "节日",
+        "心里",
+        "体育"
+      ],
+      "story_title": "Decision Among The Weeds"
+    },
+    {
+      "sentence_cn": "雪又开始下，一片一片贴在窗上，很快化成水珠滑下去，像给这个城市偷偷洗了个脸。",
+      "sentence_blank": "雪又开始下，一片一片贴在窗上，很快化成水珠滑下去，像给这个 ___ 偷偷洗了个脸。",
+      "translation_vi": "Tuyết lại bắt đầu rơi, dính từng ô cửa sổ, chẳng mấy chốc tan thành từng giọt trượt xuống, như đang ngấm ngầm rửa mặt cho thành phố.",
+      "word": "城市",
+      "level": 3,
+      "options": [
+        "城市",
+        "主要",
+        "其实",
+        "北"
+      ],
+      "story_title": "Final Day"
+    },
+    {
+      "sentence_cn": "方天天愣住，指尖在围裙上擦了擦，才接过徽章。",
+      "sentence_blank": "方天天愣住，指尖在围裙上擦了擦， ___ 接过徽章。",
+      "translation_vi": "Fang Tiantian sửng sốt, lau đầu ngón tay vào tạp dề, sau đó nhận huy hiệu.",
+      "word": "才",
+      "level": 3,
+      "options": [
+        "河",
+        "春天",
+        "才",
+        "裙子"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "叶小美踩着高跟鞋哒哒冲进来，头发染成樱花粉，相机挂在胸前像一门小炮。",
+      "sentence_blank": "叶小美踩着高跟鞋哒哒冲进来，头发染成樱花粉， ___ 挂在胸前像一门小炮。",
+      "translation_vi": "Diệp Tiểu Mỹ đi giày cao gót, tóc nhuộm hồng hoa anh đào, trên cổ treo chiếc máy ảnh như khẩu pháo nhỏ.",
+      "word": "相机",
+      "level": 3,
+      "options": [
+        "子",
+        "屋子",
+        "相机",
+        "路口"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "冯大文看每个门上的号码。",
+      "sentence_blank": "冯大文看每个门上的 ___ 。",
+      "translation_vi": "Feng Dawen nhìn vào con số trên mỗi cánh cửa.",
+      "word": "号码",
+      "level": 3,
+      "options": [
+        "极",
+        "号码",
+        "见面",
+        "有时候"
+      ],
+      "story_title": "Find The Classroom"
+    }
+  ],
+  "4": [
+    {
+      "sentence_cn": "那天晚上，王小美收到了很多餐厅的邀请，不是豪华的，是一些小店。",
+      "sentence_blank": "那天晚上，王小美收到了很多 ___ 的邀请，不是豪华的，是一些小店。",
+      "translation_vi": "Tối hôm đó, Vương Hiểu Mai nhận được rất nhiều lời mời từ các nhà hàng - không phải những nhà hàng sang trọng mà là những quán ăn nhỏ.",
+      "word": "餐厅",
+      "level": 4,
+      "options": [
+        "餐厅",
+        "准时",
+        "不仅",
+        "牙膏"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "林思远洗了西红柿，又洗了青菜。",
+      "sentence_blank": "林思远洗了 ___ ，又洗了青菜。",
+      "translation_vi": "Lin Siyuan rửa cà chua và sau đó là rau xanh.",
+      "word": "西红柿",
+      "level": 4,
+      "options": [
+        "记者",
+        "西红柿",
+        "再说",
+        "考虑"
+      ],
+      "story_title": "Movie Plans Fall Through"
+    },
+    {
+      "sentence_cn": "夜市在学校里的一条街上，人很多，很热闹。",
+      "sentence_blank": "夜市在学校里的一条街上，人很多，很 ___ 。",
+      "translation_vi": "Chợ đêm nằm ngay trên con phố trong trường, đông đúc và sôi động.",
+      "word": "热闹",
+      "level": 4,
+      "options": [
+        "热闹",
+        "祝",
+        "各个",
+        "细心"
+      ],
+      "story_title": "Three Paths Diverge"
+    },
+    {
+      "sentence_cn": "兄弟两个人坐在爷爷的旁边。",
+      "sentence_blank": " ___ 两个人坐在爷爷的旁边。",
+      "translation_vi": "Hai anh em ngồi cạnh ông nội.",
+      "word": "兄弟",
+      "level": 4,
+      "options": [
+        "使用",
+        "兄弟",
+        "地址",
+        "想法"
+      ],
+      "story_title": "Grandfathers Voice"
+    },
+    {
+      "sentence_cn": "他们不是要她写真实的感受，而是要她写广告。",
+      "sentence_blank": "他们不是要她写真实的感受，而是要她写 ___ 。",
+      "translation_vi": "Họ không muốn cô viết ra những ấn tượng chân thực của mình; họ muốn cô ấy viết một quảng cáo.",
+      "word": "广告",
+      "level": 4,
+      "options": [
+        "举办",
+        "气",
+        "广告",
+        "学院"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "王小美说不出话，只能点头。",
+      "sentence_blank": "王小美说不出话，只能 ___ 。",
+      "translation_vi": "Vương Tiểu Mai không nói được, chỉ có thể gật đầu.",
+      "word": "点头",
+      "level": 4,
+      "options": [
+        "证件",
+        "少见",
+        "点头",
+        "从此"
+      ],
+      "story_title": "Friends Help"
+    },
+    {
+      "sentence_cn": "张经理笑了：因为我们的厨师是从外国学习的，材料也是从外国来的。",
+      "sentence_blank": "张经理笑了：因为我们的 ___ 是从外国学习的，材料也是从外国来的。",
+      "translation_vi": "Giám đốc Zhang mỉm cười. \"Bởi vì các đầu bếp của chúng tôi được đào tạo ở nước ngoài và nguyên liệu được nhập khẩu.\"",
+      "word": "厨师",
+      "level": 4,
+      "options": [
+        "顾客",
+        "调查",
+        "厨师",
+        "增长"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "把板子拉上就是厨房，拉开就是洗手间。",
+      "sentence_blank": "把板子拉上 ___ 厨房，拉开就是洗手间。",
+      "translation_vi": "Kéo tấm ván lại và đó là một căn bếp; kéo nó mở ra và đó là một phòng tắm.",
+      "word": "就是",
+      "level": 4,
+      "options": [
+        "就是",
+        "算",
+        "皮肤",
+        "词语"
+      ],
+      "story_title": "Bathroom In The Kitchen"
+    },
+    {
+      "sentence_cn": "花花的秘密，刘奶奶说，但要换个说法。",
+      "sentence_blank": "花花的秘密，刘奶奶说，但要换个 ___ 。",
+      "translation_vi": "\"Bí mật của Hoa Hoa,\" bà Lưu nói. \"Nhưng chúng ta cần diễn đạt nó theo cách khác.\"",
+      "word": "说法",
+      "level": 4,
+      "options": [
+        "桥",
+        "乘坐",
+        "说法",
+        "作为"
+      ],
+      "story_title": "Truth Revealed"
+    },
+    {
+      "sentence_cn": "林秀芳也笑了，你们看，西红柿都红了，今天可以摘几个了。",
+      "sentence_blank": "林秀芳也笑了，你们看， ___ 都红了，今天可以摘几个了。",
+      "translation_vi": "Lâm Tú Phương cũng mỉm cười. \"Nhìn xem, cà chua đều màu đỏ. Hôm nay chúng ta có thể hái một ít.\"",
+      "word": "西红柿",
+      "level": 4,
+      "options": [
+        "低温",
+        "不论",
+        "西红柿",
+        "云"
+      ],
+      "story_title": "The Magic Of Tomatoes"
+    },
+    {
+      "sentence_cn": "晨光嘴里塞着包子，点点头。",
+      "sentence_blank": "晨光嘴里塞着包子，点 ___ 。",
+      "translation_vi": "Chenguang, miệng đầy bánh bao, gật đầu.",
+      "word": "点头",
+      "level": 4,
+      "options": [
+        "点头",
+        "降价",
+        "袋子",
+        "及时"
+      ],
+      "story_title": "Morning Market"
+    },
+    {
+      "sentence_cn": "林建国点点头：周老师，谢谢您。",
+      "sentence_blank": "林建国点 ___ ：周老师，谢谢您。",
+      "translation_vi": "Lin Jianguo gật đầu: Thầy Chu, cảm ơn thầy.",
+      "word": "点头",
+      "level": 4,
+      "options": [
+        "市区",
+        "复杂",
+        "将",
+        "点头"
+      ],
+      "story_title": "Another Father Shares"
+    },
+    {
+      "sentence_cn": "潘东掏钱，发现不够了：我……我只有五十块。",
+      "sentence_blank": "潘东掏钱，发现 ___ 了：我……我只有五十块。",
+      "translation_vi": "Pan Dong lấy tiền ra và nhận ra mình không có đủ. \"Tôi... tôi chỉ có năm mươi tệ thôi.\"",
+      "word": "不够",
+      "level": 4,
+      "options": [
+        "失望",
+        "不够",
+        "当",
+        "流利"
+      ],
+      "story_title": "Second And Third Calls"
+    },
+    {
+      "sentence_cn": "她坐起来，又站到镜子前面。",
+      "sentence_blank": "她坐起来，又站到 ___ 前面。",
+      "translation_vi": "Cô ngồi dậy và lại đứng trước gương.",
+      "word": "镜子",
+      "level": 4,
+      "options": [
+        "自学",
+        "前方",
+        "镜子",
+        "文章"
+      ],
+      "story_title": "Practicing Alone"
+    },
+    {
+      "sentence_cn": "马东说：太好了，有座位！",
+      "sentence_blank": "马东说：太好了，有 ___ ！",
+      "translation_vi": "Mã Đông nói: Tốt, có chỗ ngồi!",
+      "word": "座位",
+      "level": 4,
+      "options": [
+        "细",
+        "座位",
+        "母女",
+        "也许"
+      ],
+      "story_title": "Board The Bus"
+    },
+    {
+      "sentence_cn": "我想去山上，那里的空气很好。",
+      "sentence_blank": "我想去山上，那里的 ___ 很好。",
+      "translation_vi": "Tôi muốn lên núi; không khí ở đó rất tốt.",
+      "word": "空气",
+      "level": 4,
+      "options": [
+        "空气",
+        "污染",
+        "例子",
+        "寒冷"
+      ],
+      "story_title": "Dreams After Exams"
+    },
+    {
+      "sentence_cn": "小雨数手指，十根不够，把妈妈的也借来。",
+      "sentence_blank": "小雨数手指，十根 ___ ，把妈妈的也借来。",
+      "translation_vi": "Tiểu Ngư đếm trên đầu ngón tay; mười cái không đủ nên anh ấy cũng mượn của mẹ.",
+      "word": "不够",
+      "level": 4,
+      "options": [
+        "大夫",
+        "功课",
+        "不够",
+        "民族"
+      ],
+      "story_title": "City Station Crowds"
+    },
+    {
+      "sentence_cn": "他跑去小吃街，买小笼包和豆浆。",
+      "sentence_blank": "他跑去 ___ 街，买小笼包和豆浆。",
+      "translation_vi": "Anh chạy đến phố ăn vặt mua tiểu long bao và sữa đậu nành.",
+      "word": "小吃",
+      "level": 4,
+      "options": [
+        "开玩笑",
+        "馒头",
+        "暑假",
+        "小吃"
+      ],
+      "story_title": "Home In The Rain"
+    },
+    {
+      "sentence_cn": "周六早晨，阳光照进厨房。",
+      "sentence_blank": "周六早晨， ___ 照进厨房。",
+      "translation_vi": "Sáng thứ bảy, ánh nắng chiếu vào bếp.",
+      "word": "阳光",
+      "level": 4,
+      "options": [
+        "阳光",
+        "作为",
+        "寒假",
+        "日期"
+      ],
+      "story_title": "Quiet Weekend Morning"
+    },
+    {
+      "sentence_cn": "他们一起动手，在树林边做了个小木头房子，里面放了软软的衣服。",
+      "sentence_blank": "他们一起动手，在 ___ 边做了个小木头房子，里面放了软软的衣服。",
+      "translation_vi": "Họ cùng nhau xây một ngôi nhà gỗ nhỏ bên rừng, để quần áo mềm mại vào trong.",
+      "word": "树林",
+      "level": 4,
+      "options": [
+        "棵",
+        "失望",
+        "树林",
+        "专业"
+      ],
+      "story_title": "Hidden Past"
+    },
+    {
+      "sentence_cn": "王小美很吃惊，为什么门口没有牌子？",
+      "sentence_blank": "王小美很 ___ ，为什么门口没有牌子？",
+      "translation_vi": "Vương Tiểu Mỹ kinh ngạc, tại sao trước cửa lại không có biển hiệu?",
+      "word": "吃惊",
+      "level": 4,
+      "options": [
+        "价格",
+        "吃惊",
+        "教师",
+        "例子"
+      ],
+      "story_title": "Unexpected Discovery"
+    },
+    {
+      "sentence_cn": "时间过半，厨房进入白热化。",
+      "sentence_blank": "时间过半，厨房 ___ 白热化。",
+      "translation_vi": "Được nửa chặng đường, căn bếp bước vào cơn sốt.",
+      "word": "进入",
+      "level": 4,
+      "options": [
+        "老年",
+        "进入",
+        "目前",
+        "血"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "雨晴看着垃圾桶，手在方向盘上不动了。",
+      "sentence_blank": "雨晴看着 ___ 桶，手在方向盘上不动了。",
+      "translation_vi": "Yuqing nhìn chằm chằm vào thùng rác, tay cô đông cứng trên vô lăng.",
+      "word": "垃圾",
+      "level": 4,
+      "options": [
+        "垃圾",
+        "查看",
+        "邀请",
+        "底下"
+      ],
+      "story_title": "Car Crashes Into Trash Can"
+    },
+    {
+      "sentence_cn": "第二天早上，她醒来的时候，手机有很多消息。",
+      "sentence_blank": "第二天早上，她醒来的时候，手机有很多 ___ 。",
+      "translation_vi": "Sáng hôm sau, khi cô thức dậy, điện thoại của cô có rất nhiều thông báo.",
+      "word": "消息",
+      "level": 4,
+      "options": [
+        "消息",
+        "工人",
+        "度假",
+        "肯定"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "她把单位人事部的信拿出来，读了一遍，又放回去。",
+      "sentence_blank": "她把 ___ 人事部的信拿出来，读了一遍，又放回去。",
+      "translation_vi": "Cô lấy lá thư từ phòng nhân sự của đơn vị làm việc ra, đọc qua rồi đặt lại.",
+      "word": "单位",
+      "level": 4,
+      "options": [
+        "符合",
+        "单位",
+        "一切",
+        "场"
+      ],
+      "story_title": "The Closed Glass Door"
+    },
+    {
+      "sentence_cn": "这时候，一辆白色的出租车开了过来。",
+      "sentence_blank": "这时候，一辆白色的 ___ 车开了过来。",
+      "translation_vi": "Đúng lúc đó, một chiếc taxi màu trắng chạy tới.",
+      "word": "出租",
+      "level": 4,
+      "options": [
+        "只好",
+        "目标",
+        "一生",
+        "出租"
+      ],
+      "story_title": "Forest Beyond The Window"
+    },
+    {
+      "sentence_cn": "他的饺子很大，样子不好看。",
+      "sentence_blank": "他的饺子很大， ___ 不好看。",
+      "translation_vi": "Bánh bao của anh ấy rất to và trông không đẹp.",
+      "word": "样子",
+      "level": 4,
+      "options": [
+        "底",
+        "样子",
+        "窗户",
+        "收听"
+      ],
+      "story_title": "The Best Flavor"
+    },
+    {
+      "sentence_cn": "这东西...是从窗户进来的？",
+      "sentence_blank": "这东西...是从 ___ 进来的？",
+      "translation_vi": "“Có phải thứ này... đi vào qua cửa sổ không?”",
+      "word": "窗户",
+      "level": 4,
+      "options": [
+        "外套",
+        "日记",
+        "窗户",
+        "聚会"
+      ],
+      "story_title": "Night Voices"
+    },
+    {
+      "sentence_cn": "灯亮了，雨晴吓了一跳——没有窗户。",
+      "sentence_blank": "灯亮了，雨晴吓了一跳——没有 ___ 。",
+      "translation_vi": "Đèn bật sáng và Yuqing giật mình - không có cửa sổ.",
+      "word": "窗户",
+      "level": 4,
+      "options": [
+        "打针",
+        "窗户",
+        "高温",
+        "共"
+      ],
+      "story_title": "Buying First Home"
+    },
+    {
+      "sentence_cn": "工人走的时候，它躲起来了，谁都没找到。",
+      "sentence_blank": " ___ 走的时候，它躲起来了，谁都没找到。",
+      "translation_vi": "\"Khi các công nhân rời đi, anh ta đã trốn. Không ai có thể tìm thấy anh ta.\"",
+      "word": "工人",
+      "level": 4,
+      "options": [
+        "工人",
+        "之间",
+        "待",
+        "垃圾"
+      ],
+      "story_title": "Hidden Past"
+    },
+    {
+      "sentence_cn": "点了飞行模式，短信就进不来了。",
+      "sentence_blank": "点了飞行模式， ___ 就进不来了。",
+      "translation_vi": "Khi chế độ trên máy bay được bật, tin nhắn văn bản sẽ không đến được.",
+      "word": "短信",
+      "level": 4,
+      "options": [
+        "短信",
+        "推",
+        "歌手",
+        "对面"
+      ],
+      "story_title": "Quiet Weekend Morning"
+    },
+    {
+      "sentence_cn": "我在写美食博客，王小美说，昨天在地铁上遇到一位奶奶，她说吃了三十年你的面。",
+      "sentence_blank": "我在写 ___ 博客，王小美说，昨天在地铁上遇到一位奶奶，她说吃了三十年你的面。",
+      "translation_vi": "\"Tôi đang viết một blog ẩm thực,\" Wang Xiaomei nói. “Hôm qua trên tàu điện ngầm, tôi gặp một bà ngoại nói rằng bà đã ăn mì của bạn suốt ba mươi năm rồi.”",
+      "word": "美食",
+      "level": 4,
+      "options": [
+        "错误",
+        "美食",
+        "工人",
+        "西红柿"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "她的手很有力气，拉得叶小音往前走。",
+      "sentence_blank": "她的手很有 ___ ，拉得叶小音往前走。",
+      "translation_vi": "Tay cô rất khỏe, kéo Diệp Tiểu Âm về phía trước.",
+      "word": "力气",
+      "level": 4,
+      "options": [
+        "保护",
+        "约会",
+        "力气",
+        "各"
+      ],
+      "story_title": "Sichuan Restaurant"
+    },
+    {
+      "sentence_cn": "说完，她留下一瓶碘伏，脚步沙沙地走了。",
+      "sentence_blank": "说完，她 ___ 一瓶碘伏，脚步沙沙地走了。",
+      "translation_vi": "Nói xong, cô để lại một lọ cồn iốt và bước đi với tiếng xào xạc.",
+      "word": "留下",
+      "level": 4,
+      "options": [
+        "留下",
+        "汽水",
+        "满",
+        "感受"
+      ],
+      "story_title": "Community Center Notice"
+    },
+    {
+      "sentence_cn": "陈师傅慢慢停车，陈师傅说：快跑，雨很大。",
+      "sentence_blank": "陈 ___ 慢慢停车，陈师傅说：快跑，雨很大。",
+      "translation_vi": "Thầy Trần cho xe buýt dừng lại và nói: \"Mau chạy đi, mưa to quá.\"",
+      "word": "师傅",
+      "level": 4,
+      "options": [
+        "使",
+        "毕业",
+        "师傅",
+        "美"
+      ],
+      "story_title": "Almost Miss"
+    },
+    {
+      "sentence_cn": "苏远说：王师傅，您能帮我吗？",
+      "sentence_blank": "苏远说：王 ___ ，您能帮我吗？",
+      "translation_vi": "Tô Nguyên nói: \"Vương đại nhân, ngươi có thể giúp ta sao?\"",
+      "word": "师傅",
+      "level": 4,
+      "options": [
+        "气",
+        "即使",
+        "师傅",
+        "老年"
+      ],
+      "story_title": "Bed At The Door"
+    },
+    {
+      "sentence_cn": "陈先生看着树林：一只等了五十年的狗...",
+      "sentence_blank": "陈先生看着 ___ ：一只等了五十年的狗...",
+      "translation_vi": "Ông Chen nhìn vào rừng. “Con chó đã chờ đợi suốt năm mươi năm…”",
+      "word": "树林",
+      "level": 4,
+      "options": [
+        "热闹",
+        "道",
+        "树林",
+        "打扰"
+      ],
+      "story_title": "Truth Revealed"
+    },
+    {
+      "sentence_cn": "下午四点，空地上很热闹。",
+      "sentence_blank": "下午四点，空地上很 ___ 。",
+      "translation_vi": "Bốn giờ chiều, bãi đất trống nhộn nhịp hẳn lên.",
+      "word": "热闹",
+      "level": 4,
+      "options": [
+        "反对",
+        "热闹",
+        "到底",
+        "想法"
+      ],
+      "story_title": "Autumn Dinner"
+    },
+    {
+      "sentence_cn": "照片里真的有一个黑影，站在工厂门口，眼睛是两个亮点。",
+      "sentence_blank": "照片里真的有一个黑影，站在 ___ 门口，眼睛是两个亮点。",
+      "translation_vi": "Trong ảnh quả thực có một bóng đen đứng ở cổng nhà máy, trong mắt có hai điểm sáng.",
+      "word": "工厂",
+      "level": 4,
+      "options": [
+        "南部",
+        "工厂",
+        "假日",
+        "当"
+      ],
+      "story_title": "Hidden Past"
+    },
+    {
+      "sentence_cn": "门开了，一股温暖的味道跑出来。",
+      "sentence_blank": "门开了，一股温暖的 ___ 跑出来。",
+      "translation_vi": "Cánh cửa mở ra, một làn hương thơm ấm áp bay ra.",
+      "word": "味道",
+      "level": 4,
+      "options": [
+        "脱",
+        "油",
+        "建议",
+        "味道"
+      ],
+      "story_title": "Little Kitchen Warmth"
+    },
+    {
+      "sentence_cn": "顾教练看他，这就是勇敢。",
+      "sentence_blank": "顾教练看他，这就是 ___ 。",
+      "translation_vi": "Huấn luyện viên Cố nhìn hắn nói: \"Thật dũng cảm.\"",
+      "word": "勇敢",
+      "level": 4,
+      "options": [
+        "座位",
+        "定",
+        "缺少",
+        "勇敢"
+      ],
+      "story_title": "Learn Slowly"
+    },
+    {
+      "sentence_cn": "李先生，王阿姨担心地问，那到底是什么东西？",
+      "sentence_blank": "李先生，王阿姨担心地问，那 ___ 是什么东西？",
+      "translation_vi": "\"Ông Lý,\" Dì Vương lo lắng hỏi, \"Cái đó rốt cuộc là cái gì?\"",
+      "word": "到底",
+      "level": 4,
+      "options": [
+        "牙膏",
+        "到底",
+        "讨论",
+        "货"
+      ],
+      "story_title": "Night Voices"
+    },
+    {
+      "sentence_cn": "叶文拿出一张纸，说：我写了计划。",
+      "sentence_blank": "叶文拿出一张纸，说：我写了 ___ 。",
+      "translation_vi": "Diệp Văn lấy ra một tờ giấy nói: Tôi viết kế hoạch.",
+      "word": "计划",
+      "level": 4,
+      "options": [
+        "成为",
+        "强",
+        "计划",
+        "袜子"
+      ],
+      "story_title": "Times Enemy"
+    },
+    {
+      "sentence_cn": "程山说：我带了我的新帽子。",
+      "sentence_blank": "程山说：我带了我的新 ___ 。",
+      "translation_vi": "Trình Sơn nói: “Tôi mang mũ mới tới đây.”",
+      "word": "帽子",
+      "level": 4,
+      "options": [
+        "共",
+        "说明书",
+        "帽子",
+        "出现"
+      ],
+      "story_title": "Phone War"
+    },
+    {
+      "sentence_cn": "希望更多人能吃到真正好吃的食物，也希望这些小生意能越来越好。",
+      "sentence_blank": "希望更多人能吃到 ___ 好吃的食物，也希望这些小生意能越来越好。",
+      "translation_vi": "Chúng tôi hy vọng nhiều người hơn có thể ăn những món ăn thực sự ngon và chúng tôi cũng hy vọng những doanh nghiệp nhỏ này có thể ngày càng tốt hơn.",
+      "word": "真正",
+      "level": 4,
+      "options": [
+        "另",
+        "体温",
+        "真正",
+        "不管"
+      ],
+      "story_title": "Food Map"
+    },
+    {
+      "sentence_cn": "最后一张里，黑影向树林走了，但是走之前，它对着照相机站了很久，那两个绿点一直在发光。",
+      "sentence_blank": "最后一张里，黑影向 ___ 走了，但是走之前，它对着照相机站了很久，那两个绿点一直在发光。",
+      "translation_vi": "Trong bức ảnh cuối cùng, bóng đen đi về phía khu rừng, nhưng trước khi rời đi, nó đã đứng trước ống kính một lúc lâu, hai chấm xanh đó luôn phát sáng.",
+      "word": "树林",
+      "level": 4,
+      "options": [
+        "直接",
+        "商量",
+        "地址",
+        "树林"
+      ],
+      "story_title": "Investigation Begins"
+    },
+    {
+      "sentence_cn": "照片里，黑影真的把那些红色的东西吃了，吃完还点点头，好像很喜欢。",
+      "sentence_blank": "照片里，黑影真的把那些红色的东西吃了，吃完还点 ___ ，好像很喜欢。",
+      "translation_vi": "Trong ảnh, bóng đen thực sự đã ăn những thứ màu đỏ đó, sau khi ăn xong, nó gật đầu như thể thích chúng.",
+      "word": "点头",
+      "level": 4,
+      "options": [
+        "课堂",
+        "点头",
+        "所有",
+        "美好"
+      ],
+      "story_title": "Investigation Begins"
+    },
+    {
+      "sentence_cn": "叶美帮小云穿外套，说：手进来。",
+      "sentence_blank": "叶美帮小云穿 ___ ，说：手进来。",
+      "translation_vi": "Diệp Mi giúp Tiêu Vân mặc áo khoác, nói: Đưa tay vào.",
+      "word": "外套",
+      "level": 4,
+      "options": [
+        "外套",
+        "现金",
+        "课程",
+        "叶子"
+      ],
+      "story_title": "Daughters Backpack"
+    },
+    {
+      "sentence_cn": "他照做，早晨一伸手就够到。",
+      "sentence_blank": "他照做， ___ 一伸手就够到。",
+      "translation_vi": "Anh làm theo lời cô và đến sáng chỉ cần đưa tay là có thể với tới.",
+      "word": "早晨",
+      "level": 4,
+      "options": [
+        "喊",
+        "课堂",
+        "早晨",
+        "市区"
+      ],
+      "story_title": "A New Friend"
+    },
+    {
+      "sentence_cn": "也许是一家只有早上开的豆浆店，也许是一个只有晚上出来的饺子摊。",
+      "sentence_blank": " ___ 是一家只有早上开的豆浆店，也许是一个只有晚上出来的饺子摊。",
+      "translation_vi": "Có thể là quán sữa đậu nành chỉ mở cửa vào buổi sáng, có thể là quán bánh bao chỉ mở cửa vào buổi tối.",
+      "word": "也许",
+      "level": 4,
+      "options": [
+        "理发",
+        "性",
+        "入学",
+        "也许"
+      ],
+      "story_title": "Unexpected Discovery"
+    }
+  ],
+  "5": [
+    {
+      "sentence_cn": "她想起了张奶奶说的话：好吃的东西，要分享给大家。",
+      "sentence_blank": "她想起了张奶奶说的话：好吃的东西，要 ___ 给大家。",
+      "translation_vi": "Cô nhớ tới lời bà Trương từng nói: “Đồ ngon nên chia cho mọi người”.",
+      "word": "分享",
+      "level": 5,
+      "options": [
+        "完美",
+        "概念",
+        "分享",
+        "商人"
+      ],
+      "story_title": "Food Map"
+    },
+    {
+      "sentence_cn": "花花走过每一家的门口，吃一点这个，吃一点那个，尾巴摇啊摇。",
+      "sentence_blank": "花花走过每一家的门口，吃一点这个，吃一点那个， ___ 摇啊摇。",
+      "translation_vi": "Hoa Hoa đi ngang qua từng cánh cửa, cắn chỗ này miếng kia, đuôi vẫy liên tục.",
+      "word": "尾巴",
+      "level": 5,
+      "options": [
+        "海鲜",
+        "果实",
+        "哪怕",
+        "尾巴"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "山上的虫子很多，海边的人太多。",
+      "sentence_blank": "山上的 ___ 很多，海边的人太多。",
+      "translation_vi": "Trên núi có rất nhiều côn trùng, bên bờ biển có quá nhiều người.",
+      "word": "虫子",
+      "level": 5,
+      "options": [
+        "虫子",
+        "意识",
+        "粮食",
+        "持续"
+      ],
+      "story_title": "Dreams After Exams"
+    },
+    {
+      "sentence_cn": "顾小雨也端饭过来，手里居然拿着手机，要不要我发群里？",
+      "sentence_blank": "顾小雨也端饭过来，手里 ___ 拿着手机，要不要我发群里？",
+      "translation_vi": "Cố Tiểu Ngư cũng bưng cơm cho cô đi tới, ngạc nhiên cầm điện thoại: \"Có nên đăng lên nhóm chat không?\"",
+      "word": "居然",
+      "level": 5,
+      "options": [
+        "居然",
+        "时刻",
+        "意识",
+        "个人"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "这一次她两只手拿着手机，对着二维码。",
+      "sentence_blank": "这一次她两只手拿着手机，对着 ___ 。",
+      "translation_vi": "Lần này cô cầm điện thoại bằng cả hai tay và chỉ vào mã QR.",
+      "word": "二维码",
+      "level": 5,
+      "options": [
+        "二维码",
+        "时差",
+        "改正",
+        "据"
+      ],
+      "story_title": "Paying Alone For The First Time"
+    },
+    {
+      "sentence_cn": "快门咔嚓，定格了七张笑脸，背景是那口还冒热气的大铁锅。",
+      "sentence_blank": "快门咔嚓，定格了七张笑脸， ___ 是那口还冒热气的大铁锅。",
+      "translation_vi": "Cửa trập nhấp nháy, chụp được bảy khuôn mặt đang cười, với hậu cảnh là chiếc nồi sắt lớn vẫn đang bốc khói.",
+      "word": "背景",
+      "level": 5,
+      "options": [
+        "掌声",
+        "路人",
+        "反正",
+        "背景"
+      ],
+      "story_title": "Simplest Surprise"
+    },
+    {
+      "sentence_cn": "小雨转过头，有点意外，但是点了点头。",
+      "sentence_blank": "小雨转过头，有点 ___ ，但是点了点头。",
+      "translation_vi": "Tiểu Ngư quay đầu lại, có chút kinh ngạc, nhưng vẫn gật đầu.",
+      "word": "意外",
+      "level": 5,
+      "options": [
+        "赛场",
+        "意外",
+        "念",
+        "单"
+      ],
+      "story_title": "Teachers Advice"
+    },
+    {
+      "sentence_cn": "蒋梦雪，你建个打卡表，我们每天记录！",
+      "sentence_blank": "蒋梦雪，你建个打卡表，我们每天 ___ ！",
+      "translation_vi": "Jiang Mengxue, bạn thiết lập biểu đồ đăng ký; chúng tôi sẽ ghi lại mỗi ngày!",
+      "word": "记录",
+      "level": 5,
+      "options": [
+        "居住",
+        "黑",
+        "不得了",
+        "记录"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "她说，把最重的土豆袋子换到右手。",
+      "sentence_blank": "她说，把最重的 ___ 袋子换到右手。",
+      "translation_vi": "Cô nói, chuyển túi khoai tây nặng nhất sang tay phải.",
+      "word": "土豆",
+      "level": 5,
+      "options": [
+        "土豆",
+        "宝",
+        "挂号",
+        "合理"
+      ],
+      "story_title": "The Heavy Bag"
+    },
+    {
+      "sentence_cn": "它喜欢你，小张说，它很少让人靠近。",
+      "sentence_blank": "它喜欢你，小张说，它很少让人 ___ 。",
+      "translation_vi": "\"Nó thích ngươi.\" Tiểu Trương nói. \"Nó hiếm khi cho phép mọi người đến gần.\"",
+      "word": "靠近",
+      "level": 5,
+      "options": [
+        "自从",
+        "增进",
+        "靠近",
+        "想象"
+      ],
+      "story_title": "Truth Revealed"
+    },
+    {
+      "sentence_cn": "花花真的很大，比小张记忆中还要大。",
+      "sentence_blank": "花花真的很大，比小张 ___ 中还要大。",
+      "translation_vi": "Hua Hua thực sự rất lớn, thậm chí còn lớn hơn những gì Xiao Zhang nhớ.",
+      "word": "记忆",
+      "level": 5,
+      "options": [
+        "表达",
+        "记忆",
+        "书法",
+        "有力"
+      ],
+      "story_title": "Truth Revealed"
+    },
+    {
+      "sentence_cn": "两个人走得慢，两个人笑。",
+      "sentence_blank": "两 ___ 走得慢，两个人笑。",
+      "translation_vi": "Hai người bước đi chậm rãi, cả hai mỉm cười.",
+      "word": "个人",
+      "level": 5,
+      "options": [
+        "太太",
+        "晒",
+        "个人",
+        "专家"
+      ],
+      "story_title": "Running Late"
+    },
+    {
+      "sentence_cn": "方大力咬牙提速，那我也得给我儿子看，他老说我肚子像气球！",
+      "sentence_blank": "方 ___ 咬牙提速，那我也得给我儿子看，他老说我肚子像气球！",
+      "translation_vi": "Fang Dali nghiến răng tăng tốc: “Vậy tôi cũng phải cho con trai tôi xem—nó luôn nói bụng tôi giống quả bóng bay!”",
+      "word": "大力",
+      "level": 5,
+      "options": [
+        "大力",
+        "信用",
+        "静",
+        "新娘"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "谢小文说：程东，你一个人？",
+      "sentence_blank": "谢小文说：程东，你一 ___ ？",
+      "translation_vi": "Tạ Hiểu Văn nói: \"Trình Đông, ngươi một mình sao?\"",
+      "word": "个人",
+      "level": 5,
+      "options": [
+        "个人",
+        "不符",
+        "气球",
+        "背后"
+      ],
+      "story_title": "Free Fruit"
+    },
+    {
+      "sentence_cn": "王明站在灯下，看着她背影被夜色裹住，鼻尖仿佛又闻到淡淡的橘子香。",
+      "sentence_blank": "王明站在灯下，看着她背影被夜色裹住，鼻尖 ___ 又闻到淡淡的橘子香。",
+      "translation_vi": "Vương Minh đứng dưới ánh đèn đường, nhìn bóng dáng cô bị màn đêm bao phủ, mũi anh như ngửi thấy mùi cam thoang thoảng.",
+      "word": "仿佛",
+      "level": 5,
+      "options": [
+        "仿佛",
+        "路线",
+        "应用",
+        "擅长"
+      ],
+      "story_title": "The Laptop Secret"
+    },
+    {
+      "sentence_cn": "花花吃得很小心，一口一块，像在品尝什么珍贵的东西。",
+      "sentence_blank": "花花吃得很小心，一口一块，像在品尝什么 ___ 的东西。",
+      "translation_vi": "Hoa Hoa ăn rất cẩn thận, ăn từng miếng một, như đang thưởng thức thứ gì quý giá.",
+      "word": "珍贵",
+      "level": 5,
+      "options": [
+        "胃",
+        "珍贵",
+        "窄",
+        "实现"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "我闺女帮我做的，他有点不好意思，她说要记录我们每个人的进步。",
+      "sentence_blank": "我闺女帮我做的，他有点不好意思，她说要记录我们每 ___ 的进步。",
+      "translation_vi": "“Con gái tôi đã làm nó cho tôi,” anh nói, hơi xấu hổ. \"Cô ấy nói chúng ta nên ghi lại sự tiến bộ của mọi người.\"",
+      "word": "个人",
+      "level": 5,
+      "options": [
+        "个人",
+        "亲切",
+        "签订",
+        "级"
+      ],
+      "story_title": "Final Day"
+    },
+    {
+      "sentence_cn": "人群轻轻晃，李红也跟着拍子点头。",
+      "sentence_blank": " ___ 轻轻晃，李红也跟着拍子点头。",
+      "translation_vi": "Đám đông lắc lư nhẹ nhàng; Li Hong gật đầu theo nhịp.",
+      "word": "人群",
+      "level": 5,
+      "options": [
+        "窄",
+        "移",
+        "人群",
+        "大妈"
+      ],
+      "story_title": "Cherry Blossom Night Market"
+    },
+    {
+      "sentence_cn": "顾教练说，你的柜子在这里。",
+      "sentence_blank": "顾教练说，你的 ___ 在这里。",
+      "translation_vi": "Huấn luyện viên Cố nói: Tủ đồ của cậu ở đây.",
+      "word": "柜子",
+      "level": 5,
+      "options": [
+        "柜子",
+        "设施",
+        "敢于",
+        "舞蹈"
+      ],
+      "story_title": "Gym Entrance"
+    },
+    {
+      "sentence_cn": "苏小北说：我还学了优惠！",
+      "sentence_blank": "苏小北说：我还学了 ___ ！",
+      "translation_vi": "Tô Tiểu Bắc nói: \"Ta cũng học được 'Giảm giá'!\"",
+      "word": "优惠",
+      "level": 5,
+      "options": [
+        "训练",
+        "优惠",
+        "指导",
+        "力量"
+      ],
+      "story_title": "Pay The Bill"
+    },
+    {
+      "sentence_cn": "眼泪偷偷滑进汤里，她假装被辣到，用力眨眼。",
+      "sentence_blank": " ___ 偷偷滑进汤里，她假装被辣到，用力眨眼。",
+      "translation_vi": "Một giọt nước mắt lén lút rơi vào súp, cô giả vờ đó là gia vị, chớp mắt thật chặt.",
+      "word": "眼泪",
+      "level": 5,
+      "options": [
+        "眼泪",
+        "比例",
+        "周年",
+        "靠近"
+      ],
+      "story_title": "City Station Crowds"
+    },
+    {
+      "sentence_cn": "李红：下午三点有讲座，中文系请的写书的人，你要不要来听？",
+      "sentence_blank": "李红：下午三点有 ___ ，中文系请的写书的人，你要不要来听？",
+      "translation_vi": "Lý Hồng: “Ba giờ chiều có buổi giảng, có một nhà văn được khoa tiếng Trung mời đến, cậu có muốn đến nghe không?”",
+      "word": "讲座",
+      "level": 5,
+      "options": [
+        "讲座",
+        "老公",
+        "乡村",
+        "请教"
+      ],
+      "story_title": "The Laptop Secret"
+    },
+    {
+      "sentence_cn": "掌声很大，比给任何人的都大。",
+      "sentence_blank": " ___ 很大，比给任何人的都大。",
+      "translation_vi": "Tiếng vỗ tay vang dội hơn bất kỳ ai khác.",
+      "word": "掌声",
+      "level": 5,
+      "options": [
+        "现实",
+        "掌声",
+        "演讲",
+        "相处"
+      ],
+      "story_title": "The Loudest Applause"
+    },
+    {
+      "sentence_cn": "林美华摇头，从口袋里掏出小饼干：不是，他想睡觉了。",
+      "sentence_blank": "林美华摇头，从 ___ 里掏出小饼干：不是，他想睡觉了。",
+      "translation_vi": "Lin Meihua lắc đầu, lấy một chiếc bánh quy nhỏ từ trong túi ra: \"Không, anh ấy muốn ngủ.\"",
+      "word": "口袋",
+      "level": 5,
+      "options": [
+        "来源",
+        "娱乐",
+        "调研",
+        "口袋"
+      ],
+      "story_title": "Share Music"
+    },
+    {
+      "sentence_cn": "方大力挠挠头：我昨晚梦见炸鸡长翅膀飞走了，吓醒后就睡不着。",
+      "sentence_blank": "方 ___ 挠挠头：我昨晚梦见炸鸡长翅膀飞走了，吓醒后就睡不着。",
+      "translation_vi": "Fang Dali gãi đầu. “Đêm qua tôi nằm mơ thấy gà rán mọc cánh và bay đi, tôi giật mình tỉnh giấc, không thể ngủ lại được.”",
+      "word": "大力",
+      "level": 5,
+      "options": [
+        "大力",
+        "被子",
+        "个人",
+        "愿"
+      ],
+      "story_title": "Final Day"
+    },
+    {
+      "sentence_cn": "菜园里有一个黑影，比前两天的还大。",
+      "sentence_blank": "菜园里有一个 ___ 影，比前两天的还大。",
+      "translation_vi": "Trong vườn rau có một bóng người đen tối, thậm chí còn lớn hơn cả đêm trước.",
+      "word": "黑",
+      "level": 5,
+      "options": [
+        "不良",
+        "亿",
+        "黑",
+        "现象"
+      ],
+      "story_title": "Investigation Begins"
+    },
+    {
+      "sentence_cn": "叶小云把糖放进嘴里，糖很甜，她的眼泪慢慢停了。",
+      "sentence_blank": "叶小云把糖放进嘴里，糖很甜，她的 ___ 慢慢停了。",
+      "translation_vi": "Ye Xiaoyun đưa kẹo vào miệng. Chiếc kẹo thật ngọt ngào, nước mắt cô dần ngừng rơi.",
+      "word": "眼泪",
+      "level": 5,
+      "options": [
+        "录取",
+        "朵",
+        "记载",
+        "眼泪"
+      ],
+      "story_title": "Mountain Wind"
+    },
+    {
+      "sentence_cn": "来三笼鲜肉，一笼素菜，三碗豆浆。",
+      "sentence_blank": "来三笼鲜肉，一笼素菜，三碗 ___ 。",
+      "translation_vi": "“Ba giỏ bánh bao thịt tươi, một giỏ bánh bao rau củ, ba bát sữa đậu nành.”",
+      "word": "豆浆",
+      "level": 5,
+      "options": [
+        "胜",
+        "豆浆",
+        "救护车",
+        "依然"
+      ],
+      "story_title": "Breakfast Invitation"
+    },
+    {
+      "sentence_cn": "王老板站在中间，举起手。",
+      "sentence_blank": "王 ___ 站在中间，举起手。",
+      "translation_vi": "Sếp Vương đứng ở giữa giơ tay.",
+      "word": "老板",
+      "level": 5,
+      "options": [
+        "难度",
+        "老板",
+        "实力",
+        "环节"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "她回头，爸爸还站在原地，手里举着一只旧布手套——她落在他家的那只。",
+      "sentence_blank": "她回头，爸爸还站在原地，手里举着一只旧布 ___ ——她落在他家的那只。",
+      "translation_vi": "Cô nhìn lại; bố cô vẫn đứng tại chỗ, giơ chiếc găng tay vải cũ - chiếc găng tay cô để ở nhà ông.",
+      "word": "手套",
+      "level": 5,
+      "options": [
+        "手套",
+        "刚好",
+        "失业",
+        "优势"
+      ],
+      "story_title": "Waiting On The Platform"
+    },
+    {
+      "sentence_cn": "他咬紧牙齿，拼命往前跑。",
+      "sentence_blank": "他咬紧 ___ ，拼命往前跑。",
+      "translation_vi": "Anh nghiến răng và tuyệt vọng chạy về phía trước.",
+      "word": "牙齿",
+      "level": 5,
+      "options": [
+        "原有",
+        "扇",
+        "牙齿",
+        "库"
+      ],
+      "story_title": "Boss Talks Big"
+    },
+    {
+      "sentence_cn": "她说：豆腐里水太多，包饺子不好。",
+      "sentence_blank": "她说： ___ 里水太多，包饺子不好。",
+      "translation_vi": "Cô ấy nói: “Nếu có quá nhiều nước trong đậu phụ thì sẽ không tốt cho món bánh bao”.",
+      "word": "豆腐",
+      "level": 5,
+      "options": [
+        "豆腐",
+        "大事",
+        "对比",
+        "操作"
+      ],
+      "story_title": "Searching For Meat On A Snowy Night"
+    },
+    {
+      "sentence_cn": "赵建国看着林秀芳，脸上的严肃表情慢慢变了。",
+      "sentence_blank": "赵建国看着林秀芳，脸上的严肃 ___ 慢慢变了。",
+      "translation_vi": "Triệu Kiến Quốc nhìn Lâm Tú Phương, vẻ mặt nghiêm nghị chậm rãi thay đổi.",
+      "word": "表情",
+      "level": 5,
+      "options": [
+        "表情",
+        "周年",
+        "平静",
+        "子女"
+      ],
+      "story_title": "A Single Sheets Trouble"
+    },
+    {
+      "sentence_cn": "小区的秘密，成了大家心里最温柔的地方。",
+      "sentence_blank": "小区的 ___ ，成了大家心里最温柔的地方。",
+      "translation_vi": "Bí mật của khu dân cư phức hợp trở thành nơi dịu dàng nhất trong lòng mọi người.",
+      "word": "秘密",
+      "level": 5,
+      "options": [
+        "秘密",
+        "范围",
+        "设立",
+        "救"
+      ],
+      "story_title": "Hidden Past"
+    },
+    {
+      "sentence_cn": "他跑回叶梅家，上楼时差点摔倒。",
+      "sentence_blank": "他跑回叶梅家，上楼 ___ 点摔倒。",
+      "translation_vi": "Anh ta chạy lại chỗ của Ye Mei và suýt bị vấp ngã khi đi lên lầu.",
+      "word": "时差",
+      "level": 5,
+      "options": [
+        "时差",
+        "主观",
+        "自身",
+        "平静"
+      ],
+      "story_title": "Second And Third Calls"
+    },
+    {
+      "sentence_cn": "王阿姨发现，每段木头上有牙印和爪印。",
+      "sentence_blank": "王阿姨发现，每段 ___ 上有牙印和爪印。",
+      "translation_vi": "Dì Vương nhận thấy có vết răng và vết móng vuốt trên từng khúc gỗ.",
+      "word": "木头",
+      "level": 5,
+      "options": [
+        "良好",
+        "木头",
+        "把握",
+        "风险"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "第二天早上，宿舍的门响了。",
+      "sentence_blank": "第二天早上， ___ 的门响了。",
+      "translation_vi": "Sáng hôm sau, cửa ký túc xá vang lên.",
+      "word": "宿舍",
+      "level": 5,
+      "options": [
+        "创作",
+        "传递",
+        "宿舍",
+        "超速"
+      ],
+      "story_title": "Warmth From A Classmate"
+    },
+    {
+      "sentence_cn": "三个人站起来，走向公园大门。",
+      "sentence_blank": "三 ___ 站起来，走向公园大门。",
+      "translation_vi": "Ba người đứng dậy đi về phía cổng công viên.",
+      "word": "个人",
+      "level": 5,
+      "options": [
+        "可见",
+        "宠物",
+        "深度",
+        "个人"
+      ],
+      "story_title": "Joy Under The Tree"
+    },
+    {
+      "sentence_cn": "他弯下腰，开始给黄瓜浇水。",
+      "sentence_blank": "他弯下腰，开始给 ___ 浇水。",
+      "translation_vi": "Anh cúi xuống và bắt đầu tưới dưa chuột.",
+      "word": "黄瓜",
+      "level": 5,
+      "options": [
+        "黄瓜",
+        "登记",
+        "现代化",
+        "中医"
+      ],
+      "story_title": "The Magic Of Tomatoes"
+    },
+    {
+      "sentence_cn": "最边上那户，门口站着两个人影，一高一矮。",
+      "sentence_blank": "最边上那户，门口站着两 ___ 影，一高一矮。",
+      "translation_vi": "Ở cuối căn nhà, có hai bóng người đứng ở cửa, một cao, một thấp.",
+      "word": "个人",
+      "level": 5,
+      "options": [
+        "农民",
+        "评",
+        "个人",
+        "热爱"
+      ],
+      "story_title": "Share Hometown Stories"
+    },
+    {
+      "sentence_cn": "赵建国在第一排坐下来，对着林雨晴微笑。",
+      "sentence_blank": "赵建国在第一排坐下来，对着林雨晴 ___ 。",
+      "translation_vi": "Zhao Jianguo ngồi xuống hàng đầu tiên và mỉm cười với Lin Yuqing.",
+      "word": "微笑",
+      "level": 5,
+      "options": [
+        "制造",
+        "召开",
+        "转变",
+        "微笑"
+      ],
+      "story_title": "Class In The Empty Conference Room"
+    },
+    {
+      "sentence_cn": "苏天明从包里拿出一个橘子，他说：给你，我妈说橘子对晕车好。",
+      "sentence_blank": "苏天明从包里拿出一个 ___ ，他说：给你，我妈说橘子对晕车好。",
+      "translation_vi": "Tô Thiên Minh lấy trong túi ra một quả cam. Anh ấy nói: \"Đây, mẹ tôi nói cam có tác dụng chống say tàu xe.\"",
+      "word": "橘子",
+      "level": 5,
+      "options": [
+        "橘子",
+        "老婆",
+        "就业",
+        "汽油"
+      ],
+      "story_title": "Eighteen Mountain Bends"
+    },
+    {
+      "sentence_cn": "他把电脑打开，屏幕一亮，跳出昨晚没写完的实验报告。",
+      "sentence_blank": "他把电脑打开，屏幕一亮，跳出昨晚没写完的 ___ 报告。",
+      "translation_vi": "Anh mở máy tính xách tay của mình và khi màn hình sáng lên, báo cáo thí nghiệm còn dang dở của tối qua hiện lên.",
+      "word": "实验",
+      "level": 5,
+      "options": [
+        "忽视",
+        "在线",
+        "实验",
+        "脸色"
+      ],
+      "story_title": "The Laptop Secret"
+    },
+    {
+      "sentence_cn": "李大明沉默了一下：小美，你还记得我们为什么写博客吗？",
+      "sentence_blank": "李大明 ___ 了一下：小美，你还记得我们为什么写博客吗？",
+      "translation_vi": "Lý Đại Minh trầm mặc một lát. \"Xiaomei, bạn có nhớ tại sao chúng ta bắt đầu blog này không?\"",
+      "word": "沉默",
+      "level": 5,
+      "options": [
+        "规律",
+        "便利",
+        "沉默",
+        "迎接"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "马雪低头，眼泪掉进汤里，滴答一声，像雪化。",
+      "sentence_blank": "马雪 ___ ，眼泪掉进汤里，滴答一声，像雪化。",
+      "translation_vi": "Maxue cúi đầu; một giọt nước mắt rơi vào súp, lấm tấm một lần, như tuyết tan.",
+      "word": "低头",
+      "level": 5,
+      "options": [
+        "发言",
+        "实践",
+        "随",
+        "低头"
+      ],
+      "story_title": "Waiting On The Platform"
+    },
+    {
+      "sentence_cn": "雨晴的脚放在油门上，可是她又太用力了。",
+      "sentence_blank": "雨晴的脚放在油门上，可是她又太 ___ 了。",
+      "translation_vi": "Yuqing đạp chân ga nhưng cô lại nhấn quá mạnh.",
+      "word": "用力",
+      "level": 5,
+      "options": [
+        "用力",
+        "结构",
+        "便",
+        "成立"
+      ],
+      "story_title": "Four Stalls At The Traffic Light"
+    },
+    {
+      "sentence_cn": "马雪的眼泪又掉下来，这次她没擦。",
+      "sentence_blank": "马雪的 ___ 又掉下来，这次她没擦。",
+      "translation_vi": "Nước mắt Maxue lại rơi, lần này cô không lau đi.",
+      "word": "眼泪",
+      "level": 5,
+      "options": [
+        "采访",
+        "腰",
+        "业余",
+        "眼泪"
+      ],
+      "story_title": "Share Hometown Stories"
+    },
+    {
+      "sentence_cn": "陈明远说，这瓶水两块钱，你输入2。",
+      "sentence_blank": "陈明远说，这瓶水两块钱，你 ___ 2。",
+      "translation_vi": "Trần Minh Viễn nói, bình nước này giá hai tệ, nhập 2.",
+      "word": "输入",
+      "level": 5,
+      "options": [
+        "输入",
+        "精神",
+        "商业",
+        "摘"
+      ],
+      "story_title": "Paying Alone For The First Time"
+    },
+    {
+      "sentence_cn": "方大力脱口而出，随即捂住嘴，我是说……炸鸡沙拉？",
+      "sentence_blank": "方 ___ 脱口而出，随即捂住嘴，我是说……炸鸡沙拉？",
+      "translation_vi": "Fang Dali buột miệng, sau đó che miệng lại. \"Ý tôi là... salad gà rán?\"",
+      "word": "大力",
+      "level": 5,
+      "options": [
+        "大力",
+        "熬夜",
+        "各自",
+        "握手"
+      ],
+      "story_title": "Final Day"
+    },
+    {
+      "sentence_cn": "他小声数数：一到一百，二到一百……数到五到一百，面心剩一点白，立刻捞进冷水。",
+      "sentence_blank": "他小声数数：一到一百，二到一百……数到五到一百，面心剩一点白， ___ 捞进冷水。",
+      "translation_vi": "Anh đếm nhẹ: Một đến một trăm, hai đến một trăm... Khi đến năm đến một trăm, trong sợi mì còn sót lại một cái lõi nhỏ màu trắng, anh liền vớt chúng ra cho vào nước lạnh.",
+      "word": "立刻",
+      "level": 5,
+      "options": [
+        "改天",
+        "立刻",
+        "消费者",
+        "延长"
+      ],
+      "story_title": "Kitchen Prep"
+    }
+  ],
+  "6": [
+    {
+      "sentence_cn": "叶会计说：我的……我的腰……哈哈！",
+      "sentence_blank": "叶 ___ 说：我的……我的腰……哈哈！",
+      "translation_vi": "Kế toán Ye nói: Của tôi... lưng của tôi... haha!",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "多媒体",
+        "过渡",
+        "会计",
+        "创建"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "叶会计说：才跑第一圈，还有三圈呢。",
+      "sentence_blank": "叶 ___ 说：才跑第一圈，还有三圈呢。",
+      "translation_vi": "Kế toán Ye nói: Mới vòng đầu thôi; vẫn còn ba người nữa.",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "研讨",
+        "会计",
+        "首要",
+        "纠正"
+      ],
+      "story_title": "Boss Talks Big"
+    },
+    {
+      "sentence_cn": "叶会计说：没有苏月，我们连水都找不到。",
+      "sentence_blank": "叶 ___ 说：没有苏月，我们连水都找不到。",
+      "translation_vi": "Kế toán Ye nói: Nếu không có Su Yue, chúng tôi thậm chí sẽ không tìm được nước.",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "会计",
+        "闪电",
+        "工地",
+        "遗址"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "小冬哦了一声，又画了一道：那雪多可怜。",
+      "sentence_blank": "小冬哦了一声，又画了 ___ ：那雪多可怜。",
+      "translation_vi": "Tiểu Đông \"ồ\" một tiếng rồi vẽ thêm một dòng nữa: \"Tuyết kia thật đáng thương.\"",
+      "word": "一道",
+      "level": 6,
+      "options": [
+        "主播",
+        "一道",
+        "疲劳",
+        "就读"
+      ],
+      "story_title": "Train Approaches"
+    },
+    {
+      "sentence_cn": "他的笑容让她想起自己的爸爸。",
+      "sentence_blank": "他的 ___ 让她想起自己的爸爸。",
+      "translation_vi": "Nụ cười của ông khiến cô nhớ đến cha mình.",
+      "word": "笑容",
+      "level": 6,
+      "options": [
+        "笑容",
+        "望",
+        "率领",
+        "功效"
+      ],
+      "story_title": "Class In The Empty Conference Room"
+    },
+    {
+      "sentence_cn": "赵师傅说：这是方向盘，那是刹车，那是油门。",
+      "sentence_blank": "赵师傅说：这是方向盘，那是 ___ ，那是油门。",
+      "translation_vi": "Thầy Triệu nói: Đây là vô lăng, kia là phanh, kia là chân ga.",
+      "word": "刹车",
+      "level": 6,
+      "options": [
+        "空地",
+        "精准",
+        "攻击",
+        "刹车"
+      ],
+      "story_title": "Getting In The Car Goes Wrong"
+    },
+    {
+      "sentence_cn": "呲啦一声，酱香炸开，他偷偷笑，像偷到糖的小孩。",
+      "sentence_blank": "呲啦一声，酱香炸开，他 ___ 笑，像偷到糖的小孩。",
+      "translation_vi": "Với một tiếng *xèo xèo*, mùi thơm của nước sốt bùng nổ. Anh mỉm cười bí mật, giống như một đứa trẻ ăn trộm kẹo.",
+      "word": "偷偷",
+      "level": 6,
+      "options": [
+        "间隔",
+        "摩托车",
+        "散文",
+        "偷偷"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "林雨晴摇摇头说：没事，就是嗓子有一点疼。",
+      "sentence_blank": "林雨晴摇摇头说：没事，就是 ___ 有一点疼。",
+      "translation_vi": "Lâm Ngọc Thanh lắc đầu nói: “Không có việc gì, chỉ là cổ họng có chút đau.”",
+      "word": "嗓子",
+      "level": 6,
+      "options": [
+        "好感",
+        "流通",
+        "特定",
+        "嗓子"
+      ],
+      "story_title": "A Sore Throat Morning"
+    },
+    {
+      "sentence_cn": "雨青把切好的西红柿放进锅里，红色的汁水流出来，我小时候经常帮妈妈做饭。",
+      "sentence_blank": "雨青把切好的西红柿放进锅里，红色的汁 ___ 出来，我小时候经常帮妈妈做饭。",
+      "translation_vi": "Ngọc Thanh bỏ cà chua đã cắt nhỏ vào nồi, nước màu đỏ chảy ra, “Hồi nhỏ tôi thường giúp mẹ nấu ăn.”",
+      "word": "水流",
+      "level": 6,
+      "options": [
+        "至于",
+        "著作",
+        "水流",
+        "众所周知"
+      ],
+      "story_title": "Little Kitchen Warmth"
+    },
+    {
+      "sentence_cn": "她从窗子里看着陈明远，对他招手。",
+      "sentence_blank": "她从窗子里看着陈明远，对他 ___ 。",
+      "translation_vi": "Cô nhìn Chen Mingyuan qua cửa sổ và vẫy tay chào anh.",
+      "word": "招手",
+      "level": 6,
+      "options": [
+        "博览会",
+        "招手",
+        "分级",
+        "脑袋"
+      ],
+      "story_title": "First Message On The Train"
+    },
+    {
+      "sentence_cn": "叶小音吃一个，她的脸有笑容。",
+      "sentence_blank": "叶小音吃一个，她的脸有 ___ 。",
+      "translation_vi": "Diệp Tiểu Âm ăn một cái, trên mặt hiện lên nụ cười.",
+      "word": "笑容",
+      "level": 6,
+      "options": [
+        "坚硬",
+        "欢乐",
+        "有机",
+        "笑容"
+      ],
+      "story_title": "Still Mine"
+    },
+    {
+      "sentence_cn": "回来先把骨头洗干净，再煮。",
+      "sentence_blank": "回来先把 ___ 洗干净，再煮。",
+      "translation_vi": "“Sau khi về, tôi rửa sạch xương rồi đem ninh.”",
+      "word": "骨头",
+      "level": 6,
+      "options": [
+        "听觉",
+        "骨头",
+        "低碳",
+        "学员"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "第四天晚上，小雨做了一道很难的题，她想了想，自己找到了答案。",
+      "sentence_blank": "第四天晚上，小雨做了 ___ 很难的题，她想了想，自己找到了答案。",
+      "translation_vi": "Vào buổi tối thứ tư, Xiaoyu gặp phải một vấn đề rất khó khăn. Cô suy nghĩ và tự mình tìm ra câu trả lời.",
+      "word": "一道",
+      "level": 6,
+      "options": [
+        "不成",
+        "棋子",
+        "一道",
+        "合并"
+      ],
+      "story_title": "Exam Week Together"
+    },
+    {
+      "sentence_cn": "现在，空地上有五个人了。",
+      "sentence_blank": "现在， ___ 上有五个人了。",
+      "translation_vi": "Bây giờ có năm người trên bãi đất trống.",
+      "word": "空地",
+      "level": 6,
+      "options": [
+        "解",
+        "成语",
+        "空地",
+        "高尚"
+      ],
+      "story_title": "More And More People"
+    },
+    {
+      "sentence_cn": "他的脸上出现了一个小小的笑容。",
+      "sentence_blank": "他的脸上出现了一个小小的 ___ 。",
+      "translation_vi": "Một nụ cười nhỏ xuất hiện trên khuôn mặt anh.",
+      "word": "笑容",
+      "level": 6,
+      "options": [
+        "间隔",
+        "惩罚",
+        "笑容",
+        "出入"
+      ],
+      "story_title": "The Magic Of Tomatoes"
+    },
+    {
+      "sentence_cn": "奶奶学会了用手机，他学会了更多耐心。",
+      "sentence_blank": "奶奶 ___ 了用手机，他学会了更多耐心。",
+      "translation_vi": "Bà đã học cách sử dụng điện thoại và ông đã học được tính kiên nhẫn hơn.",
+      "word": "学会",
+      "level": 6,
+      "options": [
+        "罐",
+        "重建",
+        "输送",
+        "学会"
+      ],
+      "story_title": "First Message On The Train"
+    },
+    {
+      "sentence_cn": "雨青把火调小，转身看晨光。",
+      "sentence_blank": "雨青把火调小， ___ 看晨光。",
+      "translation_vi": "Yuqing giảm nhiệt và quay lại nhìn Chenguang.",
+      "word": "转身",
+      "level": 6,
+      "options": [
+        "则",
+        "差异",
+        "转身",
+        "垂直"
+      ],
+      "story_title": "Little Kitchen Warmth"
+    },
+    {
+      "sentence_cn": "他深吸一口气，说：好...好的。",
+      "sentence_blank": "他深吸 ___ ，说：好...好的。",
+      "translation_vi": "Anh hít một hơi thật sâu và nói: Được rồi... được rồi.",
+      "word": "一口气",
+      "level": 6,
+      "options": [
+        "定义",
+        "焦虑",
+        "丧失",
+        "一口气"
+      ],
+      "story_title": "Gym Entrance"
+    },
+    {
+      "sentence_cn": "沈经理最后一步跨过终点线，比年轻人快了一点点。",
+      "sentence_blank": "沈经理最后一步跨过 ___ 线，比年轻人快了一点点。",
+      "translation_vi": "Giám đốc Shen bước bước cuối cùng về đích, chỉ nhanh hơn chàng trai trẻ một chút.",
+      "word": "终点",
+      "level": 6,
+      "options": [
+        "无疑",
+        "模仿",
+        "终点",
+        "此刻"
+      ],
+      "story_title": "Boss Talks Big"
+    },
+    {
+      "sentence_cn": "第二天下午，文杰又来了。",
+      "sentence_blank": "第二 ___ 午，文杰又来了。",
+      "translation_vi": "Chiều hôm sau, Văn Kiệt lại đến.",
+      "word": "天下",
+      "level": 6,
+      "options": [
+        "众人",
+        "天下",
+        "娃娃",
+        "野"
+      ],
+      "story_title": "Coach Gu Arrives"
+    },
+    {
+      "sentence_cn": "镜头里，方天天红着脸，把一根韭菜举到灯下，像举宝剑。",
+      "sentence_blank": " ___ 里，方天天红着脸，把一根韭菜举到灯下，像举宝剑。",
+      "translation_vi": "Trong khung hình, Fang Tiantian đỏ mặt, giơ một lá hẹ ra ánh sáng, giống như cầm một thanh kiếm.",
+      "word": "镜头",
+      "level": 6,
+      "options": [
+        "自助",
+        "寻求",
+        "镜头",
+        "书写"
+      ],
+      "story_title": "Judges Dilemma"
+    },
+    {
+      "sentence_cn": "他……雨青回头看了看，在吃东西吧。",
+      "sentence_blank": "他……雨青 ___ 看了看，在吃东西吧。",
+      "translation_vi": "\"Anh ấy...\" Yuqing quay lại nhìn qua vai cô, \"...có lẽ đang ăn gì đó.\"",
+      "word": "回头",
+      "level": 6,
+      "options": [
+        "则",
+        "次数",
+        "厂家",
+        "回头"
+      ],
+      "story_title": "Separate Actions"
+    },
+    {
+      "sentence_cn": "她把笔拿出来，深深吸了一口气。",
+      "sentence_blank": "她把笔拿出来，深深吸了 ___ 。",
+      "translation_vi": "Cô lấy bút ra và hít một hơi thật sâu.",
+      "word": "一口气",
+      "level": 6,
+      "options": [
+        "清扫",
+        "一口气",
+        "出场",
+        "浮"
+      ],
+      "story_title": "Stepping Out Of The Exam Hall"
+    },
+    {
+      "sentence_cn": "第二天下午三点，林雨晴去了茶水间。",
+      "sentence_blank": "第二 ___ 午三点，林雨晴去了茶水间。",
+      "translation_vi": "Ba giờ chiều hôm sau, Lâm Ngọc Thanh đi phòng nghỉ.",
+      "word": "天下",
+      "level": 6,
+      "options": [
+        "颈椎",
+        "排名",
+        "天下",
+        "勇于"
+      ],
+      "story_title": "Care In The Hallway"
+    },
+    {
+      "sentence_cn": "宝宝的小手抓住终点线的彩带，扯下来盖在自己脸上，咯咯地笑。",
+      "sentence_blank": "宝宝的小手抓住 ___ 线的彩带，扯下来盖在自己脸上，咯咯地笑。",
+      "translation_vi": "Bàn tay nhỏ bé của em bé nắm lấy dải ruy băng nhiều màu sắc ở vạch đích, kéo xuống, lấy nó che mặt và cười khúc khích.",
+      "word": "终点",
+      "level": 6,
+      "options": [
+        "论坛",
+        "暴力",
+        "终点",
+        "怀"
+      ],
+      "story_title": "Summer Race"
+    },
+    {
+      "sentence_cn": "我看见了最快的沈经理，最厉害的叶会计，还有……最倒霉的拔河。",
+      "sentence_blank": "我看见了最快的沈经理，最厉害的叶 ___ ，还有……最倒霉的拔河。",
+      "translation_vi": "Tôi đã nhìn thấy Thẩm quản lý nhanh nhất, Kế toán tuyệt vời nhất Ye, và... trò kéo co xui xẻo nhất.",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "大伙儿",
+        "会计",
+        "医药",
+        "才能"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "他伸手拨了拨水，影子碎成一圈圈涟漪。",
+      "sentence_blank": "他伸手拨了拨水， ___ 碎成一圈圈涟漪。",
+      "translation_vi": "Anh đưa tay khuấy động mặt nước, làm hình ảnh phản chiếu của anh vỡ thành những gợn sóng.",
+      "word": "影子",
+      "level": 6,
+      "options": [
+        "高等",
+        "理念",
+        "抄",
+        "影子"
+      ],
+      "story_title": "Community Center Notice"
+    },
+    {
+      "sentence_cn": "马雪把围巾往脖子上绕了两圈。",
+      "sentence_blank": "马雪把围巾往 ___ 上绕了两圈。",
+      "translation_vi": "Maxue quấn chiếc khăn quàng cổ của mình hai lần quanh cổ.",
+      "word": "脖子",
+      "level": 6,
+      "options": [
+        "脖子",
+        "古迹",
+        "免税",
+        "娶"
+      ],
+      "story_title": "Waiting On The Platform"
+    },
+    {
+      "sentence_cn": "小伙子回头喊，但阳光好！",
+      "sentence_blank": "小伙子 ___ 喊，但阳光好！",
+      "translation_vi": "Chàng trai quay lại hét lên, nhưng ánh nắng vẫn tốt!",
+      "word": "回头",
+      "level": 6,
+      "options": [
+        "混合",
+        "证实",
+        "解放",
+        "回头"
+      ],
+      "story_title": "Bathroom In The Kitchen"
+    },
+    {
+      "sentence_cn": "文杰推八个，他的手臂在抖。",
+      "sentence_blank": "文杰推八个，他的 ___ 在抖。",
+      "translation_vi": "Văn Kiệt đẩy tám lần, hai tay run rẩy.",
+      "word": "手臂",
+      "level": 6,
+      "options": [
+        "手臂",
+        "绿化",
+        "基地",
+        "制品"
+      ],
+      "story_title": "Learn Slowly"
+    },
+    {
+      "sentence_cn": "他又深吸一口气，把头放进水里。",
+      "sentence_blank": "他又深吸 ___ ，把头放进水里。",
+      "translation_vi": "Anh hít một hơi thật sâu nữa và thò đầu xuống nước.",
+      "word": "一口气",
+      "level": 6,
+      "options": [
+        "远程",
+        "一口气",
+        "掏",
+        "恰恰"
+      ],
+      "story_title": "The Loudest Applause"
+    },
+    {
+      "sentence_cn": "周小宇跟着节奏，一二三吸气，一二吐气。",
+      "sentence_blank": "周小宇跟着 ___ ，一二三吸气，一二吐气。",
+      "translation_vi": "Chu Tiểu Ngư theo nhịp: một, hai, ba, hít vào; một, hai, thở ra.",
+      "word": "节奏",
+      "level": 6,
+      "options": [
+        "象棋",
+        "节奏",
+        "脖子",
+        "喜剧"
+      ],
+      "story_title": "Become Habit"
+    },
+    {
+      "sentence_cn": "头不疼了，嗓子也不疼了。",
+      "sentence_blank": "头不疼了， ___ 也不疼了。",
+      "translation_vi": "Đầu cô không đau, cổ họng cũng không đau.",
+      "word": "嗓子",
+      "level": 6,
+      "options": [
+        "拆除",
+        "卷",
+        "保障",
+        "嗓子"
+      ],
+      "story_title": "A Special Arrangement"
+    },
+    {
+      "sentence_cn": "锅在走廊排成队，火像花一样开。",
+      "sentence_blank": "锅在 ___ 排成队，火像花一样开。",
+      "translation_vi": "Những chiếc chậu xếp thành hàng ở hành lang, ngọn lửa bùng lên như những bông hoa.",
+      "word": "走廊",
+      "level": 6,
+      "options": [
+        "走廊",
+        "截至",
+        "场景",
+        "闪"
+      ],
+      "story_title": "Best Dish"
+    },
+    {
+      "sentence_cn": "沈经理找到了奖牌，奖牌上全是草。",
+      "sentence_blank": "沈经理找到了 ___ ，奖牌上全是草。",
+      "translation_vi": "Giám đốc Shen đã tìm thấy huy chương của mình; nó được bao phủ bởi cỏ.",
+      "word": "奖牌",
+      "level": 6,
+      "options": [
+        "依赖",
+        "广阔",
+        "奖牌",
+        "偷偷"
+      ],
+      "story_title": "Snapped Rope Best Prize"
+    },
+    {
+      "sentence_cn": "林雨晴深吸一口气，开始唱。",
+      "sentence_blank": "林雨晴深吸 ___ ，开始唱。",
+      "translation_vi": "Lin Yuqing hít một hơi thật sâu và bắt đầu hát.",
+      "word": "一口气",
+      "level": 6,
+      "options": [
+        "胃口",
+        "涉及",
+        "一口气",
+        "热线"
+      ],
+      "story_title": "Class In The Empty Conference Room"
+    },
+    {
+      "sentence_cn": "林小月想了想，说：结尾……结尾是很好。",
+      "sentence_blank": "林小月想了想，说： ___ ……结尾是很好。",
+      "translation_vi": "Lin Xiaoyue suy nghĩ một lúc rồi nói: \"Kết thúc... kết thúc thực sự rất hay.\"",
+      "word": "结尾",
+      "level": 6,
+      "options": [
+        "结尾",
+        "维护",
+        "恐惧",
+        "笑容"
+      ],
+      "story_title": "The Final Surprise"
+    },
+    {
+      "sentence_cn": "月光下，一只大黑狗和一只小白猫靠在一起，像一幅画。",
+      "sentence_blank": " ___ 下，一只大黑狗和一只小白猫靠在一起，像一幅画。",
+      "translation_vi": "Dưới ánh trăng, một con chó đen lớn và một con mèo trắng nhỏ dựa vào nhau, giống như một bức tranh.",
+      "word": "月光",
+      "level": 6,
+      "options": [
+        "相差",
+        "月光",
+        "可怜",
+        "调节"
+      ],
+      "story_title": "Truth Revealed"
+    },
+    {
+      "sentence_cn": "她走得很慢，每走几步就回头看看。",
+      "sentence_blank": "她走得很慢，每走几步就 ___ 看看。",
+      "translation_vi": "Cô đi rất chậm, cứ vài bước lại ngoái đầu nhìn lại.",
+      "word": "回头",
+      "level": 6,
+      "options": [
+        "天才",
+        "粘贴",
+        "明明",
+        "回头"
+      ],
+      "story_title": "He Is Missing"
+    },
+    {
+      "sentence_cn": "李红没躲，肩膀贴着他的胸口，心跳声盖过鼓点。",
+      "sentence_blank": "李红没躲， ___ 贴着他的胸口，心跳声盖过鼓点。",
+      "translation_vi": "Li Hong không rút lui; vai cô áp vào ngực anh, và nhịp tim anh át đi tiếng trống.",
+      "word": "肩膀",
+      "level": 6,
+      "options": [
+        "长短",
+        "铺",
+        "肩膀",
+        "查询"
+      ],
+      "story_title": "Cherry Blossom Night Market"
+    },
+    {
+      "sentence_cn": "文件上说，空地是管理公司的，我们不能随便用。",
+      "sentence_blank": "文件上说， ___ 是管理公司的，我们不能随便用。",
+      "translation_vi": "Tài liệu nói rằng lô đất trống thuộc về công ty quản lý và chúng tôi không thể sử dụng tùy tiện.",
+      "word": "空地",
+      "level": 6,
+      "options": [
+        "空地",
+        "风雨",
+        "起点",
+        "维护"
+      ],
+      "story_title": "A Single Sheets Trouble"
+    },
+    {
+      "sentence_cn": "她说：这是我家做的辣椒酱，很香，你闻一闻。",
+      "sentence_blank": "她说：这是我家做的 ___ 酱，很香，你闻一闻。",
+      "translation_vi": "Cô nói: “Đây là tương ớt nhà tôi làm, rất thơm. Hãy ngửi xem”.",
+      "word": "辣椒",
+      "level": 6,
+      "options": [
+        "辣椒",
+        "肿",
+        "窗口",
+        "传达"
+      ],
+      "story_title": "First Fight"
+    },
+    {
+      "sentence_cn": "刘秀兰问孙子工作忙不忙，身体好不好。",
+      "sentence_blank": "刘秀兰问孙子工作忙不忙，身体 ___ 好。",
+      "translation_vi": "Lưu Tú Lan hỏi cháu trai xem cháu có bận công việc không và cháu có khỏe không.",
+      "word": "好不",
+      "level": 6,
+      "options": [
+        "嘛",
+        "解读",
+        "减压",
+        "好不"
+      ],
+      "story_title": "Phone And Money Talk"
+    },
+    {
+      "sentence_cn": "女孩回头，眼睛弯弯：你把包带来了？",
+      "sentence_blank": "女孩 ___ ，眼睛弯弯：你把包带来了？",
+      "translation_vi": "Cô gái quay lại, đôi mắt cong lên cười: “Anh có mang theo túi không?”",
+      "word": "回头",
+      "level": 6,
+      "options": [
+        "监测",
+        "尽",
+        "伴随",
+        "回头"
+      ],
+      "story_title": "Spring Train Station"
+    },
+    {
+      "sentence_cn": "镜头对准她，她竖起油亮大拇指：好吃！",
+      "sentence_blank": " ___ 对准她，她竖起油亮大拇指：好吃！",
+      "translation_vi": "Máy quay tập trung vào cô. Cô ấy giơ ngón tay cái đầy mỡ lên: Ngon quá!",
+      "word": "镜头",
+      "level": 6,
+      "options": [
+        "遥远",
+        "相声",
+        "镜头",
+        "扭"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "程亮小声说：看吧，叶会计根本不会打。",
+      "sentence_blank": "程亮小声说：看吧，叶 ___ 根本不会打。",
+      "translation_vi": "Trình Lương thấp giọng nói: \"Thấy chưa, Kế toán Diệp căn bản không biết chơi.\"",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "不许",
+        "渴望",
+        "会计",
+        "民众"
+      ],
+      "story_title": "Unexpected Basketball Star"
+    },
+    {
+      "sentence_cn": "她听说你做饭像打仗，叶子晴说，她想看看你是谁。",
+      "sentence_blank": "她听说你做饭像 ___ ，叶子晴说，她想看看你是谁。",
+      "translation_vi": "“Cô ấy nghe thấy anh nấu ăn như đang đánh trận vậy.” Ye Ziqing nói. “Cô ấy muốn xem cậu là ai.”",
+      "word": "打仗",
+      "level": 6,
+      "options": [
+        "跪",
+        "基因",
+        "打仗",
+        "怀"
+      ],
+      "story_title": "Flour Mishap"
+    },
+    {
+      "sentence_cn": "刘奶奶拿来药箱，小心地给花花清洗伤口。",
+      "sentence_blank": "刘奶奶拿来药箱，小心地给花花 ___ 伤口。",
+      "translation_vi": "Bà Lưu mang theo hộp sơ cứu và cẩn thận rửa vết thương cho Hoa Hoa.",
+      "word": "清洗",
+      "level": 6,
+      "options": [
+        "清洗",
+        "总算",
+        "模仿",
+        "转换"
+      ],
+      "story_title": "New Beginnings"
+    },
+    {
+      "sentence_cn": "叶会计说：沈经理，你跑得太好了！",
+      "sentence_blank": "叶 ___ 说：沈经理，你跑得太好了！",
+      "translation_vi": "Kế toán Ye nói: \"Quản lý Thẩm, anh chạy giỏi quá!\"",
+      "word": "会计",
+      "level": 6,
+      "options": [
+        "会计",
+        "创建",
+        "人士",
+        "指示"
+      ],
+      "story_title": "Unexpected Basketball Star"
+    },
+    {
+      "sentence_cn": "叶子晴拍拍他的肩膀，说：没关系。",
+      "sentence_blank": "叶子晴拍拍他的 ___ ，说：没关系。",
+      "translation_vi": "Ye Ziqing vỗ vai anh nói: Không sao đâu.",
+      "word": "肩膀",
+      "level": 6,
+      "options": [
+        "肩膀",
+        "自愿",
+        "释放",
+        "母"
+      ],
+      "story_title": "Kitchen Warfare"
+    }
+  ],
+  "7": [
+    {
+      "sentence_cn": "苏远深吸一口气，脱掉衣服，快速站到水下。",
+      "sentence_blank": "苏远深吸一 ___ ，脱掉衣服，快速站到水下。",
+      "translation_vi": "Tô Nguyên hít sâu một hơi, cởi quần áo, nhanh chóng bước xuống nước.",
+      "word": "口气",
+      "level": 7,
+      "options": [
+        "枪毙",
+        "流露",
+        "行使",
+        "口气"
+      ],
+      "story_title": "Cold Shower"
+    },
+    {
+      "sentence_cn": "方大力第一个响应：好主意！",
+      "sentence_blank": "方大力第一个 ___ ：好主意！",
+      "translation_vi": "Fang Dali là người đầu tiên phản ứng: Ý tưởng hay!",
+      "word": "响应",
+      "level": 7,
+      "options": [
+        "飙升",
+        "响应",
+        "隐患",
+        "山寨"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "表格最上面一行写着：第一天→第三十天。",
+      "sentence_blank": "表格最上面 ___ 写着：第一天→第三十天。",
+      "translation_vi": "Hàng trên cùng của bảng ghi: Ngày thứ nhất → Ngày thứ ba mươi.",
+      "word": "一行",
+      "level": 7,
+      "options": [
+        "一行",
+        "虚弱",
+        "回馈",
+        "废弃"
+      ],
+      "story_title": "Final Day"
+    },
+    {
+      "sentence_cn": "他是个热心肠的人，见到谁都笑着打招呼。",
+      "sentence_blank": "他是个热 ___ 的人，见到谁都笑着打招呼。",
+      "translation_vi": "Anh ấy là một người có trái tim ấm áp, luôn mỉm cười chào đón mọi người.",
+      "word": "心肠",
+      "level": 7,
+      "options": [
+        "商用",
+        "起伏",
+        "心肠",
+        "启蒙"
+      ],
+      "story_title": "Decision Among The Weeds"
+    },
+    {
+      "sentence_cn": "志远蹲下来，看马桶和灶台的距离，不到一臂。",
+      "sentence_blank": "志远蹲下来，看 ___ 和灶台的距离，不到一臂。",
+      "translation_vi": "Trí Viễn cúi người xuống, nhìn khoảng cách giữa bồn cầu và bếp lò, không đến một sải tay.",
+      "word": "马桶",
+      "level": 7,
+      "options": [
+        "马桶",
+        "足迹",
+        "婚纱",
+        "流淌"
+      ],
+      "story_title": "Bathroom In The Kitchen"
+    },
+    {
+      "sentence_cn": "顾小雨叹了口气，把鸡胸肉撕成一条一条：因为犯罪才香。",
+      "sentence_blank": "顾小雨叹了口气，把鸡胸肉撕成一条一条：因为 ___ 才香。",
+      "translation_vi": "Cố Tiểu Ngư thở dài, xé ức gà của mình thành từng dải: \"Bởi vì tội lỗi khiến chúng có mùi thơm.\"",
+      "word": "犯罪",
+      "level": 7,
+      "options": [
+        "犯罪",
+        "打猎",
+        "勉励",
+        "解除"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "我说过滤器，商店的人不懂。",
+      "sentence_blank": "我说 ___ 器，商店的人不懂。",
+      "translation_vi": "Khi tôi nói 'bộ lọc', nhân viên cửa hàng không hiểu.",
+      "word": "过滤",
+      "level": 7,
+      "options": [
+        "过滤",
+        "严峻",
+        "底子",
+        "申诉"
+      ],
+      "story_title": "Street Flowers"
+    },
+    {
+      "sentence_cn": "林雨晴的脸有点红，但是她没有低下头。",
+      "sentence_blank": "林雨晴的脸有点红，但是她没有 ___ 头。",
+      "translation_vi": "Lâm Ngọc Thanh mặt có chút đỏ lên, nhưng lại không cúi đầu.",
+      "word": "低下",
+      "level": 7,
+      "options": [
+        "低下",
+        "师范",
+        "观测",
+        "木匠"
+      ],
+      "story_title": "Monday Morning"
+    },
+    {
+      "sentence_cn": "他回头看，想叫林雨晴和孙小月看他的新手机壳。",
+      "sentence_blank": "他回头看，想叫林雨晴和孙小月看他的 ___ 机壳。",
+      "translation_vi": "Anh quay lại gọi Lin Yuqing và Sun Xiaoyue đến xem vỏ điện thoại mới của mình.",
+      "word": "新手",
+      "level": 7,
+      "options": [
+        "新手",
+        "终生",
+        "清新",
+        "遗失"
+      ],
+      "story_title": "Lost In The Crowd"
+    },
+    {
+      "sentence_cn": "主唱女孩抱吉他，唱的是《小幸运》。",
+      "sentence_blank": "主唱女孩抱 ___ ，唱的是《小幸运》。",
+      "translation_vi": "Ca sĩ chính, một cô gái, cầm cây đàn guitar và hát bài \"A Little Happiness\".",
+      "word": "吉他",
+      "level": 7,
+      "options": [
+        "交涉",
+        "吉他",
+        "辽阔",
+        "沼泽"
+      ],
+      "story_title": "Cherry Blossom Night Market"
+    },
+    {
+      "sentence_cn": "雨青叹了口气，但是她的手拉紧了晨光的手。",
+      "sentence_blank": "雨青叹了 ___ ，但是她的手拉紧了晨光的手。",
+      "translation_vi": "Yuqing thở dài, nhưng cô siết chặt tay Chenguang.",
+      "word": "口气",
+      "level": 7,
+      "options": [
+        "口气",
+        "瓜子",
+        "芬芳",
+        "身子"
+      ],
+      "story_title": "Morning Market"
+    },
+    {
+      "sentence_cn": "林美华拿出手机：给你们看，宝宝会翻身了。",
+      "sentence_blank": "林美华拿出手机：给你们看，宝宝会 ___ 了。",
+      "translation_vi": "Lin Meihua lấy điện thoại ra: Để tôi cho bạn xem, em bé bây giờ có thể lăn được rồi.",
+      "word": "翻身",
+      "level": 7,
+      "options": [
+        "翻身",
+        "年均",
+        "俗称",
+        "耸"
+      ],
+      "story_title": "Become Habit"
+    },
+    {
+      "sentence_cn": "吉他的声音很大，她能听见每一个声音。",
+      "sentence_blank": " ___ 的声音很大，她能听见每一个声音。",
+      "translation_vi": "Tiếng đàn guitar rất to; cô ấy có thể nghe thấy từng nốt nhạc.",
+      "word": "吉他",
+      "level": 7,
+      "options": [
+        "吉他",
+        "逢",
+        "良心",
+        "弱项"
+      ],
+      "story_title": "Late Night Guitar Sounds"
+    },
+    {
+      "sentence_cn": "程风喝了一口水，说：我不想让你看到我生病的样子。",
+      "sentence_blank": "程风喝了一 ___ ，说：我不想让你看到我生病的样子。",
+      "translation_vi": "Trình Phong nhấp một ngụm nước rồi nói: Tôi không muốn anh nhìn thấy tôi khi tôi ốm.",
+      "word": "口水",
+      "level": 7,
+      "options": [
+        "口水",
+        "博学",
+        "缕",
+        "势不可当"
+      ],
+      "story_title": "Coffee Shop Answer"
+    },
+    {
+      "sentence_cn": "晨光咬了一口红薯，含含糊糊地说。",
+      "sentence_blank": "晨光咬了一口红薯，含 ___ 糊地说。",
+      "translation_vi": "Thành Quang vừa nói vừa cắn một miếng khoai lang.",
+      "word": "含糊",
+      "level": 7,
+      "options": [
+        "调和",
+        "棺材",
+        "挠",
+        "含糊"
+      ],
+      "story_title": "The Heavy Bag"
+    },
+    {
+      "sentence_cn": "丁东明看书，一本书要八十块。",
+      "sentence_blank": " ___ 东明看书，一本书要八十块。",
+      "translation_vi": "Đinh Đông Minh nhìn sách; một cuốn sách có giá tám mươi nhân dân tệ.",
+      "word": "丁",
+      "level": 7,
+      "options": [
+        "子弟",
+        "重现",
+        "丁",
+        "屈服"
+      ],
+      "story_title": "Sudden Gift"
+    },
+    {
+      "sentence_cn": "刘秀兰笑得停不下来，我这手啊，太笨了！",
+      "sentence_blank": "刘秀兰笑得停 ___ 来，我这手啊，太笨了！",
+      "translation_vi": "Lưu Tú Lan không khỏi cười lớn. Đôi tay này của tôi vụng về quá!",
+      "word": "不下",
+      "level": 7,
+      "options": [
+        "霸道",
+        "胀",
+        "不下",
+        "庸俗"
+      ],
+      "story_title": "Three Boxes Of Dumplings Tonight"
+    },
+    {
+      "sentence_cn": "王明憋得脸通红，只弹出一串杂音。",
+      "sentence_blank": "王明憋得脸 ___ ，只弹出一串杂音。",
+      "translation_vi": "Vương Minh cố gắng đến đỏ bừng mặt, chỉ gảy được một mớ những nốt không hòa âm.",
+      "word": "通红",
+      "level": 7,
+      "options": [
+        "龟",
+        "通红",
+        "输液",
+        "轻型"
+      ],
+      "story_title": "A New Friend"
+    },
+    {
+      "sentence_cn": "林雨晴看着海报上的女孩，心里很不好受。",
+      "sentence_blank": "林雨晴看着海报上的女孩，心里很不 ___ 。",
+      "translation_vi": "Lin Yuqing nhìn cô gái trên tấm áp phích và cảm thấy rất khó chịu.",
+      "word": "好受",
+      "level": 7,
+      "options": [
+        "输血",
+        "浮躁",
+        "坦率",
+        "好受"
+      ],
+      "story_title": "Truth Behind The Door"
+    },
+    {
+      "sentence_cn": "他深吸一口气，端到评委桌，小声说：阳光炸酱面。",
+      "sentence_blank": "他深吸一 ___ ，端到评委桌，小声说：阳光炸酱面。",
+      "translation_vi": "Anh hít một hơi thật sâu, bưng nó đến bàn giám khảo, nhẹ giọng nói: Mì xào nắng.",
+      "word": "口气",
+      "level": 7,
+      "options": [
+        "气压",
+        "口气",
+        "防御",
+        "爆满"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "对了，李大明说，我知道一家老字号的包子店，在东边，离你家不远。",
+      "sentence_blank": "对了，李大明说，我知道一家 ___ 的包子店，在东边，离你家不远。",
+      "translation_vi": "“Nhân tiện,” Lý Đại Minh nói, “Tôi biết một quán bánh bao lâu đời ở phía đông, cách chỗ cậu không xa.”",
+      "word": "老字号",
+      "level": 7,
+      "options": [
+        "操练",
+        "搭建",
+        "剪辑",
+        "老字号"
+      ],
+      "story_title": "Friends Help"
+    },
+    {
+      "sentence_cn": "晨光打开水龙头，水哗啦啦地流出来。",
+      "sentence_blank": "晨光打开水 ___ ，水哗啦啦地流出来。",
+      "translation_vi": "Chenguang vặn vòi, nước chảy ra ầm ĩ.",
+      "word": "龙头",
+      "level": 7,
+      "options": [
+        "繁华",
+        "惨白",
+        "龙头",
+        "推选"
+      ],
+      "story_title": "Little Kitchen Warmth"
+    },
+    {
+      "sentence_cn": "蒋梦雪小声道，却忍不住叹气。",
+      "sentence_blank": "蒋梦雪小声道，却忍不住 ___ 。",
+      "translation_vi": "Giang Mộng Tuyết thấp giọng nói, nhưng không khỏi thở dài.",
+      "word": "叹气",
+      "level": 7,
+      "options": [
+        "重现",
+        "多心",
+        "丑恶",
+        "叹气"
+      ],
+      "story_title": "Manager Vanishes"
+    },
+    {
+      "sentence_cn": "话音没落，小雨把一块鸡蛋塞进口，嚼得大声。",
+      "sentence_blank": "话音 ___ ，小雨把一块鸡蛋塞进口，嚼得大声。",
+      "translation_vi": "Lời còn chưa dứt, Tiểu Ngọc nhét một miếng trứng vào miệng, nhai lớn tiếng.",
+      "word": "没落",
+      "level": 7,
+      "options": [
+        "没落",
+        "充裕",
+        "新手",
+        "扣押"
+      ],
+      "story_title": "City Station Crowds"
+    },
+    {
+      "sentence_cn": "晚上八点回家，他看了看吉他，想：今天不弹了。",
+      "sentence_blank": "晚上八点回家，他看了看 ___ ，想：今天不弹了。",
+      "translation_vi": "Anh ấy về nhà lúc 8 giờ tối, nhìn cây đàn và nghĩ: Hôm nay mình sẽ không chơi.",
+      "word": "吉他",
+      "level": 7,
+      "options": [
+        "沏",
+        "慎重",
+        "吉他",
+        "老伴儿"
+      ],
+      "story_title": "A Louder Voice"
+    },
+    {
+      "sentence_cn": "他掏出钱包，却听见咔哒一声，左手被纱布绊住，硬币撒了一地。",
+      "sentence_blank": "他掏出钱包，却听见咔哒一声，左手被纱布绊住， ___ 撒了一地。",
+      "translation_vi": "Anh rút ví ra thì nghe thấy tiếng cạch cạch; tay trái của anh ấy vướng vào miếng gạc và những đồng xu vương vãi khắp mặt đất.",
+      "word": "硬币",
+      "level": 7,
+      "options": [
+        "有声有色",
+        "关头",
+        "终究",
+        "硬币"
+      ],
+      "story_title": "Judges Dilemma"
+    },
+    {
+      "sentence_cn": "但是她不太会用手机，手指点了几下都没点对。",
+      "sentence_blank": "但是她不太会用手机，手 ___ 了几下都没点对。",
+      "translation_vi": "Nhưng cô ấy không giỏi sử dụng điện thoại và ngón tay của cô ấy gõ vài lần mà không bấm đúng.",
+      "word": "指点",
+      "level": 7,
+      "options": [
+        "搅",
+        "指点",
+        "闷热",
+        "出路"
+      ],
+      "story_title": "Three Boxes Of Dumplings Tonight"
+    },
+    {
+      "sentence_cn": "话音没落，叶小美踩着高跟鞋哒哒过来，鼻子一皱：什么味儿这么重？",
+      "sentence_blank": "话音 ___ ，叶小美踩着高跟鞋哒哒过来，鼻子一皱：什么味儿这么重？",
+      "translation_vi": "Lời còn chưa dứt, Diệp Tiểu Mi đang đi giày cao gót bước tới, nhăn mũi: \"Mùi gì nặng vậy?\"",
+      "word": "没落",
+      "level": 7,
+      "options": [
+        "没落",
+        "供需",
+        "热带",
+        "烟囱"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "潘东抓住扶手，又拿出手机看那条短信。",
+      "sentence_blank": "潘东抓住扶手，又拿 ___ 机看那条短信。",
+      "translation_vi": "Phan Đông nắm lấy lan can, lấy điện thoại ra xem lại tin nhắn.",
+      "word": "出手",
+      "level": 7,
+      "options": [
+        "大局",
+        "讨",
+        "出手",
+        "回想"
+      ],
+      "story_title": "Unreadable Message"
+    },
+    {
+      "sentence_cn": "周六一早，厨房门口就排起了队。",
+      "sentence_blank": "周六 ___ ，厨房门口就排起了队。",
+      "translation_vi": "Sáng sớm thứ bảy, hàng người đã xếp thành hàng trước cửa bếp.",
+      "word": "一早",
+      "level": 7,
+      "options": [
+        "一早",
+        "顾虑",
+        "举足轻重",
+        "枯竭"
+      ],
+      "story_title": "Kitchen Prep"
+    },
+    {
+      "sentence_cn": "对不起对不起，我睡过头了！",
+      "sentence_blank": "对不起对不起，我睡 ___ 了！",
+      "translation_vi": "Xin lỗi, xin lỗi, tôi ngủ quên mất!",
+      "word": "过头",
+      "level": 7,
+      "options": [
+        "过头",
+        "初衷",
+        "惨重",
+        "豪华"
+      ],
+      "story_title": "Challenge Begins"
+    },
+    {
+      "sentence_cn": "赵建国打开门，看到是林秀芳，表情有些不好意思。",
+      "sentence_blank": "赵建国打开门，看到是林秀芳，表情有些不 ___ 思。",
+      "translation_vi": "Triệu Kiến Quốc mở cửa, khi nhìn thấy là Lâm Tú Phương, vẻ mặt có chút xấu hổ.",
+      "word": "好意",
+      "level": 7,
+      "options": [
+        "好意",
+        "末日",
+        "抗争",
+        "偏远"
+      ],
+      "story_title": "A Turning Point On The Phone"
+    },
+    {
+      "sentence_cn": "正月初六，天还没亮，马雪就醒了。",
+      "sentence_blank": " ___ 初六，天还没亮，马雪就醒了。",
+      "translation_vi": "Vào ngày mồng sáu Tết Nguyên đán, trước khi bình minh ló dạng, Maxue tỉnh dậy.",
+      "word": "正月",
+      "level": 7,
+      "options": [
+        "喘",
+        "匿名",
+        "正月",
+        "趁机"
+      ],
+      "story_title": "Waiting On The Platform"
+    },
+    {
+      "sentence_cn": "他咽了咽口水：就...买一个？",
+      "sentence_blank": "他咽了咽 ___ ：就...买一个？",
+      "translation_vi": "Anh nuốt khan: Chỉ... mua một cái thôi à?",
+      "word": "口水",
+      "level": 7,
+      "options": [
+        "废",
+        "通报",
+        "戳",
+        "口水"
+      ],
+      "story_title": "The Heavy Bag"
+    },
+    {
+      "sentence_cn": "刘美华接过西红柿，有点不好意思。",
+      "sentence_blank": "刘美华接过西红柿，有点不 ___ 思。",
+      "translation_vi": "Liu Meihua nhận lấy cà chua, cảm thấy hơi xấu hổ.",
+      "word": "好意",
+      "level": 7,
+      "options": [
+        "处事",
+        "源源不断",
+        "定居",
+        "好意"
+      ],
+      "story_title": "The Magic Of Tomatoes"
+    },
+    {
+      "sentence_cn": "海报上写着字：社区中心慈善音乐会——为生病的孩子。",
+      "sentence_blank": " ___ 上写着字：社区中心慈善音乐会——为生病的孩子。",
+      "translation_vi": "Dòng chữ được viết trên tấm áp phích: Buổi hòa nhạc từ thiện của Trung tâm cộng đồng - Dành cho trẻ em bị bệnh.",
+      "word": "海报",
+      "level": 7,
+      "options": [
+        "缺口",
+        "来电",
+        "海报",
+        "丁"
+      ],
+      "story_title": "Truth Behind The Door"
+    },
+    {
+      "sentence_cn": "志远走到她身后，伸手环住她的腰。",
+      "sentence_blank": "志远走到她身后， ___ 环住她的腰。",
+      "translation_vi": "Trí Viễn đi đến phía sau cô, đưa tay ôm lấy eo cô.",
+      "word": "伸手",
+      "level": 7,
+      "options": [
+        "修补",
+        "伸手",
+        "捆",
+        "面孔"
+      ],
+      "story_title": "Rooftop Lights"
+    },
+    {
+      "sentence_cn": "苏远接过肥皂，闻到淡淡的香味。",
+      "sentence_blank": "苏远接过 ___ ，闻到淡淡的香味。",
+      "translation_vi": "Tô Nguyên cầm lấy xà phòng, ngửi thấy một mùi thơm nhàn nhạt.",
+      "word": "肥皂",
+      "level": 7,
+      "options": [
+        "肥皂",
+        "任职",
+        "小看",
+        "次日"
+      ],
+      "story_title": "Neighbors Face"
+    },
+    {
+      "sentence_cn": "她不想说不好，但是也不想撒谎。",
+      "sentence_blank": "她不想说不好，但是也不想 ___ 。",
+      "translation_vi": "Cô không muốn nói điều đó là tệ, nhưng cô cũng không muốn nói dối.",
+      "word": "撒谎",
+      "level": 7,
+      "options": [
+        "热腾腾",
+        "获悉",
+        "气魄",
+        "撒谎"
+      ],
+      "story_title": "Face The Challenge"
+    },
+    {
+      "sentence_cn": "说完，他弯腰把小雨抱起来：这小家伙是谁？",
+      "sentence_blank": "说完，他弯腰把小雨抱起来：这小 ___ 是谁？",
+      "translation_vi": "Nói xong, anh cúi xuống bế Tiểu Ngọc lên: 'Thằng nhóc này là ai?'",
+      "word": "家伙",
+      "level": 7,
+      "options": [
+        "家伙",
+        "潜移默化",
+        "求证",
+        "钢铁"
+      ],
+      "story_title": "Share Hometown Stories"
+    },
+    {
+      "sentence_cn": "她坐在椅子上，很累，很困惑。",
+      "sentence_blank": "她坐在椅子上，很累，很 ___ 。",
+      "translation_vi": "Cô ngồi trên ghế, cảm thấy rất mệt mỏi và bối rối.",
+      "word": "困惑",
+      "level": 7,
+      "options": [
+        "三维",
+        "铁",
+        "柳树",
+        "困惑"
+      ],
+      "story_title": "Empty Office"
+    },
+    {
+      "sentence_cn": "程亮看封面，程亮说：很有意思，我看过。",
+      "sentence_blank": "程亮看封面，程亮说：很 ___ 思，我看过。",
+      "translation_vi": "Trình Lương nhìn bìa nói: \"Thú vị lắm, ta đã đọc qua.\"",
+      "word": "有意",
+      "level": 7,
+      "options": [
+        "撬",
+        "同比",
+        "有意",
+        "矿产"
+      ],
+      "story_title": "Eat Together"
+    },
+    {
+      "sentence_cn": "周一早上，淑琴又去了银行。",
+      "sentence_blank": "周 ___ 上，淑琴又去了银行。",
+      "translation_vi": "Sáng thứ Hai, Shuqin lại đến ngân hàng.",
+      "word": "一早",
+      "level": 7,
+      "options": [
+        "触觉",
+        "美妙",
+        "一早",
+        "惯例"
+      ],
+      "story_title": "The Machine Turns Around"
+    },
+    {
+      "sentence_cn": "马雪从包里拿出一桶红烧牛肉面，撕开盖子，调料包沙沙响。",
+      "sentence_blank": "马雪从包里拿出一桶红烧牛肉面，撕开盖子， ___ 包沙沙响。",
+      "translation_vi": "Mã Tuyết lấy từ trong túi ra một hộp mì ăn liền vị thịt bò om, xé nắp, các gói gia vị kêu xào xạc.",
+      "word": "调料",
+      "level": 7,
+      "options": [
+        "古朴",
+        "依",
+        "调料",
+        "闺女"
+      ],
+      "story_title": "Instant Noodles Aisle"
+    },
+    {
+      "sentence_cn": "小雨仰头，鼻尖冻得通红。",
+      "sentence_blank": "小雨仰头，鼻尖冻得 ___ 。",
+      "translation_vi": "Tiểu Vũ ngẩng đầu, chóp mũi đỏ bừng vì lạnh.",
+      "word": "通红",
+      "level": 7,
+      "options": [
+        "此致",
+        "通红",
+        "电讯",
+        "脱身"
+      ],
+      "story_title": "Share Hometown Stories"
+    },
+    {
+      "sentence_cn": "丁东明给老人钱，拿过滤器。",
+      "sentence_blank": "丁东明给老人钱，拿 ___ 器。",
+      "translation_vi": "Ding Dongming đưa tiền cho ông già và lấy cái lọc.",
+      "word": "过滤",
+      "level": 7,
+      "options": [
+        "迫不及待",
+        "防火墙",
+        "过滤",
+        "霜"
+      ],
+      "story_title": "Too Expensive"
+    },
+    {
+      "sentence_cn": "顾小雨盯着那块油印，慢慢抬头，嘴角居然翘起来：洗包多没劲，不如——今晚加跑三公里？",
+      "sentence_blank": "顾小雨盯着那块油印，慢慢抬头，嘴角居然翘起来：洗包多 ___ ，不如——今晚加跑三公里？",
+      "translation_vi": "Cố Tiểu Ngư nhìn chằm chằm vết dầu, chậm rãi ngẩng đầu lên, khóe miệng lại nhếch lên: \"Giặt túi chán lắm. Hay là—đêm nay chạy thêm ba cây số nữa nhé?\"",
+      "word": "没劲",
+      "level": 7,
+      "options": [
+        "勇往直前",
+        "没劲",
+        "头条",
+        "狭窄"
+      ],
+      "story_title": "Fried Chicken War"
+    },
+    {
+      "sentence_cn": "宝宝越哭越大声，小脸涨得通红。",
+      "sentence_blank": "宝宝越哭越大声，小脸涨得 ___ 。",
+      "translation_vi": "Đứa bé càng khóc to hơn, khuôn mặt nhỏ nhắn đỏ bừng.",
+      "word": "通红",
+      "level": 7,
+      "options": [
+        "腐朽",
+        "护理",
+        "通红",
+        "好说"
+      ],
+      "story_title": "Old Man Runs Too Fast"
+    },
+    {
+      "sentence_cn": "消息发出去了，林雨晴看着手机，等着回复。",
+      "sentence_blank": "消息发出去了，林雨晴看 ___ 机，等着回复。",
+      "translation_vi": "Tin nhắn đã được gửi. Lin Yu Qing nhìn vào điện thoại của cô, chờ đợi câu trả lời.",
+      "word": "着手",
+      "level": 7,
+      "options": [
+        "任",
+        "接纳",
+        "着手",
+        "创始人"
+      ],
+      "story_title": "Worrying In Bed"
+    },
+    {
+      "sentence_cn": "阳光透过树叶，在他们身上洒下跳动的光斑。",
+      "sentence_blank": "阳光透过树叶，在他们身上洒下 ___ 的光斑。",
+      "translation_vi": "Ánh nắng xuyên qua kẽ lá, chiếu lên chúng những đốm sáng nhảy múa.",
+      "word": "跳动",
+      "level": 7,
+      "options": [
+        "跳动",
+        "盛夏",
+        "论述",
+        "对流"
+      ],
+      "story_title": "Share Music"
+    }
+  ],
+  "8": [],
+  "9": []
+}

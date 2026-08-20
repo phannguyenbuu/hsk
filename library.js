@@ -13,12 +13,42 @@ const tabButtons = document.querySelectorAll(".tab-btn");
 const settingsBtn = document.getElementById("settings-btn");
 const settingsMenu = document.getElementById("settings-menu");
 
+// Views Navigation
+const navLibrary = document.getElementById("nav-library");
+const navTools = document.getElementById("nav-tools");
+const libraryView = document.getElementById("library-view");
+const toolsView = document.getElementById("tools-view");
+
 // Initialize
 document.addEventListener("DOMContentLoaded", () => {
     initTheme();
     loadLibrary();
     setupEvents();
+    setupViewSwitcher();
 });
+
+function setupViewSwitcher() {
+    if (!navLibrary || !navTools) return;
+    
+    navLibrary.addEventListener("click", (e) => {
+        e.preventDefault();
+        navLibrary.classList.add("active");
+        navTools.classList.remove("active");
+        libraryView.style.display = "block";
+        toolsView.style.display = "none";
+    });
+    
+    navTools.addEventListener("click", (e) => {
+        e.preventDefault();
+        navTools.classList.add("active");
+        navLibrary.classList.remove("active");
+        libraryView.style.display = "none";
+        toolsView.style.display = "block"; // Reset to block container so hero block sits on top
+        
+        // Notify tools.js to initialize/lazy-load dictionary databases
+        window.dispatchEvent(new CustomEvent("hsk-tools-active"));
+    });
+}
 
 // Theme Management
 function initTheme() {

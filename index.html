@@ -39,9 +39,13 @@
                 </a>
                 
                 <nav>
-                    <a href="index.html" class="nav-link active">
+                    <a href="#" class="nav-link active" id="nav-library">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
                         <span>Thư viện</span>
+                    </a>
+                    <a href="#" class="nav-link" id="nav-tools">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
+                        <span>Công cụ</span>
                     </a>
                 </nav>
 
@@ -66,7 +70,7 @@
             </header>
 
             <!-- Library Content -->
-            <main class="library-main">
+            <main class="library-main" id="library-view">
                 <!-- Hero section -->
                 <div class="hero-section">
                     <h1>Học Tiếng Trung Qua Truyện Song Ngữ HSK</h1>
@@ -85,6 +89,12 @@
                         <button class="tab-btn" data-level="1">HSK 1</button>
                         <button class="tab-btn" data-level="2">HSK 2</button>
                         <button class="tab-btn" data-level="3">HSK 3</button>
+                        <button class="tab-btn" data-level="4">HSK 4</button>
+                        <button class="tab-btn" data-level="5">HSK 5</button>
+                        <button class="tab-btn" data-level="6">HSK 6</button>
+                        <button class="tab-btn" data-level="7">HSK 7</button>
+                        <button class="tab-btn" data-level="8">HSK 8</button>
+                        <button class="tab-btn" data-level="9">HSK 9</button>
                     </div>
                 </div>
 
@@ -96,10 +106,192 @@
                     <div class="card-skeleton"></div>
                 </div>
             </main>
+
+            <!-- Tools Content -->
+            <main class="tools-main" id="tools-view" style="display: none;">
+                <div class="hero-section">
+                    <h1>Công Cụ Học Tập HSK</h1>
+                    <p>Khám phá bộ công cụ phân tích văn bản, thi thử và đánh giá trình độ HSK 3.0 của bạn.</p>
+                </div>
+
+                <div class="tools-layout">
+                    <!-- Left Sidebar Tabs -->
+                    <div class="tools-sidebar">
+                        <button class="tool-tab-btn active" data-tool="quiz">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+                            <span>Đánh giá trình độ</span>
+                        </button>
+                        <button class="tool-tab-btn" data-tool="analyzer">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
+                            <span>Phân tích văn bản</span>
+                        </button>
+                        <button class="tool-tab-btn" data-tool="diff">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 3h5v5"></path><path d="M8 21H3v-5"></path><path d="M12 12L3 21"></path><path d="M12 12l9-9"></path><path d="M21 16v5h-5"></path><path d="M3 8V3h5"></path><path d="M3 3l9 9"></path><path d="M21 21l-9-9"></path></svg>
+                            <span>So sánh HSK 3.0</span>
+                        </button>
+                        <button class="tool-tab-btn" data-tool="practice">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"></path><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path></svg>
+                            <span>Thi thử HSK</span>
+                        </button>
+                    </div>
+
+                    <!-- Right Main Content Panel -->
+                    <div class="tool-panel-content">
+                        
+                        <!-- 1. HSK Quiz View -->
+                        <div class="tool-view-panel active" id="panel-quiz">
+                            <div class="tool-intro">
+                                <h2>Đánh Giá Trình Độ HSK</h2>
+                                <p>Kiểm tra vốn từ vựng nhận biết tiếng Trung của bạn qua bài trắc nghiệm thích ứng nhanh 2 phút để tìm ra cấp độ HSK ước lượng.</p>
+                                <button class="primary-btn" id="start-quiz-btn">Bắt đầu ngay</button>
+                            </div>
+                            <div class="quiz-container" id="quiz-game" style="display: none;">
+                                <div class="quiz-progress-bar">
+                                    <div class="quiz-progress-fill" id="quiz-progress" style="width: 0%;"></div>
+                                </div>
+                                <div class="quiz-meta">
+                                    <span id="quiz-current-level">Cấp độ: HSK 1</span>
+                                    <span id="quiz-score">Đúng: 0/3</span>
+                                </div>
+                                <div class="quiz-question-card">
+                                    <div class="quiz-word" id="quiz-word">苹果</div>
+                                    <div class="quiz-hint">Chọn nghĩa tiếng Việt chính xác của từ trên:</div>
+                                    <div class="quiz-options" id="quiz-options">
+                                        <!-- Buttons rendered dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="quiz-result" id="quiz-result-view" style="display: none;">
+                                <div class="result-emoji">🎓</div>
+                                <h3>Kết Quả Đánh Giá</h3>
+                                <p>Trình độ tiếng Trung HSK ước lượng của bạn là:</p>
+                                <div class="result-level" id="quiz-result-level">HSK 3</div>
+                                <p class="result-desc" id="quiz-result-desc">Bạn có vốn từ vựng vững vàng ở mức sơ cấp. Hãy tiếp tục học các câu truyện ở cấp độ 3 và 4 nhé!</p>
+                                <button class="secondary-btn" id="restart-quiz-btn">Làm lại bài test</button>
+                            </div>
+                        </div>
+
+                        <!-- 2. HSK Analyzer View -->
+                        <div class="tool-view-panel" id="panel-analyzer">
+                            <h2>Phân Tích Cấp Độ Văn Bản</h2>
+                            <p>Dán bất kỳ đoạn văn tiếng Trung nào vào ô dưới đây để phân tích tỷ lệ phần trăm từ vựng theo từng cấp độ HSK 3.0 và tra nghĩa trực quan.</p>
+                            
+                            <textarea id="analyzer-input" placeholder="Dán đoạn văn tiếng Trung tại đây... (Ví dụ: 王小美坐在地铁上，手里捧着热热的面。)"></textarea>
+                            <div class="analyzer-actions">
+                                <button class="primary-btn" id="analyze-btn">Bắt đầu phân tích</button>
+                                <button class="secondary-btn" id="clear-analyzer-btn">Xóa trống</button>
+                            </div>
+
+                            <div class="analyzer-loading" id="analyzer-spinner" style="display: none;">
+                                <div class="loading-spinner"></div>
+                                <p>Đang nạp từ điển HSK...</p>
+                            </div>
+
+                            <div class="analyzer-results" id="analyzer-results" style="display: none;">
+                                <div class="analyzer-summary-card">
+                                    <h3>Thống Kê Độ Khó HSK</h3>
+                                    <div class="chart-container" id="analyzer-chart">
+                                        <!-- Bars rendered dynamically -->
+                                    </div>
+                                </div>
+
+                                <div class="analyzer-interactive-card">
+                                    <h3>Văn Bản Sau Phân Tích (Rê chuột để tra từ)</h3>
+                                    <div class="analyzer-output-text" id="analyzer-output">
+                                        <!-- Interactive text rendered dynamically -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 3. HSK Word Diff View -->
+                        <div class="tool-view-panel" id="panel-diff">
+                            <h2>So Sánh Từ Vựng HSK 2.0 vs 3.0</h2>
+                            <p>Khám phá cấu trúc thay đổi và những bổ sung từ vựng quan trọng của chuẩn HSK 3.0 mới so với hệ thống HSK 6 cấp độ cũ.</p>
+                            
+                            <div class="diff-level-selector">
+                                <label for="diff-level-select">Chọn cấp độ xem chi tiết:</label>
+                                <select id="diff-level-select">
+                                    <option value="1">HSK 1 (500 từ mới so với 150 từ cũ)</option>
+                                    <option value="2">HSK 2 (1272 từ mới so với 300 từ cũ)</option>
+                                    <option value="3">HSK 3 (2245 từ mới so với 600 từ cũ)</option>
+                                    <option value="4">HSK 4 (3245 từ mới so với 1200 từ cũ)</option>
+                                    <option value="5">HSK 5 (4305 từ mới so với 2500 từ cũ)</option>
+                                    <option value="6">HSK 6 (5456 từ mới so với 5000+ từ cũ)</option>
+                                    <option value="7">HSK 7-9 (11092 từ mới - Cấp độ Cao Cấp)</option>
+                                </select>
+                            </div>
+
+                            <div class="diff-content-card" id="diff-content">
+                                <!-- Comparative summary rendered dynamically -->
+                            </div>
+                        </div>
+
+                        <!-- 4. HSK Practice Test View -->
+                        <div class="tool-view-panel" id="panel-practice">
+                            <div class="tool-intro" id="practice-intro">
+                                <h2>Luyện Thi Đọc Hiểu HSK 3.0</h2>
+                                <p>Luyện tập kỹ năng đọc hiểu thực hành bằng các câu trắc nghiệm điền từ (Cloze Test) được trích xuất trực tiếp từ kho truyện của hệ thống.</p>
+                                
+                                <div class="practice-level-selector">
+                                    <label for="practice-level-select">Chọn trình độ ôn thi:</label>
+                                    <select id="practice-level-select">
+                                        <option value="1">Luyện thi HSK 1</option>
+                                        <option value="2">Luyện thi HSK 2</option>
+                                        <option value="3">Luyện thi HSK 3</option>
+                                        <option value="4">Luyện thi HSK 4</option>
+                                        <option value="5">Luyện thi HSK 5</option>
+                                        <option value="6">Luyện thi HSK 6</option>
+                                        <option value="7">Luyện thi HSK 7</option>
+                                    </select>
+                                </div>
+                                <button class="primary-btn" id="start-practice-btn">Bắt đầu thi thử</button>
+                            </div>
+
+                            <div class="practice-container" id="practice-game" style="display: none;">
+                                <div class="practice-meta">
+                                    <span id="practice-number">Câu hỏi: 1/10</span>
+                                    <span id="practice-score">Đúng: 0</span>
+                                </div>
+                                <div class="practice-question-card">
+                                    <div class="practice-passage" id="practice-passage">王小美坐在 ___ 上，手里...</div>
+                                    <div class="practice-hint-container">
+                                        <button class="hint-toggle-btn" id="practice-hint-btn">Xem gợi ý dịch nghĩa</button>
+                                        <div class="practice-translation" id="practice-translation" style="display: none;">Vương Tiểu Mỹ đang ngồi trên tàu điện ngầm...</div>
+                                    </div>
+                                    <div class="quiz-options" id="practice-options">
+                                        <!-- Option buttons rendered dynamically -->
+                                    </div>
+                                    <button class="primary-btn" id="practice-next-btn" style="display: none; margin-top: 1.5rem; width: 100%;">Tiếp theo</button>
+                                </div>
+                            </div>
+
+                            <div class="quiz-result" id="practice-result-view" style="display: none;">
+                                <div class="result-emoji">🎯</div>
+                                <h3>Hoàn Thành Bài Luyện Tập</h3>
+                                <p>Số câu trả lời chính xác của bạn:</p>
+                                <div class="result-level" id="practice-result-score">8 / 10</div>
+                                <p class="result-desc" id="practice-result-desc">Tuyệt vời! Bạn có khả năng đọc hiểu và áp dụng ngữ cảnh rất tốt.</p>
+                                <button class="secondary-btn" id="restart-practice-btn">Làm bài luyện tập khác</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </main>
             
         </div>
     </div>
 
+    <!-- Floating Global Dictionary Tooltip for Analyzer -->
+    <div id="analyzer-tooltip" class="analyzer-tooltip" style="display: none;">
+        <div class="tooltip-zh" id="tooltip-zh">字</div>
+        <div class="tooltip-pinyin" id="tooltip-pinyin">zì</div>
+        <div class="tooltip-level" id="tooltip-level">HSK 1</div>
+        <div class="tooltip-definition" id="tooltip-definition">nghĩa tiếng việt</div>
+    </div>
+
     <script src="library.js"></script>
+    <script src="tools.js"></script>
 </body>
 </html>
