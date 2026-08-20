@@ -1841,4 +1841,235 @@ rt {
     to { opacity: 1; transform: translateY(0); }
 }
 
+/* Dictionary Star Button */
+.dict-star-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--muted-foreground);
+    padding: 6px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    margin-left: 0.75rem;
+}
+
+.dict-star-btn:hover {
+    color: #eab308;
+    background: rgba(234, 179, 8, 0.1);
+}
+
+.dict-star-btn.active {
+    color: #eab308;
+    fill: #eab308;
+}
+
+/* Vocabulary & Explore Grids */
+.vocab-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1rem;
+}
+
+.vocab-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.vocab-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.04);
+}
+
+.vocab-card .card-zh {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    color: var(--foreground);
+}
+
+.vocab-card .card-pinyin {
+    font-size: 0.95rem;
+    color: var(--primary);
+    margin-bottom: 0.35rem;
+    font-weight: 500;
+}
+
+.vocab-card .card-vi {
+    font-size: 0.88rem;
+    color: var(--muted-foreground);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.vocab-card .card-level {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    background: rgba(244, 63, 94, 0.1); /* RGBA equivalent to primary tint */
+    color: var(--primary);
+    margin-top: 0.75rem;
+}
+
+/* Flashcard Container and Flip Animation */
+.flashcard-container {
+    max-width: 420px;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: scaleIn 0.3s ease-out;
+}
+
+.flashcard-card {
+    width: 100%;
+    height: 280px;
+    perspective: 1000px;
+    cursor: pointer;
+}
+
+.flashcard-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    transform-style: preserve-3d;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+}
+
+.flashcard-card.flipped .flashcard-inner {
+    transform: rotateY(180deg);
+}
+
+.flashcard-front, .flashcard-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.flashcard-back {
+    transform: rotateY(180deg);
+    background: var(--bg-card) || var(--card);
+}
+
+.fc-zh {
+    font-size: 5rem;
+    font-weight: 800;
+    margin-bottom: 0.75rem;
+    color: var(--foreground);
+}
+
+.fc-pinyin {
+    font-size: 1.6rem;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.fc-vi {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--foreground);
+    margin-top: 0.5rem;
+}
+
+.fc-level {
+    font-size: 0.75rem;
+    font-weight: 700;
+    background: rgba(244, 63, 94, 0.1);
+    color: var(--primary);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.fc-hint {
+    font-size: 0.75rem;
+    color: var(--muted-foreground);
+    margin-top: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Explore expanded detail view styles */
+.explore-detail-view {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 2.5rem;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.evolution-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 1.25rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.evolution-item {
+    background: var(--bg-card) || var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem 0.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.evolution-item svg, .evolution-item img {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 0.75rem;
+}
+
+.evolution-name {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--foreground);
+    margin-bottom: 0.2rem;
+}
+
+.evolution-period {
+    font-size: 0.72rem;
+    color: var(--muted-foreground);
+}
+
+.vocab-saved-empty {
+    padding: 3rem 1.5rem;
+    background: var(--card);
+    border: 1.5px dashed var(--border);
+    border-radius: 12px;
+}
+
 

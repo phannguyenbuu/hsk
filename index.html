@@ -43,6 +43,14 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
                         <span>Thư viện</span>
                     </a>
+                    <a href="#" class="nav-link" id="nav-vocab">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 8 6 6"></path><path d="m4 14 6-6 2-3"></path><path d="M2 5h12"></path><path d="M7 2h1"></path><path d="m22 22-5-10-5 10"></path><path d="M14 18h6"></path></svg>
+                        <span>Từ vựng</span>
+                    </a>
+                    <a href="#" class="nav-link" id="nav-explore">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"></path></svg>
+                        <span>Khám phá</span>
+                    </a>
                     <a href="#" class="nav-link" id="nav-tools">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
                         <span>Công cụ</span>
@@ -279,7 +287,216 @@
                     </div>
                 </div>
             </main>
-            
+
+            <!-- Vocabulary View -->
+            <main class="vocab-main" id="vocab-view" style="display: none;">
+                <div class="hero-section">
+                    <h1>Sổ Từ Vựng & Từ Điển</h1>
+                    <p class="subtitle">Xem lại các từ đã lưu khi đọc truyện và tra cứu từ vựng chuẩn HSK 3.0</p>
+                </div>
+
+                <div class="tools-layout">
+                    <!-- Left Sidebar navigation -->
+                    <div class="tools-sidebar">
+                        <button class="tool-tab-btn active" id="vocab-tab-saved" data-vocab-tab="saved">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                            <span>Từ vựng đã lưu</span>
+                        </button>
+                        <button class="tool-tab-btn" id="vocab-tab-search" data-vocab-tab="search">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                            <span>Từ điển HSK 1-9</span>
+                        </button>
+                    </div>
+
+                    <!-- Right Panel Content -->
+                    <div class="tools-content-panel">
+                        <!-- 1. Saved Vocabulary Panel -->
+                        <div class="tool-view-panel active" id="panel-vocab-saved">
+                            <div class="vocab-header-actions" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                                <h3 style="margin: 0;">Sổ từ vựng của tôi</h3>
+                                <button class="primary-btn" id="start-flashcard-btn" style="display: none;">Luyện tập Flashcard</button>
+                            </div>
+                            <div class="vocab-saved-empty" id="vocab-saved-empty">
+                                <div style="font-size: 3rem; text-align: center; margin-bottom: 1rem;">🔖</div>
+                                <p style="text-align: center; color: var(--muted-foreground); line-height: 1.5;">Bạn chưa lưu từ vựng nào. Khi đọc truyện, hãy nhấp vào bất kỳ từ nào và bấm vào biểu tượng ngôi sao để lưu từ vựng cá nhân tại đây!</p>
+                            </div>
+                            <div class="vocab-grid" id="vocab-saved-grid">
+                                <!-- Saved word cards rendered dynamically -->
+                            </div>
+
+                            <!-- Flashcard Modal inside Panel -->
+                            <div class="flashcard-container" id="flashcard-container" style="display: none;">
+                                <div class="flashcard-card" id="flashcard-card">
+                                    <div class="flashcard-front">
+                                        <div class="fc-zh" id="fc-zh">安</div>
+                                        <div class="fc-hint">Nhấp chuột để lật thẻ</div>
+                                    </div>
+                                    <div class="flashcard-back">
+                                        <div class="fc-pinyin" id="fc-pinyin">ān</div>
+                                        <div class="fc-level" id="fc-level">HSK 1</div>
+                                        <div class="fc-vi" id="fc-vi">an toàn, bình an</div>
+                                    </div>
+                                </div>
+                                <div class="flashcard-controls" style="display: flex; gap: 1rem; margin-top: 1.5rem; justify-content: center; width: 100%;">
+                                    <button class="quiz-opt-btn incorrect" id="fc-fail-btn" style="flex: 1;">Chưa thuộc</button>
+                                    <button class="quiz-opt-btn correct" id="fc-pass-btn" style="flex: 1;">Đã thuộc</button>
+                                </div>
+                                <div class="flashcard-progress-text" id="fc-progress-text" style="text-align: center; font-size: 0.85rem; margin-top: 1rem; color: var(--muted-foreground);">Tiến độ: 1/10</div>
+                                <button class="secondary-btn" id="fc-exit-btn" style="margin-top: 1.5rem; width: 100%;">Thoát luyện tập</button>
+                            </div>
+                        </div>
+
+                        <!-- 2. HSK Dictionary Search Panel -->
+                        <div class="tool-view-panel" id="panel-vocab-search">
+                            <div class="dictionary-search-bar" style="display: flex; gap: 1rem; margin-bottom: 1.5rem;">
+                                <div class="search-input-wrapper" style="position: relative; flex: 1;">
+                                    <input type="text" id="dict-search-input" placeholder="Nhập chữ Hán, Pinyin hoặc nghĩa tiếng Việt..." style="width: 100%; padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--foreground);">
+                                </div>
+                                <select id="dict-level-select" style="padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--foreground);">
+                                    <option value="all">Tất cả cấp độ</option>
+                                    <option value="1">HSK 1</option>
+                                    <option value="2">HSK 2</option>
+                                    <option value="3">HSK 3</option>
+                                    <option value="4">HSK 4</option>
+                                    <option value="5">HSK 5</option>
+                                    <option value="6">HSK 6</option>
+                                    <option value="7">HSK 7</option>
+                                    <option value="8">HSK 8</option>
+                                    <option value="9">HSK 9</option>
+                                </select>
+                            </div>
+
+                            <div class="dict-spinner" id="dict-spinner" style="display: none; justify-content: center; padding: 2rem;">
+                                <div class="spinner"></div>
+                            </div>
+
+                            <div class="vocab-grid" id="dict-results-grid">
+                                <!-- Dictionary search result cards -->
+                            </div>
+                            <div id="dict-results-empty" style="text-align: center; color: var(--muted-foreground); margin-top: 2rem;">Nhập từ khóa tìm kiếm để bắt đầu tra từ điển.</div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Explore View -->
+            <main class="explore-main" id="explore-view" style="display: none;">
+                <div class="hero-section">
+                    <h1>Khám Phá Tiếng Trung</h1>
+                    <p class="subtitle">Học thành ngữ Internet Slang thời thượng và chiết tự nguồn gốc chữ Hán cổ xưa</p>
+                </div>
+
+                <div class="tools-layout">
+                    <!-- Left Sidebar Navigation -->
+                    <div class="tools-sidebar">
+                        <button class="tool-tab-btn active" id="explore-tab-slang" data-explore-tab="slang">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+                            <span>Thành ngữ & Slang</span>
+                        </button>
+                        <button class="tool-tab-btn" id="explore-tab-origins" data-explore-tab="origins">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                            <span>Chiết tự chữ Hán</span>
+                        </button>
+                    </div>
+
+                    <!-- Right Panel Content -->
+                    <div class="tools-content-panel">
+                        <!-- 1. Internet Slang Panel -->
+                        <div class="tool-view-panel active" id="panel-explore-slang">
+                            <div class="slang-list-view" id="slang-list-view">
+                                <div class="vocab-grid" id="slang-grid">
+                                    <!-- Slang cards rendered dynamically -->
+                                </div>
+                            </div>
+
+                            <!-- Slang Details expanded inline view -->
+                            <div class="explore-detail-view" id="slang-detail-view" style="display: none;">
+                                <button class="secondary-btn" id="slang-back-btn" style="margin-bottom: 1.5rem; padding: 0.5rem 1rem;">← Quay lại danh sách</button>
+                                <div class="detail-header" style="text-align: center; margin-bottom: 2rem;">
+                                    <h2 class="font-zh" id="slang-det-zh" style="font-size: 4rem; margin-bottom: 0.5rem;">契约兽</h2>
+                                    <div style="font-size: 1.2rem; color: var(--primary); margin-bottom: 0.5rem;" id="slang-det-py">qìyuē shòu</div>
+                                    <div style="font-size: 1.1rem; color: var(--muted-foreground); font-style: italic;" id="slang-det-literal">"contract beast"</div>
+                                    <div id="slang-det-badges" style="display: flex; gap: 0.5rem; justify-content: center; margin-top: 1rem; flex-wrap: wrap;"></div>
+                                </div>
+
+                                <div class="bg-muted border border-border rounded-xl overflow-hidden mb-8">
+                                    <div class="grid grid-cols-1 md:grid-cols-2">
+                                        <div class="p-5 border-r border-border">
+                                            <div class="text-xs uppercase tracking-wider text-muted-foreground mb-2 font-semibold">Theo sách giáo khoa</div>
+                                            <p class="text-sm text-muted-foreground leading-relaxed" id="slang-det-textbook"></p>
+                                        </div>
+                                        <div class="p-5">
+                                            <div class="text-xs uppercase tracking-wider text-muted-foreground mb-2 font-semibold">Nhưng Internet nghĩa là</div>
+                                            <p class="text-sm text-foreground font-medium leading-relaxed" id="slang-det-internet"></p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Phân tích chiết tự từ</h4>
+                                    <div class="breakdown-list" id="slang-det-breakdown" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;"></div>
+                                </section>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Bối cảnh văn hóa</h4>
+                                    <div class="bg-muted border border-border rounded-xl p-5" id="slang-det-context" style="line-height: 1.6; color: var(--muted-foreground); font-size: 0.95rem;"></div>
+                                </section>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Cách người bản xứ sử dụng</h4>
+                                    <div class="examples-list" id="slang-det-examples"></div>
+                                </section>
+                            </div>
+                        </div>
+
+                        <!-- 2. Character Origins Panel -->
+                        <div class="tool-view-panel" id="panel-explore-origins">
+                            <div class="origins-list-view" id="origins-list-view">
+                                <div class="vocab-grid" id="origins-grid">
+                                    <!-- Character etymology cards -->
+                                </div>
+                            </div>
+
+                            <!-- Character Details expanded inline view -->
+                            <div class="explore-detail-view" id="origins-detail-view" style="display: none;">
+                                <button class="secondary-btn" id="origins-back-btn" style="margin-bottom: 1.5rem; padding: 0.5rem 1rem;">← Quay lại danh sách</button>
+                                <div class="detail-header" style="text-align: center; margin-bottom: 2rem;">
+                                    <h2 class="font-zh" id="origins-det-zh" style="font-size: 5rem; margin-bottom: 0.5rem;">安</h2>
+                                    <div style="font-size: 1.2rem; color: var(--primary); margin-bottom: 0.5rem;" id="origins-det-py">ān</div>
+                                    <div style="font-size: 1.1rem; color: var(--muted-foreground);" id="origins-det-meaning">peace, safe</div>
+                                    <div id="origins-det-badge" style="display: inline-block; margin-top: 0.5rem; background: var(--primary-light); color: var(--primary); border: 1px solid var(--primary-light); font-size: 0.75rem; text-transform: uppercase; padding: 0.2rem 0.6rem; border-radius: 4px; font-weight: bold;"></div>
+                                </div>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-4 font-semibold" style="text-align: center;">Diễn biến chữ Hán (Evolution)</h4>
+                                    <div class="evolution-grid" id="origins-det-evolution" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; text-align: center; margin-bottom: 1.5rem;">
+                                        <!-- Ancient glyph SVGs rendered here -->
+                                    </div>
+                                </section>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Câu chuyện chiết tự</h4>
+                                    <div class="bg-muted border border-border rounded-xl p-5" id="origins-det-story" style="line-height: 1.6; font-size: 1rem; color: var(--foreground);"></div>
+                                </section>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Các bộ cấu thành (Components)</h4>
+                                    <div class="breakdown-list" id="origins-det-components" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;"></div>
+                                </section>
+
+                                <section class="mb-8">
+                                    <h4 class="text-sm uppercase tracking-wider text-muted-foreground mb-3 font-semibold">Chữ Hán liên quan (Related Characters)</h4>
+                                    <div id="origins-det-related" style="display: flex; gap: 0.75rem; justify-content: center; font-size: 2rem;" class="font-zh"></div>
+                                </section>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </main>
+
+            <script src="vocab.js"></script>
+            <script src="explore.js"></script>
         </div>
     </div>
 

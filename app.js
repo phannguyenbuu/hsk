@@ -312,6 +312,37 @@ function showWordTranslation(wordElement) {
     dictLevelBadge.innerText = `HSK ${hskLevel}`;
     dictDefinition.innerText = translation;
     
+    // Star/save word bookmarking logic
+    const starBtn = document.getElementById("dict-star-btn");
+    if (starBtn) {
+        let savedVocab = JSON.parse(localStorage.getItem("saved-vocab") || "[]");
+        let isSaved = savedVocab.some(item => item.word === rawWord);
+        starBtn.classList.toggle("active", isSaved);
+        
+        // Clone button to strip any previous event listeners cleanly
+        const newStarBtn = starBtn.cloneNode(true);
+        starBtn.parentNode.replaceChild(newStarBtn, starBtn);
+        
+        newStarBtn.addEventListener("click", () => {
+            savedVocab = JSON.parse(localStorage.getItem("saved-vocab") || "[]");
+            isSaved = savedVocab.some(item => item.word === rawWord);
+            
+            if (isSaved) {
+                savedVocab = savedVocab.filter(item => item.word !== rawWord);
+                newStarBtn.classList.remove("active");
+            } else {
+                savedVocab.push({
+                    word: rawWord,
+                    pinyin: pinyin,
+                    level: hskLevel,
+                    definition: translation
+                });
+                newStarBtn.classList.add("active");
+            }
+            localStorage.setItem("saved-vocab", JSON.stringify(savedVocab));
+        });
+    }
+    
     // Fetch example
     dictExample.innerText = `Ví dụ: Dữ liệu đang được biên soạn.`;
     

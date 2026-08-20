@@ -15,8 +15,13 @@ const settingsMenu = document.getElementById("settings-menu");
 
 // Views Navigation
 const navLibrary = document.getElementById("nav-library");
+const navVocab = document.getElementById("nav-vocab");
+const navExplore = document.getElementById("nav-explore");
 const navTools = document.getElementById("nav-tools");
+
 const libraryView = document.getElementById("library-view");
+const vocabView = document.getElementById("vocab-view");
+const exploreView = document.getElementById("explore-view");
 const toolsView = document.getElementById("tools-view");
 
 // Initialize
@@ -28,26 +33,48 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function setupViewSwitcher() {
-    if (!navLibrary || !navTools) return;
+    const navs = [navLibrary, navVocab, navExplore, navTools];
+    const views = [libraryView, vocabView, exploreView, toolsView];
     
-    navLibrary.addEventListener("click", (e) => {
-        e.preventDefault();
-        navLibrary.classList.add("active");
-        navTools.classList.remove("active");
-        libraryView.style.display = "block";
-        toolsView.style.display = "none";
-    });
+    function switchActiveView(activeNav, activeView) {
+        navs.forEach(nav => {
+            if (nav) nav.classList.toggle("active", nav === activeNav);
+        });
+        views.forEach(view => {
+            if (view) view.style.display = (view === activeView) ? "block" : "none";
+        });
+    }
+
+    if (navLibrary) {
+        navLibrary.addEventListener("click", (e) => {
+            e.preventDefault();
+            switchActiveView(navLibrary, libraryView);
+        });
+    }
     
-    navTools.addEventListener("click", (e) => {
-        e.preventDefault();
-        navTools.classList.add("active");
-        navLibrary.classList.remove("active");
-        libraryView.style.display = "none";
-        toolsView.style.display = "block"; // Reset to block container so hero block sits on top
-        
-        // Notify tools.js to initialize/lazy-load dictionary databases
-        window.dispatchEvent(new CustomEvent("hsk-tools-active"));
-    });
+    if (navVocab) {
+        navVocab.addEventListener("click", (e) => {
+            e.preventDefault();
+            switchActiveView(navVocab, vocabView);
+            window.dispatchEvent(new CustomEvent("hsk-vocab-active"));
+        });
+    }
+    
+    if (navExplore) {
+        navExplore.addEventListener("click", (e) => {
+            e.preventDefault();
+            switchActiveView(navExplore, exploreView);
+            window.dispatchEvent(new CustomEvent("hsk-explore-active"));
+        });
+    }
+    
+    if (navTools) {
+        navTools.addEventListener("click", (e) => {
+            e.preventDefault();
+            switchActiveView(navTools, toolsView);
+            window.dispatchEvent(new CustomEvent("hsk-tools-active"));
+        });
+    }
 }
 
 // Theme Management

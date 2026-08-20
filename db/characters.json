@@ -1,0 +1,185 @@
+[
+  {
+    "char": "安",
+    "pinyin": "ān",
+    "meaning_en": "peace · safe · calm",
+    "meaning_vi": "hòa bình · an toàn · bình tĩnh",
+    "hsk_level": "HSK 1",
+    "etymology_type": "folk etymology",
+    "story_en": "A woman (女) under a roof (宀). Ancient China's definition of peace: women staying home. The oracle bone form shows it clearly — a kneeling figure beneath a shelter.",
+    "story_vi": "Một người phụ nữ (女) dưới mái nhà (宀). Định nghĩa hòa bình của Trung Quốc cổ đại: phụ nữ ở nhà. Hình dạng xương tiên tri thể hiện điều đó một cách rõ ràng - một hình người đang quỳ bên dưới một nơi trú ẩn.",
+    "glyphs": {
+      "oracle": "女-oracle.svg",
+      "bronze": "安-bronze.svg",
+      "seal": "安-seal.svg",
+      "liushutong": "安-liushutong.svg"
+    },
+    "components": [],
+    "related": [
+      "家",
+      "宝",
+      "宁"
+    ]
+  },
+  {
+    "char": "婚",
+    "pinyin": "hūn",
+    "meaning_en": "marriage",
+    "meaning_vi": "kết hôn",
+    "hsk_level": "HSK 4",
+    "etymology_type": "dark history",
+    "story_en": "Woman (女) + dusk (昏). In ancient China, marriages were arranged by “snatching the bride at sunset” — a practice called 昏礼. The character literally encodes the time of day kidnappings happened. The word for dusk (昏 hūn) and marriage (婚 hūn) are still homophones.",
+    "story_vi": "Người phụ nữ (女) + hoàng hôn (昏). Ở Trung Quốc cổ đại, hôn nhân được sắp xếp bằng cách “cướp cô dâu vào lúc hoàng hôn” - một tập tục gọi là 昏礼. Ký tự này mã hóa theo nghĩa đen thời gian trong ngày các vụ bắt cóc xảy ra. Từ hoàng hôn (昏 hūn) và hôn nhân (婚 hūn) vẫn là từ đồng âm.",
+    "glyphs": {
+      "bronze": "婚-bronze.svg",
+      "seal": "婚-seal.svg",
+      "liushutong": "婚-liushutong.svg",
+      "oracle": "女-oracle.svg"
+    },
+    "components": [],
+    "related": [
+      "嫁",
+      "娶"
+    ]
+  },
+  {
+    "char": "忍",
+    "pinyin": "rěn",
+    "meaning_en": "to endure",
+    "meaning_vi": "chịu đựng",
+    "hsk_level": "HSK 4",
+    "etymology_type": "folk etymology",
+    "story_en": "A blade (刃) held over a heart (心). Patience isn't passive — it's the active choice to not let the knife drop. The seal script form is visceral: you can see the blade edge pressing down on the heart below.",
+    "story_vi": "Một lưỡi dao (刃) cầm trên trái tim (心). Kiên nhẫn không phải là sự lựa chọn thụ động - đó là sự lựa chọn chủ động để không để con dao rơi xuống. Hình thức con dấu rất rõ ràng: bạn có thể thấy cạnh lưỡi dao ấn xuống trái tim bên dưới.",
+    "glyphs": {
+      "bronze": "心-bronze.svg",
+      "seal": "忍-seal.svg",
+      "oracle": "刀-oracle.svg"
+    },
+    "components": [],
+    "related": [
+      "忠",
+      "恕"
+    ]
+  },
+  {
+    "char": "教",
+    "pinyin": "jiào",
+    "meaning_en": "to teach",
+    "meaning_vi": "dạy",
+    "hsk_level": "HSK 2",
+    "etymology_type": "real etymology",
+    "story_en": "Left side: a child (子) learning counting rods (爻, the X shapes). Right side: a hand holding a stick (攴). Teaching = a child doing math while getting hit. 3,000 years and the oracle bone still looks like a classroom nightmare.",
+    "story_vi": "Bên trái: một đứa trẻ (子) đang học đếm que (爻, hình chữ X). Bên phải: một tay cầm gậy (攴). Dạy = một đứa trẻ đang làm toán trong khi bị đánh. 3.000 năm và khúc xương tiên tri vẫn trông như cơn ác mộng trong lớp học.",
+    "glyphs": {
+      "oracle": "子-oracle.svg",
+      "bronze": "教-bronze.svg",
+      "seal": "教-seal.svg",
+      "liushutong": "教-liushutong.svg"
+    },
+    "components": [],
+    "related": [
+      "学",
+      "孝"
+    ]
+  },
+  {
+    "char": "囚",
+    "pinyin": "qiú",
+    "meaning_en": "prisoner",
+    "meaning_vi": "tù nhân",
+    "hsk_level": "HSK 7",
+    "etymology_type": "pictograph",
+    "story_en": "A person (人) inside a box (囗). That's it. That's the whole character. A person trapped in an enclosure = prisoner. This one hasn't changed in 3,000 years because it was already perfect.",
+    "story_vi": "Một người (人) bên trong một chiếc hộp (囗). Thế thôi. Đó là toàn bộ nhân vật. Người bị nhốt trong chuồng = tù nhân. Cái này đã không thay đổi trong 3.000 năm qua vì nó đã hoàn hảo rồi.",
+    "glyphs": {
+      "seal": "囚-seal.svg",
+      "oracle": "人-oracle.svg"
+    },
+    "components": [],
+    "related": [
+      "困",
+      "因"
+    ]
+  },
+  {
+    "char": "笑",
+    "pinyin": "xiào",
+    "meaning_en": "to laugh",
+    "meaning_vi": "cười",
+    "hsk_level": "HSK 2",
+    "etymology_type": "etymology",
+    "story_en": "Modern form looks like bamboo (竹) + die young (夭) — “laughing yourself to death.” But the original character was actually teeth (齒) + dog (犬): a dog baring its teeth. Scribes kept miscopying it over centuries until we got the accidental masterpiece we have today. A Tang dynasty scholar later reinterpreted it as “bamboo swaying in the wind looks like someone laughing” — and the poet Su Shi coined 竹笑 for bamboo dancing in a breeze.",
+    "story_vi": "Hình thức hiện đại trông giống như tre (竹) + die young (夭) — “cười đến chết.” Nhưng ký tự ban đầu thực ra là răng (齒) + chó (犬): một con chó nhe răng. Những người ghi chép đã sao chép sai nó trong nhiều thế kỷ cho đến khi chúng ta tình cờ có được kiệt tác như ngày nay. Một học giả thời Đường sau này đã giải thích lại nó là “tre đung đưa trong gió trông giống như ai đó đang cười” - và nhà thơ Su Shi đã đặt ra 竹笑 để chỉ tre nhảy múa trong gió.",
+    "glyphs": {
+      "seal": "笑-seal.svg",
+      "liushutong": "笑-liushutong.svg"
+    },
+    "components": [],
+    "related": [
+      "哭",
+      "泣"
+    ]
+  },
+  {
+    "char": "想",
+    "pinyin": "xiǎng",
+    "meaning_en": "to think · to miss someone",
+    "meaning_vi": "suy nghĩ · nhớ ai đó",
+    "hsk_level": "HSK 2",
+    "etymology_type": "etymology",
+    "story_en": "Top: 相 (xiāng) = eyes (目) looking at a tree (木). Bottom: 心 (heart). Missing someone = your eyes scanning the horizon, searching through trees, while your heart aches below. The top half also serves as the phonetic — 相 and 想 sound nearly identical.",
+    "story_vi": "Trên: 相 (xiāng) = mắt (目) nhìn cái cây (木). Dưới: 心 (trái tim). Nhớ một người = Mắt bạn nhìn về phía chân trời, tìm kiếm trong hàng cây, trong khi trái tim bạn đau nhói ở phía dưới. Nửa trên cũng đóng vai trò là phiên âm - 相 và 想 gần giống nhau.",
+    "glyphs": {
+      "seal": "想-seal.svg",
+      "liushutong": "想-liushutong.svg",
+      "oracle": "木-oracle.svg",
+      "bronze": "心-bronze.svg"
+    },
+    "components": [],
+    "related": [
+      "思",
+      "念"
+    ]
+  },
+  {
+    "char": "好",
+    "pinyin": "hǎo",
+    "meaning_en": "good · to like",
+    "meaning_vi": "tốt · thích",
+    "hsk_level": "HSK 1",
+    "etymology_type": "real etymology",
+    "story_en": "A woman (女) and a child (子). The oracle bone form shows a kneeling woman cradling an infant. The ancient Chinese concept of 'good': a mother with her child. Some scholars argue it originally meant 'to love' — the mother-child bond as the prototype of all affection. The pronunciation shifted, but modern Chinese preserved both readings: hǎo (good) and hào (to love doing something).",
+    "story_vi": "Một người phụ nữ (女) và một đứa trẻ (子). Hình dạng xương tiên tri thể hiện một người phụ nữ đang quỳ gối ôm một đứa trẻ sơ sinh. Khái niệm 'tốt' của người Trung Quốc cổ xưa: một người mẹ có con. Một số học giả cho rằng ban đầu nó có nghĩa là 'yêu' - mối quan hệ mẹ con là nguyên mẫu của mọi tình cảm. Cách phát âm đã thay đổi, nhưng tiếng Trung hiện đại vẫn giữ nguyên cả hai cách đọc: hǎo (tốt) và hào (thích làm điều gì đó).",
+    "glyphs": {
+      "oracle": "子-oracle.svg",
+      "bronze": "好-bronze.svg",
+      "seal": "好-seal.svg",
+      "liushutong": "好-liushutong.svg"
+    },
+    "components": [],
+    "related": [
+      "妈",
+      "姐"
+    ]
+  },
+  {
+    "char": "爱",
+    "pinyin": "ài",
+    "meaning_en": "love",
+    "meaning_vi": "love",
+    "hsk_level": "HSK 2",
+    "etymology_type": "documented history",
+    "story_en": "The earliest confirmed form is Warring States 㤅. 旡 supplied the sound and 心 supplied the meaning. Later forms added 夂, and the old 旡 shape eventually developed into the familiar top of 愛. The lower part of 爱 was not invented in 1956: similar running-script forms existed centuries earlier, with 心 and 夂 joined into a 友-like shape. The 1956 simplification standardized 爱. The popular image of a hand covering a heart is a modern mnemonic, not the documented origin.",
+    "story_vi": "Hình thức được xác nhận sớm nhất là Chiến Quốc 㤅. 旡 cung cấp âm thanh và 心 cung cấp ý nghĩa. Các dạng sau này được thêm vào 夂, và hình 旡 cũ cuối cùng đã phát triển thành phần trên quen thuộc của 愛. Phần dưới của 爱 không được phát minh vào năm 1956: các dạng chữ chạy tương tự đã tồn tại từ nhiều thế kỷ trước đó, với 心 và 夂 được ghép lại thành hình dạng giống 友. Sự đơn giản hóa được chuẩn hóa năm 1956 爱. Hình ảnh phổ biến về một bàn tay che trái tim là một cách ghi nhớ hiện đại, không phải là nguồn gốc được ghi lại.",
+    "glyphs": {
+      "seal": "爱-seal.svg",
+      "liushutong": "爱-liushutong.svg"
+    },
+    "components": [],
+    "related": [
+      "情",
+      "恋"
+    ]
+  }
+]
