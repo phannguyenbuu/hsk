@@ -285,7 +285,7 @@ function mapSentenceTimestamps() {
             
             while (pwIdx < pws.length && matchedText.length < spanClean.length) {
                 const pw = pws[pwIdx];
-                const text = pw.textContent.trim().replace(/[，。？！、“”’‘,.\/\\?!]/g, "");
+                const text = getChineseText(pw);
                 matchedText += text;
                 
                 const start = parseFloat(pw.getAttribute("data-start"));
