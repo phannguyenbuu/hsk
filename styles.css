@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-    /* Color Tokens - Default Cheerful & Vibrant Theme */
-    --background: #fffdfa;      /* Soft warm peach-white */
-    --foreground: #3c2f2f;      /* Warm deep brown-charcoal */
-    --border: #f3ebe1;          /* Soft warm border */
-    --primary: #e11d48;         /* Cheerful Rose Red */
-    --primary-hover: #f43f5e;
+    /* Color Tokens - Default Cool Tone Theme */
+    --background: #f0f4f8;      /* Clean cool slate-white background */
+    --foreground: #1e293b;      /* Cool slate deep gray text */
+    --border: #cbd5e1;          /* Cool gray border */
+    --primary: #0284c7;         /* Refreshing Ocean Blue */
+    --primary-hover: #0369a1;
     --primary-foreground: #ffffff;
-    --accent: #f59e0b;          /* Sunny Gold / Amber */
-    --muted: #78716c;           /* Stone gray */
-    --muted-light: #fcf5e9;     /* Soft pastel yellow-cream panel background */
+    --accent: #0d9488;          /* Cool Teal/Jade accent */
+    --muted: #64748b;           /* Slate gray */
+    --muted-light: #e2e8f0;     /* Cool light gray panel background */
     
     /* Layout Tokens */
     --font-sans: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -22,26 +22,26 @@
     color-scheme: light;
 }
 
-/* Warm / Sepia Theme override - Sunny & Delightful Warm Mode */
+/* Warm / Sepia Theme override - Cool Lavender Sepia Mode */
 [data-theme="warm"] {
-    --background: #fffbeb;      /* Cozy sunny yellow-cream */
-    --foreground: #451a03;      /* Deep amber-brown */
-    --border: #fef3c7;          /* Soft amber border */
-    --primary: #ea580c;         /* Cheerful orange-red */
-    --primary-hover: #f97316;
-    --muted-light: #fef3c7;     /* Light gold background */
-    --muted: #78350f;
+    --background: #faf9fb;      /* Cool dusty lavender-white */
+    --foreground: #2e2530;      /* Deep indigo-plum */
+    --border: #e8e4ec;          /* Soft lavender border */
+    --primary: #6366f1;         /* Cool Indigo */
+    --primary-hover: #4f46e5;
+    --muted-light: #f0eef4;     /* Soft lavender panel background */
+    --muted: #5c4f62;
 }
 
-/* Dark Theme override - Cyber Joy & Pink Mode */
+/* Dark Theme override - Abyssal Blue & Cyber Mint Mode */
 [data-theme="dark"] {
-    --background: #0f0913;      /* Deep midnight plum */
-    --foreground: #fdf4ff;
-    --border: #2e1065;          /* Deep purple border */
-    --primary: #ec4899;         /* Hot Pink */
-    --primary-hover: #f472b6;
-    --muted-light: #2e1065;     /* Dark purple panel background */
-    --muted: #d8b4fe;           /* Soft lilac */
+    --background: #090d16;      /* Deep icy blue-black */
+    --foreground: #f1f5f9;      /* Cool slate white text */
+    --border: #1e293b;          /* Dark blue-gray border */
+    --primary: #2dd4bf;         /* Glowing cool Mint/Teal */
+    --primary-hover: #14b8a6;
+    --muted-light: #1e293b;     /* Dark panel background */
+    --muted: #94a3b8;           /* Cool gray */
     
     color-scheme: dark;
 }
@@ -122,11 +122,11 @@ header {
 }
 
 [data-theme="warm"] header {
-    background-color: rgba(255, 251, 235, 0.95);
+    background-color: rgba(250, 249, 251, 0.95);
 }
 
 [data-theme="dark"] header {
-    background-color: rgba(15, 9, 19, 0.95);
+    background-color: rgba(9, 13, 22, 0.95);
 }
 
 .brand {
@@ -936,6 +936,27 @@ rt::after {
 .story-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+.story-card-cover-container {
+    height: 150px;
+    width: 100%;
+    overflow: hidden;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+    background-color: var(--muted-light);
+}
+
+.story-card-cover {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.story-card:hover .story-card-cover {
+    transform: scale(1.08);
 }
 
 .story-card-header {

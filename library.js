@@ -209,6 +209,9 @@ function renderStories() {
         
         return `
             <div class="story-card warm-border">
+                <div class="story-card-cover-container">
+                    <div class="story-card-cover" style="background-image: url('${story.cover_url || 'https://images.unsplash.com/photo-1513001900722-370f803f498d?w=500'}')"></div>
+                </div>
                 <div class="story-card-header">
                     <span class="${levelBadgeClass}">HSK ${story.hsk_level}</span>
                     <h2 class="story-title">${story.title}</h2>
