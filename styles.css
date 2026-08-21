@@ -328,24 +328,18 @@ article p {
     background-color: var(--muted-light);
 }
 
-/* Ruby Character Styling */
+/* Ruby Character Styling (Native Browser Alignment) */
 ruby {
-    display: inline-flex;
-    flex-direction: column-reverse;
-    align-items: center;
-    vertical-align: bottom;
+    font-size: inherit;
 }
 
 rt {
     font-family: var(--font-sans);
     font-size: 0.48em;
     font-weight: 600;
-    line-height: 1;
-    margin-bottom: -0.18em;
     color: var(--muted);
     letter-spacing: 0.05em;
     user-select: none;
-    display: block;
     text-transform: lowercase;
     opacity: 0.5;
     transition: var(--transition-smooth);
@@ -379,13 +373,13 @@ rt::after {
 [data-tones="true"] [data-tone="4"] { color: #b91c1c; } /* Red tone */
 [data-tones="true"] [data-tone="5"] { color: var(--foreground); } /* Neutral tone */
 
-/* Pinyin display rules */
+/* Pinyin display rules (optimizes character kerning when hidden) */
 [data-pinyin="hover"] rt {
-    opacity: 0;
+    display: none;
 }
 
 [data-pinyin="hover"] .pw:hover rt {
-    opacity: 1;
+    display: ruby-text;
 }
 
 [data-pinyin="off"] rt {
