@@ -13,6 +13,11 @@
     --muted: #64748b;           /* Slate gray */
     --muted-light: #e2e8f0;     /* Cool light gray panel background */
     
+    /* Tab Active States - Cyan to Blue Gradient */
+    --tab-active-bg: linear-gradient(135deg, #0284c7, #6366f1);
+    --tab-active-color: #ffffff;
+    --tab-active-shadow: 0 4px 12px rgba(2, 132, 199, 0.35);
+    
     /* Layout Tokens */
     --font-sans: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     --font-zh: 'STKaiti', 'Kaiti SC', '楷体', 'Microsoft YaHei', serif;
@@ -31,6 +36,11 @@
     --primary-hover: #4f46e5;
     --muted-light: #f0eef4;     /* Soft lavender panel background */
     --muted: #5c4f62;
+    
+    /* Indigo to Purple Gradient */
+    --tab-active-bg: linear-gradient(135deg, #6366f1, #a855f7);
+    --tab-active-color: #ffffff;
+    --tab-active-shadow: 0 4px 12px rgba(99, 102, 241, 0.35);
 }
 
 /* Dark Theme override - Abyssal Blue & Cyber Mint Mode */
@@ -42,6 +52,11 @@
     --primary-hover: #14b8a6;
     --muted-light: #1e293b;     /* Dark panel background */
     --muted: #94a3b8;           /* Cool gray */
+    
+    /* Teal to Mint Gradient */
+    --tab-active-bg: linear-gradient(135deg, #0d9488, #2dd4bf);
+    --tab-active-color: #090d16;
+    --tab-active-shadow: 0 4px 12px rgba(45, 212, 191, 0.35);
     
     color-scheme: dark;
 }
@@ -910,9 +925,9 @@ rt::after {
 }
 
 .tab-btn.active {
-    background: var(--bg-card);
-    color: var(--primary);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    background: var(--tab-active-bg) !important;
+    color: var(--tab-active-color) !important;
+    box-shadow: var(--tab-active-shadow) !important;
 }
 
 /* Stories Grid */
