@@ -156,19 +156,22 @@ function initializeReader() {
     // 2. Map word timestamps
     mapWordTimestamps();
     
-    // 3. Auto-calculate paragraph ranges
+    // 3. Map sentence timestamps
+    mapSentenceTimestamps();
+    
+    // 4. Auto-calculate paragraph ranges
     calculateParagraphTimeRanges();
     
-    // 4. Initialize dynamic pagination
+    // 5. Initialize dynamic pagination
     const totalParagraphs = contentArea.querySelectorAll(".paragraph-block").length;
     totalPages = Math.ceil(totalParagraphs / paragraphsPerPage);
     currentPage = 1;
     renderPage(currentPage);
     
-    // 5. Setup event listeners
+    // 6. Setup event listeners
     setupEvents();
     
-    // 6. Apply settings
+    // 7. Apply settings
     applyTheme(currentTheme);
     applyPinyinMode(currentPinyinMode);
     applyToneColors(toneColorsEnabled);
@@ -190,7 +193,7 @@ function renderBilingualContent() {
         
         // Match sentence translations
         const cnText = getChineseText(p);
-        let viTranslation = "";
+        const sentenceSpans = [];
         
         if (chapterData.translation_data_vi) {
             Object.keys(chapterData.translation_data_vi).forEach(cnSent => {
@@ -198,16 +201,26 @@ function renderBilingualContent() {
                 const cleanParagraph = cnText.replace(/[，。？！、“”’‘,.\/\\?!]/g, "");
                 
                 if (cleanSent && cleanParagraph.includes(cleanSent)) {
-                    viTranslation += chapterData.translation_data_vi[cnSent] + " ";
+                    sentenceSpans.push({
+                        cleanCn: cleanSent,
+                        viSent: chapterData.translation_data_vi[cnSent]
+                    });
                 }
             });
         }
         
-        viTranslation = viTranslation.trim();
-        if (viTranslation) {
+        if (sentenceSpans.length > 0) {
             const transDiv = document.createElement("div");
             transDiv.className = "paragraph-translation-vi";
-            transDiv.innerText = viTranslation;
+            
+            sentenceSpans.forEach((span, sIdx) => {
+                const sEl = document.createElement("span");
+                sEl.className = "vi-sentence";
+                sEl.innerText = span.viSent + " ";
+                sEl.setAttribute("data-sentence-idx", sIdx);
+                transDiv.appendChild(sEl);
+            });
+            
             block.appendChild(transDiv);
         }
     });
@@ -234,6 +247,68 @@ function mapWordTimestamps() {
             });
         });
     }
+}
+
+// Group word timestamps to calculate sentence-level intervals for Vietnamese text
+function mapSentenceTimestamps() {
+    const blocks = contentArea.querySelectorAll(".paragraph-block");
+    blocks.forEach(block => {
+        const p = block.querySelector("p");
+        const transDiv = block.querySelector(".paragraph-translation-vi");
+        if (!p || !transDiv) return;
+        
+        const cnText = getChineseText(p);
+        const sentenceSpans = [];
+        
+        if (chapterData.translation_data_vi) {
+            Object.keys(chapterData.translation_data_vi).forEach(cnSent => {
+                const cleanSent = cnSent.replace(/[，。？！、“”’‘,.\/\\?!]/g, "");
+                const cleanParagraph = cnText.replace(/[，。？！、“”’‘,.\/\\?!]/g, "");
+                
+                if (cleanSent && cleanParagraph.includes(cleanSent)) {
+                    sentenceSpans.push({
+                        cleanCn: cleanSent,
+                        viSent: chapterData.translation_data_vi[cnSent]
+                    });
+                }
+            });
+        }
+        
+        let pwIdx = 0;
+        const pws = p.querySelectorAll(".pw");
+        const viSents = transDiv.querySelectorAll(".vi-sentence");
+        
+        sentenceSpans.forEach((span, sIdx) => {
+            let firstStart = null;
+            let lastEnd = null;
+            let matchedText = "";
+            const spanClean = span.cleanCn;
+            
+            while (pwIdx < pws.length && matchedText.length < spanClean.length) {
+                const pw = pws[pwIdx];
+                const text = pw.textContent.trim().replace(/[，。？！、“”’‘,.\/\\?!]/g, "");
+                matchedText += text;
+                
+                const start = parseFloat(pw.getAttribute("data-start"));
+                const end = parseFloat(pw.getAttribute("data-end"));
+                
+                if (!isNaN(start) && firstStart === null) {
+                    firstStart = start;
+                }
+                if (!isNaN(end)) {
+                    lastEnd = end;
+                }
+                
+                pwIdx++;
+            }
+            
+            const viEl = viSents[sIdx];
+            if (viEl) {
+                if (firstStart !== null) viEl.setAttribute("data-start", firstStart);
+                if (lastEnd !== null) viEl.setAttribute("data-end", lastEnd);
+            }
+        });
+    });
 }
 
 // Dynamically compute paragraph starts/ends based on word times
@@ -414,6 +489,21 @@ function syncHighlights(time) {
                 wordEl.classList.add("word-highlight");
             }
         });
+        
+        // Highlight active sentence in Vietnamese translation
+        const allViSents = contentArea.querySelectorAll(".vi-sentence");
+        allViSents.forEach(s => s.classList.remove("sentence-highlight"));
+        
+        if (viElement) {
+            const sents = viElement.querySelectorAll(".vi-sentence");
+            sents.forEach(s => {
+                const start = parseFloat(s.getAttribute("data-start"));
+                const end = parseFloat(s.getAttribute("data-end"));
+                if (!isNaN(start) && !isNaN(end) && time >= start && time <= end) {
+                    s.classList.add("sentence-highlight");
+                }
+            });
+        }
         
         // Smooth follow-along scroll
         if (activeParagraphIdx !== lastHighlightedIdx) {

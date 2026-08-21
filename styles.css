@@ -1122,6 +1122,22 @@ rt::after {
     padding-right: 8px;
 }
 
+.vi-sentence {
+    transition: background-color 0.2s ease, color 0.2s ease, font-weight 0.2s ease;
+    border-radius: 4px;
+    padding: 0 2px;
+}
+
+.vi-sentence.sentence-highlight {
+    background-color: rgba(245, 158, 11, 0.35);
+    color: var(--foreground) !important;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .vi-sentence.sentence-highlight {
+    background-color: rgba(245, 158, 11, 0.5);
+}
+
 .translation-toggle-btn {
     display: flex;
     align-items: center;
