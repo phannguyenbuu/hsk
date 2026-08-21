@@ -904,45 +904,6 @@
   },
   {
     "id": null,
-    "slug": "late-for-work",
-    "hsk_level": 2,
-    "title": "Late for Work",
-    "chapters": [
-      {
-        "chapter_number": 1,
-        "chapter_slug": "chapter-1-alarm-fails",
-        "title_en": "Alarm Fails"
-      },
-      {
-        "chapter_number": 2,
-        "chapter_slug": "chapter-2-strange-socks",
-        "title_en": "Strange Socks"
-      },
-      {
-        "chapter_number": 3,
-        "chapter_slug": "chapter-3-race-to-the-station",
-        "title_en": "Race To The Station"
-      },
-      {
-        "chapter_number": 4,
-        "chapter_slug": "chapter-4-elevator-breaks-down",
-        "title_en": "Elevator Breaks Down"
-      },
-      {
-        "chapter_number": 5,
-        "chapter_slug": "chapter-5-empty-office",
-        "title_en": "Empty Office"
-      },
-      {
-        "chapter_number": 6,
-        "chapter_slug": "chapter-6-what-day-is-today",
-        "title_en": "What Day Is Today"
-      }
-    ],
-    "chapter_count": 6
-  },
-  {
-    "id": null,
     "slug": "study-date",
     "hsk_level": 2,
     "title": "The Study Date",
@@ -1845,5 +1806,3436 @@
       }
     ],
     "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "food-critic",
+    "hsk_level": 4,
+    "title": "Food Critic",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-new-beginnings",
+        "title_en": "New Beginnings"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-unexpected-discovery",
+        "title_en": "Unexpected Discovery"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-friends-help",
+        "title_en": "Friends Help"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-face-the-challenge",
+        "title_en": "Face The Challenge"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-food-map",
+        "title_en": "Food Map"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "neighborhood-watch",
+    "hsk_level": 4,
+    "title": "Neighborhood Secret",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-strange-footprints",
+        "title_en": "Strange Footprints"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-night-voices",
+        "title_en": "Night Voices"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-investigation-begins",
+        "title_en": "Investigation Begins"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-hidden-past",
+        "title_en": "Hidden Past"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-truth-revealed",
+        "title_en": "Truth Revealed"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "bank-account",
+    "hsk_level": 4,
+    "title": "Opening a Bank Account",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-a-letter-on-the-windowsill",
+        "title_en": "A Letter On The Windowsill"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-voices-behind-the-glass",
+        "title_en": "Voices Behind The Glass"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-closed-glass-door",
+        "title_en": "The Closed Glass Door"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-machine-turns-around",
+        "title_en": "The Machine Turns Around"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-twelve-failures",
+        "title_en": "Twelve Failures"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-quiet-weekend-morning",
+        "title_en": "Quiet Weekend Morning"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-footsteps-at-the-post-office",
+        "title_en": "Footsteps At The Post Office"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "weekend-trip",
+    "hsk_level": 4,
+    "title": "Weekend Trip Together",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-plan-begins",
+        "title_en": "Plan Begins"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-prepare-and-anticipate",
+        "title_en": "Prepare And Anticipate"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-pa-shan-de-kuai-le",
+        "title_en": "Pa Shan De Kuai Le"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "first-job-new-city",
+    "hsk_level": 4,
+    "title": "First Job in a New City",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-two-heavy-suitcases",
+        "title_en": "Two Heavy Suitcases"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-morning-goes-the-wrong-way",
+        "title_en": "Morning Goes The Wrong Way"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-misdirected-email",
+        "title_en": "The Misdirected Email"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-midnight-leak-and-phone-call",
+        "title_en": "Midnight Leak And Phone Call"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-monday-lunch-invitation",
+        "title_en": "Monday Lunch Invitation"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-getting-familiar-roads",
+        "title_en": "Getting Familiar Roads"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-pride-at-the-hot-pot-shop",
+        "title_en": "Pride At The Hot Pot Shop"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "lost-in-translation",
+    "hsk_level": 4,
+    "title": "Foreigner in China",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-milk-tea",
+        "title_en": "First Milk Tea"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-phone-lost",
+        "title_en": "Phone Lost"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-happy-birthday",
+        "title_en": "Happy Birthday"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "the-volunteer",
+    "hsk_level": 4,
+    "title": "New Teacher",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-meeting",
+        "title_en": "First Meeting"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-a-different-classroom",
+        "title_en": "A Different Classroom"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-rainy-day-warmth",
+        "title_en": "Rainy Day Warmth"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-parting-and-promise",
+        "title_en": "Parting And Promise"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "returning-product",
+    "hsk_level": 4,
+    "title": "Returning the Kettle",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-tang-jies-recommendation",
+        "title_en": "Tang Jies Recommendation"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-tuesday-afternoon-cardboard-box",
+        "title_en": "Tuesday Afternoon Cardboard Box"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-customer-service-window-disappears",
+        "title_en": "The Customer Service Window Disappears"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-thirty-five-yuan-rule",
+        "title_en": "The Thirty Five Yuan Rule"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-two-weeks-of-silence",
+        "title_en": "Two Weeks Of Silence"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-late-night-phone-line",
+        "title_en": "Late Night Phone Line"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-two-stars-and-removal",
+        "title_en": "Two Stars And Removal"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "making-dumplings",
+    "hsk_level": 4,
+    "title": "Dumpling Day",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-preparing-dumplings",
+        "title_en": "Preparing Dumplings"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-grandma-teaches-dumpling-making",
+        "title_en": "Grandma Teaches Dumpling Making"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-eat-dumplings",
+        "title_en": "Eat Dumplings"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "online-dating",
+    "hsk_level": 4,
+    "title": "Forty-Seven Matches",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-third-blind-date",
+        "title_en": "The Third Blind Date"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-forty-seven-hellos",
+        "title_en": "Forty Seven Hellos"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-person-on-the-other-side-of-the-screen",
+        "title_en": "The Person On The Other Side Of The Screen"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-afternoon-at-the-coffee-shop",
+        "title_en": "Afternoon At The Coffee Shop"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-twenty-three-unread-messages",
+        "title_en": "Twenty Three Unread Messages"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-morning-on-the-mountain-road",
+        "title_en": "Morning On The Mountain Road"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-a-bottle-of-water-away",
+        "title_en": "A Bottle Of Water Away"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "visa-renewal",
+    "hsk_level": 4,
+    "title": "Renewing the Visa",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-visa-countdown",
+        "title_en": "Visa Countdown"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-four-missing-documents",
+        "title_en": "The Four Missing Documents"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-empty-office-chair",
+        "title_en": "The Empty Office Chair"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-bank-format-issues",
+        "title_en": "Bank Format Issues"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-morning-queue",
+        "title_en": "Morning Queue"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-photos-color-error",
+        "title_en": "The Photos Color Error"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-savior-in-the-hall",
+        "title_en": "Savior In The Hall"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "summer-internship",
+    "hsk_level": 4,
+    "title": "The Summer Internship",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-one-among-forty-people",
+        "title_en": "One Among Forty People"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-three-days-by-the-printer",
+        "title_en": "Three Days By The Printer"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-a-four-hundred-character-chance",
+        "title_en": "A Four Hundred Character Chance"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-two-cancellations",
+        "title_en": "Two Cancellations"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-three-workers-lunch",
+        "title_en": "Three Workers Lunch"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-red-pen-and-third-draft",
+        "title_en": "The Red Pen And Third Draft"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-the-name-in-the-newspaper-corner",
+        "title_en": "The Name In The Newspaper Corner"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "the-park",
+    "hsk_level": 4,
+    "title": "A Day in the Park",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-park-opens",
+        "title_en": "Park Opens"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-students-arrive",
+        "title_en": "Students Arrive"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-music-plays",
+        "title_en": "Music Plays"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-happy-afternoon",
+        "title_en": "Happy Afternoon"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "annual-checkup",
+    "hsk_level": 4,
+    "title": "The Annual Checkup",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-office-surprise",
+        "title_en": "Office Surprise"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-sleepless-nights",
+        "title_en": "Sleepless Nights"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-forgotten-rule",
+        "title_en": "The Forgotten Rule"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-thin-curtain",
+        "title_en": "The Thin Curtain"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-the-agony-of-waiting",
+        "title_en": "The Agony Of Waiting"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-doctor-explains",
+        "title_en": "The Doctor Explains"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-three-months-later",
+        "title_en": "Three Months Later"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "neighbors",
+    "hsk_level": 4,
+    "title": "The Neighbors",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-moving-day",
+        "title_en": "Moving Day"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-batteries-and-friendship",
+        "title_en": "Batteries And Friendship"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-leaky-faucet",
+        "title_en": "Leaky Faucet"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-lonely-dinner",
+        "title_en": "Lonely Dinner"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-new-family",
+        "title_en": "New Family"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "yanzi-goes-to-chu",
+    "hsk_level": 4,
+    "title": "Yanzi Goes to Chu",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-small-gate",
+        "title_en": "The Small Gate"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-does-qi-have-no-one",
+        "title_en": "Does Qi Have No One"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-matching-envoys-to-kings",
+        "title_en": "Matching Envoys To Kings"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "learning-to-drive",
+    "hsk_level": 4,
+    "title": "Fun Learning to Drive",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-day-of-class",
+        "title_en": "First Day Of Class"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-startup-struggles",
+        "title_en": "Startup Struggles"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-unexpected-encounter",
+        "title_en": "Unexpected Encounter"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-reversing-issues",
+        "title_en": "Reversing Issues"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-before-the-exam",
+        "title_en": "Before The Exam"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-exam-day",
+        "title_en": "Exam Day"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-new-driver",
+        "title_en": "New Driver"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "light-across-river",
+    "hsk_level": 4,
+    "title": "The Light Across the River",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-light-across-the-river",
+        "title_en": "The Light Across The River"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-same-time-every-night",
+        "title_en": "Same Time Every Night"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-old-oil-lamp-in-back-room",
+        "title_en": "Old Oil Lamp In Back Room"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-past-left-unspoken",
+        "title_en": "The Past Left Unspoken"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-crossing-the-river-at-night",
+        "title_en": "Crossing The River At Night"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-old-zhao-keeps-the-light-on",
+        "title_en": "Old Zhao Keeps The Light On"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-the-last-light-home",
+        "title_en": "The Last Light Home"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "family-dinner",
+    "hsk_level": 4,
+    "title": "Family Dinner",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-heading-home",
+        "title_en": "Heading Home"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-mom-in-the-kitchen",
+        "title_en": "Mom In The Kitchen"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-family-dinner",
+        "title_en": "Family Dinner"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "marathon",
+    "hsk_level": 4,
+    "title": "The Marathon",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-decision-after-the-checkup",
+        "title_en": "Decision After The Checkup"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-saturday-morning-first-time",
+        "title_en": "Saturday Morning First Time"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-aunt-zhous-advice",
+        "title_en": "Aunt Zhous Advice"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-slowly-building-confidence",
+        "title_en": "Slowly Building Confidence"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-two-weeks-of-forced-rest",
+        "title_en": "Two Weeks Of Forced Rest"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-chaos-on-match-day",
+        "title_en": "Chaos On Match Day"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-fifteen-kilometers-of-choice",
+        "title_en": "Fifteen Kilometers Of Choice"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "art-exhibition",
+    "hsk_level": 4,
+    "title": "The Art Exhibition",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-reluctant-visit",
+        "title_en": "Reluctant Visit"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-broken-chair",
+        "title_en": "Broken Chair"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-unexpected-hardship",
+        "title_en": "Unexpected Hardship"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-old-mans-story",
+        "title_en": "The Old Mans Story"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-the-river-of-my-hometown",
+        "title_en": "The River Of My Hometown"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-interrupted-gaze",
+        "title_en": "Interrupted Gaze"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-the-road-home",
+        "title_en": "The Road Home"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "new-years-resolution",
+    "hsk_level": 4,
+    "title": "New Year Friend",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-final-night",
+        "title_en": "Final Night"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-new-plan",
+        "title_en": "New Plan"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-friends-promise",
+        "title_en": "Friends Promise"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-week-one",
+        "title_en": "Week One"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-cheer-together",
+        "title_en": "Cheer Together"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-check-results",
+        "title_en": "Check Results"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "umbrella-in-rain",
+    "hsk_level": 4,
+    "title": "Rainy Day Umbrella",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meeting-in-the-rain",
+        "title_en": "Meeting In The Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-reunion-at-the-caf",
+        "title_en": "Reunion At The Caf"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-phone-number",
+        "title_en": "Phone Number"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-caring-when-sick",
+        "title_en": "Caring When Sick"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-confession-after-sunshine",
+        "title_en": "Confession After Sunshine"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "wildlife-park",
+    "hsk_level": 4,
+    "title": "A Day at the Wildlife Park",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-forty-lunchboxes-at-night",
+        "title_en": "Forty Lunchboxes At Night"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-pink-hat-outside-the-window",
+        "title_en": "The Pink Hat Outside The Window"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-silence-three-meters-ahead",
+        "title_en": "Silence Three Meters Ahead"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-hand-behind-the-bushes",
+        "title_en": "Hand Behind The Bushes"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-lunch-under-the-wooden-shed",
+        "title_en": "Lunch Under The Wooden Shed"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-sounds-from-the-reptile-house",
+        "title_en": "Sounds From The Reptile House"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-dreaming-of-the-front-row",
+        "title_en": "Dreaming Of The Front Row"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "photography-hobby",
+    "hsk_level": 4,
+    "title": "City in the Phone",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-photo",
+        "title_en": "First Photo"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-city-colors",
+        "title_en": "City Colors"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-photo-contest",
+        "title_en": "Photo Contest"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "long-distance",
+    "hsk_level": 4,
+    "title": "Long Distance Love",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-parting-moments",
+        "title_en": "Parting Moments"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-days-of-longing",
+        "title_en": "Days Of Longing"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-misunderstanding-and-reconciliation",
+        "title_en": "Misunderstanding And Reconciliation"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-choosing-reunion",
+        "title_en": "Choosing Reunion"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "great-wall",
+    "hsk_level": 4,
+    "title": "First Time at the Great Wall",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-red-thread-wall",
+        "title_en": "The Red Thread Wall"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-west-station-wind",
+        "title_en": "West Station Wind"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-silent-stone-steps",
+        "title_en": "Silent Stone Steps"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-waiting-stranger",
+        "title_en": "The Waiting Stranger"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-paper-flies-away",
+        "title_en": "Paper Flies Away"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-photo-on-the-nightstand",
+        "title_en": "The Photo On The Nightstand"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-the-second-map",
+        "title_en": "The Second Map"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "smart-home",
+    "hsk_level": 4,
+    "title": "The Smart Home",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-unexpected-gift",
+        "title_en": "Unexpected Gift"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-long-saturday",
+        "title_en": "The Long Saturday"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-talking-trouble",
+        "title_en": "The Talking Trouble"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-more-machines",
+        "title_en": "More Machines"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-rainy-day-dilemma",
+        "title_en": "Rainy Day Dilemma"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-electricity-bill",
+        "title_en": "The Electricity Bill"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-daughters-wisdom",
+        "title_en": "Daughters Wisdom"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "letter-in-book",
+    "hsk_level": 4,
+    "title": "The Letter in the Book",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-borrowing-books-uncovers-secret",
+        "title_en": "Borrowing Books Uncovers Secret"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-find-first-ally",
+        "title_en": "Find First Ally"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-classroom-clues",
+        "title_en": "Classroom Clues"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-library-discovery",
+        "title_en": "Library Discovery"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-gift-in-time",
+        "title_en": "Gift In Time"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "late-for-work",
+    "hsk_level": 4,
+    "title": "Late for Work",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-alarm-breaks",
+        "title_en": "Alarm Breaks"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-socks-vanish",
+        "title_en": "Socks Vanish"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-emergency-breakfast",
+        "title_en": "Emergency Breakfast"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-shoelace-snaps",
+        "title_en": "Shoelace Snaps"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-city-sprint",
+        "title_en": "City Sprint"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "same-cafe",
+    "hsk_level": 5,
+    "title": "Same Cafe",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-coffee-aroma",
+        "title_en": "First Coffee Aroma"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-stranger-at-the-window",
+        "title_en": "Stranger At The Window"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-notebook-in-the-rain",
+        "title_en": "Notebook In The Rain"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-secret-in-the-letter",
+        "title_en": "Secret In The Letter"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-new-promise",
+        "title_en": "New Promise"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "first-flight",
+    "hsk_level": 5,
+    "title": "First Flight",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-airport-heartbeat",
+        "title_en": "Airport Heartbeat"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-conversation-above-clouds",
+        "title_en": "Conversation Above Clouds"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-world-outside-window",
+        "title_en": "World Outside Window"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "lunch-hour",
+    "hsk_level": 5,
+    "title": "The Lunch Hour",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-vanishing-lunch",
+        "title_en": "The Vanishing Lunch"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-a-quiet-suggestion",
+        "title_en": "A Quiet Suggestion"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-first-conversation",
+        "title_en": "The First Conversation"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-my-turn-to-speak",
+        "title_en": "My Turn To Speak"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "disappearing-notices",
+    "hsk_level": 5,
+    "title": "The Disappearing Notices",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-secret-on-the-bulletin-board",
+        "title_en": "Secret On The Bulletin Board"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-storm-in-the-group-chat",
+        "title_en": "Storm In The Group Chat"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-truth-in-the-wastepaper",
+        "title_en": "Truth In The Wastepaper"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-first-guest-in-the-elevator",
+        "title_en": "First Guest In The Elevator"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "window-seven",
+    "hsk_level": 5,
+    "title": "Window Seven",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-expired-list",
+        "title_en": "The Expired List"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-who-stamps-first",
+        "title_en": "Who Stamps First"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-price-of-the-shortcut",
+        "title_en": "The Price Of The Shortcut"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-a-morning-of-miracles",
+        "title_en": "A Morning Of Miracles"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "expert-number",
+    "hsk_level": 5,
+    "title": "The Expert Number",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-a-lost-morning",
+        "title_en": "A Lost Morning"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-five-minutes-and-a-decision",
+        "title_en": "Five Minutes And A Decision"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-truth-outside-the-blood-draw-room",
+        "title_en": "Truth Outside The Blood Draw Room"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-extra-years",
+        "title_en": "The Extra Years"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "old-classmate",
+    "hsk_level": 5,
+    "title": "The Old Classmate",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-reunion-in-the-rain",
+        "title_en": "Reunion In The Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-missed-confession",
+        "title_en": "Missed Confession"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-rediscovering-each-other",
+        "title_en": "Rediscovering Each Other"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-new-promise",
+        "title_en": "New Promise"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "balcony-garden",
+    "hsk_level": 5,
+    "title": "The Balcony Garden",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-late-night-overtime-meets-seed",
+        "title_en": "Late Night Overtime Meets Seed"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-protest-below",
+        "title_en": "Protest Below"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-moms-phone-call",
+        "title_en": "Moms Phone Call"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-colleagues-mock",
+        "title_en": "Colleagues Mock"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-salad-magic",
+        "title_en": "Salad Magic"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "night-market-vendor",
+    "hsk_level": 5,
+    "title": "Night Market Vendor",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-farewell-at-the-factory-gate",
+        "title_en": "Farewell At The Factory Gate"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-sister-worries",
+        "title_en": "Sister Worries"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-first-night-market-try",
+        "title_en": "First Night Market Try"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-lao-zhous-secret",
+        "title_en": "Lao Zhous Secret"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-unexpected-turn",
+        "title_en": "Unexpected Turn"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-hope-in-fireworks",
+        "title_en": "Hope In Fireworks"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "the-pitch",
+    "hsk_level": 5,
+    "title": "The Pitch",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meeting-at-startup-hub",
+        "title_en": "Meeting At Startup Hub"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-3-am-disagreement",
+        "title_en": "3 Am Disagreement"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-unexpected-crash",
+        "title_en": "Unexpected Crash"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-sharp-challenge",
+        "title_en": "Sharp Challenge"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-private-opportunity",
+        "title_en": "Private Opportunity"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "travel-documentary",
+    "hsk_level": 5,
+    "title": "The Travel Documentary",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-distant-call",
+        "title_en": "Distant Call"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-life-on-paper",
+        "title_en": "Life On Paper"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-memories-in-water",
+        "title_en": "Memories In Water"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-shadow-under-the-lamp",
+        "title_en": "Shadow Under The Lamp"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-lens-meaning",
+        "title_en": "Lens Meaning"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "typhoon-timetable",
+    "hsk_level": 6,
+    "title": "Typhoon Timetable",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-blue-cover-guidebook",
+        "title_en": "Blue Cover Guidebook"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-tide-in-the-livestream-room",
+        "title_en": "Tide In The Livestream Room"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-price-of-cheap-cars",
+        "title_en": "The Price Of Cheap Cars"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-red-cover-appendix",
+        "title_en": "Red Cover Appendix"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "interpreters-badge",
+    "hsk_level": 6,
+    "title": "The Interpreter&#x27;s Badge",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-overlapping-names-at-autumn-airport",
+        "title_en": "Overlapping Names At Autumn Airport"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-undercurrents-stir-in-the-lecture-hall",
+        "title_en": "Undercurrents Stir In The Lecture Hall"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-moment-of-naming-at-the-round-table",
+        "title_en": "The Moment Of Naming At The Round Table"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-new-beginnings-under-the-ginkgo-tree",
+        "title_en": "New Beginnings Under The Ginkgo Tree"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "winter-games-trial",
+    "hsk_level": 6,
+    "title": "The Winter Games Trial",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-rusting-ice-skates-and-unfamiliar-footsteps",
+        "title_en": "Rusting Ice Skates And Unfamiliar Footsteps"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-two-people-in-the-mirror",
+        "title_en": "Two People In The Mirror"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-blueprint-in-the-blizzard-night",
+        "title_en": "Blueprint In The Blizzard Night"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-race-day-without-a-starting-gun",
+        "title_en": "Race Day Without A Starting Gun"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "burn-rate",
+    "hsk_level": 6,
+    "title": "The Burn Rate",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-countdown-behind-the-glass-door",
+        "title_en": "Countdown Behind The Glass Door"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-names-on-the-list",
+        "title_en": "Names On The List"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-seven-days-and-one-livestream",
+        "title_en": "Seven Days And One Livestream"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-new-coordinate-system",
+        "title_en": "New Coordinate System"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "science-van",
+    "hsk_level": 6,
+    "title": "The Science Van",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-blue-box-on-the-drying-ground",
+        "title_en": "The Blue Box On The Drying Ground"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-vanishing-rainfall-records",
+        "title_en": "The Vanishing Rainfall Records"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-glass-cups-in-the-conference-room",
+        "title_en": "Glass Cups In The Conference Room"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-transparent-pipe-under-the-citrus-tree",
+        "title_en": "The Transparent Pipe Under The Citrus Tree"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "queue-number",
+    "hsk_level": 6,
+    "title": "The Queue Number",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-silence-before-the-window",
+        "title_en": "Silence Before The Window"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-license-plate-7749",
+        "title_en": "License Plate 7749"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-locked-chain",
+        "title_en": "The Locked Chain"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-dawn-greets-the-new-team",
+        "title_en": "Dawn Greets The New Team"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "forgers-brush",
+    "hsk_level": 6,
+    "title": "The Forger&#x27;s Brush",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-night-rain-discovery",
+        "title_en": "Night Rain Discovery"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-three-generations-collect",
+        "title_en": "Three Generations Collect"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-truth-beyond-the-garden",
+        "title_en": "Truth Beyond The Garden"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "last-teacher",
+    "hsk_level": 6,
+    "title": "The Last Teacher",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-mountain-road-notice",
+        "title_en": "Mountain Road Notice"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-eleven-desks",
+        "title_en": "Eleven Desks"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-grandmas-ask",
+        "title_en": "Grandmas Ask"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-snowy-night-visit",
+        "title_en": "Snowy Night Visit"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-seal-the-mountain",
+        "title_en": "Seal The Mountain"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-choices-after-the-thaw",
+        "title_en": "Choices After The Thaw"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-spring-bells-ring",
+        "title_en": "Spring Bells Ring"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "tea-masters-silence",
+    "hsk_level": 6,
+    "title": "The Tea Master&#x27;s Silence",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-escape-the-concrete-jungle",
+        "title_en": "Escape The Concrete Jungle"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-silent-master",
+        "title_en": "Silent Master"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-mastering-the-wait",
+        "title_en": "Mastering The Wait"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-night-rain-insight",
+        "title_en": "Night Rain Insight"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-tea-brews",
+        "title_en": "Tea Brews"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "sword-that-waited",
+    "hsk_level": 6,
+    "title": "The Sword That Waited",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-fire-still-burns",
+        "title_en": "Fire Still Burns"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-reforging-cold-iron",
+        "title_en": "Reforging Cold Iron"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-scholar-seeks-sword",
+        "title_en": "Scholar Seeks Sword"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-where-the-sword-returns",
+        "title_en": "Where The Sword Returns"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "the-verdict",
+    "hsk_level": 6,
+    "title": "The Verdict",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-night-rain-arrest",
+        "title_en": "Night Rain Arrest"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-silent-witness",
+        "title_en": "Silent Witness"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-bloodstained-payroll",
+        "title_en": "Bloodstained Payroll"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-camera-outside-the-convenience-store",
+        "title_en": "Camera Outside The Convenience Store"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-courtroom-showdown",
+        "title_en": "Courtroom Showdown"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-truth-revealed",
+        "title_en": "Truth Revealed"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "friends-in-phone",
+    "hsk_level": 7,
+    "title": "Friends In Phone",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-late-night-wechat",
+        "title_en": "Late Night Wechat"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-filtered-life",
+        "title_en": "Filtered Life"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-real-reunion",
+        "title_en": "Real Reunion"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "thirteenth-guest",
+    "hsk_level": 7,
+    "title": "The Thirteenth Guest",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-thirteenth-invitation",
+        "title_en": "Thirteenth Invitation"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-wrong-test",
+        "title_en": "Wrong Test"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-room-in-the-mirror",
+        "title_en": "Room In The Mirror"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-blood-of-one-source",
+        "title_en": "Blood Of One Source"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-guest-made-whole",
+        "title_en": "Guest Made Whole"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "tea-master",
+    "hsk_level": 7,
+    "title": "Tea Master&#x27;s Secret",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meeting-in-spring-rain",
+        "title_en": "Meeting In Spring Rain"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-first-class",
+        "title_en": "First Class"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-failed-practice",
+        "title_en": "Failed Practice"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-summer-realization",
+        "title_en": "Summer Realization"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-autumn-visitor",
+        "title_en": "Autumn Visitor"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-winter-trial",
+        "title_en": "Winter Trial"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-unexpected-farewell",
+        "title_en": "Unexpected Farewell"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-tea-fragrance-lingers",
+        "title_en": "Tea Fragrance Lingers"
+      }
+    ],
+    "chapter_count": 9
+  },
+  {
+    "id": null,
+    "slug": "silk-road-echoes",
+    "hsk_level": 7,
+    "title": "Silk Road Dig",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-morning-departure",
+        "title_en": "Morning Departure"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-first-discovery-in-the-desert",
+        "title_en": "First Discovery In The Desert"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-the-old-mans-tale",
+        "title_en": "The Old Mans Tale"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-midnight-reflection",
+        "title_en": "Midnight Reflection"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-unexpected-discovery",
+        "title_en": "Unexpected Discovery"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-insight-in-the-sandstorm",
+        "title_en": "Insight In The Sandstorm"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-deciding-the-way-home",
+        "title_en": "Deciding The Way Home"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-return-to-beijing",
+        "title_en": "Return To Beijing"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 9
+  },
+  {
+    "id": null,
+    "slug": "reunion-in-paris",
+    "hsk_level": 7,
+    "title": "Reunion Meeting",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-unexpected-encounter",
+        "title_en": "Unexpected Encounter"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-memories-surface",
+        "title_en": "Memories Surface"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-reconnect",
+        "title_en": "Reconnect"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-lunch-talk",
+        "title_en": "Lunch Talk"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-truth-revealed",
+        "title_en": "Truth Revealed"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-rediscover",
+        "title_en": "Rediscover"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-face-the-choice",
+        "title_en": "Face The Choice"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "double-life",
+    "hsk_level": 7,
+    "title": "Anonymous Secret",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-double-life",
+        "title_en": "Double Life"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-planting-doubt",
+        "title_en": "Planting Doubt"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-identity-crisis",
+        "title_en": "Identity Crisis"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-friends-care",
+        "title_en": "Friends Care"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-edge-of-truth",
+        "title_en": "Edge Of Truth"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-face-fear-bravely",
+        "title_en": "Face Fear Bravely"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-unexpected-support",
+        "title_en": "Unexpected Support"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "letters-from-past",
+    "hsk_level": 7,
+    "title": "Grandma&#x27;s Letter",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-discover",
+        "title_en": "Discover"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-first-letter",
+        "title_en": "First Letter"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-remember",
+        "title_en": "Remember"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-search",
+        "title_en": "Search"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-clues",
+        "title_en": "Clues"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-reunite",
+        "title_en": "Reunite"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-truth-revealed",
+        "title_en": "Truth Revealed"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-passing-on",
+        "title_en": "Passing On"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "two-cities-love",
+    "hsk_level": 7,
+    "title": "Office Romance",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-meet-beijing",
+        "title_en": "Meet Beijing"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-exchange-contacts",
+        "title_en": "Exchange Contacts"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-wechat-chat",
+        "title_en": "Wechat Chat"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-shanghai-business-trip",
+        "title_en": "Shanghai Business Trip"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-define-the-relationship",
+        "title_en": "Define The Relationship"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-challenge-abroad",
+        "title_en": "Challenge Abroad"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-make-the-choice",
+        "title_en": "Make The Choice"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "night-market-stories",
+    "hsk_level": 7,
+    "title": "Night Market Noodles",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-night-market-lights",
+        "title_en": "Night Market Lights"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-after-work-taste",
+        "title_en": "After Work Taste"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-teachers-students",
+        "title_en": "Teachers Students"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-tasting-home-from-afar",
+        "title_en": "Tasting Home From Afar"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-midnight-farewell",
+        "title_en": "Midnight Farewell"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "first-day-work",
+    "hsk_level": 7,
+    "title": "First Day at the New Desk",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-elevator-encounter",
+        "title_en": "Elevator Encounter"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-tea-room-alliance",
+        "title_en": "Tea Room Alliance"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-meeting-room-test",
+        "title_en": "Meeting Room Test"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "across-the-strait",
+    "hsk_level": 7,
+    "title": "Cross-Sea Love",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-smile-in-the-video",
+        "title_en": "Smile In The Video"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-first-argument",
+        "title_en": "First Argument"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-beijing-winter",
+        "title_en": "Beijing Winter"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-taipei-summer",
+        "title_en": "Taipei Summer"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-test-of-separation",
+        "title_en": "Test Of Separation"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-shared-choice",
+        "title_en": "Shared Choice"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "startup-dreams",
+    "hsk_level": 7,
+    "title": "Three Friends Dream",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-decide-to-resign",
+        "title_en": "Decide To Resign"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-company-begins",
+        "title_en": "Company Begins"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-first-obstacle",
+        "title_en": "First Obstacle"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-turning-point-emerges",
+        "title_en": "Turning Point Emerges"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-new-challenge",
+        "title_en": "New Challenge"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-tensions-rise",
+        "title_en": "Tensions Rise"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-reunite",
+        "title_en": "Reunite"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-market-shifts",
+        "title_en": "Market Shifts"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-success-arrives",
+        "title_en": "Success Arrives"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-look-back",
+        "title_en": "Look Back"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "courtyard-house",
+    "hsk_level": 7,
+    "title": "Last Day in the Old Courtyard",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-eviction-notice-arrives",
+        "title_en": "Eviction Notice Arrives"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-spring-in-memory",
+        "title_en": "Spring In Memory"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-last-day-at-the-repair-shop",
+        "title_en": "Last Day At The Repair Shop"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-student-essay",
+        "title_en": "Student Essay"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-autumn-farewell",
+        "title_en": "Autumn Farewell"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-hunt-old-photos",
+        "title_en": "Hunt Old Photos"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-final-night",
+        "title_en": "Final Night"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "autumn-letters",
+    "hsk_level": 7,
+    "title": "Spring in Letters",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-meeting",
+        "title_en": "First Meeting"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-a-letter-begins",
+        "title_en": "A Letter Begins"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-heart-in-words",
+        "title_en": "Heart In Words"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-spring-rendezvous",
+        "title_en": "Spring Rendezvous"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-misunderstanding-and-explanation",
+        "title_en": "Misunderstanding And Explanation"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-summer-confession",
+        "title_en": "Summer Confession"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-autumn-promise",
+        "title_en": "Autumn Promise"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "ai-therapist",
+    "hsk_level": 7,
+    "title": "Therapist and AI Friend",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-new-rival-appears",
+        "title_en": "New Rival Appears"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-patient-chooses",
+        "title_en": "Patient Chooses"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-teachers-wisdom",
+        "title_en": "Teachers Wisdom"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-deep-dive",
+        "title_en": "Deep Dive"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-unexpected-discovery",
+        "title_en": "Unexpected Discovery"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-collaborate-not-compete",
+        "title_en": "Collaborate Not Compete"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-balancing-act",
+        "title_en": "Balancing Act"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "architects-vision",
+    "hsk_level": 7,
+    "title": "Ancient City New Dream",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-old-town-morning",
+        "title_en": "Old Town Morning"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-reporter-visits",
+        "title_en": "Reporter Visits"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-developer-plans",
+        "title_en": "Developer Plans"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-residents-speak",
+        "title_en": "Residents Speak"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-media-power",
+        "title_en": "Media Power"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-balanced-plan",
+        "title_en": "Balanced Plan"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-new-beginning",
+        "title_en": "New Beginning"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "emergency-room",
+    "hsk_level": 7,
+    "title": "ER Nights",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-night-falls",
+        "title_en": "Night Falls"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-race-against-death",
+        "title_en": "Race Against Death"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-new-trial",
+        "title_en": "New Trial"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-breaking-down",
+        "title_en": "Breaking Down"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-unexpected-discovery",
+        "title_en": "Unexpected Discovery"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-team-up",
+        "title_en": "Team Up"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-darkness-before-dawn",
+        "title_en": "Darkness Before Dawn"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "cold-case",
+    "hsk_level": 7,
+    "title": "Twenty Year Secret",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-retired-detective-rests",
+        "title_en": "Retired Detective Rests"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-mysterious-notes",
+        "title_en": "Mysterious Notes"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-sister-persists",
+        "title_en": "Sister Persists"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-park-discovery",
+        "title_en": "Park Discovery"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-dangerous-truth",
+        "title_en": "Dangerous Truth"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-unexpected-witness",
+        "title_en": "Unexpected Witness"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-final-battle",
+        "title_en": "Final Battle"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-sister-comforts",
+        "title_en": "Sister Comforts"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-detective-returns",
+        "title_en": "Detective Returns"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-new-beginnings",
+        "title_en": "New Beginnings"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "the-translator",
+    "hsk_level": 7,
+    "title": "Soul of the Translator",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-spring-confusion",
+        "title_en": "Spring Confusion"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-mentors-wisdom",
+        "title_en": "Mentors Wisdom"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-youth-inspires",
+        "title_en": "Youth Inspires"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-midnight-breakthrough",
+        "title_en": "Midnight Breakthrough"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-perfect-harmony",
+        "title_en": "Perfect Harmony"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "the-inheritance",
+    "hsk_level": 7,
+    "title": "Grandpa&#x27;s Will",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-after-the-funeral",
+        "title_en": "After The Funeral"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-lawyer-arrives",
+        "title_en": "Lawyer Arrives"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-search-begins",
+        "title_en": "Search Begins"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-first-clue",
+        "title_en": "First Clue"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-uncovering-past-secrets",
+        "title_en": "Uncovering Past Secrets"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-truth-emerges",
+        "title_en": "Truth Emerges"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-conflict-erupts",
+        "title_en": "Conflict Erupts"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-unexpected-discovery",
+        "title_en": "Unexpected Discovery"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-reconcile-and-understand",
+        "title_en": "Reconcile And Understand"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-the-real-will",
+        "title_en": "The Real Will"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "train-station-master",
+    "hsk_level": 7,
+    "title": "The Old Stationmaster&#x27;s Winter",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-snowy-platform-sweep",
+        "title_en": "Snowy Platform Sweep"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-slow-train-brings-new-year-goods",
+        "title_en": "Slow Train Brings New Year Goods"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-survey-team-red-light",
+        "title_en": "Survey Team Red Light"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-peach-blossoms-bid-farewell",
+        "title_en": "Peach Blossoms Bid Farewell"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-storm-night-signal",
+        "title_en": "Storm Night Signal"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-autumn-fog-hearing",
+        "title_en": "Autumn Fog Hearing"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-old-photo-under-fallen-leaves",
+        "title_en": "Old Photo Under Fallen Leaves"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-last-train-before-snow",
+        "title_en": "Last Train Before Snow"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-lights-at-the-tunnel-mouth",
+        "title_en": "Lights At The Tunnel Mouth"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-fresh-snow-erases-tracks",
+        "title_en": "Fresh Snow Erases Tracks"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "photograph-mystery",
+    "hsk_level": 7,
+    "title": "The Photograph Mystery",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-discovery-in-ruins",
+        "title_en": "Discovery In Ruins"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-silent-witness",
+        "title_en": "Silent Witness"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-vanishing-class-president",
+        "title_en": "Vanishing Class President"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-cassette-secret",
+        "title_en": "Cassette Secret"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-truth-arrives-late",
+        "title_en": "Truth Arrives Late"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-thirty-year-promise",
+        "title_en": "Thirty Year Promise"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-reunite",
+        "title_en": "Reunite"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "the-dissertation",
+    "hsk_level": 8,
+    "title": "The Dissertation",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-studio-discovery",
+        "title_en": "Studio Discovery"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-seniors-warning",
+        "title_en": "Seniors Warning"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-deciding-beneath-the-ginkgo",
+        "title_en": "Deciding Beneath The Ginkgo"
+      }
+    ],
+    "chapter_count": 3
+  },
+  {
+    "id": null,
+    "slug": "the-appeal",
+    "hsk_level": 8,
+    "title": "The Appeal",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-buried-files",
+        "title_en": "Buried Files"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-prison-doubt",
+        "title_en": "Prison Doubt"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-vanished-transcript",
+        "title_en": "Vanished Transcript"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-witness-confesses",
+        "title_en": "Witness Confesses"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-judges-past",
+        "title_en": "Judges Past"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-clash-in-court",
+        "title_en": "Clash In Court"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-delayed-freedom",
+        "title_en": "Delayed Freedom"
+      }
+    ],
+    "chapter_count": 7
+  },
+  {
+    "id": null,
+    "slug": "the-exhibit",
+    "hsk_level": 8,
+    "title": "Stone Memory",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-morning-light-in-studio",
+        "title_en": "Morning Light In Studio"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-shatter-and-rise",
+        "title_en": "Shatter And Rise"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-daughter-arrives",
+        "title_en": "Daughter Arrives"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-opening-night",
+        "title_en": "Opening Night"
+      }
+    ],
+    "chapter_count": 4
+  },
+  {
+    "id": null,
+    "slug": "beyond-the-law",
+    "hsk_level": 8,
+    "title": "Beyond the Law",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-winter-in-court",
+        "title_en": "Winter In Court"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-village-clinic-secret",
+        "title_en": "Village Clinic Secret"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-life-saving-medicine",
+        "title_en": "Life Saving Medicine"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-judges-dilemma",
+        "title_en": "The Judges Dilemma"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-court-verdict",
+        "title_en": "Court Verdict"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-springs-hope",
+        "title_en": "Springs Hope"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "architect-calligrapher",
+    "hsk_level": 8,
+    "title": "The Architect and the Calligrapher",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-rainbow-homecoming",
+        "title_en": "Rainbow Homecoming"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-paper-storm",
+        "title_en": "Paper Storm"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-moonlight-inquiry",
+        "title_en": "Moonlight Inquiry"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-mountain-whispers",
+        "title_en": "Mountain Whispers"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-ink-settles-in-stone",
+        "title_en": "Ink Settles In Stone"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-twin-shadows-merge",
+        "title_en": "Twin Shadows Merge"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "mountain-clinic",
+    "hsk_level": 8,
+    "title": "The Mountain Clinic",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-winding-mountain-road",
+        "title_en": "Winding Mountain Road"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-distrustful-eyes",
+        "title_en": "Distrustful Eyes"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-rainy-season-test",
+        "title_en": "Rainy Season Test"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-mine-collapse-day",
+        "title_en": "Mine Collapse Day"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-mountain-choice",
+        "title_en": "Mountain Choice"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "porcelain-road",
+    "hsk_level": 8,
+    "title": "The Porcelain Road",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-changan-porcelain-pact",
+        "title_en": "Changan Porcelain Pact"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-camel-bells-ring",
+        "title_en": "Camel Bells Ring"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-identity-revealed",
+        "title_en": "Identity Revealed"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-desert-storm",
+        "title_en": "Desert Storm"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-oasis-trap",
+        "title_en": "Oasis Trap"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-bandits-loom",
+        "title_en": "Bandits Loom"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-samarkand",
+        "title_en": "Samarkand"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-rainbow-homecoming",
+        "title_en": "Rainbow Homecoming"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "twelve-angry-hours",
+    "hsk_level": 9,
+    "title": "Twelve Angry Hours",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-the-sealed-room",
+        "title_en": "The Sealed Room"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-first-question",
+        "title_en": "The First Question"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-under-the-shadow-of-authority",
+        "title_en": "Under The Shadow Of Authority"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-data-speaks",
+        "title_en": "Data Speaks"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-personal-history",
+        "title_en": "Personal History"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-reasonable-doubt",
+        "title_en": "Reasonable Doubt"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-the-afternoon-stalemate",
+        "title_en": "The Afternoon Stalemate"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-the-overlooked-testimony",
+        "title_en": "The Overlooked Testimony"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-the-reversal-of-stance",
+        "title_en": "The Reversal Of Stance"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-truth-and-judgment",
+        "title_en": "Truth And Judgment"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "unnamed-chair",
+    "hsk_level": 9,
+    "title": "The Unnamed Chair",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-golden-autumn-meeting-notice",
+        "title_en": "Golden Autumn Meeting Notice"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-three-candidates-emerge",
+        "title_en": "Three Candidates Emerge"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-philosophy-in-the-classroom",
+        "title_en": "Philosophy In The Classroom"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-the-cafe-debate",
+        "title_en": "The Cafe Debate"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-the-student-speaks",
+        "title_en": "The Student Speaks"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-reflecting-at-midnight",
+        "title_en": "Reflecting At Midnight"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-on-the-eve-of-the-vote",
+        "title_en": "On The Eve Of The Vote"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-when-ginkgo-leaves-fall",
+        "title_en": "When Ginkgo Leaves Fall"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "empty-gallery",
+    "hsk_level": 9,
+    "title": "The Empty Gallery",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-first-tear-falls",
+        "title_en": "First Tear Falls"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-youth-dreams",
+        "title_en": "Youth Dreams"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-critics-dilemma",
+        "title_en": "Critics Dilemma"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-mother-says-goodbye",
+        "title_en": "Mother Says Goodbye"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-old-mans-soliloquy",
+        "title_en": "Old Mans Soliloquy"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-artists-night",
+        "title_en": "Artists Night"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "river-keeper",
+    "hsk_level": 9,
+    "title": "The River Keeper",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-qingxis-markings",
+        "title_en": "Qingxis Markings"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-underwater-map",
+        "title_en": "The Underwater Map"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-data-ripples",
+        "title_en": "Data Ripples"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-shared-grammar",
+        "title_en": "Shared Grammar"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-jiang-remembers",
+        "title_en": "Jiang Remembers"
+      }
+    ],
+    "chapter_count": 5
+  },
+  {
+    "id": null,
+    "slug": "memory-market",
+    "hsk_level": 9,
+    "title": "The Memory Market",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-rainy-night-code",
+        "title_en": "Rainy Night Code"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-stranger-smiles",
+        "title_en": "Stranger Smiles"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-first-purchase",
+        "title_en": "First Purchase"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-tasting-memory",
+        "title_en": "Tasting Memory"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-investigation-obstacles",
+        "title_en": "Investigation Obstacles"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-sink-deeper",
+        "title_en": "Sink Deeper"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-truth-emerges",
+        "title_en": "Truth Emerges"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-paying-for-memories",
+        "title_en": "Paying For Memories"
+      },
+      {
+        "chapter_number": 9,
+        "chapter_slug": "chapter-9-final-deal",
+        "title_en": "Final Deal"
+      },
+      {
+        "chapter_number": 10,
+        "chapter_slug": "chapter-10-between-truth-and-lies",
+        "title_en": "Between Truth And Lies"
+      }
+    ],
+    "chapter_count": 10
+  },
+  {
+    "id": null,
+    "slug": "vanishing-password",
+    "hsk_level": 9,
+    "title": "The Vanishing Password",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-secrets-in-an-old-book",
+        "title_en": "Secrets In An Old Book"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-the-young-man-from-the-library",
+        "title_en": "The Young Man From The Library"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-tracing-the-authors-footsteps",
+        "title_en": "Tracing The Authors Footsteps"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-truth-in-the-code",
+        "title_en": "Truth In The Code"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-echoes-of-history",
+        "title_en": "Echoes Of History"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-the-truth-revealed",
+        "title_en": "The Truth Revealed"
+      }
+    ],
+    "chapter_count": 6
+  },
+  {
+    "id": null,
+    "slug": "edict-and-inkstone",
+    "hsk_level": 9,
+    "title": "The Edict and the Inkstone",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-spring-colors-in-bianjing",
+        "title_en": "Spring Colors In Bianjing"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-ink-conveys-emotion",
+        "title_en": "Ink Conveys Emotion"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-beacon-academy-burns",
+        "title_en": "Beacon Academy Burns"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-choosing-in-ashes",
+        "title_en": "Choosing In Ashes"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-between-truth-and-falsehood",
+        "title_en": "Between Truth And Falsehood"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-echoes-of-history",
+        "title_en": "Echoes Of History"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-moshi-finds-a-master",
+        "title_en": "Moshi Finds A Master"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-passing-down-the-way",
+        "title_en": "Passing Down The Way"
+      }
+    ],
+    "chapter_count": 8
+  },
+  {
+    "id": null,
+    "slug": "wulin-tribunal",
+    "hsk_level": 9,
+    "title": "The Wulin Tribunal",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_slug": "chapter-1-dark-clouds-over-lun-jian-peak",
+        "title_en": "Dark Clouds Over Lun Jian Peak"
+      },
+      {
+        "chapter_number": 2,
+        "chapter_slug": "chapter-2-evidence-and-doubts",
+        "title_en": "Evidence And Doubts"
+      },
+      {
+        "chapter_number": 3,
+        "chapter_slug": "chapter-3-emeis-old-wound",
+        "title_en": "Emeis Old Wound"
+      },
+      {
+        "chapter_number": 4,
+        "chapter_slug": "chapter-4-kunluns-twilight",
+        "title_en": "Kunluns Twilight"
+      },
+      {
+        "chapter_number": 5,
+        "chapter_slug": "chapter-5-the-beggars-guilds-calculations",
+        "title_en": "The Beggars Guilds Calculations"
+      },
+      {
+        "chapter_number": 6,
+        "chapter_slug": "chapter-6-wudangs-balancing-act",
+        "title_en": "Wudangs Balancing Act"
+      },
+      {
+        "chapter_number": 7,
+        "chapter_slug": "chapter-7-shaolins-decision",
+        "title_en": "Shaolins Decision"
+      },
+      {
+        "chapter_number": 8,
+        "chapter_slug": "chapter-8-zhengqi-halls-candlelight",
+        "title_en": "Zhengqi Halls Candlelight"
+      }
+    ],
+    "chapter_count": 8
   }
 ]
