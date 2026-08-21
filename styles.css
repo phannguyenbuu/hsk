@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-    /* Color Tokens - Default Corporate & Trust Theme */
-    --background: #f8fafc;      /* Clean corporate light slate background */
-    --foreground: #0f172a;      /* High trust deep slate text */
-    --border: #e2e8f0;          /* Soft border */
-    --primary: #1b365d;         /* Trust Navy Blue */
-    --primary-hover: #2b4c7e;
+    /* Color Tokens - Default Cheerful & Vibrant Theme */
+    --background: #fffdfa;      /* Soft warm peach-white */
+    --foreground: #3c2f2f;      /* Warm deep brown-charcoal */
+    --border: #f3ebe1;          /* Soft warm border */
+    --primary: #e11d48;         /* Cheerful Rose Red */
+    --primary-hover: #f43f5e;
     --primary-foreground: #ffffff;
-    --accent: #0284c7;          /* Sky Blue accent */
-    --muted: #475569;           /* Slate gray */
-    --muted-light: #f1f5f9;     /* Light slate panel background */
+    --accent: #f59e0b;          /* Sunny Gold / Amber */
+    --muted: #78716c;           /* Stone gray */
+    --muted-light: #fcf5e9;     /* Soft pastel yellow-cream panel background */
     
     /* Layout Tokens */
     --font-sans: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -22,26 +22,26 @@
     color-scheme: light;
 }
 
-/* Warm / Sepia Theme override - Warm Corporate & Indigo */
+/* Warm / Sepia Theme override - Sunny & Delightful Warm Mode */
 [data-theme="warm"] {
-    --background: #fcfbf9;
-    --foreground: #292524;
-    --border: #e7e5e4;
-    --primary: #2e2a47;
-    --primary-hover: #3d375c;
-    --muted-light: #f5f2eb;
-    --muted: #57534e;
+    --background: #fffbeb;      /* Cozy sunny yellow-cream */
+    --foreground: #451a03;      /* Deep amber-brown */
+    --border: #fef3c7;          /* Soft amber border */
+    --primary: #ea580c;         /* Cheerful orange-red */
+    --primary-hover: #f97316;
+    --muted-light: #fef3c7;     /* Light gold background */
+    --muted: #78350f;
 }
 
-/* Dark Theme override - Dark Corporate & Cyan */
+/* Dark Theme override - Cyber Joy & Pink Mode */
 [data-theme="dark"] {
-    --background: #0b0f19;      /* Deep corporate midnight blue-black */
-    --foreground: #f1f5f9;
-    --border: #1e293b;
-    --primary: #38bdf8;         /* Cyan blue contrast */
-    --primary-hover: #7dd3fc;
-    --muted-light: #1e293b;
-    --muted: #94a3b8;
+    --background: #0f0913;      /* Deep midnight plum */
+    --foreground: #fdf4ff;
+    --border: #2e1065;          /* Deep purple border */
+    --primary: #ec4899;         /* Hot Pink */
+    --primary-hover: #f472b6;
+    --muted-light: #2e1065;     /* Dark purple panel background */
+    --muted: #d8b4fe;           /* Soft lilac */
     
     color-scheme: dark;
 }
@@ -122,11 +122,11 @@ header {
 }
 
 [data-theme="warm"] header {
-    background-color: rgba(252, 251, 249, 0.95);
+    background-color: rgba(255, 251, 235, 0.95);
 }
 
 [data-theme="dark"] header {
-    background-color: rgba(11, 15, 25, 0.95);
+    background-color: rgba(15, 9, 19, 0.95);
 }
 
 .brand {
