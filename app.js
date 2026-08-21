@@ -39,7 +39,7 @@ const pageStatus = document.getElementById("page-status");
 const playToggleBtn = document.getElementById("play-toggle-btn");
 const skipBackBtn = document.getElementById("skip-back-btn");
 const skipForwardBtn = document.getElementById("skip-forward-btn");
-const speedBadge = document.getElementById("speed-badge");
+const speedSelect = document.getElementById("speed-select");
 
 const timeDisplay = document.getElementById("time-display");
 const durationDisplay = document.getElementById("duration-display");
@@ -637,16 +637,16 @@ function setupEvents() {
         updateProgressBar();
     });
     
-    // 3. Playback speed cyling
-    speedBadge.addEventListener("click", () => {
-        const speeds = [1.0, 1.25, 1.5, 0.75];
-        let nextIdx = speeds.indexOf(audio.playbackRate) + 1;
-        if (nextIdx >= speeds.length || nextIdx === -1) nextIdx = 0;
-        
-        const nextSpeed = speeds[nextIdx];
-        audio.playbackRate = nextSpeed;
-        speedBadge.innerText = `${nextSpeed}x`;
-    });
+    // 3. Playback speed selection dropdown
+    if (speedSelect) {
+        speedSelect.addEventListener("change", () => {
+            const speed = parseFloat(speedSelect.value);
+            audio.playbackRate = speed;
+        });
+        audio.addEventListener("canplay", () => {
+            audio.playbackRate = parseFloat(speedSelect.value);
+        });
+    }
     
     // 4. Progress bar seek drag
     progressSlider.addEventListener("click", (e) => {
