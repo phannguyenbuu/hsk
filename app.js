@@ -55,7 +55,6 @@ const dictLevelBadge = document.getElementById("dict-level-badge");
 const dictDefinition = document.getElementById("dict-definition");
 const dictExample = document.getElementById("dict-example");
 
-const translationToggleBtn = document.getElementById("translation-toggle-btn");
 const settingsBtn = document.getElementById("settings-btn");
 const settingsMenu = document.getElementById("settings-menu");
 
@@ -490,18 +489,33 @@ function syncHighlights(time) {
             }
         });
         
-        // Highlight active sentence in Vietnamese translation
+        // Highlight active sentence in Vietnamese translation (sticky tracking)
         const allViSents = contentArea.querySelectorAll(".vi-sentence");
         allViSents.forEach(s => s.classList.remove("sentence-highlight"));
         
         if (viElement) {
             const sents = viElement.querySelectorAll(".vi-sentence");
-            sents.forEach(s => {
-                const start = parseFloat(s.getAttribute("data-start"));
-                const end = parseFloat(s.getAttribute("data-end"));
-                if (!isNaN(start) && !isNaN(end) && time >= start && time <= end) {
-                    s.classList.add("sentence-highlight");
+            let activeSentIdx = -1;
+            
+            const sentsArray = Array.from(sents).map((s, idx) => ({
+                element: s,
+                start: parseFloat(s.getAttribute("data-start")),
+                end: parseFloat(s.getAttribute("data-end")),
+                idx: idx
+            })).filter(s => !isNaN(s.start));
+            
+            for (let i = 0; i < sentsArray.length; i++) {
+                const current = sentsArray[i];
+                const next = sentsArray[i + 1];
+                
+                if (time >= current.start && (!next || time < next.start)) {
+                    activeSentIdx = current.idx;
+                    break;
                 }
+            }
+            
+            sents.forEach((s, idx) => {
+                s.classList.toggle("sentence-highlight", idx === activeSentIdx);
             });
         }
         
@@ -575,7 +589,6 @@ function applyTextSize(size) {
 
 function applyShowTranslations(show) {
     contentArea.classList.toggle("show-translations", show);
-    translationToggleBtn.classList.toggle("active", show);
 }
 
 // Formatting helpers
@@ -733,10 +746,16 @@ function setupEvents() {
         applyTextSize(readerTextSize);
     });
     
-    // Translation toggle button
-    translationToggleBtn.addEventListener("click", () => {
-        showTranslations = !showTranslations;
-        localStorage.setItem("hsk-reader-show-trans", showTranslations);
-        applyShowTranslations(showTranslations);
+    // Translation options (in settings menu)
+    const transButtons = document.querySelectorAll("[data-opt-trans]");
+    transButtons.forEach(btn => {
+        const state = btn.getAttribute("data-opt-trans") === "on";
+        btn.classList.toggle("active", state === showTranslations);
+        btn.addEventListener("click", () => {
+            showTranslations = state;
+            localStorage.setItem("hsk-reader-show-trans", showTranslations);
+            applyShowTranslations(showTranslations);
+            transButtons.forEach(b => b.classList.toggle("active", b === btn));
+        });
     });
 }
