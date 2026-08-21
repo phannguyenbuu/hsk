@@ -2,16 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-    /* Color Tokens - Default Light Mode */
-    --background: #fdfbf7;      /* Warm white */
-    --foreground: #2d2a26;      /* Charcoal */
-    --border: #e8e2d9;          /* Soft warm border */
-    --primary: #7f1d1d;         /* HSK Red */
-    --primary-hover: #9b1c1c;
+    /* Color Tokens - Default Corporate & Trust Theme */
+    --background: #f8fafc;      /* Clean corporate light slate background */
+    --foreground: #0f172a;      /* High trust deep slate text */
+    --border: #e2e8f0;          /* Soft border */
+    --primary: #1b365d;         /* Trust Navy Blue */
+    --primary-hover: #2b4c7e;
     --primary-foreground: #ffffff;
-    --accent: #ffb300;          /* Gold */
-    --muted: #857e75;           /* Slate warm */
-    --muted-light: #f4efe6;
+    --accent: #0284c7;          /* Sky Blue accent */
+    --muted: #475569;           /* Slate gray */
+    --muted-light: #f1f5f9;     /* Light slate panel background */
     
     /* Layout Tokens */
     --font-sans: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -22,24 +22,26 @@
     color-scheme: light;
 }
 
-/* Warm / Sepia Theme override */
+/* Warm / Sepia Theme override - Warm Corporate & Indigo */
 [data-theme="warm"] {
-    --background: #f4efe6;
-    --foreground: #38342e;
-    --border: #e0d7c6;
-    --muted-light: #eae2d3;
-    --muted: #70695d;
+    --background: #fcfbf9;
+    --foreground: #292524;
+    --border: #e7e5e4;
+    --primary: #2e2a47;
+    --primary-hover: #3d375c;
+    --muted-light: #f5f2eb;
+    --muted: #57534e;
 }
 
-/* Dark Theme override */
+/* Dark Theme override - Dark Corporate & Cyan */
 [data-theme="dark"] {
-    --background: #18181a;
-    --foreground: #e4e4e7;
-    --border: #2e2e33;
-    --primary: #c62828;
-    --primary-hover: #e53935;
-    --muted-light: #232326;
-    --muted: #a1a1aa;
+    --background: #0b0f19;      /* Deep corporate midnight blue-black */
+    --foreground: #f1f5f9;
+    --border: #1e293b;
+    --primary: #38bdf8;         /* Cyan blue contrast */
+    --primary-hover: #7dd3fc;
+    --muted-light: #1e293b;
+    --muted: #94a3b8;
     
     color-scheme: dark;
 }
@@ -120,11 +122,11 @@ header {
 }
 
 [data-theme="warm"] header {
-    background-color: rgba(244, 239, 230, 0.9);
+    background-color: rgba(252, 251, 249, 0.95);
 }
 
 [data-theme="dark"] header {
-    background-color: rgba(24, 24, 26, 0.9);
+    background-color: rgba(11, 15, 25, 0.95);
 }
 
 .brand {
@@ -2114,7 +2116,13 @@ rt::after {
     /* Header Layout & Sandwich Menu Drawer */
     header {
         padding: 0.5rem 1rem;
-        position: relative;
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        width: 100% !important;
+        background-color: var(--background) !important;
     }
     
     header nav {
@@ -2123,7 +2131,7 @@ rt::after {
         top: 100%;
         left: 0;
         right: 0;
-        background-color: var(--card);
+        background-color: var(--background) !important;
         border-bottom: 1px solid var(--border);
         flex-direction: column;
         padding: 0.75rem;
@@ -2183,6 +2191,7 @@ rt::after {
     .main-container {
         border-left: none;
         border-right: none;
+        padding-top: 64px !important;
     }
     
     .desktop-wm {
