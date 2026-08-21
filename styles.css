@@ -309,7 +309,7 @@ article {
 
 article p {
     margin-bottom: 1.8rem;
-    text-align: justify;
+    text-align: left;
 }
 
 /* Word (pw - pinyin word) wrapper */
@@ -317,7 +317,7 @@ article p {
     display: inline-flex;
     align-items: center;
     vertical-align: bottom;
-    padding: 0 2px;
+    padding: 0 1px;
     border-radius: 4px;
     cursor: pointer;
     position: relative;
