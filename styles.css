@@ -339,16 +339,27 @@ ruby {
 
 rt {
     font-family: var(--font-sans);
-    font-size: 0.55em;
-    font-weight: 500;
+    font-size: 0.48em;
+    font-weight: 600;
     line-height: 1;
-    margin-bottom: 0.1em;
+    margin-bottom: -0.18em;
     color: var(--muted);
     letter-spacing: 0.05em;
     user-select: none;
     display: block;
     text-transform: lowercase;
+    opacity: 0.5;
     transition: var(--transition-smooth);
+}
+
+rt::before {
+    content: "/";
+    opacity: 0.7;
+}
+
+rt::after {
+    content: "/";
+    opacity: 0.7;
 }
 
 /* Interactive Audio Highlight style */
@@ -1095,10 +1106,20 @@ rt {
     padding-left: 0.75rem;
     border-left: 2px solid var(--primary-border);
     font-family: inherit;
+    transition: background-color 0.2s ease, padding 0.2s ease;
 }
 
 .show-translations .paragraph-translation-vi {
     display: block;
+}
+
+.paragraph-translation-vi.audio-highlight {
+    background-color: rgba(255, 179, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 0 4px rgba(255, 179, 0, 0.2);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 8px;
 }
 
 .translation-toggle-btn {

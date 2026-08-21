@@ -389,9 +389,18 @@ function syncHighlights(time) {
         if (!activeBlock) return;
         
         // Highlight active paragraph block
-        blocks.forEach(b => b.querySelector("p").classList.remove("audio-highlight"));
+        blocks.forEach(b => {
+            const pTag = b.querySelector("p");
+            const viTag = b.querySelector(".paragraph-translation-vi");
+            if (pTag) pTag.classList.remove("audio-highlight");
+            if (viTag) viTag.classList.remove("audio-highlight");
+        });
         const pElement = activeBlock.querySelector("p");
         pElement.classList.add("audio-highlight");
+        const viElement = activeBlock.querySelector(".paragraph-translation-vi");
+        if (viElement) {
+            viElement.classList.add("audio-highlight");
+        }
         
         // Highlight active word
         const words = contentArea.querySelectorAll(".pw");
