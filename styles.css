@@ -315,7 +315,6 @@ article p {
 /* Word (pw - pinyin word) wrapper */
 .pw {
     display: inline-flex;
-    flex-direction: column-reverse;
     align-items: center;
     vertical-align: bottom;
     padding: 0 2px;
