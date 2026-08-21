@@ -75,6 +75,36 @@ function setupViewSwitcher() {
             window.dispatchEvent(new CustomEvent("hsk-tools-active"));
         });
     }
+    
+    // Mobile Hamburger Menu Toggle
+    const menuToggle = document.getElementById("mobile-menu-toggle");
+    const navContainer = document.querySelector("header nav");
+    
+    if (menuToggle && navContainer) {
+        menuToggle.addEventListener("click", (e) => {
+            e.stopPropagation();
+            menuToggle.classList.toggle("active");
+            navContainer.classList.toggle("nav-open");
+        });
+        
+        // Close menu when clicking outside
+        document.addEventListener("click", (e) => {
+            if (!navContainer.contains(e.target) && e.target !== menuToggle && !menuToggle.contains(e.target)) {
+                menuToggle.classList.remove("active");
+                navContainer.classList.remove("nav-open");
+            }
+        });
+        
+        // Close menu when any navigation link is clicked
+        navs.forEach(nav => {
+            if (nav) {
+                nav.addEventListener("click", () => {
+                    menuToggle.classList.remove("active");
+                    navContainer.classList.remove("nav-open");
+                });
+            }
+        });
+    }
 }
 
 // Theme Management
