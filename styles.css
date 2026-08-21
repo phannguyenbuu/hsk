@@ -317,7 +317,7 @@ article p {
     display: inline-flex;
     align-items: center;
     vertical-align: bottom;
-    padding: 0 1px;
+    padding: 0;
     border-radius: 4px;
     cursor: pointer;
     position: relative;

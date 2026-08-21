@@ -10,6 +10,58 @@ import urllib.parse
 os.makedirs("db/stories", exist_ok=True)
 os.makedirs("scratch", exist_ok=True)
 
+# Name translation map (Pinyin -> Sino-Vietnamese names)
+NAME_MAP = {
+    "Zheng Yu": "Trịnh Vũ", "ZhengYu": "Trịnh Vũ",
+    "Liang Dawei": "Lương Đại Vĩ", "Liang Da-wei": "Lương Đại Vĩ", "Liang Da Wei": "Lương Đại Vĩ",
+    "Ye Mei": "Diệp Mỹ", "YeMei": "Diệp Mỹ",
+    "Xiao Yun": "Tiểu Vân", "XiaoYun": "Tiểu Vân",
+    "Xiao Dong": "Tiểu Đông", "XiaoDong": "Tiểu Đông",
+    "Wang Jianguo": "Vương Kiến Quốc", "WangJianguo": "Vương Kiến Quốc", "Wang Jian Guo": "Vương Kiến Quốc",
+    "Auntie Li": "Dì Lý", "Aunt Li": "Dì Lý", "Auntie Cheng": "Dì Trình", "Aunt Cheng": "Dì Trình",
+    "Old Chen": "Lão Trần", "Old Guo": "Lão Quách", "Old Jiang": "Lão Khương", "Old Sun": "Lão Tôn", "Old Zhao": "Lão Triệu",
+    "Master Chen": "Sư phụ Trần", "Master Cheng": "Sư phụ Trình", "Master Chu": "Sư phụ Chu", "Master Qin": "Sư phụ Tần", "Master Wen": "Sư phụ Ôn", "Master Zhao": "Sư phụ Triệu",
+    "Coach Ma": "Huấn luyện viên Mã",
+    "Afeng": "A Phong", "Ah Zhi": "A Chí", "Ahao": "A Hạo", "Aji": "A Cát", "Alimu": "A Lực Mộc", "Antongding": "An Đông Đinh", "Aqiao": "A Kiều", "Aren": "A Nhân",
+    "Bailu": "Bạch Lộ", "Beichen": "Bắc Thần", "Beijing": "Bắc Kinh", "Bowen": "Bác Văn",
+    "Cao Minh": "Tào Minh", "Cao Xung": "Tào Xung", "Cen Xue": "Sầm Tuyết",
+    "Chen Mingyuan": "Trần Minh Viễn", "Chen Ming": "Trần Minh", "Chen Shimei": "Trần Thế Mỹ", "Chen Xiaman": "Trần Hạ Mạn", "Chen Xiaoman": "Trần Tiểu Mạn", "Chen Xing": "Trần Tinh", "Chen Xue": "Trần Tuyết", "Chen Yan": "Trần Yến", "Chen Yating": "Trần Nhã Đình", "Chen Yuqing": "Trần Vũ Thanh", "Chen Yutong": "Trần Vũ Đồng",
+    "Cheng Feng": "Trình Phong", "Cheng Shan": "Trình Sơn", "Cheng Shiyuan": "Trình Sĩ Nguyên", "Cheng Siyuan": "Trình Tư Nguyên", "Cheng Xiaole": "Trình Tiểu Lạc", "Cheng Yang": "Trình Dương", "Cheng Yuan": "Trình Viên", "Cheng Zhiyuan": "Trình Chí Viễn",
+    "Chu Bonian": "Chu Bá Niên", "Chu Houren": "Chu Hậu Nhân", "Chu Li": "Chu Lực", "Chu Mingyuan": "Chu Minh Viễn", "Chu Molin": "Chu Mặc Lâm", "Chu Mu": "Chu Mộc", "Chu Shian": "Chu Thế An", "Chu Siyuan": "Chu Tư Nguyên",
+    "Ding Dongming": "Đinh Đông Minh", "Ding Xiaoman": "Đinh Tiểu Mạn", "Ding Xiaoyu": "Đinh Tiểu Vũ", "Du Yue": "Đỗ Nguyệt",
+    "Fan Yuanhang": "Phạm Viễn Hàng", "Fang Dali": "Phương Đại Lực", "Fang Guoqiang": "Phương Quốc Cường", "Fang Min": "Phương Mẫn", "Fang Mingyuan": "Phương Minh Viễn", "Fang Qiang": "Phương Cường", "Fang Qingchuan": "Phương Thanh Xuyên", "Fang Tiantian": "Phương Điền Điền", "Fang Xiaoli": "Phương Tiểu Lệ", "Fang Xiaoyun": "Phương Tiểu Vân", "Fang Xuemei": "Phương Tuyết Mỹ", "Fang Zhiyuan": "Phương Chí Viễn", "Fang Ziming": "Phương Tử Minh", "Fang Zixuan": "Phương Tử Tuyên",
+    "Feng Dawen": "Phùng Đại Văn", "Feng Yuanmei": "Phùng Viên Mỹ", "Feng Yuanqiao": "Phùng Viên Kiều", "Feng Yuanzhang": "Phùng Viên Chương",
+    "Ga Nam": "Kha Nam", "Ga Qingshui": "Cát Thanh Thủy", "Ga Thanh Phong": "Cát Thanh Phong", "Gao Le": "Cao Lạc", "Gao Tian": "Cao Thiên", "Gao Yue": "Cao Nguyệt",
+    "Gu Chenzhou": "Cố Thần Chu", "Gu Defa": "Cố Đắc Phát", "Gu Shouyi": "Cố Thủ Nghĩa", "Gu Siyuan": "Cố Tư Nguyên", "Gu Wanqing": "Cố Vãn Thanh", "Gu Xiaoyu": "Cố Tiểu Vũ", "Gu Yunqing": "Cố Vân Thanh", "Gu Zhiyuan": "Cố Chí Viễn",
+    "Han Lei": "Hàn Lôi", "He Siqi": "Hà Tư Kỳ", "Jiang Mengxue": "Khương Mộng Tuyết", "Jiang Tianle": "Khương Thiên Lạc",
+    "Ke Jin": "Kha Kim", "Ke Muning": "Kha Mộ Ninh", "Ke Zhenyang": "Kha Chấn Dương",
+    "Li Baochen": "Lý Bảo Thần", "Li Daming": "Lý Đại Minh", "Li Gangwu": "Lý Cương Vũ", "Li Hong": "Lý Hồng", "Li Ming": "Lý Minh", "Li Wei": "Lý Vĩ", "Li Wen": "Lý Văn", "Li Wenbo": "Lý Văn Bác", "Li Xue": "Lý Tuyết",
+    "Lin Ci": "Lâm Từ", "Lin Feiyue": "Lâm Phi Duyệt", "Lin Gangwu": "Lâm Cương Vũ", "Lin Haotian": "Lâm Hào Thiên", "Lin Hui": "Lâm Huy", "Lin Jianmin": "Lâm Kiến Dân", "Lin Jiashu": "Lâm Gia Thư", "Lin Jiayin": "Lâm Gia Ân", "Lin Meihua": "Lâm Mỹ Hoa", "Lin Meixin": "Lâm Mỹ Hân", "Lin Qiuning": "Lâm Thu Ninh", "Lin Ruobing": "Lâm Nhược Băng", "Lin Ruoyun": "Lâm Nhược Vân", "Lin Shuang": "Lâm Song", "Lin Shuqin": "Lâm Thư Cầm", "Lin Siyuan": "Lâm Tư Nguyên", "Lin Xiaman": "Lâm Hạ Mạn", "Lin Xiaobei": "Lâm Tiểu Bắc", "Lin Xiaochuan": "Lâm Tiểu Xuyên", "Lin Xiaoman": "Lâm Tiểu Mạn", "Lin Xiaomei": "Lâm Tiểu Mỹ", "Lin Xiaoqiang": "Lâm Tiểu Cường", "Lin Xiaoshu": "Lâm Tiểu Thư", "Lin Xiaoxue": "Lâm Tiểu Tuyết", "Lin Xiaoyu": "Lâm Tiểu Vũ", "Lin Xiaoyue": "Lâm Tiểu Nguyệt", "Lin Xiufang": "Lâm Tú Phương", "Lin Xubai": "Lâm Húc Bạch", "Lin Xue": "Lâm Tuyết", "Lin Yang": "Lâm Dương", "Lin Yao": "Lâm Diệu", "Lin Yating": "Lâm Nhã Đình", "Lin Yuan": "Lâm Viên", "Lin Yuanhang": "Lâm Viễn Hàng", "Lin Yue": "Lâm Nguyệt", "Lin Yuqing": "Lâm Vũ Thanh", "Lin Zhiyuan": "Lâm Chí Viễn",
+    "Liu Meihua": "Lưu Mỹ Hoa", "Liu Xiulan": "Lưu Tú Lan", "Lu Wen": "Lục Văn", "Lu Wenjing": "Lục Văn Tĩnh", "Lu Yuwei": "Lục Vũ Vi",
+    "Ma Deshui": "Mã Đắc Thủy", "Ma Li": "Mã Lệ", "Ma Wentao": "Mã Văn Đào", "Ma Xiangyang": "Mã Hướng Dương", "Ma Xiaodong": "Mã Tiểu Đông", "Ma Xiaotiao": "Mã Tiểu Tiếu", "Ma Xue": "Mã Tuyết",
+    "Nie Haidong": "Nhiếp Hải Đông", "Pang Zhong": "Bàng Trọng",
+    "Qin Bowen": "Tần Bác Văn", "Qin Guo": "Tần Quốc", "Qin Tieshan": "Tần Thiết Sơn", "Qin Xuewei": "Tần Tuyết Vĩ", "Qin Yunshen": "Tần Vân Thâm", "Qin Yutong": "Tần Vũ Đồng", "Qin Zhiyuan": "Tần Chí Viễn",
+    "Shao Yuwei": "Thiệu Vũ Vi", "Shen Guifang": "Thẩm Quế Phương", "Shen Jiashu": "Thẩm Gia Thư", "Shen Qinghua": "Thẩm Thanh Hoa", "Shen Rusong": "Thẩm Như Tùng", "Shen Tao": "Thẩm Đào",
+    "Shi Qing": "Thạch Thanh", "Shi Yaqin": "Thạch Nhã Cầm", "Shi Yawen": "Thạch Nhã Văn",
+    "Su Dawen": "Tô Đại Văn", "Su Jinhua": "Tô Kim Hoa", "Su Li": "Tô Lệ", "Su Man": "Tô Mạn", "Su Mengyu": "Tô Mộng Vũ", "Su Min": "Tô Mẫn", "Su Nianqiu": "Tô Niệm Thu", "Su Qing": "Tô Thanh", "Su Shi": "Tô Thức", "Su Tianming": "Tô Thiên Minh", "Su Tiantian": "Tô Điền Điền", "Su Ting": "Tô Đình", "Su Wanqing": "Tô Vãn Thanh", "Su Xiaobei": "Tô Tiểu Bắc", "Su Xiaohe": "Tô Tiểu Hà", "Su Xiaomei": "Tô Tiểu Mỹ", "Su Xiaotang": "Tô Tiểu Đường", "Su Xiaoyu": "Tô Tiểu Vũ", "Su Xue": "Tô Tuyết", "Su Yuan": "Tô Viên", "Su Yue": "Tô Nguyệt", "Su Yuqing": "Tô Vũ Thanh",
+    "Tang Ming": "Đường Minh", "Wen Hao": "Ôn Hạo", "Wen Heping": "Ôn Hòa Bình", "Wu Zixuan": "Ngô Tử Tuyên", "Xie Xiaowen": "Tạ Tiểu Văn",
+    "Xu Jia": "Hứa Gia", "Xu Meili": "Hứa Mỹ Lệ", "Xu Wentao": "Hứa Văn Đào", "Yao Yawen": "Diệu Nhã Văn",
+    "Zhang Daming": "Trương Đại Minh", "Zhang Ming": "Trương Minh", "Zhang Weiming": "Trương Vĩ Minh", "Zhang Xiaofang": "Trương Tiểu Phương", "Zhang Xing": "Trương Tinh",
+    "Zhao Chen": "Triệu Thần", "Zhao Delin": "Triệu Đắc Lâm", "Zhao Lihua": "Triệu Lệ Hoa", "Zhao Meilin": "Triệu Mỹ Lâm", "Zhao Mengfu": "Triệu Mạnh Phủ", "Zhao Mingyuan": "Triệu Minh Viễn", "Zhao Siyu": "Triệu Tư Vũ", "Zhao Siyuan": "Triệu Tư Nguyên", "Zhao Tieliang": "Triệu Thiết Lương", "Zhao Wenyuan": "Triệu Văn Viễn", "Zhao Xiaoyue": "Triệu Tiểu Nguyệt", "Zhao Xue": "Triệu Tuyết", "Zhao Yuanfan": "Triệu Viễn Phàm", "Zhao Zhiqiang": "Triệu Chí Cường", "Zhao Zilong": "Triệu Tử Long",
+    "Zhou Mingyuan": "Chu Minh Viễn", "Zhou Shi": "Chu Thị", "Zhou Wen": "Chu Văn"
+}
+
+# Sort keys by length descending to match longer combinations first
+SORTED_NAME_KEYS = sorted(NAME_MAP.keys(), key=len, reverse=True)
+NAME_REPLACEMENTS = [(re.compile(r'\b' + re.escape(key) + r'\b', re.IGNORECASE), NAME_MAP[key]) for key in SORTED_NAME_KEYS]
+
+def fix_names_vi(text):
+    if not text:
+        return text
+    for pattern, rep in NAME_REPLACEMENTS:
+        text = pattern.sub(rep, text)
+    return text
+
 # Google Translate free endpoint helper
 def translate(text, sl="en", tl="vi"):
     if not text.strip():
@@ -186,6 +238,7 @@ def crawl_story(level, story_slug):
         vi_sentences = {}
         for cn_sentence, eng_translation in translation_data.items():
             vi_trans = translate(eng_translation, sl="en", tl="vi")
+            vi_trans = fix_names_vi(vi_trans)
             vi_sentences[cn_sentence] = vi_trans
             time.sleep(0.05)
             

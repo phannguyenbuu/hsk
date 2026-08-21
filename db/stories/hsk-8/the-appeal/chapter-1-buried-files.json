@@ -1,0 +1,7340 @@
+{
+  "chapter_number": 1,
+  "chapter_slug": "chapter-1-buried-files",
+  "title_en": "Buried Files",
+  "content_html": "<p><span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">最<rt>zuì</rt></ruby><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">箱<rt>xiāng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">卷<rt>juàn</rt></ruby><ruby data-tone=\"1\">宗<rt>zōng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">拖<rt>tuō</rt></ruby><ruby data-tone=\"4\">进<rt>jìn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">资<rt>zī</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">料<rt>liào</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">室<rt>shì</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">灯<rt>dēng</rt></ruby><ruby data-tone=\"3\">管<rt>guǎn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">嗡<rt>wēng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">嗡<rt>wēng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">作<rt>zuò</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">响<rt>xiǎng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"2\">疲<rt>pí</rt></ruby><ruby data-tone=\"4\">倦<rt>juàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">蜜<rt>mì</rt></ruby><ruby data-tone=\"1\">蜂<rt>fēng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">灰<rt>huī</rt></ruby><ruby data-tone=\"2\">尘<rt>chén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">光<rt>guāng</rt></ruby><ruby data-tone=\"4\">柱<rt>zhù</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">旋<rt>xuán</rt></ruby><ruby data-tone=\"3\">转<rt>zhuǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">落<rt>luò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">藏<rt>zàng</rt></ruby><ruby data-tone=\"1\">青<rt>qīng</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">西<rt>xī</rt></ruby><ruby data-tone=\"1\">装<rt>zhuāng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">肩<rt>jiān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">原<rt>yuán</rt></ruby><ruby data-tone=\"3\">本<rt>běn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">只<rt>zhǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">为<rt>wèi</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">年<rt>nián</rt></ruby><ruby data-tone=\"3\">底<rt>dǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">研<rt>yán</rt></ruby><ruby data-tone=\"3\">讨<rt>tǎo</rt></ruby><ruby data-tone=\"4\">会<rt>huì</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">整<rt>zhěng</rt></ruby><ruby data-tone=\"3\">理<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">年<rt>nián</rt></ruby><ruby data-tone=\"2\">前<rt>qián</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">典<rt>diǎn</rt></ruby><ruby data-tone=\"2\">型<rt>xíng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby><ruby data-tone=\"4\">例<rt>lì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">却<rt>què</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">标<rt>biāo</rt></ruby><ruby data-tone=\"1\">签<rt>qiān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">褪<rt>tuì</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby><ruby data-tone=\"1\">箱<rt>xiāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">摸<rt>mō</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">只<rt>zhī</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">牛<rt>niú</rt></ruby><ruby data-tone=\"2\">皮<rt>pí</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby><ruby data-tone=\"4\">袋<rt>dài</rt></ruby></span>——“<span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">抢<rt>qiǎng</rt></ruby><ruby data-tone=\"2\">劫<rt>jié</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">致<rt>zhì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">死<rt>sǐ</rt></ruby><ruby data-tone=\"2\">亡<rt>wáng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby></span>，<span class=\"pw\">2009<ruby data-tone=\"2\">年<rt>2009 nián</rt></ruby></span>”。</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">皱<rt>zhòu</rt></ruby><ruby data-tone=\"2\">眉<rt>méi</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">记<rt>jì</rt></ruby><ruby data-tone=\"5\">得<rt>de</rt></ruby></span>：<span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">深<rt>shēn</rt></ruby><ruby data-tone=\"4\">夜<rt>yè</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">便<rt>biàn</rt></ruby><ruby data-tone=\"4\">利<rt>lì</rt></ruby><ruby data-tone=\"4\">店<rt>diàn</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">收<rt>shōu</rt></ruby><ruby data-tone=\"2\">银<rt>yín</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">女<rt>nǚ</rt></ruby><ruby data-tone=\"2\">孩<rt>hái</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">被<rt>bèi</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">捅<rt>tǒng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">身<rt>shēn</rt></ruby><ruby data-tone=\"2\">亡<rt>wáng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">现<rt>xiàn</rt></ruby><ruby data-tone=\"3\">场<rt>chǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">指<rt>zhǐ</rt></ruby><ruby data-tone=\"2\">纹<rt>wén</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">与<rt>yǔ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">吻<rt>wěn</rt></ruby><ruby data-tone=\"2\">合<rt>hé</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">审<rt>shěn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">二<rt>èr</rt></ruby><ruby data-tone=\"3\">审<rt>shěn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">都<rt>dōu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span>“<span class=\"pw\"><ruby data-tone=\"3\">铁<rt>tiě</rt></ruby><ruby data-tone=\"4\">证<rt>zhèng</rt></ruby><ruby data-tone=\"2\">如<rt>rú</rt></ruby><ruby data-tone=\"1\">山<rt>shān</rt></ruby></span>”，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">可<rt>kě</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby><ruby data-tone=\"4\">袋<rt>dài</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">厚<rt>hòu</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">得<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby><ruby data-tone=\"2\">奇<rt>qí</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">拆<rt>chāi</rt></ruby><ruby data-tone=\"1\">开<rt>kāi</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">啪<rt>pā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">嗒<rt>dā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">张<rt>zhāng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">褪<rt>tuì</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">照<rt>zhào</rt></ruby><ruby data-tone=\"4\">片<rt>piàn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">滑<rt>huá</rt></ruby><ruby data-tone=\"4\">落<rt>luò</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脚<rt>jiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">边<rt>biān</rt></ruby></span>：<span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">被<rt>bèi</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">捕<rt>bǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">时<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">抬<rt>tái</rt></ruby><ruby data-tone=\"2\">头<rt>tóu</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">望<rt>wàng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">镜<rt>jìng</rt></ruby><ruby data-tone=\"2\">头<rt>tóu</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"3\">嘴<rt>zuǐ</rt></ruby><ruby data-tone=\"3\">角<rt>jiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">竟<rt>jìng</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">带<rt>dài</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">少<rt>shào</rt></ruby><ruby data-tone=\"2\">年<rt>nián</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"2\">倔<rt>jué</rt></ruby><ruby data-tone=\"4\">强<rt>jiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">弧<rt>hú</rt></ruby><ruby data-tone=\"4\">度<rt>dù</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">那<rt>nà</rt></ruby><ruby data-tone=\"2\">时<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">他<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">才<rt>cái</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">二<rt>èr</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">五<rt>wǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">岁<rt>suì</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">戴<rt>dài</rt></ruby><ruby data-tone=\"5\">上<rt>shang</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"4\">镜<rt>jìng</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">逐<rt>zhú</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">页<rt>yè</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">翻<rt>fān</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby><ruby data-tone=\"4\">诉<rt>sù</rt></ruby><ruby data-tone=\"1\">书<rt>shū</rt></ruby></span>、<span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">判<rt>pàn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">决<rt>jué</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">书<rt>shū</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">都<rt>dōu</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">熟<rt>shóu</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">可<rt>kě</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">中<rt>zhōng</rt></ruby><ruby data-tone=\"1\">间<rt>jiān</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">夹<rt>jiá</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">一<rt>yí</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">份<rt>fèn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby><ruby data-tone=\"3\">写<rt>xiě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span>《<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">补<rt>bǔ</rt></ruby><ruby data-tone=\"1\">充<rt>chōng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">侦<rt>zhēn</rt></ruby><ruby data-tone=\"2\">查<rt>chá</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"4\">议<rt>yì</rt></ruby></span>》，<span class=\"pw\"><ruby data-tone=\"4\">落<rt>luò</rt></ruby><ruby data-tone=\"3\">款<rt>kuǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span>“<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">方<rt>fāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">强<rt>qiáng</rt></ruby></span> 2009.6.12”。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">心<rt>xīn</rt></ruby><ruby data-tone=\"4\">跳<rt>tiào</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">快<rt>kuài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">半<rt>bàn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">拍<rt>pāi</rt></ruby></span>——<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">方<rt>fāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">强<rt>qiáng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">正<rt>zhèng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">当<rt>dāng</rt></ruby><ruby data-tone=\"2\">年<rt>nián</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">负<rt>fù</rt></ruby><ruby data-tone=\"2\">责<rt>zé</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">此<rt>cǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">刑<rt>xíng</rt></ruby><ruby data-tone=\"3\">警<rt>jǐng</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"4\">现<rt>xiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">已<rt>yǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">退<rt>tuì</rt></ruby><ruby data-tone=\"1\">休<rt>xiū</rt></ruby></span>。<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"4\">议<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">书<rt>shū</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">写<rt>xiě</rt></ruby><ruby data-tone=\"4\">道<rt>dào</rt></ruby></span>：“1.<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">现<rt>xiàn</rt></ruby><ruby data-tone=\"3\">场<rt>chǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">提<rt>tí</rt></ruby><ruby data-tone=\"3\">取<rt>qǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">鞋<rt>xié</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">印<rt>yìn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">为<rt>wéi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">四<rt>sì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">二<rt>èr</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">码<rt>mǎ</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">嫌<rt>xián</rt></ruby><ruby data-tone=\"2\">疑<rt>yí</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">脚<rt>jiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">码<rt>mǎ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">四<rt>sì</rt></ruby><ruby data-tone=\"2\">十<rt>shí</rt></ruby></span>；2.<span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">监<rt>jiān</rt></ruby><ruby data-tone=\"4\">控<rt>kòng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">时<rt>shí</rt></ruby><ruby data-tone=\"1\">间<rt>jiān</rt></ruby><ruby data-tone=\"2\">轴<rt>zhóu</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">与<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">证<rt>zhèng</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">证<rt>zhèng</rt></ruby><ruby data-tone=\"2\">言<rt>yán</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">存<rt>cún</rt></ruby><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby><ruby data-tone=\"1\">一<rt>yī</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">分<rt>fēn</rt></ruby><ruby data-tone=\"1\">钟<rt>zhōng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">空<rt>kòng</rt></ruby><ruby data-tone=\"2\">白<rt>bái</rt></ruby></span>；3.<span class=\"pw\"><ruby data-tone=\"2\">嫌<rt>xián</rt></ruby><ruby data-tone=\"2\">疑<rt>yí</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">右<rt>yòu</rt></ruby><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">臂<rt>bì</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">无<rt>wú</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">喷<rt>pēn</rt></ruby><ruby data-tone=\"4\">溅<rt>jiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">血<rt>xiě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">与<rt>yǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">捅<rt>tǒng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">刺<rt>cì</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">动<rt>dòng</rt></ruby><ruby data-tone=\"4\">作<rt>zuò</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby><ruby data-tone=\"2\">符<rt>fú</rt></ruby></span>……”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">合<rt>hé</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"3\">指<rt>zhǐ</rt></ruby><ruby data-tone=\"1\">尖<rt>jiān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">冰<rt>bīng</rt></ruby><ruby data-tone=\"2\">凉<rt>liáng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">份<rt>fèn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">文<rt>wén</rt></ruby><ruby data-tone=\"4\">件<rt>jiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">从<rt>cóng</rt></ruby><ruby data-tone=\"4\">未<rt>wèi</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby><ruby data-tone=\"4\">现<rt>xiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">法<rt>fǎ</rt></ruby><ruby data-tone=\"2\">庭<rt>tíng</rt></ruby></span>。</p>\n<p><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">空<rt>kōng</rt></ruby><ruby data-tone=\"2\">调<rt>tiáo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">突<rt>tū</rt></ruby><ruby data-tone=\"2\">然<rt>rán</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">嗡<rt>wēng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">地<rt>dì</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">启<rt>qǐ</rt></ruby><ruby data-tone=\"4\">动<rt>dòng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">冷<rt>lěng</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">风<rt>fēng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">卷<rt>juǎn</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">纸<rt>zhǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">角<rt>jiǎo</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">耳<rt>ěr</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">边<rt>biān</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">催<rt>cuī</rt></ruby><ruby data-tone=\"4\">促<rt>cù</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">掏<rt>tāo</rt></ruby><ruby data-tone=\"1\">出<rt>chū</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">手<rt>shǒu</rt></ruby><ruby data-tone=\"1\">机<rt>jī</rt></ruby></span>，<span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">拨<rt>bō</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">所<rt>suǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">档<rt>dàng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">室<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">内<rt>nèi</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">线<rt>xiàn</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">顾<rt>gù</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">帮<rt>bāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">调<rt>diào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">二<rt>èr</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">〇<rt>líng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">〇<rt>líng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">九<rt>jiǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">年<rt>nián</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">全<rt>quán</rt></ruby><ruby data-tone=\"4\">部<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">原<rt>yuán</rt></ruby><ruby data-tone=\"3\">始<rt>shǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">卷<rt>juàn</rt></ruby><ruby data-tone=\"1\">宗<rt>zōng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">包<rt>bāo</rt></ruby><ruby data-tone=\"4\">括<rt>kuò</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">公<rt>gōng</rt></ruby><ruby data-tone=\"1\">安<rt>ān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">移<rt>yí</rt></ruby><ruby data-tone=\"4\">送<rt>sòng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">副<rt>fù</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">卷<rt>juàn</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">半<rt>bàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">小<rt>xiǎo</rt></ruby><ruby data-tone=\"2\">时<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">后<rt>hòu</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"4\">顾<rt>gù</rt></ruby><ruby data-tone=\"4\">律<rt>lǜ</rt></ruby><ruby data-tone=\"1\">师<rt>shī</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">抱<rt>bào</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">更<rt>gèng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">厚<rt>hòu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">文<rt>wén</rt></ruby><ruby data-tone=\"4\">件<rt>jiàn</rt></ruby><ruby data-tone=\"1\">夹<rt>jiā</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">冲<rt>chōng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">进<rt>jìn</rt></ruby><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">额<rt>é</rt></ruby><ruby data-tone=\"2\">头<rt>tóu</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">全<rt>quán</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">汗<rt>hàn</rt></ruby></span>：“<span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">姐<rt>jiě</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">副<rt>fù</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">卷<rt>juàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">真<rt>zhēn</rt></ruby><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">份<rt>fèn</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">补<rt>bǔ</rt></ruby><ruby data-tone=\"1\">充<rt>chōng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">侦<rt>zhēn</rt></ruby><ruby data-tone=\"2\">查<rt>chá</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">可<rt>kě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">公<rt>gōng</rt></ruby><ruby data-tone=\"1\">安<rt>ān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">归<rt>guī</rt></ruby><ruby data-tone=\"4\">档<rt>dàng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">找<rt>zhǎo</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">影<rt>yǐng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">印<rt>yìn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">件<rt>jiàn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">盖<rt>gài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">骑<rt>qí</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">缝<rt>fèng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">章<rt>zhāng</rt></ruby></span>。”<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">他<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\">U<ruby data-tone=\"2\">盘<rt>U pán</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">插<rt>chā</rt></ruby><ruby data-tone=\"4\">进<rt>jìn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">笔<rt>bǐ</rt></ruby><ruby data-tone=\"4\">记<rt>jì</rt></ruby><ruby data-tone=\"3\">本<rt>běn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">屏<rt>píng</rt></ruby><ruby data-tone=\"4\">幕<rt>mù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">跳<rt>tiào</rt></ruby><ruby data-tone=\"1\">出<rt>chū</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">扫<rt>sǎo</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">描<rt>miáo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">件<rt>jiàn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">章<rt>zhāng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">清<rt>qīng</rt></ruby><ruby data-tone=\"1\">晰<rt>xī</rt></ruby></span>：<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">东<rt>dōng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">浦<rt>pǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">公<rt>gōng</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">安<rt>ān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">分<rt>fēn</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">局<rt>jú</rt></ruby></span>。</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">盯<rt>dīng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">屏<rt>píng</rt></ruby><ruby data-tone=\"4\">幕<rt>mù</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">声<rt>shēng</rt></ruby><ruby data-tone=\"1\">音<rt>yīn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">低<rt>dī</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">却<rt>què</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">稳<rt>wěn</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">意<rt>yì</rt></ruby><ruby data-tone=\"4\">味<rt>wèi</rt></ruby><ruby data-tone=\"5\">着<rt>zhe</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">对<rt>duì</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">被<rt>bèi</rt></ruby><ruby data-tone=\"4\">告<rt>gào</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby><ruby data-tone=\"4\">利<rt>lì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">证<rt>zhèng</rt></ruby><ruby data-tone=\"4\">据<rt>jù</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">藏<rt>cáng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby><ruby data-tone=\"5\">来<rt>lai</rt></ruby></span>。”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">顾<rt>gù</rt></ruby><ruby data-tone=\"4\">律<rt>lǜ</rt></ruby><ruby data-tone=\"1\">师<rt>shī</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">舔<rt>tiǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">舔<rt>tiǎn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">干<rt>gān</rt></ruby><ruby data-tone=\"4\">裂<rt>liè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">嘴<rt>zuǐ</rt></ruby><ruby data-tone=\"2\">唇<rt>chún</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">五<rt>wǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">年<rt>nián</rt></ruby></span>，<span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">过<rt>guò</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">申<rt>shēn</rt></ruby><ruby data-tone=\"4\">诉<rt>sù</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">期<rt>qí</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">咱<rt>zán</rt></ruby><ruby data-tone=\"5\">们<rt>men</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">还<rt>hái</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">来<rt>lái</rt></ruby><ruby data-tone=\"5\">得<rt>de</rt></ruby><ruby data-tone=\"2\">及<rt>jí</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">吗<rt>ma</rt></ruby></span>？”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">回<rt>huí</rt></ruby><ruby data-tone=\"2\">答<rt>dá</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">只<rt>zhǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">取<rt>qǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">西<rt>xī</rt></ruby><ruby data-tone=\"1\">装<rt>zhuāng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">外<rt>wài</rt></ruby><ruby data-tone=\"4\">套<rt>tào</rt></ruby></span>，<span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">搭<rt>dā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">椅<rt>yǐ</rt></ruby><ruby data-tone=\"4\">背<rt>bèi</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"3\">卷<rt>juǎn</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">衬<rt>chèn</rt></ruby><ruby data-tone=\"1\">衫<rt>shān</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">袖<rt>xiù</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">准<rt>zhǔn</rt></ruby><ruby data-tone=\"4\">备<rt>bèi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">擂<rt>lèi</rt></ruby><ruby data-tone=\"2\">台<rt>tái</rt></ruby></span>。<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">灯<rt>dēng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">尘<rt>chén</rt></ruby><ruby data-tone=\"1\">埃<rt>āi</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">安<rt>ān</rt></ruby><ruby data-tone=\"4\">静<rt>jìng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">落<rt>luò</rt></ruby><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">时<rt>shí</rt></ruby><ruby data-tone=\"1\">间<rt>jiān</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">仿<rt>fǎng</rt></ruby><ruby data-tone=\"2\">佛<rt>fú</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">被<rt>bèi</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"2\">折<rt>zhé</rt></ruby><ruby data-tone=\"2\">叠<rt>dié</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby><ruby data-tone=\"3\">起<rt>qǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">照<rt>zhào</rt></ruby><ruby data-tone=\"4\">片<rt>piàn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">沈<rt>shěn</rt></ruby><ruby data-tone=\"4\">建<rt>jiàn</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"5\">睛<rt>jing</rt></ruby></span>——<span class=\"pw\"><ruby data-tone=\"1\">黑<rt>hēi</rt></ruby><ruby data-tone=\"2\">白<rt>bái</rt></ruby><ruby data-tone=\"1\">分<rt>fēn</rt></ruby><ruby data-tone=\"2\">明<rt>míng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">没<rt>méi</rt></ruby><ruby data-tone=\"3\">有<rt>yǒu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"3\">闪<rt>shǎn</rt></ruby><ruby data-tone=\"3\">躲<rt>duǒ</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">那<rt>nà</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">不<rt>bú</rt></ruby><ruby data-tone=\"5\">是<rt>shi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">一<rt>yí</rt></ruby><ruby data-tone=\"4\">个<rt>gè</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">刚<rt>gāng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">杀<rt>shā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">完<rt>wán</rt></ruby><ruby data-tone=\"2\">人<rt>rén</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby><ruby data-tone=\"2\">神<rt>shén</rt></ruby></span>。</p>\n<p>“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">去<rt>qù</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">预<rt>yù</rt></ruby><ruby data-tone=\"1\">约<rt>yuē</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">监<rt>jiān</rt></ruby><ruby data-tone=\"4\">狱<rt>yù</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">会<rt>huì</rt></ruby><ruby data-tone=\"4\">见<rt>jiàn</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">轻<rt>qīng</rt></ruby><ruby data-tone=\"1\">声<rt>shēng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">说<rt>shuō</rt></ruby></span>，“<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">越<rt>yuè</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">快<rt>kuài</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">越<rt>yuè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">好<rt>hǎo</rt></ruby></span>。”</p>\n<p><span class=\"pw\"><ruby data-tone=\"4\">顾<rt>gù</rt></ruby><ruby data-tone=\"4\">律<rt>lǜ</rt></ruby><ruby data-tone=\"1\">师<rt>shī</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">愣<rt>lèng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">住<rt>zhù</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">您<rt>nín</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">真<rt>zhēn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">重<rt>chóng</rt></ruby><ruby data-tone=\"2\">查<rt>chá</rt></ruby></span>？<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">所<rt>suǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">明<rt>míng</rt></ruby><ruby data-tone=\"2\">年<rt>nián</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby><ruby data-tone=\"1\">冲<rt>chōng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">全<rt>quán</rt></ruby><ruby data-tone=\"2\">国<rt>guó</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">优<rt>yōu</rt></ruby><ruby data-tone=\"4\">秀<rt>xiù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">刑<rt>xíng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">辩<rt>biàn</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">团<rt>tuán</rt></ruby><ruby data-tone=\"4\">队<rt>duì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">翻<rt>fān</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">这<rt>zhè</rt></ruby><ruby data-tone=\"3\">种<rt>zhǒng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">陈<rt>chén</rt></ruby><ruby data-tone=\"2\">年<rt>nián</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">老<rt>lǎo</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">万<rt>wàn</rt></ruby><ruby data-tone=\"1\">一<rt>yī</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">翻<rt>fān</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">不<rt>bù</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">动<rt>dòng</rt></ruby></span>……”</p>\n<p><span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">照<rt>zhào</rt></ruby><ruby data-tone=\"4\">片<rt>piàn</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">夹<rt>jiá</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">进<rt>jìn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">活<rt>huó</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">页<rt>yè</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">夹<rt>jiá</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"1\">啪<rt>pā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">地<rt>dì</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">合<rt>hé</rt></ruby><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">优<rt>yōu</rt></ruby><ruby data-tone=\"4\">秀<rt>xiù</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">不<rt>bú</rt></ruby><ruby data-tone=\"5\">是<rt>shi</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">靠<rt>kào</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">挑<rt>tiāo</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">软<rt>ruǎn</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">柿<rt>shì</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"4\">靠<rt>kào</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">把<rt>bǎ</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">烂<rt>làn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">泥<rt>ní</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">里<rt>lǐ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">真<rt>zhēn</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">相<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">抠<rt>kōu</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby><ruby data-tone=\"2\">来<rt>lái</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">抬<rt>tái</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">眼<rt>yǎn</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">眸<rt>móu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">深<rt>shēn</rt></ruby><ruby data-tone=\"4\">夜<rt>yè</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">河<rt>hé</rt></ruby></span>，“<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">迟<rt>chí</rt></ruby><ruby data-tone=\"4\">到<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">正<rt>zhèng</rt></ruby><ruby data-tone=\"4\">义<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">正<rt>zhèng</rt></ruby><ruby data-tone=\"4\">义<rt>yì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">再<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">晚<rt>wǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">也<rt>yě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">要<rt>yào</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">发<rt>fā</rt></ruby><ruby data-tone=\"1\">车<rt>chē</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"2\">凌<rt>líng</rt></ruby><ruby data-tone=\"2\">晨<rt>chén</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">走<rt>zǒu</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">律<rt>lǜ</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">所<rt>suǒ</rt></ruby></span>。<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">城<rt>chéng</rt></ruby><ruby data-tone=\"4\">市<rt>shì</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">灯<rt>dēng</rt></ruby><ruby data-tone=\"3\">火<rt>huǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">在<rt>zài</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">车<rt>chē</rt></ruby><ruby data-tone=\"1\">窗<rt>chuāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">上<rt>shàng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">拉<rt>lā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">出<rt>chū</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">长<rt>cháng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">长<rt>cháng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">霓<rt>ní</rt></ruby><ruby data-tone=\"2\">虹<rt>hóng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">像<rt>xiàng</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"2\">无<rt>wú</rt></ruby><ruby data-tone=\"4\">数<rt>shù</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">未<rt>wèi</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">完<rt>wán</rt></ruby><ruby data-tone=\"2\">成<rt>chéng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">诉<rt>sù</rt></ruby><ruby data-tone=\"4\">状<rt>zhuàng</rt></ruby></span>。<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"3\">等<rt>děng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">红<rt>hóng</rt></ruby><ruby data-tone=\"1\">灯<rt>dēng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"4\">间<rt>jiàn</rt></ruby><ruby data-tone=\"4\">隙<rt>xì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">给<rt>gěi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">方<rt>fāng</rt></ruby><ruby data-tone=\"3\">警<rt>jǐng</rt></ruby><ruby data-tone=\"1\">官<rt>guān</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">发<rt>fā</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">了<rt>le</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">一<rt>yì</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"2\">条<rt>tiáo</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"3\">短<rt>duǎn</rt></ruby><ruby data-tone=\"4\">信<rt>xìn</rt></ruby></span>：“<span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"1\">方<rt>fāng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">队<rt>duì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">我<rt>wǒ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">是<rt>shì</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">姚<rt>yáo</rt></ruby><ruby data-tone=\"3\">雅<rt>yǎ</rt></ruby><ruby data-tone=\"2\">文<rt>wén</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">想<rt>xiǎng</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"1\">跟<rt>gēn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">您<rt>nín</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">聊<rt>liáo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"2\">聊<rt>liáo</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">十<rt>shí</rt></ruby><ruby data-tone=\"3\">五<rt>wǔ</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">年<rt>nián</rt></ruby><ruby data-tone=\"2\">前<rt>qián</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">您<rt>nín</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">写<rt>xiě</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">那<rt>nà</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"4\">份<rt>fèn</rt></ruby></span><span class=\"pw\" data-hsk=\"5\"><ruby data-tone=\"3\">补<rt>bǔ</rt></ruby><ruby data-tone=\"1\">充<rt>chōng</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"1\">侦<rt>zhēn</rt></ruby><ruby data-tone=\"2\">查<rt>chá</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"2\">明<rt>míng</rt></ruby><ruby data-tone=\"3\">早<rt>zǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">九<rt>jiǔ</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"3\">点<rt>diǎn</rt></ruby></span>，<span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"3\">老<rt>lǎo</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">地<rt>dì</rt></ruby><ruby data-tone=\"1\">方<rt>fāng</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">豆<rt>dòu</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">浆<rt>jiāng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">店<rt>diàn</rt></ruby></span>。”</p>\n<p><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">发<rt>fā</rt></ruby><ruby data-tone=\"4\">送<rt>sòng</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"2\">成<rt>chéng</rt></ruby><ruby data-tone=\"1\">功<rt>gōng</rt></ruby></span>，<span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"1\">她<rt>tā</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">深<rt>shēn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">吸<rt>xī</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby><ruby data-tone=\"4\">气<rt>qì</rt></ruby></span>，<span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"3\">踩<rt>cǎi</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"4\">下<rt>xià</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"2\">油<rt>yóu</rt></ruby><ruby data-tone=\"2\">门<rt>mén</rt></ruby></span>。<span class=\"pw\"><ruby data-tone=\"4\">夜<rt>yè</rt></ruby><ruby data-tone=\"4\">色<rt>sè</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"4\">被<rt>bèi</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"1\">劈<rt>pī</rt></ruby><ruby data-tone=\"1\">开<rt>kāi</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"1\">一<rt>yī</rt></ruby><ruby data-tone=\"4\">道<rt>dào</rt></ruby></span><span class=\"pw\" data-hsk=\"7\"><ruby data-tone=\"3\">口<rt>kǒu</rt></ruby><ruby data-tone=\"5\">子<rt>zi</rt></ruby></span>，<span class=\"pw\"><ruby data-tone=\"2\">尘<rt>chén</rt></ruby><ruby data-tone=\"1\">封<rt>fēng</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"5\">的<rt>de</rt></ruby></span><span class=\"pw\"><ruby data-tone=\"4\">案<rt>àn</rt></ruby><ruby data-tone=\"4\">卷<rt>juàn</rt></ruby></span><span class=\"pw\" data-hsk=\"3\"><ruby data-tone=\"1\">终<rt>zhōng</rt></ruby><ruby data-tone=\"2\">于<rt>yú</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">透<rt>tòu</rt></ruby></span><span class=\"pw\" data-hsk=\"2\"><ruby data-tone=\"4\">进<rt>jìn</rt></ruby></span><span class=\"pw\" data-hsk=\"1\"><ruby data-tone=\"2\">一<rt>yí</rt></ruby></span><span class=\"pw\" data-hsk=\"6\"><ruby data-tone=\"4\">线<rt>xiàn</rt></ruby></span><span class=\"pw\" data-hsk=\"4\"><ruby data-tone=\"1\">光<rt>guāng</rt></ruby></span>。</p>\n",
+  "pinyin_data": [
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "最后",
+        "p": "zuì hòu"
+      },
+      {
+        "w": "一",
+        "p": "yī"
+      },
+      {
+        "w": "箱",
+        "p": "xiāng"
+      },
+      {
+        "w": "卷宗",
+        "p": "juàn zōng"
+      },
+      {
+        "w": "拖进",
+        "p": "tuō jìn"
+      },
+      {
+        "w": "资",
+        "p": "zī"
+      },
+      {
+        "w": "料",
+        "p": "liào"
+      },
+      {
+        "w": "室",
+        "p": "shì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "灯管",
+        "p": "dēng guǎn"
+      },
+      {
+        "w": "嗡",
+        "p": "wēng"
+      },
+      {
+        "w": "嗡",
+        "p": "wēng"
+      },
+      {
+        "w": "作",
+        "p": "zuò"
+      },
+      {
+        "w": "响",
+        "p": "xiǎng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "疲倦",
+        "p": "pí juàn"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "蜜蜂",
+        "p": "mì fēng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "灰尘",
+        "p": "huī chén"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "光柱",
+        "p": "guāng zhù"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "旋转",
+        "p": "xuán zhuǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "落",
+        "p": "luò"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "藏青色",
+        "p": "zàng qīng sè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "西装",
+        "p": "xī zhuāng"
+      },
+      {
+        "w": "肩",
+        "p": "jiān"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "原本",
+        "p": "yuán běn"
+      },
+      {
+        "w": "只",
+        "p": "zhǐ"
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "为",
+        "p": "wèi"
+      },
+      {
+        "w": "年底",
+        "p": "nián dǐ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "研讨会",
+        "p": "yán tǎo huì"
+      },
+      {
+        "w": "整理",
+        "p": "zhěng lǐ"
+      },
+      {
+        "w": "十",
+        "p": "shí"
+      },
+      {
+        "w": "年前",
+        "p": "nián qián"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "典型",
+        "p": "diǎn xíng"
+      },
+      {
+        "w": "案例",
+        "p": "àn lì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "却",
+        "p": "què"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "标签",
+        "p": "biāo qiān"
+      },
+      {
+        "w": "褪色",
+        "p": "tuì sè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "纸箱",
+        "p": "zhǐ xiāng"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "摸",
+        "p": "mō"
+      },
+      {
+        "w": "到",
+        "p": "dào"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "只",
+        "p": "zhī"
+      },
+      {
+        "w": "牛皮",
+        "p": "niú pí"
+      },
+      {
+        "w": "纸袋",
+        "p": "zhǐ dài"
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "抢劫",
+        "p": "qiǎng jié"
+      },
+      {
+        "w": "致",
+        "p": "zhì"
+      },
+      {
+        "w": "人",
+        "p": "rén"
+      },
+      {
+        "w": "死亡",
+        "p": "sǐ wáng"
+      },
+      {
+        "w": "案",
+        "p": "àn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "2009年",
+        "p": "2009 nián"
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "皱眉",
+        "p": "zhòu méi"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "案子",
+        "p": "àn zi"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "记得",
+        "p": "jì de"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "深夜",
+        "p": "shēn yè"
+      },
+      {
+        "w": "便利店",
+        "p": "biàn lì diàn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "收银",
+        "p": "shōu yín"
+      },
+      {
+        "w": "女孩",
+        "p": "nǚ hái"
+      },
+      {
+        "w": "被",
+        "p": "bèi"
+      },
+      {
+        "w": "捅",
+        "p": "tǒng"
+      },
+      {
+        "w": "身亡",
+        "p": "shēn wáng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "现场",
+        "p": "xiàn chǎng"
+      },
+      {
+        "w": "指纹",
+        "p": "zhǐ wén"
+      },
+      {
+        "w": "与",
+        "p": "yǔ"
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "吻合",
+        "p": "wěn hé"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "一审",
+        "p": "yī shěn"
+      },
+      {
+        "w": "二审",
+        "p": "èr shěn"
+      },
+      {
+        "w": "都",
+        "p": "dōu"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "铁证如山",
+        "p": "tiě zhèng rú shān"
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě"
+      },
+      {
+        "w": "纸袋",
+        "p": "zhǐ dài"
+      },
+      {
+        "w": "厚",
+        "p": "hòu"
+      },
+      {
+        "w": "得",
+        "p": "de"
+      },
+      {
+        "w": "出奇",
+        "p": "chū qí"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "拆开",
+        "p": "chāi kāi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "啪",
+        "p": "pā"
+      },
+      {
+        "w": "嗒",
+        "p": "dā"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "声",
+        "p": "shēng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "张",
+        "p": "zhāng"
+      },
+      {
+        "w": "褪色",
+        "p": "tuì sè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn"
+      },
+      {
+        "w": "滑落",
+        "p": "huá luò"
+      },
+      {
+        "w": "脚",
+        "p": "jiǎo"
+      },
+      {
+        "w": "边",
+        "p": "biān"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "被",
+        "p": "bèi"
+      },
+      {
+        "w": "捕",
+        "p": "bǔ"
+      },
+      {
+        "w": "时",
+        "p": "shí"
+      },
+      {
+        "w": "抬头",
+        "p": "tái tóu"
+      },
+      {
+        "w": "望",
+        "p": "wàng"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "镜头",
+        "p": "jìng tóu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "嘴角",
+        "p": "zuǐ jiǎo"
+      },
+      {
+        "w": "竟",
+        "p": "jìng"
+      },
+      {
+        "w": "带",
+        "p": "dài"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "少年人",
+        "p": "shào nián rén"
+      },
+      {
+        "w": "倔强",
+        "p": "jué jiàng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "弧度",
+        "p": "hú dù"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "那时",
+        "p": "nà shí"
+      },
+      {
+        "w": "他",
+        "p": "tā"
+      },
+      {
+        "w": "才",
+        "p": "cái"
+      },
+      {
+        "w": "二",
+        "p": "èr"
+      },
+      {
+        "w": "十",
+        "p": "shí"
+      },
+      {
+        "w": "五",
+        "p": "wǔ"
+      },
+      {
+        "w": "岁",
+        "p": "suì"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "戴上",
+        "p": "dài shang"
+      },
+      {
+        "w": "眼镜",
+        "p": "yǎn jìng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "逐",
+        "p": "zhú"
+      },
+      {
+        "w": "页",
+        "p": "yè"
+      },
+      {
+        "w": "翻",
+        "p": "fān"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "起诉书",
+        "p": "qǐ sù shū"
+      },
+      {
+        "w": "、",
+        "p": null
+      },
+      {
+        "w": "判",
+        "p": "pàn"
+      },
+      {
+        "w": "决",
+        "p": "jué"
+      },
+      {
+        "w": "书",
+        "p": "shū"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "都",
+        "p": "dōu"
+      },
+      {
+        "w": "熟",
+        "p": "shóu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě"
+      },
+      {
+        "w": "中间",
+        "p": "zhōng jiān"
+      },
+      {
+        "w": "夹",
+        "p": "jiá"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "一",
+        "p": "yí"
+      },
+      {
+        "w": "份",
+        "p": "fèn"
+      },
+      {
+        "w": "手写",
+        "p": "shǒu xiě"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "《",
+        "p": null
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng"
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá"
+      },
+      {
+        "w": "建议",
+        "p": "jiàn yì"
+      },
+      {
+        "w": "》",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "落款",
+        "p": "luò kuǎn"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng"
+      },
+      {
+        "w": "国",
+        "p": "guó"
+      },
+      {
+        "w": "强",
+        "p": "qiáng"
+      },
+      {
+        "w": " ",
+        "p": null
+      },
+      {
+        "w": "2009",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "6",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "12",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "心跳",
+        "p": "xīn tiào"
+      },
+      {
+        "w": "快",
+        "p": "kuài"
+      },
+      {
+        "w": "半",
+        "p": "bàn"
+      },
+      {
+        "w": "拍",
+        "p": "pāi"
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng"
+      },
+      {
+        "w": "国",
+        "p": "guó"
+      },
+      {
+        "w": "强",
+        "p": "qiáng"
+      },
+      {
+        "w": "正",
+        "p": "zhèng"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "当年",
+        "p": "dāng nián"
+      },
+      {
+        "w": "负责",
+        "p": "fù zé"
+      },
+      {
+        "w": "此",
+        "p": "cǐ"
+      },
+      {
+        "w": "案",
+        "p": "àn"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "刑警",
+        "p": "xíng jǐng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "现",
+        "p": "xiàn"
+      },
+      {
+        "w": "已",
+        "p": "yǐ"
+      },
+      {
+        "w": "退休",
+        "p": "tuì xiū"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "建议",
+        "p": "jiàn yì"
+      },
+      {
+        "w": "书",
+        "p": "shū"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "写道",
+        "p": "xiě dào"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "1.",
+        "p": null
+      },
+      {
+        "w": "现场",
+        "p": "xiàn chǎng"
+      },
+      {
+        "w": "提取",
+        "p": "tí qǔ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "鞋",
+        "p": "xié"
+      },
+      {
+        "w": "印",
+        "p": "yìn"
+      },
+      {
+        "w": "为",
+        "p": "wéi"
+      },
+      {
+        "w": "四",
+        "p": "sì"
+      },
+      {
+        "w": "十",
+        "p": "shí"
+      },
+      {
+        "w": "二",
+        "p": "èr"
+      },
+      {
+        "w": "码",
+        "p": "mǎ"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "嫌疑人",
+        "p": "xián yí rén"
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "脚",
+        "p": "jiǎo"
+      },
+      {
+        "w": "码",
+        "p": "mǎ"
+      },
+      {
+        "w": "四十",
+        "p": "sì shí"
+      },
+      {
+        "w": "；",
+        "p": null
+      },
+      {
+        "w": "2",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "监控",
+        "p": "jiān kòng"
+      },
+      {
+        "w": "时间轴",
+        "p": "shí jiān zhóu"
+      },
+      {
+        "w": "与",
+        "p": "yǔ"
+      },
+      {
+        "w": "证人",
+        "p": "zhèng rén"
+      },
+      {
+        "w": "证言",
+        "p": "zhèng yán"
+      },
+      {
+        "w": "存在",
+        "p": "cún zài"
+      },
+      {
+        "w": "十一",
+        "p": "shí yī"
+      },
+      {
+        "w": "分钟",
+        "p": "fēn zhōng"
+      },
+      {
+        "w": "空白",
+        "p": "kòng bái"
+      },
+      {
+        "w": "；",
+        "p": null
+      },
+      {
+        "w": "3",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "嫌疑人",
+        "p": "xián yí rén"
+      },
+      {
+        "w": "右手",
+        "p": "yòu shǒu"
+      },
+      {
+        "w": "臂",
+        "p": "bì"
+      },
+      {
+        "w": "无",
+        "p": "wú"
+      },
+      {
+        "w": "喷溅",
+        "p": "pēn jiàn"
+      },
+      {
+        "w": "血",
+        "p": "xiě"
+      },
+      {
+        "w": "点",
+        "p": "diǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "与",
+        "p": "yǔ"
+      },
+      {
+        "w": "捅",
+        "p": "tǒng"
+      },
+      {
+        "w": "刺",
+        "p": "cì"
+      },
+      {
+        "w": "动作",
+        "p": "dòng zuò"
+      },
+      {
+        "w": "不符",
+        "p": "bù fú"
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "合",
+        "p": "hé"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "纸",
+        "p": "zhǐ"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "指尖",
+        "p": "zhǐ jiān"
+      },
+      {
+        "w": "冰凉",
+        "p": "bīng liáng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "这",
+        "p": "zhè"
+      },
+      {
+        "w": "份",
+        "p": "fèn"
+      },
+      {
+        "w": "文件",
+        "p": "wén jiàn"
+      },
+      {
+        "w": "从未",
+        "p": "cóng wèi"
+      },
+      {
+        "w": "出现",
+        "p": "chū xiàn"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "法庭",
+        "p": "fǎ tíng"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "空调",
+        "p": "kōng tiáo"
+      },
+      {
+        "w": "突然",
+        "p": "tū rán"
+      },
+      {
+        "w": "嗡",
+        "p": "wēng"
+      },
+      {
+        "w": "地",
+        "p": "dì"
+      },
+      {
+        "w": "启动",
+        "p": "qǐ dòng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "冷",
+        "p": "lěng"
+      },
+      {
+        "w": "风",
+        "p": "fēng"
+      },
+      {
+        "w": "卷起",
+        "p": "juǎn qǐ"
+      },
+      {
+        "w": "纸",
+        "p": "zhǐ"
+      },
+      {
+        "w": "角",
+        "p": "jiǎo"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "耳",
+        "p": "ěr"
+      },
+      {
+        "w": "边",
+        "p": "biān"
+      },
+      {
+        "w": "催促",
+        "p": "cuī cù"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "掏出",
+        "p": "tāo chū"
+      },
+      {
+        "w": "手机",
+        "p": "shǒu jī"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "拨",
+        "p": "bō"
+      },
+      {
+        "w": "所",
+        "p": "suǒ"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "档",
+        "p": "dàng"
+      },
+      {
+        "w": "案",
+        "p": "àn"
+      },
+      {
+        "w": "室",
+        "p": "shì"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "内",
+        "p": "nèi"
+      },
+      {
+        "w": "线",
+        "p": "xiàn"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "小",
+        "p": "xiǎo"
+      },
+      {
+        "w": "顾",
+        "p": "gù"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "帮",
+        "p": "bāng"
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "调",
+        "p": "diào"
+      },
+      {
+        "w": "二",
+        "p": "èr"
+      },
+      {
+        "w": "〇",
+        "p": "líng"
+      },
+      {
+        "w": "〇",
+        "p": "líng"
+      },
+      {
+        "w": "九",
+        "p": "jiǔ"
+      },
+      {
+        "w": "年",
+        "p": "nián"
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "案",
+        "p": "àn"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "全部",
+        "p": "quán bù"
+      },
+      {
+        "w": "原始",
+        "p": "yuán shǐ"
+      },
+      {
+        "w": "卷宗",
+        "p": "juàn zōng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "包括",
+        "p": "bāo kuò"
+      },
+      {
+        "w": "公安",
+        "p": "gōng ān"
+      },
+      {
+        "w": "移送",
+        "p": "yí sòng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "副",
+        "p": "fù"
+      },
+      {
+        "w": "卷",
+        "p": "juàn"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "半",
+        "p": "bàn"
+      },
+      {
+        "w": "小时",
+        "p": "xiǎo shí"
+      },
+      {
+        "w": "后",
+        "p": "hòu"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī"
+      },
+      {
+        "w": "抱",
+        "p": "bào"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "更",
+        "p": "gèng"
+      },
+      {
+        "w": "厚",
+        "p": "hòu"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "文件夹",
+        "p": "wén jiàn jiā"
+      },
+      {
+        "w": "冲",
+        "p": "chōng"
+      },
+      {
+        "w": "进来",
+        "p": "jìn lái"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "额头",
+        "p": "é tóu"
+      },
+      {
+        "w": "全",
+        "p": "quán"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "汗",
+        "p": "hàn"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "姚",
+        "p": "yáo"
+      },
+      {
+        "w": "姐",
+        "p": "jiě"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "副",
+        "p": "fù"
+      },
+      {
+        "w": "卷",
+        "p": "juàn"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "真的",
+        "p": "zhēn de"
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu"
+      },
+      {
+        "w": "这",
+        "p": "zhè"
+      },
+      {
+        "w": "份",
+        "p": "fèn"
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng"
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě"
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "公安",
+        "p": "gōng ān"
+      },
+      {
+        "w": "归档",
+        "p": "guī dàng"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "找到",
+        "p": "zhǎo dào"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "影",
+        "p": "yǐng"
+      },
+      {
+        "w": "印",
+        "p": "yìn"
+      },
+      {
+        "w": "件",
+        "p": "jiàn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "盖",
+        "p": "gài"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "骑",
+        "p": "qí"
+      },
+      {
+        "w": "缝",
+        "p": "fèng"
+      },
+      {
+        "w": "章",
+        "p": "zhāng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "U盘",
+        "p": "U pán"
+      },
+      {
+        "w": "插进",
+        "p": "chā jìn"
+      },
+      {
+        "w": "笔记本",
+        "p": "bǐ jì běn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "屏幕",
+        "p": "píng mù"
+      },
+      {
+        "w": "跳出",
+        "p": "tiào chū"
+      },
+      {
+        "w": "扫",
+        "p": "sǎo"
+      },
+      {
+        "w": "描",
+        "p": "miáo"
+      },
+      {
+        "w": "件",
+        "p": "jiàn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "红",
+        "p": "hóng"
+      },
+      {
+        "w": "章",
+        "p": "zhāng"
+      },
+      {
+        "w": "清晰",
+        "p": "qīng xī"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "东",
+        "p": "dōng"
+      },
+      {
+        "w": "浦",
+        "p": "pǔ"
+      },
+      {
+        "w": "公",
+        "p": "gōng"
+      },
+      {
+        "w": "安",
+        "p": "ān"
+      },
+      {
+        "w": "分",
+        "p": "fēn"
+      },
+      {
+        "w": "局",
+        "p": "jú"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "盯",
+        "p": "dīng"
+      },
+      {
+        "w": "着",
+        "p": "zhe"
+      },
+      {
+        "w": "屏幕",
+        "p": "píng mù"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn"
+      },
+      {
+        "w": "低",
+        "p": "dī"
+      },
+      {
+        "w": "却",
+        "p": "què"
+      },
+      {
+        "w": "稳",
+        "p": "wěn"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这",
+        "p": "zhè"
+      },
+      {
+        "w": "意味着",
+        "p": "yì wèi zhe"
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "对",
+        "p": "duì"
+      },
+      {
+        "w": "被告",
+        "p": "bèi gào"
+      },
+      {
+        "w": "有利",
+        "p": "yǒu lì"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "证据",
+        "p": "zhèng jù"
+      },
+      {
+        "w": "藏",
+        "p": "cáng"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī"
+      },
+      {
+        "w": "舔",
+        "p": "tiǎn"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "舔",
+        "p": "tiǎn"
+      },
+      {
+        "w": "干裂",
+        "p": "gān liè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "嘴唇",
+        "p": "zuǐ chún"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "十",
+        "p": "shí"
+      },
+      {
+        "w": "五",
+        "p": "wǔ"
+      },
+      {
+        "w": "年",
+        "p": "nián"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "过",
+        "p": "guò"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "申诉",
+        "p": "shēn sù"
+      },
+      {
+        "w": "期",
+        "p": "qí"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "咱们",
+        "p": "zán men"
+      },
+      {
+        "w": "还",
+        "p": "hái"
+      },
+      {
+        "w": "来得及",
+        "p": "lái de jí"
+      },
+      {
+        "w": "吗",
+        "p": "ma"
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "没",
+        "p": "méi"
+      },
+      {
+        "w": "回答",
+        "p": "huí dá"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "只",
+        "p": "zhǐ"
+      },
+      {
+        "w": "取",
+        "p": "qǔ"
+      },
+      {
+        "w": "下",
+        "p": "xià"
+      },
+      {
+        "w": "西装",
+        "p": "xī zhuāng"
+      },
+      {
+        "w": "外套",
+        "p": "wài tào"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "搭",
+        "p": "dā"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "椅背",
+        "p": "yǐ bèi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "卷起",
+        "p": "juǎn qǐ"
+      },
+      {
+        "w": "衬衫",
+        "p": "chèn shān"
+      },
+      {
+        "w": "袖子",
+        "p": "xiù zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "准备",
+        "p": "zhǔn bèi"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "擂台",
+        "p": "lèi tái"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "灯",
+        "p": "dēng"
+      },
+      {
+        "w": "下",
+        "p": "xià"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "尘埃",
+        "p": "chén āi"
+      },
+      {
+        "w": "安静",
+        "p": "ān jìng"
+      },
+      {
+        "w": "落下",
+        "p": "luò xià"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "时间",
+        "p": "shí jiān"
+      },
+      {
+        "w": "仿佛",
+        "p": "fǎng fú"
+      },
+      {
+        "w": "被",
+        "p": "bèi"
+      },
+      {
+        "w": "折叠",
+        "p": "zhé dié"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "想起",
+        "p": "xiǎng qǐ"
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing"
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "黑白分明",
+        "p": "hēi bái fēn míng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu"
+      },
+      {
+        "w": "闪躲",
+        "p": "shǎn duǒ"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "那",
+        "p": "nà"
+      },
+      {
+        "w": "不是",
+        "p": "bú shi"
+      },
+      {
+        "w": "一个",
+        "p": "yí gè"
+      },
+      {
+        "w": "刚",
+        "p": "gāng"
+      },
+      {
+        "w": "杀",
+        "p": "shā"
+      },
+      {
+        "w": "完人",
+        "p": "wán rén"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "眼神",
+        "p": "yǎn shén"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "去",
+        "p": "qù"
+      },
+      {
+        "w": "预约",
+        "p": "yù yuē"
+      },
+      {
+        "w": "监狱",
+        "p": "jiān yù"
+      },
+      {
+        "w": "会见",
+        "p": "huì jiàn"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "轻声",
+        "p": "qīng shēng"
+      },
+      {
+        "w": "说",
+        "p": "shuō"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "越",
+        "p": "yuè"
+      },
+      {
+        "w": "快",
+        "p": "kuài"
+      },
+      {
+        "w": "越",
+        "p": "yuè"
+      },
+      {
+        "w": "好",
+        "p": "hǎo"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī"
+      },
+      {
+        "w": "愣",
+        "p": "lèng"
+      },
+      {
+        "w": "住",
+        "p": "zhù"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "您",
+        "p": "nín"
+      },
+      {
+        "w": "真",
+        "p": "zhēn"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "重查",
+        "p": "chóng chá"
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "所",
+        "p": "suǒ"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "明年",
+        "p": "míng nián"
+      },
+      {
+        "w": "要冲",
+        "p": "yào chōng"
+      },
+      {
+        "w": "全国",
+        "p": "quán guó"
+      },
+      {
+        "w": "优秀",
+        "p": "yōu xiù"
+      },
+      {
+        "w": "刑",
+        "p": "xíng"
+      },
+      {
+        "w": "辩",
+        "p": "biàn"
+      },
+      {
+        "w": "团队",
+        "p": "tuán duì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "翻",
+        "p": "fān"
+      },
+      {
+        "w": "这种",
+        "p": "zhè zhǒng"
+      },
+      {
+        "w": "陈年",
+        "p": "chén nián"
+      },
+      {
+        "w": "老",
+        "p": "lǎo"
+      },
+      {
+        "w": "案",
+        "p": "àn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "万一",
+        "p": "wàn yī"
+      },
+      {
+        "w": "翻",
+        "p": "fān"
+      },
+      {
+        "w": "不",
+        "p": "bù"
+      },
+      {
+        "w": "动",
+        "p": "dòng"
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn"
+      },
+      {
+        "w": "夹",
+        "p": "jiá"
+      },
+      {
+        "w": "进",
+        "p": "jìn"
+      },
+      {
+        "w": "活",
+        "p": "huó"
+      },
+      {
+        "w": "页",
+        "p": "yè"
+      },
+      {
+        "w": "夹",
+        "p": "jiá"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "啪",
+        "p": "pā"
+      },
+      {
+        "w": "地",
+        "p": "dì"
+      },
+      {
+        "w": "合上",
+        "p": "hé shàng"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "优秀",
+        "p": "yōu xiù"
+      },
+      {
+        "w": "不是",
+        "p": "bú shi"
+      },
+      {
+        "w": "靠",
+        "p": "kào"
+      },
+      {
+        "w": "挑",
+        "p": "tiāo"
+      },
+      {
+        "w": "软",
+        "p": "ruǎn"
+      },
+      {
+        "w": "柿子",
+        "p": "shì zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "靠",
+        "p": "kào"
+      },
+      {
+        "w": "把",
+        "p": "bǎ"
+      },
+      {
+        "w": "烂",
+        "p": "làn"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "泥",
+        "p": "ní"
+      },
+      {
+        "w": "里",
+        "p": "lǐ"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "真",
+        "p": "zhēn"
+      },
+      {
+        "w": "相",
+        "p": "xiàng"
+      },
+      {
+        "w": "抠",
+        "p": "kōu"
+      },
+      {
+        "w": "出来",
+        "p": "chū lái"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "抬",
+        "p": "tái"
+      },
+      {
+        "w": "眼",
+        "p": "yǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "眸",
+        "p": "móu"
+      },
+      {
+        "w": "色",
+        "p": "sè"
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "深夜",
+        "p": "shēn yè"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "河",
+        "p": "hé"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "迟到",
+        "p": "chí dào"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "正义",
+        "p": "zhèng yì"
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "正义",
+        "p": "zhèng yì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "再",
+        "p": "zài"
+      },
+      {
+        "w": "晚",
+        "p": "wǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "也",
+        "p": "yě"
+      },
+      {
+        "w": "要",
+        "p": "yào"
+      },
+      {
+        "w": "发车",
+        "p": "fā chē"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "凌晨",
+        "p": "líng chén"
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "走",
+        "p": "zǒu"
+      },
+      {
+        "w": "出",
+        "p": "chū"
+      },
+      {
+        "w": "律",
+        "p": "lǜ"
+      },
+      {
+        "w": "所",
+        "p": "suǒ"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "城市",
+        "p": "chéng shì"
+      },
+      {
+        "w": "灯火",
+        "p": "dēng huǒ"
+      },
+      {
+        "w": "在",
+        "p": "zài"
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "车窗",
+        "p": "chē chuāng"
+      },
+      {
+        "w": "上",
+        "p": "shàng"
+      },
+      {
+        "w": "拉",
+        "p": "lā"
+      },
+      {
+        "w": "出",
+        "p": "chū"
+      },
+      {
+        "w": "长",
+        "p": "cháng"
+      },
+      {
+        "w": "长",
+        "p": "cháng"
+      },
+      {
+        "w": "霓虹",
+        "p": "ní hóng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng"
+      },
+      {
+        "w": "无数",
+        "p": "wú shù"
+      },
+      {
+        "w": "未",
+        "p": "wèi"
+      },
+      {
+        "w": "完成",
+        "p": "wán chéng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "诉状",
+        "p": "sù zhuàng"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "等",
+        "p": "děng"
+      },
+      {
+        "w": "红灯",
+        "p": "hóng dēng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "间隙",
+        "p": "jiàn xì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "给",
+        "p": "gěi"
+      },
+      {
+        "w": "方警官",
+        "p": "fāng jǐng guān"
+      },
+      {
+        "w": "发",
+        "p": "fā"
+      },
+      {
+        "w": "了",
+        "p": "le"
+      },
+      {
+        "w": "一",
+        "p": "yì"
+      },
+      {
+        "w": "条",
+        "p": "tiáo"
+      },
+      {
+        "w": "短信",
+        "p": "duǎn xìn"
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng"
+      },
+      {
+        "w": "队",
+        "p": "duì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ"
+      },
+      {
+        "w": "是",
+        "p": "shì"
+      },
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "想",
+        "p": "xiǎng"
+      },
+      {
+        "w": "跟",
+        "p": "gēn"
+      },
+      {
+        "w": "您",
+        "p": "nín"
+      },
+      {
+        "w": "聊",
+        "p": "liáo"
+      },
+      {
+        "w": "聊",
+        "p": "liáo"
+      },
+      {
+        "w": "十五",
+        "p": "shí wǔ"
+      },
+      {
+        "w": "年前",
+        "p": "nián qián"
+      },
+      {
+        "w": "您",
+        "p": "nín"
+      },
+      {
+        "w": "写",
+        "p": "xiě"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "那",
+        "p": "nà"
+      },
+      {
+        "w": "份",
+        "p": "fèn"
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng"
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "明早",
+        "p": "míng zǎo"
+      },
+      {
+        "w": "九",
+        "p": "jiǔ"
+      },
+      {
+        "w": "点",
+        "p": "diǎn"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "老",
+        "p": "lǎo"
+      },
+      {
+        "w": "地方",
+        "p": "dì fāng"
+      },
+      {
+        "w": "豆",
+        "p": "dòu"
+      },
+      {
+        "w": "浆",
+        "p": "jiāng"
+      },
+      {
+        "w": "店",
+        "p": "diàn"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "发送",
+        "p": "fā sòng"
+      },
+      {
+        "w": "成功",
+        "p": "chéng gōng"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā"
+      },
+      {
+        "w": "深",
+        "p": "shēn"
+      },
+      {
+        "w": "吸",
+        "p": "xī"
+      },
+      {
+        "w": "一口气",
+        "p": "yī kǒu qì"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "踩",
+        "p": "cǎi"
+      },
+      {
+        "w": "下",
+        "p": "xià"
+      },
+      {
+        "w": "油门",
+        "p": "yóu mén"
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "夜色",
+        "p": "yè sè"
+      },
+      {
+        "w": "被",
+        "p": "bèi"
+      },
+      {
+        "w": "劈开",
+        "p": "pī kāi"
+      },
+      {
+        "w": "一道",
+        "p": "yī dào"
+      },
+      {
+        "w": "口子",
+        "p": "kǒu zi"
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "尘封",
+        "p": "chén fēng"
+      },
+      {
+        "w": "的",
+        "p": "de"
+      },
+      {
+        "w": "案卷",
+        "p": "àn juàn"
+      },
+      {
+        "w": "终于",
+        "p": "zhōng yú"
+      },
+      {
+        "w": "透",
+        "p": "tòu"
+      },
+      {
+        "w": "进",
+        "p": "jìn"
+      },
+      {
+        "w": "一",
+        "p": "yí"
+      },
+      {
+        "w": "线",
+        "p": "xiàn"
+      },
+      {
+        "w": "光",
+        "p": "guāng"
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ]
+  ],
+  "translation_data_vi": {
+    "姚雅文把最后一箱卷宗拖进资料室，灯管嗡嗡作响，像疲倦的蜜蜂。": "Diệu Nhã Văn kéo chiếc hộp hồ sơ cuối cùng vào phòng lưu trữ, những ống đèn huỳnh quang vo ve như những con ong mệt mỏi.",
+    "灰尘在光柱里旋转，落在她藏青色的西装肩上。": "Bụi bay xoáy trong những tia sáng, đọng lại trên vai chiếc áo khoác vest màu xanh nước biển của cô.",
+    "她原本只想为年底的研讨会整理十年前的典型案例，却在标签褪色的纸箱里摸到一只牛皮纸袋——沈建国抢劫致人死亡案，2009年。": "Ban đầu cô chỉ định tổ chức những vụ án điển hình từ mười năm trước cho hội thảo cuối năm, nhưng trong một chiếc hộp bìa cứng nhãn mác đã phai màu, tay cô chạm phải một phong bì giấy kraft—vụ án Thẩm Kiến Quốc, cướp dẫn đến tử vong, năm 2009.",
+    "她皱眉。": "Cô cau mày.",
+    "案子她记得：深夜便利店，收银女孩被捅身亡，现场指纹与沈建国吻合，一审二审都是铁证如山，可纸袋厚得出奇。": "Cô nhớ lại vụ án: một cửa hàng tiện lợi lúc đêm khuya, một cô thu ngân bị đâm chết, dấu vân tay tại hiện trường trùng khớp với Thẩm Kiến Quốc, bằng chứng trong cả phiên tòa thứ nhất và thứ hai đều được bọc sắt, nhưng phong bì lại dày bất thường.",
+    "她拆开，啪嗒一声，一张褪色的照片滑落脚边：沈建国被捕时抬头望着镜头，嘴角竟带着少年人倔强的弧度。": "Cô mở nó ra; với một tiếng thịch nhẹ, một bức ảnh mờ nhạt trượt xuống sàn dưới chân cô: Thẩm Kiến Quốc nhìn lên máy ảnh lúc bị bắt, khóe miệng thực sự đang giữ đường cong bướng bỉnh của một thanh niên.",
+    "那时他才二十五岁。": "Lúc đó anh mới hai mươi lăm tuổi.",
+    "姚雅文戴上眼镜，逐页翻。": "Diệu Nhã Văn đeo kính vào và bắt đầu lật từng trang.",
+    "起诉书、判决书她都熟，可中间夹着一份手写的《补充侦查建议》，落款是方国强2009.6.12。": "Cô đã quen thuộc với bản cáo trạng và bản án, nhưng kẹp giữa chúng là một bản viết tay “Khuyến nghị điều tra bổ sung”, do Phương Quốc Cường ký ngày 12 tháng 6 năm 2009.",
+    "她心跳快半拍——方国强正是当年负责此案的刑警，现已退休。": "Tim cô lỡ nhịp - Phương Quốc Cường chính xác là cảnh sát phụ trách vụ án hồi đó, hiện đã nghỉ hưu.",
+    "建议书里写道：1.现场提取的鞋印为四十二码，嫌疑人沈建国脚码四十；2.监控时间轴与证人证言存在十一分钟空白；3.嫌疑人右手臂无喷溅血点，与捅刺动作不符……": "Kiến nghị nêu rõ: 1. Dấu giày lấy được từ hiện trường có kích thước 42; nghi phạm Shen Jianguo mặc cỡ 40. 2. Có khoảng cách 11 phút giữa dòng thời gian giám sát và lời khai của nhân chứng. 3. Cánh tay phải của nghi phạm không có vết máu, không phù hợp với động tác đâm…",
+    "她合上纸，指尖冰凉。": "Cô đóng tờ giấy lại, đầu ngón tay lạnh ngắt.",
+    "这份文件从未出现在法庭。": "Tài liệu này chưa bao giờ xuất hiện trước tòa.",
+    "空调突然嗡地启动，冷风卷起纸角，像有人在耳边催促。": "Máy điều hòa bỗng nhiên kêu vo vo, gió lạnh vén góc tờ giấy lên, như có ai đó đang thúc giục cô bên tai.",
+    "姚雅文掏出手机，拨所里档案室的内线：小顾，帮我调二〇〇九年沈建国案的全部原始卷宗，包括公安移送的副卷。": "Diêu Á Văn lấy điện thoại ra, bấm số nội bộ đến phòng lưu trữ của công ty: “Tiểu Cốt, giúp tôi lấy lại toàn bộ hồ sơ vụ án gốc của vụ án Thẩm Kiến Quốc năm 2009, bao gồm cả hồ sơ bổ sung do cục công an chuyển đến.”",
+    "半小时后，顾律师抱着更厚的文件夹冲进来，额头全是汗：姚姐，副卷里真的没有这份补充侦查，可我在公安归档里找到了影印件，盖了骑缝章。": "Nửa giờ sau, Luật sư Cố vội vàng mang theo một tập tài liệu còn dày hơn, trán lấm tấm mồ hôi: “Chị Diêu, cuộc điều tra bổ sung đó thật sự không có trong hồ sơ bổ sung, nhưng tôi tìm thấy một bản sao ở kho lưu trữ công an, có đóng dấu.”",
+    "他把U盘插进笔记本，屏幕跳出扫描件，红章清晰：东浦公安分局。": "Anh cắm ổ USB vào máy tính xách tay; tài liệu được quét xuất hiện trên màn hình, con dấu màu đỏ rõ ràng: Chi cục Công an Dongpu.",
+    "姚雅文盯着屏幕，声音低却稳：这意味着有人把对被告有利的证据藏了起来。": "Diệu Nhã Văn nhìn chằm chằm vào màn hình, giọng nói trầm nhưng kiên định: “Điều này có nghĩa là ai đó đã giấu chứng cứ có lợi cho bị cáo.”",
+    "顾律师舔了舔干裂的嘴唇：十五年，过了申诉期，咱们还来得及吗？": "Luật sư Cố liếm đôi môi nứt nẻ: \"Mười lăm năm, thời hạn kháng cáo đã kết thúc, chúng ta còn kịp không?\"",
+    "她没回答，只取下西装外套，搭在椅背，卷起衬衫袖子，像准备上擂台。": "Cô không trả lời, chỉ cởi áo khoác vest, vắt lên lưng ghế rồi xắn tay áo sơ mi lên, như chuẩn bị bước vào võ đài.",
+    "灯下的尘埃安静落下，时间仿佛被折叠。": "Bụi dưới ánh đèn lặng lẽ lắng xuống, thời gian dường như tự cuộn lại.",
+    "她想起照片里沈建国的眼睛——黑白分明，没有闪躲。": "Cô nhớ tới đôi mắt của Thẩm Kiến Quốc trong bức ảnh – đen trắng trong suốt, không hề trốn tránh.",
+    "那不是一个刚杀完人的眼神。": "Đó không phải là vẻ mặt của một người vừa giết người.",
+    "去预约监狱会见。": "\"Lên lịch thăm nhà tù.\"",
+    "她轻声说，越快越好。": "Cô nhẹ nhàng nói: “Càng sớm càng tốt.”",
+    "顾律师愣住：您真要重查？": "Luật sư Cố sửng sốt: “Anh thật sự định tái điều tra à?”",
+    "所里明年要冲全国优秀刑辩团队，翻这种陈年老案，万一翻不动……": "\"Công ty đang nhắm đến đội bào chữa tội phạm xuất sắc quốc gia vào năm tới. Nếu chúng ta đào lại một vụ án cũ như vậy mà không lật ngược được...\"",
+    "姚雅文把照片夹进活页夹，啪地合上：优秀不是靠挑软柿子，是靠把烂在泥里的真相抠出来。": "Diệu Nhã Văn nhét bức ảnh vào một cuốn sổ và đóng nó lại: \"Sự xuất sắc không đạt được bằng cách chọn những mục tiêu mềm mại, nó đạt được bằng cách đào ra sự thật đã mục nát trong bùn.\"",
+    "她抬眼，眸色像深夜的河，迟到的正义也是正义，再晚，也要发车。": "Cô ngước lên, màu mắt như dòng sông lúc nửa đêm: \"Công lý bị trì hoãn vẫn là công lý. Dù muộn thế nào, tàu cũng phải khởi hành.\"",
+    "凌晨一点，她走出律所。": "Lúc một giờ sáng, cô bước ra khỏi công ty luật.",
+    "城市灯火在她车窗上拉出长长霓虹，像无数未完成的诉状。": "Ánh đèn thành phố trải dài thành những vệt neon dài trên cửa sổ xe của cô, giống như vô số lời thỉnh cầu còn dang dở.",
+    "她等红灯的间隙，给方警官发了一条短信：方队，我是姚雅文，想跟您聊聊十五年前您写的那份补充侦查。": "Khi đang chờ đèn đỏ, cô đã gửi tin nhắn cho sĩ quan Fang: \"Đội trưởng Fang, đây là Diệu Nhã Văn. Tôi muốn nói chuyện với anh về cuộc điều tra bổ sung mà anh đã viết mười lăm năm trước.\"",
+    "明早九点，老地方豆浆店。": "“Chín giờ sáng mai, quán sữa đậu nành như thường lệ.”",
+    "发送成功，她深吸一口气，踩下油门。": "Sau khi gửi tin nhắn thành công, cô hít một hơi thật sâu rồi nhấn ga.",
+    "夜色被劈开一道口子，尘封的案卷终于透进一线光。": "Màn đêm bị xé toạc bởi một vết nứt, và một tia sáng cuối cùng xuyên qua những tập hồ sơ phủ đầy bụi."
+  },
+  "timestamps": [
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 1.5,
+        "e": 2.09
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 2.09,
+        "e": 2.24
+      },
+      {
+        "w": "最后",
+        "p": "zuì hòu",
+        "s": 2.24,
+        "e": 2.6
+      },
+      {
+        "w": "一",
+        "p": "yī",
+        "s": 2.6,
+        "e": 2.68
+      },
+      {
+        "w": "箱",
+        "p": "xiāng",
+        "s": 2.68,
+        "e": 2.9
+      },
+      {
+        "w": "卷宗",
+        "p": "juàn zōng",
+        "s": 2.9,
+        "e": 3.38
+      },
+      {
+        "w": "拖进",
+        "p": "tuō jìn",
+        "s": 3.38,
+        "e": 3.76
+      },
+      {
+        "w": "资",
+        "p": "zī",
+        "s": 3.76,
+        "e": 3.9
+      },
+      {
+        "w": "料",
+        "p": "liào",
+        "s": 3.9,
+        "e": 4.05
+      },
+      {
+        "w": "室",
+        "p": "shì",
+        "s": 4.05,
+        "e": 4.29
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "灯管",
+        "p": "dēng guǎn",
+        "s": 4.68,
+        "e": 5.24
+      },
+      {
+        "w": "嗡",
+        "p": "wēng",
+        "s": 5.24,
+        "e": 5.45
+      },
+      {
+        "w": "嗡",
+        "p": "wēng",
+        "s": 5.45,
+        "e": 5.62
+      },
+      {
+        "w": "作",
+        "p": "zuò",
+        "s": 5.62,
+        "e": 5.8
+      },
+      {
+        "w": "响",
+        "p": "xiǎng",
+        "s": 5.8,
+        "e": 6.02
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 6.28,
+        "e": 6.52
+      },
+      {
+        "w": "疲倦",
+        "p": "pí juàn",
+        "s": 6.52,
+        "e": 6.91
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 6.91,
+        "e": 6.98
+      },
+      {
+        "w": "蜜蜂",
+        "p": "mì fēng",
+        "s": 6.98,
+        "e": 7.43
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "灰尘",
+        "p": "huī chén",
+        "s": 7.43,
+        "e": 7.95
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 8.02,
+        "e": 8.17
+      },
+      {
+        "w": "光柱",
+        "p": "guāng zhù",
+        "s": 8.17,
+        "e": 8.57
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 8.57,
+        "e": 8.65
+      },
+      {
+        "w": "旋转",
+        "p": "xuán zhuǎn",
+        "s": 8.65,
+        "e": 9.17
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "落",
+        "p": "luò",
+        "s": 9.46,
+        "e": 9.62
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 9.62,
+        "e": 9.74
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 9.74,
+        "e": 9.95
+      },
+      {
+        "w": "藏青色",
+        "p": "zàng qīng sè",
+        "s": 9.95,
+        "e": 10.78
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 10.78,
+        "e": 10.9
+      },
+      {
+        "w": "西装",
+        "p": "xī zhuāng",
+        "s": 10.9,
+        "e": 11.44
+      },
+      {
+        "w": "肩",
+        "p": "jiān",
+        "s": 11.44,
+        "e": 11.7
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 11.7,
+        "e": 11.9
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 12.24,
+        "e": 12.37
+      },
+      {
+        "w": "原本",
+        "p": "yuán běn",
+        "s": 12.37,
+        "e": 12.78
+      },
+      {
+        "w": "只",
+        "p": "zhǐ",
+        "s": 12.78,
+        "e": 12.89
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 12.89,
+        "e": 13.09
+      },
+      {
+        "w": "为",
+        "p": "wèi",
+        "s": 13.09,
+        "e": 13.2
+      },
+      {
+        "w": "年底",
+        "p": "nián dǐ",
+        "s": 13.2,
+        "e": 13.56
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 13.56,
+        "e": 13.66
+      },
+      {
+        "w": "研讨会",
+        "p": "yán tǎo huì",
+        "s": 13.66,
+        "e": 14.3
+      },
+      {
+        "w": "整理",
+        "p": "zhěng lǐ",
+        "s": 14.46,
+        "e": 14.74
+      },
+      {
+        "w": "十",
+        "p": "shí",
+        "s": 14.74,
+        "e": 14.94
+      },
+      {
+        "w": "年前",
+        "p": "nián qián",
+        "s": 14.94,
+        "e": 15.37
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 15.37,
+        "e": 15.45
+      },
+      {
+        "w": "典型",
+        "p": "diǎn xíng",
+        "s": 15.45,
+        "e": 15.88
+      },
+      {
+        "w": "案例",
+        "p": "àn lì",
+        "s": 15.88,
+        "e": 16.28
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "却",
+        "p": "què",
+        "s": 16.58,
+        "e": 16.71
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 16.71,
+        "e": 16.85
+      },
+      {
+        "w": "标签",
+        "p": "biāo qiān",
+        "s": 16.85,
+        "e": 17.32
+      },
+      {
+        "w": "褪色",
+        "p": "tuì sè",
+        "s": 17.32,
+        "e": 17.69
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 17.69,
+        "e": 17.78
+      },
+      {
+        "w": "纸箱",
+        "p": "zhǐ xiāng",
+        "s": 17.78,
+        "e": 18.25
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 18.25,
+        "e": 18.4
+      },
+      {
+        "w": "摸",
+        "p": "mō",
+        "s": 18.5,
+        "e": 18.67
+      },
+      {
+        "w": "到",
+        "p": "dào",
+        "s": 18.67,
+        "e": 18.81
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 18.81,
+        "e": 18.95
+      },
+      {
+        "w": "只",
+        "p": "zhī",
+        "s": 18.95,
+        "e": 19.11
+      },
+      {
+        "w": "牛皮",
+        "p": "niú pí",
+        "s": 19.11,
+        "e": 19.59
+      },
+      {
+        "w": "纸袋",
+        "p": "zhǐ dài",
+        "s": 19.59,
+        "e": 20.09
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 20.41,
+        "e": 21.09
+      },
+      {
+        "w": "抢劫",
+        "p": "qiǎng jié",
+        "s": 21.09,
+        "e": 21.61
+      },
+      {
+        "w": "致",
+        "p": "zhì",
+        "s": 21.61,
+        "e": 21.75
+      },
+      {
+        "w": "人",
+        "p": "rén",
+        "s": 21.75,
+        "e": 21.95
+      },
+      {
+        "w": "死亡",
+        "p": "sǐ wáng",
+        "s": 21.95,
+        "e": 22.35
+      },
+      {
+        "w": "案",
+        "p": "àn",
+        "s": 22.35,
+        "e": 22.58
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "2009年",
+        "p": "2009 nián",
+        "s": 22.77,
+        "e": 23.85
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 24.4,
+        "e": 24.52
+      },
+      {
+        "w": "皱眉",
+        "p": "zhòu méi",
+        "s": 24.52,
+        "e": 25.03
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "案子",
+        "p": "àn zi",
+        "s": 25.36,
+        "e": 25.79
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 25.83,
+        "e": 25.97
+      },
+      {
+        "w": "记得",
+        "p": "jì de",
+        "s": 25.97,
+        "e": 26.4
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "深夜",
+        "p": "shēn yè",
+        "s": 26.59,
+        "e": 27.04
+      },
+      {
+        "w": "便利店",
+        "p": "biàn lì diàn",
+        "s": 27.04,
+        "e": 27.63
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "收银",
+        "p": "shōu yín",
+        "s": 27.63,
+        "e": 28.07
+      },
+      {
+        "w": "女孩",
+        "p": "nǚ hái",
+        "s": 28.07,
+        "e": 28.44
+      },
+      {
+        "w": "被",
+        "p": "bèi",
+        "s": 28.44,
+        "e": 28.68
+      },
+      {
+        "w": "捅",
+        "p": "tǒng",
+        "s": 28.68,
+        "e": 28.91
+      },
+      {
+        "w": "身亡",
+        "p": "shēn wáng",
+        "s": 28.91,
+        "e": 29.45
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "现场",
+        "p": "xiàn chǎng",
+        "s": 29.75,
+        "e": 30.2
+      },
+      {
+        "w": "指纹",
+        "p": "zhǐ wén",
+        "s": 30.2,
+        "e": 30.63
+      },
+      {
+        "w": "与",
+        "p": "yǔ",
+        "s": 30.66,
+        "e": 30.79
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 30.79,
+        "e": 31.43
+      },
+      {
+        "w": "吻合",
+        "p": "wěn hé",
+        "s": 31.43,
+        "e": 31.96
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "一审",
+        "p": "yī shěn",
+        "s": 32.35,
+        "e": 32.77
+      },
+      {
+        "w": "二审",
+        "p": "èr shěn",
+        "s": 32.77,
+        "e": 33.28
+      },
+      {
+        "w": "都",
+        "p": "dōu",
+        "s": 33.34,
+        "e": 33.54
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 33.54,
+        "e": 33.7
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "铁证如山",
+        "p": "tiě zhèng rú shān",
+        "s": 33.7,
+        "e": 34.69
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě",
+        "s": 34.98,
+        "e": 35.13
+      },
+      {
+        "w": "纸袋",
+        "p": "zhǐ dài",
+        "s": 35.13,
+        "e": 35.61
+      },
+      {
+        "w": "厚",
+        "p": "hòu",
+        "s": 35.71,
+        "e": 36.04
+      },
+      {
+        "w": "得",
+        "p": "de",
+        "s": 36.04,
+        "e": 36.18
+      },
+      {
+        "w": "出奇",
+        "p": "chū qí",
+        "s": 36.18,
+        "e": 36.82
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 37.03,
+        "e": 37.17
+      },
+      {
+        "w": "拆开",
+        "p": "chāi kāi",
+        "s": 37.17,
+        "e": 37.72
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "啪",
+        "p": "pā",
+        "s": 38.03,
+        "e": 38.19
+      },
+      {
+        "w": "嗒",
+        "p": "dā",
+        "s": 38.19,
+        "e": 38.34
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 38.34,
+        "e": 38.45
+      },
+      {
+        "w": "声",
+        "p": "shēng",
+        "s": 38.45,
+        "e": 38.73
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 39.0,
+        "e": 39.13
+      },
+      {
+        "w": "张",
+        "p": "zhāng",
+        "s": 39.13,
+        "e": 39.34
+      },
+      {
+        "w": "褪色",
+        "p": "tuì sè",
+        "s": 39.34,
+        "e": 39.72
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 39.72,
+        "e": 39.81
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn",
+        "s": 39.81,
+        "e": 40.29
+      },
+      {
+        "w": "滑落",
+        "p": "huá luò",
+        "s": 40.44,
+        "e": 40.92
+      },
+      {
+        "w": "脚",
+        "p": "jiǎo",
+        "s": 40.92,
+        "e": 41.17
+      },
+      {
+        "w": "边",
+        "p": "biān",
+        "s": 41.2,
+        "e": 41.4
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 41.89,
+        "e": 42.53
+      },
+      {
+        "w": "被",
+        "p": "bèi",
+        "s": 42.53,
+        "e": 42.73
+      },
+      {
+        "w": "捕",
+        "p": "bǔ",
+        "s": 42.73,
+        "e": 42.95
+      },
+      {
+        "w": "时",
+        "p": "shí",
+        "s": 42.95,
+        "e": 43.35
+      },
+      {
+        "w": "抬头",
+        "p": "tái tóu",
+        "s": 43.58,
+        "e": 44.12
+      },
+      {
+        "w": "望",
+        "p": "wàng",
+        "s": 44.15,
+        "e": 44.32
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 44.32,
+        "e": 44.42
+      },
+      {
+        "w": "镜头",
+        "p": "jìng tóu",
+        "s": 44.42,
+        "e": 45.03
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "嘴角",
+        "p": "zuǐ jiǎo",
+        "s": 45.23,
+        "e": 45.75
+      },
+      {
+        "w": "竟",
+        "p": "jìng",
+        "s": 45.89,
+        "e": 46.1
+      },
+      {
+        "w": "带",
+        "p": "dài",
+        "s": 46.1,
+        "e": 46.27
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 46.27,
+        "e": 46.39
+      },
+      {
+        "w": "少年人",
+        "p": "shào nián rén",
+        "s": 46.39,
+        "e": 47.15
+      },
+      {
+        "w": "倔强",
+        "p": "jué jiàng",
+        "s": 47.21,
+        "e": 47.65
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 47.65,
+        "e": 47.72
+      },
+      {
+        "w": "弧度",
+        "p": "hú dù",
+        "s": 47.72,
+        "e": 48.21
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "那时",
+        "p": "nà shí",
+        "s": 48.69,
+        "e": 49.33
+      },
+      {
+        "w": "他",
+        "p": "tā",
+        "s": 49.48,
+        "e": 49.7
+      },
+      {
+        "w": "才",
+        "p": "cái",
+        "s": 49.7,
+        "e": 50.04
+      },
+      {
+        "w": "二",
+        "p": "èr",
+        "s": 50.16,
+        "e": 50.34
+      },
+      {
+        "w": "十",
+        "p": "shí",
+        "s": 50.34,
+        "e": 50.55
+      },
+      {
+        "w": "五",
+        "p": "wǔ",
+        "s": 50.55,
+        "e": 50.75
+      },
+      {
+        "w": "岁",
+        "p": "suì",
+        "s": 50.78,
+        "e": 51.06
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 51.84,
+        "e": 52.49
+      },
+      {
+        "w": "戴上",
+        "p": "dài shang",
+        "s": 52.58,
+        "e": 52.9
+      },
+      {
+        "w": "眼镜",
+        "p": "yǎn jìng",
+        "s": 52.9,
+        "e": 53.32
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "逐",
+        "p": "zhú",
+        "s": 53.65,
+        "e": 53.85
+      },
+      {
+        "w": "页",
+        "p": "yè",
+        "s": 53.85,
+        "e": 54.07
+      },
+      {
+        "w": "翻",
+        "p": "fān",
+        "s": 54.07,
+        "e": 54.31
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "起诉书",
+        "p": "qǐ sù shū",
+        "s": 54.31,
+        "e": 54.98
+      },
+      {
+        "w": "、",
+        "p": null
+      },
+      {
+        "w": "判",
+        "p": "pàn",
+        "s": 55.18,
+        "e": 55.4
+      },
+      {
+        "w": "决",
+        "p": "jué",
+        "s": 55.4,
+        "e": 55.56
+      },
+      {
+        "w": "书",
+        "p": "shū",
+        "s": 55.56,
+        "e": 55.85
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 55.94,
+        "e": 56.05
+      },
+      {
+        "w": "都",
+        "p": "dōu",
+        "s": 56.05,
+        "e": 56.29
+      },
+      {
+        "w": "熟",
+        "p": "shóu",
+        "s": 56.29,
+        "e": 56.64
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě",
+        "s": 56.9,
+        "e": 57.08
+      },
+      {
+        "w": "中间",
+        "p": "zhōng jiān",
+        "s": 57.08,
+        "e": 57.56
+      },
+      {
+        "w": "夹",
+        "p": "jiá",
+        "s": 57.56,
+        "e": 57.77
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 57.77,
+        "e": 57.88
+      },
+      {
+        "w": "一",
+        "p": "yí",
+        "s": 57.88,
+        "e": 58.03
+      },
+      {
+        "w": "份",
+        "p": "fèn",
+        "s": 58.03,
+        "e": 58.25
+      },
+      {
+        "w": "手写",
+        "p": "shǒu xiě",
+        "s": 58.25,
+        "e": 58.76
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 58.76,
+        "e": 58.93
+      },
+      {
+        "w": "《",
+        "p": null
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng",
+        "s": 59.05,
+        "e": 59.53
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá",
+        "s": 59.53,
+        "e": 59.94
+      },
+      {
+        "w": "建议",
+        "p": "jiàn yì",
+        "s": 59.94,
+        "e": 60.39
+      },
+      {
+        "w": "》",
+        "p": null
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "落款",
+        "p": "luò kuǎn",
+        "s": 60.72,
+        "e": 61.08
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 61.08,
+        "e": 61.36
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng",
+        "s": 61.44,
+        "e": 61.7
+      },
+      {
+        "w": "国",
+        "p": "guó",
+        "s": 61.7,
+        "e": 61.85
+      },
+      {
+        "w": "强",
+        "p": "qiáng",
+        "s": 61.85,
+        "e": 62.21
+      },
+      {
+        "w": " ",
+        "p": null
+      },
+      {
+        "w": "2009",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "6",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "12",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 64.95,
+        "e": 65.06
+      },
+      {
+        "w": "心跳",
+        "p": "xīn tiào",
+        "s": 65.06,
+        "e": 65.6
+      },
+      {
+        "w": "快",
+        "p": "kuài",
+        "s": 65.79,
+        "e": 66.0
+      },
+      {
+        "w": "半",
+        "p": "bàn",
+        "s": 66.0,
+        "e": 66.23
+      },
+      {
+        "w": "拍",
+        "p": "pāi",
+        "s": 66.23,
+        "e": 66.51
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng",
+        "s": 66.77,
+        "e": 66.95
+      },
+      {
+        "w": "国",
+        "p": "guó",
+        "s": 66.95,
+        "e": 67.11
+      },
+      {
+        "w": "强",
+        "p": "qiáng",
+        "s": 67.11,
+        "e": 67.43
+      },
+      {
+        "w": "正",
+        "p": "zhèng",
+        "s": 67.58,
+        "e": 67.79
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 67.79,
+        "e": 67.91
+      },
+      {
+        "w": "当年",
+        "p": "dāng nián",
+        "s": 67.91,
+        "e": 68.41
+      },
+      {
+        "w": "负责",
+        "p": "fù zé",
+        "s": 68.47,
+        "e": 68.81
+      },
+      {
+        "w": "此",
+        "p": "cǐ",
+        "s": 68.81,
+        "e": 69.06
+      },
+      {
+        "w": "案",
+        "p": "àn",
+        "s": 69.06,
+        "e": 69.25
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 69.25,
+        "e": 69.32
+      },
+      {
+        "w": "刑警",
+        "p": "xíng jǐng",
+        "s": 69.32,
+        "e": 69.81
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "现",
+        "p": "xiàn",
+        "s": 69.98,
+        "e": 70.21
+      },
+      {
+        "w": "已",
+        "p": "yǐ",
+        "s": 70.21,
+        "e": 70.28
+      },
+      {
+        "w": "退休",
+        "p": "tuì xiū",
+        "s": 70.28,
+        "e": 70.72
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "建议",
+        "p": "jiàn yì",
+        "s": 71.17,
+        "e": 71.52
+      },
+      {
+        "w": "书",
+        "p": "shū",
+        "s": 71.52,
+        "e": 71.73
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 71.73,
+        "e": 71.86
+      },
+      {
+        "w": "写道",
+        "p": "xiě dào",
+        "s": 71.86,
+        "e": 72.33
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "1.",
+        "p": null
+      },
+      {
+        "w": "现场",
+        "p": "xiàn chǎng",
+        "s": 73.03,
+        "e": 73.53
+      },
+      {
+        "w": "提取",
+        "p": "tí qǔ",
+        "s": 73.53,
+        "e": 73.87
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 73.87,
+        "e": 73.94
+      },
+      {
+        "w": "鞋",
+        "p": "xié",
+        "s": 73.94,
+        "e": 74.17
+      },
+      {
+        "w": "印",
+        "p": "yìn",
+        "s": 74.17,
+        "e": 74.46
+      },
+      {
+        "w": "为",
+        "p": "wéi",
+        "s": 74.55,
+        "e": 74.7
+      },
+      {
+        "w": "四",
+        "p": "sì",
+        "s": 74.7,
+        "e": 74.92
+      },
+      {
+        "w": "十",
+        "p": "shí",
+        "s": 74.92,
+        "e": 75.05
+      },
+      {
+        "w": "二",
+        "p": "èr",
+        "s": 75.05,
+        "e": 75.21
+      },
+      {
+        "w": "码",
+        "p": "mǎ",
+        "s": 75.21,
+        "e": 75.33
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "嫌疑人",
+        "p": "xián yí rén",
+        "s": 75.76,
+        "e": 76.41
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 76.46,
+        "e": 77.27
+      },
+      {
+        "w": "脚",
+        "p": "jiǎo",
+        "s": 77.35,
+        "e": 77.55
+      },
+      {
+        "w": "码",
+        "p": "mǎ",
+        "s": 77.55,
+        "e": 77.72
+      },
+      {
+        "w": "四十",
+        "p": "sì shí",
+        "s": 77.72,
+        "e": 78.19
+      },
+      {
+        "w": "；",
+        "p": null
+      },
+      {
+        "w": "2",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "监控",
+        "p": "jiān kòng",
+        "s": 79.52,
+        "e": 79.93
+      },
+      {
+        "w": "时间轴",
+        "p": "shí jiān zhóu",
+        "s": 79.93,
+        "e": 80.58
+      },
+      {
+        "w": "与",
+        "p": "yǔ",
+        "s": 80.76,
+        "e": 80.91
+      },
+      {
+        "w": "证人",
+        "p": "zhèng rén",
+        "s": 80.91,
+        "e": 81.34
+      },
+      {
+        "w": "证言",
+        "p": "zhèng yán",
+        "s": 81.34,
+        "e": 81.77
+      },
+      {
+        "w": "存在",
+        "p": "cún zài",
+        "s": 81.77,
+        "e": 82.19
+      },
+      {
+        "w": "十一",
+        "p": "shí yī",
+        "s": 82.19,
+        "e": 82.59
+      },
+      {
+        "w": "分钟",
+        "p": "fēn zhōng",
+        "s": 82.59,
+        "e": 82.91
+      },
+      {
+        "w": "空白",
+        "p": "kòng bái",
+        "s": 82.91,
+        "e": 83.39
+      },
+      {
+        "w": "；",
+        "p": null
+      },
+      {
+        "w": "3",
+        "p": null
+      },
+      {
+        "w": ".",
+        "p": null
+      },
+      {
+        "w": "嫌疑人",
+        "p": "xián yí rén",
+        "s": 84.33,
+        "e": 84.86
+      },
+      {
+        "w": "右手",
+        "p": "yòu shǒu",
+        "s": 84.86,
+        "e": 85.26
+      },
+      {
+        "w": "臂",
+        "p": "bì",
+        "s": 85.26,
+        "e": 85.54
+      },
+      {
+        "w": "无",
+        "p": "wú",
+        "s": 85.66,
+        "e": 85.85
+      },
+      {
+        "w": "喷溅",
+        "p": "pēn jiàn",
+        "s": 85.85,
+        "e": 86.35
+      },
+      {
+        "w": "血",
+        "p": "xiě",
+        "s": 86.35,
+        "e": 86.57
+      },
+      {
+        "w": "点",
+        "p": "diǎn",
+        "s": 86.57,
+        "e": 86.81
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "与",
+        "p": "yǔ",
+        "s": 86.99,
+        "e": 87.14
+      },
+      {
+        "w": "捅",
+        "p": "tǒng",
+        "s": 87.14,
+        "e": 87.42
+      },
+      {
+        "w": "刺",
+        "p": "cì",
+        "s": 87.42,
+        "e": 87.58
+      },
+      {
+        "w": "动作",
+        "p": "dòng zuò",
+        "s": 87.58,
+        "e": 87.88
+      },
+      {
+        "w": "不符",
+        "p": "bù fú",
+        "s": 87.88,
+        "e": 88.41
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 88.81,
+        "e": 88.95
+      },
+      {
+        "w": "合",
+        "p": "hé",
+        "s": 88.95,
+        "e": 89.17
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 89.17,
+        "e": 89.41
+      },
+      {
+        "w": "纸",
+        "p": "zhǐ",
+        "s": 89.41,
+        "e": 89.65
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "指尖",
+        "p": "zhǐ jiān",
+        "s": 89.78,
+        "e": 90.22
+      },
+      {
+        "w": "冰凉",
+        "p": "bīng liáng",
+        "s": 90.22,
+        "e": 90.67
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "这",
+        "p": "zhè",
+        "s": 91.01,
+        "e": 91.22
+      },
+      {
+        "w": "份",
+        "p": "fèn",
+        "s": 91.22,
+        "e": 91.43
+      },
+      {
+        "w": "文件",
+        "p": "wén jiàn",
+        "s": 91.43,
+        "e": 91.92
+      },
+      {
+        "w": "从未",
+        "p": "cóng wèi",
+        "s": 91.97,
+        "e": 92.56
+      },
+      {
+        "w": "出现",
+        "p": "chū xiàn",
+        "s": 92.56,
+        "e": 92.95
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 92.95,
+        "e": 93.09
+      },
+      {
+        "w": "法庭",
+        "p": "fǎ tíng",
+        "s": 93.09,
+        "e": 93.64
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "空调",
+        "p": "kōng tiáo",
+        "s": 94.66,
+        "e": 95.14
+      },
+      {
+        "w": "突然",
+        "p": "tū rán",
+        "s": 95.14,
+        "e": 95.61
+      },
+      {
+        "w": "嗡",
+        "p": "wēng",
+        "s": 95.61,
+        "e": 95.79
+      },
+      {
+        "w": "地",
+        "p": "dì",
+        "s": 95.79,
+        "e": 95.88
+      },
+      {
+        "w": "启动",
+        "p": "qǐ dòng",
+        "s": 95.88,
+        "e": 96.29
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "冷",
+        "p": "lěng",
+        "s": 96.65,
+        "e": 96.88
+      },
+      {
+        "w": "风",
+        "p": "fēng",
+        "s": 96.88,
+        "e": 97.12
+      },
+      {
+        "w": "卷起",
+        "p": "juǎn qǐ",
+        "s": 97.12,
+        "e": 97.48
+      },
+      {
+        "w": "纸",
+        "p": "zhǐ",
+        "s": 97.48,
+        "e": 97.7
+      },
+      {
+        "w": "角",
+        "p": "jiǎo",
+        "s": 97.7,
+        "e": 97.99
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 98.17,
+        "e": 98.37
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén",
+        "s": 98.37,
+        "e": 98.7
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 98.7,
+        "e": 98.82
+      },
+      {
+        "w": "耳",
+        "p": "ěr",
+        "s": 98.82,
+        "e": 99.01
+      },
+      {
+        "w": "边",
+        "p": "biān",
+        "s": 99.01,
+        "e": 99.21
+      },
+      {
+        "w": "催促",
+        "p": "cuī cù",
+        "s": 99.21,
+        "e": 99.72
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 100.03,
+        "e": 100.59
+      },
+      {
+        "w": "掏出",
+        "p": "tāo chū",
+        "s": 100.59,
+        "e": 100.92
+      },
+      {
+        "w": "手机",
+        "p": "shǒu jī",
+        "s": 100.92,
+        "e": 101.45
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "拨",
+        "p": "bō",
+        "s": 101.57,
+        "e": 101.76
+      },
+      {
+        "w": "所",
+        "p": "suǒ",
+        "s": 101.76,
+        "e": 101.93
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 101.93,
+        "e": 102.12
+      },
+      {
+        "w": "档",
+        "p": "dàng",
+        "s": 102.12,
+        "e": 102.34
+      },
+      {
+        "w": "案",
+        "p": "àn",
+        "s": 102.34,
+        "e": 102.5
+      },
+      {
+        "w": "室",
+        "p": "shì",
+        "s": 102.5,
+        "e": 102.67
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 102.67,
+        "e": 102.77
+      },
+      {
+        "w": "内",
+        "p": "nèi",
+        "s": 102.77,
+        "e": 102.96
+      },
+      {
+        "w": "线",
+        "p": "xiàn",
+        "s": 102.96,
+        "e": 103.22
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "小",
+        "p": "xiǎo",
+        "s": 103.78,
+        "e": 104.02
+      },
+      {
+        "w": "顾",
+        "p": "gù",
+        "s": 104.02,
+        "e": 104.27
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "帮",
+        "p": "bāng",
+        "s": 104.64,
+        "e": 104.84
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 104.84,
+        "e": 104.97
+      },
+      {
+        "w": "调",
+        "p": "diào",
+        "s": 104.97,
+        "e": 105.22
+      },
+      {
+        "w": "二",
+        "p": "èr",
+        "s": 105.22,
+        "e": 105.51
+      },
+      {
+        "w": "〇",
+        "p": "líng",
+        "s": 105.51,
+        "e": 105.67
+      },
+      {
+        "w": "〇",
+        "p": "líng",
+        "s": 105.67,
+        "e": 105.7
+      },
+      {
+        "w": "九",
+        "p": "jiǔ",
+        "s": 105.7,
+        "e": 105.92
+      },
+      {
+        "w": "年",
+        "p": "nián",
+        "s": 105.92,
+        "e": 106.26
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 106.34,
+        "e": 107.06
+      },
+      {
+        "w": "案",
+        "p": "àn",
+        "s": 107.06,
+        "e": 107.31
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 107.31,
+        "e": 107.46
+      },
+      {
+        "w": "全部",
+        "p": "quán bù",
+        "s": 107.51,
+        "e": 108.14
+      },
+      {
+        "w": "原始",
+        "p": "yuán shǐ",
+        "s": 108.18,
+        "e": 108.65
+      },
+      {
+        "w": "卷宗",
+        "p": "juàn zōng",
+        "s": 108.65,
+        "e": 109.14
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "包括",
+        "p": "bāo kuò",
+        "s": 109.5,
+        "e": 109.9
+      },
+      {
+        "w": "公安",
+        "p": "gōng ān",
+        "s": 109.9,
+        "e": 110.35
+      },
+      {
+        "w": "移送",
+        "p": "yí sòng",
+        "s": 110.35,
+        "e": 110.65
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 110.65,
+        "e": 110.73
+      },
+      {
+        "w": "副",
+        "p": "fù",
+        "s": 110.73,
+        "e": 110.97
+      },
+      {
+        "w": "卷",
+        "p": "juàn",
+        "s": 110.97,
+        "e": 111.19
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "半",
+        "p": "bàn",
+        "s": 111.73,
+        "e": 111.88
+      },
+      {
+        "w": "小时",
+        "p": "xiǎo shí",
+        "s": 111.88,
+        "e": 112.2
+      },
+      {
+        "w": "后",
+        "p": "hòu",
+        "s": 112.2,
+        "e": 112.47
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī",
+        "s": 112.67,
+        "e": 113.25
+      },
+      {
+        "w": "抱",
+        "p": "bào",
+        "s": 113.25,
+        "e": 113.44
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 113.44,
+        "e": 113.55
+      },
+      {
+        "w": "更",
+        "p": "gèng",
+        "s": 113.55,
+        "e": 113.78
+      },
+      {
+        "w": "厚",
+        "p": "hòu",
+        "s": 113.78,
+        "e": 113.95
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 113.95,
+        "e": 114.05
+      },
+      {
+        "w": "文件夹",
+        "p": "wén jiàn jiā",
+        "s": 114.05,
+        "e": 114.66
+      },
+      {
+        "w": "冲",
+        "p": "chōng",
+        "s": 114.66,
+        "e": 114.94
+      },
+      {
+        "w": "进来",
+        "p": "jìn lái",
+        "s": 114.94,
+        "e": 115.23
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "额头",
+        "p": "é tóu",
+        "s": 115.48,
+        "e": 115.89
+      },
+      {
+        "w": "全",
+        "p": "quán",
+        "s": 115.89,
+        "e": 116.28
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 116.28,
+        "e": 116.43
+      },
+      {
+        "w": "汗",
+        "p": "hàn",
+        "s": 116.43,
+        "e": 116.64
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "姚",
+        "p": "yáo",
+        "s": 117.46,
+        "e": 117.63
+      },
+      {
+        "w": "姐",
+        "p": "jiě",
+        "s": 117.63,
+        "e": 117.89
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "副",
+        "p": "fù",
+        "s": 118.29,
+        "e": 118.47
+      },
+      {
+        "w": "卷",
+        "p": "juàn",
+        "s": 118.47,
+        "e": 118.68
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 118.68,
+        "e": 118.91
+      },
+      {
+        "w": "真的",
+        "p": "zhēn de",
+        "s": 118.94,
+        "e": 119.19
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu",
+        "s": 119.19,
+        "e": 119.43
+      },
+      {
+        "w": "这",
+        "p": "zhè",
+        "s": 119.43,
+        "e": 119.61
+      },
+      {
+        "w": "份",
+        "p": "fèn",
+        "s": 119.61,
+        "e": 119.88
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng",
+        "s": 119.94,
+        "e": 120.24
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá",
+        "s": 120.24,
+        "e": 120.74
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "可",
+        "p": "kě",
+        "s": 121.12,
+        "e": 121.27
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 121.27,
+        "e": 121.38
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 121.38,
+        "e": 121.56
+      },
+      {
+        "w": "公安",
+        "p": "gōng ān",
+        "s": 121.56,
+        "e": 121.9
+      },
+      {
+        "w": "归档",
+        "p": "guī dàng",
+        "s": 121.9,
+        "e": 122.27
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 122.27,
+        "e": 122.45
+      },
+      {
+        "w": "找到",
+        "p": "zhǎo dào",
+        "s": 122.52,
+        "e": 122.82
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 122.82,
+        "e": 122.91
+      },
+      {
+        "w": "影",
+        "p": "yǐng",
+        "s": 122.91,
+        "e": 123.12
+      },
+      {
+        "w": "印",
+        "p": "yìn",
+        "s": 123.12,
+        "e": 123.29
+      },
+      {
+        "w": "件",
+        "p": "jiàn",
+        "s": 123.29,
+        "e": 123.52
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "盖",
+        "p": "gài",
+        "s": 124.01,
+        "e": 124.18
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 124.18,
+        "e": 124.3
+      },
+      {
+        "w": "骑",
+        "p": "qí",
+        "s": 124.3,
+        "e": 124.51
+      },
+      {
+        "w": "缝",
+        "p": "fèng",
+        "s": 124.51,
+        "e": 124.71
+      },
+      {
+        "w": "章",
+        "p": "zhāng",
+        "s": 124.71,
+        "e": 124.93
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      },
+      {
+        "w": "他",
+        "p": "tā",
+        "s": 125.57,
+        "e": 125.69
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 125.69,
+        "e": 125.83
+      },
+      {
+        "w": "U盘",
+        "p": "U pán",
+        "s": 125.83,
+        "e": 126.41
+      },
+      {
+        "w": "插进",
+        "p": "chā jìn",
+        "s": 126.5,
+        "e": 126.88
+      },
+      {
+        "w": "笔记本",
+        "p": "bǐ jì běn",
+        "s": 126.88,
+        "e": 127.43
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "屏幕",
+        "p": "píng mù",
+        "s": 127.52,
+        "e": 127.95
+      },
+      {
+        "w": "跳出",
+        "p": "tiào chū",
+        "s": 128.27,
+        "e": 128.64
+      },
+      {
+        "w": "扫",
+        "p": "sǎo",
+        "s": 128.64,
+        "e": 128.88
+      },
+      {
+        "w": "描",
+        "p": "miáo",
+        "s": 128.88,
+        "e": 129.12
+      },
+      {
+        "w": "件",
+        "p": "jiàn",
+        "s": 129.12,
+        "e": 129.35
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "红",
+        "p": "hóng",
+        "s": 129.53,
+        "e": 129.88
+      },
+      {
+        "w": "章",
+        "p": "zhāng",
+        "s": 129.88,
+        "e": 130.13
+      },
+      {
+        "w": "清晰",
+        "p": "qīng xī",
+        "s": 130.13,
+        "e": 130.68
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "东",
+        "p": "dōng",
+        "s": 131.24,
+        "e": 131.45
+      },
+      {
+        "w": "浦",
+        "p": "pǔ",
+        "s": 131.45,
+        "e": 131.68
+      },
+      {
+        "w": "公",
+        "p": "gōng",
+        "s": 131.68,
+        "e": 131.88
+      },
+      {
+        "w": "安",
+        "p": "ān",
+        "s": 131.88,
+        "e": 132.06
+      },
+      {
+        "w": "分",
+        "p": "fēn",
+        "s": 132.06,
+        "e": 132.3
+      },
+      {
+        "w": "局",
+        "p": "jú",
+        "s": 132.3,
+        "e": 132.66
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 133.36,
+        "e": 133.99
+      },
+      {
+        "w": "盯",
+        "p": "dīng",
+        "s": 133.99,
+        "e": 134.19
+      },
+      {
+        "w": "着",
+        "p": "zhe",
+        "s": 134.19,
+        "e": 134.28
+      },
+      {
+        "w": "屏幕",
+        "p": "píng mù",
+        "s": 134.28,
+        "e": 134.73
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "声音",
+        "p": "shēng yīn",
+        "s": 134.84,
+        "e": 135.33
+      },
+      {
+        "w": "低",
+        "p": "dī",
+        "s": 135.33,
+        "e": 135.5
+      },
+      {
+        "w": "却",
+        "p": "què",
+        "s": 135.5,
+        "e": 135.68
+      },
+      {
+        "w": "稳",
+        "p": "wěn",
+        "s": 135.68,
+        "e": 135.89
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "这",
+        "p": "zhè",
+        "s": 136.2,
+        "e": 136.35
+      },
+      {
+        "w": "意味着",
+        "p": "yì wèi zhe",
+        "s": 136.35,
+        "e": 136.86
+      },
+      {
+        "w": "有人",
+        "p": "yǒu rén",
+        "s": 137.05,
+        "e": 137.36
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 137.36,
+        "e": 137.53
+      },
+      {
+        "w": "对",
+        "p": "duì",
+        "s": 137.53,
+        "e": 137.72
+      },
+      {
+        "w": "被告",
+        "p": "bèi gào",
+        "s": 137.72,
+        "e": 138.12
+      },
+      {
+        "w": "有利",
+        "p": "yǒu lì",
+        "s": 138.12,
+        "e": 138.47
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 138.47,
+        "e": 138.56
+      },
+      {
+        "w": "证据",
+        "p": "zhèng jù",
+        "s": 138.56,
+        "e": 139.04
+      },
+      {
+        "w": "藏",
+        "p": "cáng",
+        "s": 139.15,
+        "e": 139.45
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 139.45,
+        "e": 139.55
+      },
+      {
+        "w": "起来",
+        "p": "qǐ lai",
+        "s": 139.55,
+        "e": 139.81
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī",
+        "s": 140.05,
+        "e": 140.71
+      },
+      {
+        "w": "舔",
+        "p": "tiǎn",
+        "s": 140.71,
+        "e": 140.93
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 140.93,
+        "e": 141.0
+      },
+      {
+        "w": "舔",
+        "p": "tiǎn",
+        "s": 141.0,
+        "e": 141.3
+      },
+      {
+        "w": "干裂",
+        "p": "gān liè",
+        "s": 141.3,
+        "e": 141.68
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 141.68,
+        "e": 141.77
+      },
+      {
+        "w": "嘴唇",
+        "p": "zuǐ chún",
+        "s": 141.77,
+        "e": 142.36
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "十",
+        "p": "shí",
+        "s": 142.76,
+        "e": 143.08
+      },
+      {
+        "w": "五",
+        "p": "wǔ",
+        "s": 143.08,
+        "e": 143.25
+      },
+      {
+        "w": "年",
+        "p": "nián",
+        "s": 143.25,
+        "e": 143.65
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "过",
+        "p": "guò",
+        "s": 143.97,
+        "e": 144.15
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 144.15,
+        "e": 144.26
+      },
+      {
+        "w": "申诉",
+        "p": "shēn sù",
+        "s": 144.26,
+        "e": 144.68
+      },
+      {
+        "w": "期",
+        "p": "qí",
+        "s": 144.68,
+        "e": 145.01
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "咱们",
+        "p": "zán men",
+        "s": 145.25,
+        "e": 145.73
+      },
+      {
+        "w": "还",
+        "p": "hái",
+        "s": 145.84,
+        "e": 146.0
+      },
+      {
+        "w": "来得及",
+        "p": "lái de jí",
+        "s": 146.0,
+        "e": 146.64
+      },
+      {
+        "w": "吗",
+        "p": "ma",
+        "s": 146.64,
+        "e": 146.78
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 147.23,
+        "e": 147.38
+      },
+      {
+        "w": "没",
+        "p": "méi",
+        "s": 147.38,
+        "e": 147.57
+      },
+      {
+        "w": "回答",
+        "p": "huí dá",
+        "s": 147.57,
+        "e": 148.05
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "只",
+        "p": "zhǐ",
+        "s": 148.34,
+        "e": 148.55
+      },
+      {
+        "w": "取",
+        "p": "qǔ",
+        "s": 148.55,
+        "e": 148.72
+      },
+      {
+        "w": "下",
+        "p": "xià",
+        "s": 148.72,
+        "e": 148.89
+      },
+      {
+        "w": "西装",
+        "p": "xī zhuāng",
+        "s": 148.89,
+        "e": 149.29
+      },
+      {
+        "w": "外套",
+        "p": "wài tào",
+        "s": 149.29,
+        "e": 149.77
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "搭",
+        "p": "dā",
+        "s": 149.82,
+        "e": 149.99
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 149.99,
+        "e": 150.1
+      },
+      {
+        "w": "椅背",
+        "p": "yǐ bèi",
+        "s": 150.1,
+        "e": 150.54
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "卷起",
+        "p": "juǎn qǐ",
+        "s": 150.81,
+        "e": 151.18
+      },
+      {
+        "w": "衬衫",
+        "p": "chèn shān",
+        "s": 151.18,
+        "e": 151.6
+      },
+      {
+        "w": "袖子",
+        "p": "xiù zi",
+        "s": 151.6,
+        "e": 152.08
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 152.12,
+        "e": 152.36
+      },
+      {
+        "w": "准备",
+        "p": "zhǔn bèi",
+        "s": 152.36,
+        "e": 152.64
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 152.64,
+        "e": 152.86
+      },
+      {
+        "w": "擂台",
+        "p": "lèi tái",
+        "s": 152.86,
+        "e": 153.41
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "灯",
+        "p": "dēng",
+        "s": 153.98,
+        "e": 154.18
+      },
+      {
+        "w": "下",
+        "p": "xià",
+        "s": 154.18,
+        "e": 154.35
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 154.35,
+        "e": 154.45
+      },
+      {
+        "w": "尘埃",
+        "p": "chén āi",
+        "s": 154.45,
+        "e": 154.98
+      },
+      {
+        "w": "安静",
+        "p": "ān jìng",
+        "s": 155.04,
+        "e": 155.46
+      },
+      {
+        "w": "落下",
+        "p": "luò xià",
+        "s": 155.46,
+        "e": 155.95
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "时间",
+        "p": "shí jiān",
+        "s": 156.24,
+        "e": 156.67
+      },
+      {
+        "w": "仿佛",
+        "p": "fǎng fú",
+        "s": 156.67,
+        "e": 157.01
+      },
+      {
+        "w": "被",
+        "p": "bèi",
+        "s": 157.01,
+        "e": 157.15
+      },
+      {
+        "w": "折叠",
+        "p": "zhé dié",
+        "s": 157.15,
+        "e": 157.75
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 158.05,
+        "e": 158.16
+      },
+      {
+        "w": "想起",
+        "p": "xiǎng qǐ",
+        "s": 158.16,
+        "e": 158.52
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn",
+        "s": 158.52,
+        "e": 158.98
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 158.98,
+        "e": 159.21
+      },
+      {
+        "w": "沈建国",
+        "p": "shěn jiàn guó",
+        "s": 159.25,
+        "e": 159.86
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 159.86,
+        "e": 159.93
+      },
+      {
+        "w": "眼睛",
+        "p": "yǎn jing",
+        "s": 159.93,
+        "e": 160.53
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "—",
+        "p": null
+      },
+      {
+        "w": "黑白分明",
+        "p": "hēi bái fēn míng",
+        "s": 161.06,
+        "e": 161.9
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "没有",
+        "p": "méi yǒu",
+        "s": 162.08,
+        "e": 162.42
+      },
+      {
+        "w": "闪躲",
+        "p": "shǎn duǒ",
+        "s": 162.42,
+        "e": 162.94
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "那",
+        "p": "nà",
+        "s": 163.59,
+        "e": 163.74
+      },
+      {
+        "w": "不是",
+        "p": "bú shi",
+        "s": 163.74,
+        "e": 164.1
+      },
+      {
+        "w": "一个",
+        "p": "yí gè",
+        "s": 164.1,
+        "e": 164.4
+      },
+      {
+        "w": "刚",
+        "p": "gāng",
+        "s": 164.4,
+        "e": 164.63
+      },
+      {
+        "w": "杀",
+        "p": "shā",
+        "s": 164.63,
+        "e": 164.9
+      },
+      {
+        "w": "完人",
+        "p": "wán rén",
+        "s": 164.9,
+        "e": 165.32
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 165.32,
+        "e": 165.4
+      },
+      {
+        "w": "眼神",
+        "p": "yǎn shén",
+        "s": 165.4,
+        "e": 165.94
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "去",
+        "p": "qù",
+        "s": 166.27,
+        "e": 166.5
+      },
+      {
+        "w": "预约",
+        "p": "yù yuē",
+        "s": 166.53,
+        "e": 166.99
+      },
+      {
+        "w": "监狱",
+        "p": "jiān yù",
+        "s": 167.09,
+        "e": 167.46
+      },
+      {
+        "w": "会见",
+        "p": "huì jiàn",
+        "s": 167.46,
+        "e": 167.97
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 168.1,
+        "e": 168.23
+      },
+      {
+        "w": "轻声",
+        "p": "qīng shēng",
+        "s": 168.23,
+        "e": 168.7
+      },
+      {
+        "w": "说",
+        "p": "shuō",
+        "s": 168.7,
+        "e": 169.01
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "越",
+        "p": "yuè",
+        "s": 169.32,
+        "e": 169.57
+      },
+      {
+        "w": "快",
+        "p": "kuài",
+        "s": 169.57,
+        "e": 169.89
+      },
+      {
+        "w": "越",
+        "p": "yuè",
+        "s": 169.89,
+        "e": 170.06
+      },
+      {
+        "w": "好",
+        "p": "hǎo",
+        "s": 170.06,
+        "e": 170.39
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "顾律师",
+        "p": "gù lǜ shī",
+        "s": 171.33,
+        "e": 171.82
+      },
+      {
+        "w": "愣",
+        "p": "lèng",
+        "s": 171.82,
+        "e": 172.06
+      },
+      {
+        "w": "住",
+        "p": "zhù",
+        "s": 172.06,
+        "e": 172.23
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "您",
+        "p": "nín",
+        "s": 172.6,
+        "e": 172.91
+      },
+      {
+        "w": "真",
+        "p": "zhēn",
+        "s": 172.91,
+        "e": 173.17
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 173.17,
+        "e": 173.35
+      },
+      {
+        "w": "重查",
+        "p": "chóng chá",
+        "s": 173.35,
+        "e": 173.98
+      },
+      {
+        "w": "？",
+        "p": null
+      },
+      {
+        "w": "所",
+        "p": "suǒ",
+        "s": 174.29,
+        "e": 174.49
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 174.49,
+        "e": 174.64
+      },
+      {
+        "w": "明年",
+        "p": "míng nián",
+        "s": 174.64,
+        "e": 175.08
+      },
+      {
+        "w": "要冲",
+        "p": "yào chōng",
+        "s": 175.11,
+        "e": 175.48
+      },
+      {
+        "w": "全国",
+        "p": "quán guó",
+        "s": 175.48,
+        "e": 175.99
+      },
+      {
+        "w": "优秀",
+        "p": "yōu xiù",
+        "s": 175.99,
+        "e": 176.42
+      },
+      {
+        "w": "刑",
+        "p": "xíng",
+        "s": 176.42,
+        "e": 176.71
+      },
+      {
+        "w": "辩",
+        "p": "biàn",
+        "s": 176.71,
+        "e": 176.9
+      },
+      {
+        "w": "团队",
+        "p": "tuán duì",
+        "s": 176.9,
+        "e": 177.37
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "翻",
+        "p": "fān",
+        "s": 177.74,
+        "e": 177.96
+      },
+      {
+        "w": "这种",
+        "p": "zhè zhǒng",
+        "s": 177.96,
+        "e": 178.37
+      },
+      {
+        "w": "陈年",
+        "p": "chén nián",
+        "s": 178.37,
+        "e": 178.81
+      },
+      {
+        "w": "老",
+        "p": "lǎo",
+        "s": 178.81,
+        "e": 178.94
+      },
+      {
+        "w": "案",
+        "p": "àn",
+        "s": 178.94,
+        "e": 179.18
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "万一",
+        "p": "wàn yī",
+        "s": 179.33,
+        "e": 179.84
+      },
+      {
+        "w": "翻",
+        "p": "fān",
+        "s": 179.84,
+        "e": 180.17
+      },
+      {
+        "w": "不",
+        "p": "bù",
+        "s": 180.17,
+        "e": 180.32
+      },
+      {
+        "w": "动",
+        "p": "dòng",
+        "s": 180.32,
+        "e": 180.6
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "…",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 181.1,
+        "e": 181.76
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 181.79,
+        "e": 181.92
+      },
+      {
+        "w": "照片",
+        "p": "zhào piàn",
+        "s": 181.92,
+        "e": 182.49
+      },
+      {
+        "w": "夹",
+        "p": "jiá",
+        "s": 182.49,
+        "e": 182.71
+      },
+      {
+        "w": "进",
+        "p": "jìn",
+        "s": 182.71,
+        "e": 182.85
+      },
+      {
+        "w": "活",
+        "p": "huó",
+        "s": 182.85,
+        "e": 183.12
+      },
+      {
+        "w": "页",
+        "p": "yè",
+        "s": 183.12,
+        "e": 183.34
+      },
+      {
+        "w": "夹",
+        "p": "jiá",
+        "s": 183.34,
+        "e": 183.63
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "啪",
+        "p": "pā",
+        "s": 183.84,
+        "e": 184.12
+      },
+      {
+        "w": "地",
+        "p": "dì",
+        "s": 184.12,
+        "e": 184.22
+      },
+      {
+        "w": "合上",
+        "p": "hé shàng",
+        "s": 184.22,
+        "e": 184.78
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "优秀",
+        "p": "yōu xiù",
+        "s": 185.08,
+        "e": 185.62
+      },
+      {
+        "w": "不是",
+        "p": "bú shi",
+        "s": 185.69,
+        "e": 185.92
+      },
+      {
+        "w": "靠",
+        "p": "kào",
+        "s": 185.92,
+        "e": 186.24
+      },
+      {
+        "w": "挑",
+        "p": "tiāo",
+        "s": 186.29,
+        "e": 186.56
+      },
+      {
+        "w": "软",
+        "p": "ruǎn",
+        "s": 186.56,
+        "e": 186.78
+      },
+      {
+        "w": "柿子",
+        "p": "shì zi",
+        "s": 186.81,
+        "e": 187.23
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 187.65,
+        "e": 187.81
+      },
+      {
+        "w": "靠",
+        "p": "kào",
+        "s": 187.81,
+        "e": 187.97
+      },
+      {
+        "w": "把",
+        "p": "bǎ",
+        "s": 187.97,
+        "e": 188.1
+      },
+      {
+        "w": "烂",
+        "p": "làn",
+        "s": 188.1,
+        "e": 188.33
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 188.33,
+        "e": 188.47
+      },
+      {
+        "w": "泥",
+        "p": "ní",
+        "s": 188.47,
+        "e": 188.7
+      },
+      {
+        "w": "里",
+        "p": "lǐ",
+        "s": 188.7,
+        "e": 188.77
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 188.77,
+        "e": 188.88
+      },
+      {
+        "w": "真",
+        "p": "zhēn",
+        "s": 188.88,
+        "e": 189.12
+      },
+      {
+        "w": "相",
+        "p": "xiàng",
+        "s": 189.12,
+        "e": 189.39
+      },
+      {
+        "w": "抠",
+        "p": "kōu",
+        "s": 189.5,
+        "e": 189.79
+      },
+      {
+        "w": "出来",
+        "p": "chū lái",
+        "s": 189.79,
+        "e": 190.03
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 190.73,
+        "e": 190.86
+      },
+      {
+        "w": "抬",
+        "p": "tái",
+        "s": 190.86,
+        "e": 191.09
+      },
+      {
+        "w": "眼",
+        "p": "yǎn",
+        "s": 191.09,
+        "e": 191.39
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "眸",
+        "p": "móu",
+        "s": 191.54,
+        "e": 191.76
+      },
+      {
+        "w": "色",
+        "p": "sè",
+        "s": 191.76,
+        "e": 191.93
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 191.93,
+        "e": 192.12
+      },
+      {
+        "w": "深夜",
+        "p": "shēn yè",
+        "s": 192.12,
+        "e": 192.51
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 192.51,
+        "e": 192.61
+      },
+      {
+        "w": "河",
+        "p": "hé",
+        "s": 192.61,
+        "e": 193.0
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "迟到",
+        "p": "chí dào",
+        "s": 193.37,
+        "e": 193.74
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 193.74,
+        "e": 193.85
+      },
+      {
+        "w": "正义",
+        "p": "zhèng yì",
+        "s": 193.85,
+        "e": 194.29
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 194.41,
+        "e": 194.66
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 194.66,
+        "e": 194.86
+      },
+      {
+        "w": "正义",
+        "p": "zhèng yì",
+        "s": 194.86,
+        "e": 195.26
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "再",
+        "p": "zài",
+        "s": 195.44,
+        "e": 195.71
+      },
+      {
+        "w": "晚",
+        "p": "wǎn",
+        "s": 195.71,
+        "e": 195.89
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "也",
+        "p": "yě",
+        "s": 196.14,
+        "e": 196.36
+      },
+      {
+        "w": "要",
+        "p": "yào",
+        "s": 196.36,
+        "e": 196.54
+      },
+      {
+        "w": "发车",
+        "p": "fā chē",
+        "s": 196.54,
+        "e": 197.08
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "凌晨",
+        "p": "líng chén",
+        "s": 197.98,
+        "e": 198.44
+      },
+      {
+        "w": "一点",
+        "p": "yī diǎn",
+        "s": 198.47,
+        "e": 198.78
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 198.92,
+        "e": 199.1
+      },
+      {
+        "w": "走",
+        "p": "zǒu",
+        "s": 199.1,
+        "e": 199.3
+      },
+      {
+        "w": "出",
+        "p": "chū",
+        "s": 199.3,
+        "e": 199.49
+      },
+      {
+        "w": "律",
+        "p": "lǜ",
+        "s": 199.49,
+        "e": 199.64
+      },
+      {
+        "w": "所",
+        "p": "suǒ",
+        "s": 199.64,
+        "e": 199.96
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "城市",
+        "p": "chéng shì",
+        "s": 200.31,
+        "e": 200.7
+      },
+      {
+        "w": "灯火",
+        "p": "dēng huǒ",
+        "s": 200.7,
+        "e": 201.18
+      },
+      {
+        "w": "在",
+        "p": "zài",
+        "s": 201.21,
+        "e": 201.36
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 201.36,
+        "e": 201.51
+      },
+      {
+        "w": "车窗",
+        "p": "chē chuāng",
+        "s": 201.51,
+        "e": 202.02
+      },
+      {
+        "w": "上",
+        "p": "shàng",
+        "s": 202.02,
+        "e": 202.23
+      },
+      {
+        "w": "拉",
+        "p": "lā",
+        "s": 202.41,
+        "e": 202.6
+      },
+      {
+        "w": "出",
+        "p": "chū",
+        "s": 202.6,
+        "e": 202.77
+      },
+      {
+        "w": "长",
+        "p": "cháng",
+        "s": 202.77,
+        "e": 203.09
+      },
+      {
+        "w": "长",
+        "p": "cháng",
+        "s": 203.09,
+        "e": 203.37
+      },
+      {
+        "w": "霓虹",
+        "p": "ní hóng",
+        "s": 203.37,
+        "e": 203.81
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "像",
+        "p": "xiàng",
+        "s": 204.07,
+        "e": 204.33
+      },
+      {
+        "w": "无数",
+        "p": "wú shù",
+        "s": 204.33,
+        "e": 204.69
+      },
+      {
+        "w": "未",
+        "p": "wèi",
+        "s": 204.69,
+        "e": 204.85
+      },
+      {
+        "w": "完成",
+        "p": "wán chéng",
+        "s": 204.85,
+        "e": 205.33
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 205.33,
+        "e": 205.42
+      },
+      {
+        "w": "诉状",
+        "p": "sù zhuàng",
+        "s": 205.42,
+        "e": 205.91
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 206.34,
+        "e": 206.49
+      },
+      {
+        "w": "等",
+        "p": "děng",
+        "s": 206.49,
+        "e": 206.69
+      },
+      {
+        "w": "红灯",
+        "p": "hóng dēng",
+        "s": 206.69,
+        "e": 207.06
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 207.06,
+        "e": 207.15
+      },
+      {
+        "w": "间隙",
+        "p": "jiàn xì",
+        "s": 207.15,
+        "e": 207.69
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "给",
+        "p": "gěi",
+        "s": 207.77,
+        "e": 207.91
+      },
+      {
+        "w": "方警官",
+        "p": "fāng jǐng guān",
+        "s": 207.91,
+        "e": 208.51
+      },
+      {
+        "w": "发",
+        "p": "fā",
+        "s": 208.51,
+        "e": 208.71
+      },
+      {
+        "w": "了",
+        "p": "le",
+        "s": 208.71,
+        "e": 208.78
+      },
+      {
+        "w": "一",
+        "p": "yì",
+        "s": 208.78,
+        "e": 208.86
+      },
+      {
+        "w": "条",
+        "p": "tiáo",
+        "s": 208.86,
+        "e": 209.04
+      },
+      {
+        "w": "短信",
+        "p": "duǎn xìn",
+        "s": 209.04,
+        "e": 209.47
+      },
+      {
+        "w": "：",
+        "p": null
+      },
+      {
+        "w": "“",
+        "p": null
+      },
+      {
+        "w": "方",
+        "p": "fāng",
+        "s": 210.11,
+        "e": 210.35
+      },
+      {
+        "w": "队",
+        "p": "duì",
+        "s": 210.35,
+        "e": 210.55
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "我",
+        "p": "wǒ",
+        "s": 210.9,
+        "e": 211.02
+      },
+      {
+        "w": "是",
+        "p": "shì",
+        "s": 211.02,
+        "e": 211.18
+      },
+      {
+        "w": "姚雅文",
+        "p": "yáo yǎ wén",
+        "s": 211.18,
+        "e": 211.88
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "想",
+        "p": "xiǎng",
+        "s": 211.97,
+        "e": 212.22
+      },
+      {
+        "w": "跟",
+        "p": "gēn",
+        "s": 212.22,
+        "e": 212.39
+      },
+      {
+        "w": "您",
+        "p": "nín",
+        "s": 212.39,
+        "e": 212.53
+      },
+      {
+        "w": "聊",
+        "p": "liáo",
+        "s": 212.53,
+        "e": 212.72
+      },
+      {
+        "w": "聊",
+        "p": "liáo",
+        "s": 212.72,
+        "e": 212.92
+      },
+      {
+        "w": "十五",
+        "p": "shí wǔ",
+        "s": 212.95,
+        "e": 213.35
+      },
+      {
+        "w": "年前",
+        "p": "nián qián",
+        "s": 213.35,
+        "e": 213.85
+      },
+      {
+        "w": "您",
+        "p": "nín",
+        "s": 213.91,
+        "e": 214.15
+      },
+      {
+        "w": "写",
+        "p": "xiě",
+        "s": 214.15,
+        "e": 214.34
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 214.34,
+        "e": 214.43
+      },
+      {
+        "w": "那",
+        "p": "nà",
+        "s": 214.43,
+        "e": 214.61
+      },
+      {
+        "w": "份",
+        "p": "fèn",
+        "s": 214.61,
+        "e": 214.83
+      },
+      {
+        "w": "补充",
+        "p": "bǔ chōng",
+        "s": 214.89,
+        "e": 215.35
+      },
+      {
+        "w": "侦查",
+        "p": "zhēn chá",
+        "s": 215.35,
+        "e": 215.87
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "明早",
+        "p": "míng zǎo",
+        "s": 216.23,
+        "e": 216.68
+      },
+      {
+        "w": "九",
+        "p": "jiǔ",
+        "s": 216.68,
+        "e": 216.88
+      },
+      {
+        "w": "点",
+        "p": "diǎn",
+        "s": 216.88,
+        "e": 217.31
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "老",
+        "p": "lǎo",
+        "s": 217.38,
+        "e": 217.65
+      },
+      {
+        "w": "地方",
+        "p": "dì fāng",
+        "s": 217.65,
+        "e": 218.07
+      },
+      {
+        "w": "豆",
+        "p": "dòu",
+        "s": 218.07,
+        "e": 218.23
+      },
+      {
+        "w": "浆",
+        "p": "jiāng",
+        "s": 218.23,
+        "e": 218.44
+      },
+      {
+        "w": "店",
+        "p": "diàn",
+        "s": 218.44,
+        "e": 218.67
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "”",
+        "p": null
+      }
+    ],
+    [
+      {
+        "w": "发送",
+        "p": "fā sòng",
+        "s": 218.8,
+        "e": 219.33
+      },
+      {
+        "w": "成功",
+        "p": "chéng gōng",
+        "s": 219.33,
+        "e": 219.85
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "她",
+        "p": "tā",
+        "s": 220.17,
+        "e": 220.38
+      },
+      {
+        "w": "深",
+        "p": "shēn",
+        "s": 220.38,
+        "e": 220.67
+      },
+      {
+        "w": "吸",
+        "p": "xī",
+        "s": 220.67,
+        "e": 220.87
+      },
+      {
+        "w": "一口气",
+        "p": "yī kǒu qì",
+        "s": 220.87,
+        "e": 221.46
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "踩",
+        "p": "cǎi",
+        "s": 221.53,
+        "e": 221.77
+      },
+      {
+        "w": "下",
+        "p": "xià",
+        "s": 221.77,
+        "e": 221.94
+      },
+      {
+        "w": "油门",
+        "p": "yóu mén",
+        "s": 221.94,
+        "e": 222.47
+      },
+      {
+        "w": "。",
+        "p": null
+      },
+      {
+        "w": "夜色",
+        "p": "yè sè",
+        "s": 222.64,
+        "e": 223.13
+      },
+      {
+        "w": "被",
+        "p": "bèi",
+        "s": 223.28,
+        "e": 223.43
+      },
+      {
+        "w": "劈开",
+        "p": "pī kāi",
+        "s": 223.43,
+        "e": 223.85
+      },
+      {
+        "w": "一道",
+        "p": "yī dào",
+        "s": 223.85,
+        "e": 224.17
+      },
+      {
+        "w": "口子",
+        "p": "kǒu zi",
+        "s": 224.17,
+        "e": 224.78
+      },
+      {
+        "w": "，",
+        "p": null
+      },
+      {
+        "w": "尘封",
+        "p": "chén fēng",
+        "s": 225.07,
+        "e": 225.5
+      },
+      {
+        "w": "的",
+        "p": "de",
+        "s": 225.5,
+        "e": 225.57
+      },
+      {
+        "w": "案卷",
+        "p": "àn juàn",
+        "s": 225.57,
+        "e": 226.06
+      },
+      {
+        "w": "终于",
+        "p": "zhōng yú",
+        "s": 226.16,
+        "e": 226.52
+      },
+      {
+        "w": "透",
+        "p": "tòu",
+        "s": 226.52,
+        "e": 226.85
+      },
+      {
+        "w": "进",
+        "p": "jìn",
+        "s": 226.85,
+        "e": 227.12
+      },
+      {
+        "w": "一",
+        "p": "yí",
+        "s": 227.15,
+        "e": 227.3
+      },
+      {
+        "w": "线",
+        "p": "xiàn",
+        "s": 227.3,
+        "e": 227.59
+      },
+      {
+        "w": "光",
+        "p": "guāng",
+        "s": 227.59,
+        "e": 227.86
+      },
+      {
+        "w": "。",
+        "p": null
+      }
+    ]
+  ],
+  "audio_url": "https://audio.hskstory.com/hsk8-the-appeal/audio/_versions/v5/luna/chapter-01.mp3"
+}
